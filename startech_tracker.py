@@ -3,8 +3,8 @@
 Star Tech Multi-Category Price & Stock History Tracker (GitHub Actions Edition)
 ===============================================================================
 Tracks 13 Star Tech Bangladesh categories daily, preserving past & present
-price history and stock status transitions over time in pure JSON, CSV, and
-an auto-updated Markdown dashboard.
+price history (both Cash/Special Price and Regular Price) and stock status
+transitions over time in pure JSON, CSV, and an auto-updated Markdown dashboard.
 
 Tracked Events:
 - PRICE_DROP     : Product price decreased compared to previous recorded price.
@@ -12,17 +12,6 @@ Tracked Events:
 - RESTOCKED      : Product transitioned from Out Of Stock / Upcoming -> In Stock.
 - OUT_OF_STOCK   : Product transitioned from In Stock -> Out Of Stock.
 - STOCK_CHANGE   : Any other stock status transition.
-
-Persistent Files:
-- Per-category JSON & CSV (startech_<category>.json / .csv) with embedded
-  per-product `price_history`, `lowest_price`, `highest_price`, `previous_price`,
-  `previous_stock_status`, `first_seen`, and `last_checked`.
-- Combined catalog: startech_all_products.json & startech_all_products.csv
-- Persistent product history index: history/product_history_index.json
-- Cumulative change events log: history/price_and_stock_changes.json & .csv
-- Legacy drops log: startech_price_drops.csv
-- Daily run metrics log: history/daily_runs_log.csv
-- Auto-generated Markdown report: TRACKER_DASHBOARD.md (and $GITHUB_STEP_SUMMARY)
 """
 
 import argparse
@@ -59,7 +48,7 @@ except ImportError:
     import requests
     from bs4 import BeautifulSoup
 
-# Bangladesh Standard Time (UTC+6) so GitHub Actions (UTC) logs accurate local BD time
+# Bangladesh Standard Time (UTC+6)
 BD_TZ = timezone(timedelta(hours=6))
 
 CATEGORIES: Dict[str, Dict[str, str]] = {
@@ -197,7 +186,7 @@ def now_bd() -> datetime:
 class StartechCategoryScraper:
     def __init__(self, session: Optional[requests.Session] = None):
         self.session = session or requests.Session()
-        adapter = requests.adapters.HTTPAdapter(pool_connections=16, pool_maxsize=16)
+        adapter = requests.adapters.HTTPAdapter(pool_connections=32, pool_maxsize=32)
         self.session.mount("https://", adapter)
         self.session.mount("http://", adapter)
         self.session.headers.update(HEADERS)
@@ -214,8 +203,95 @@ class StartechCategoryScraper:
             except requests.RequestException as e:
                 if attempt == max_retries:
                     print(f"\n[!] Network error on {url} (attempt {attempt}/{max_retries}): {e}")
-            time.sleep(1.5 * attempt)
+            time.sleep(1.2 * attempt)
         return None
+
+    def fetch_product_detail_info(self, url: str, max_retries: int = 2) -> Dict[str, object]:
+        """
+        Fetches a product's detail page and parses <table class="product-info-table">:
+          - <td class="product-info-data product-regular-price">82,500৳</td>
+          - <td class="product-info-data product-price">78,000৳</td> (or <ins>/<del>)
+          - <td class="product-info-data product-status">In Stock</td>
+          - <td class="product-info-data product-code">51247</td>
+          - <td class="product-info-data product-brand">HP</td>
+        """
+        if not url:
+            return {}
+        for attempt in range(1, max_retries + 1):
+            try:
+                resp = self.session.get(url, timeout=20)
+                if resp.status_code != 200:
+                    continue
+                html = resp.text
+                result: Dict[str, object] = {}
+
+                # Extract Regular Price: <td class="product-info-data product-regular-price">82,500৳</td>
+                reg_m = re.search(
+                    r'class="[^"]*product-regular-price[^"]*"[^>]*>\s*([^<]+)',
+                    html,
+                    re.IGNORECASE,
+                )
+                if reg_m:
+                    reg_digits = re.sub(r"[^\d]", "", reg_m.group(1))
+                    if reg_digits:
+                        result["regular_price"] = int(reg_digits)
+
+                # Extract Price block: <td class="product-info-data product-price">...</td>
+                price_block_m = re.search(
+                    r'class="[^"]*product-price[^"]*"[^>]*>(.*?)</td>',
+                    html,
+                    re.IGNORECASE | re.DOTALL,
+                )
+                if price_block_m:
+                    p_html = price_block_m.group(1)
+                    ins_m = re.search(r"<ins[^>]*>(.*?)</ins>", p_html, re.IGNORECASE | re.DOTALL)
+                    if ins_m:
+                        c_digits = re.sub(r"[^\d]", "", ins_m.group(1))
+                        if c_digits:
+                            result["current_price"] = int(c_digits)
+                    else:
+                        clean_p = re.sub(r"<[^>]+>", " ", p_html)
+                        c_digits = re.sub(r"[^\d]", "", clean_p)
+                        if c_digits:
+                            result["current_price"] = int(c_digits)
+
+                # Extract Brand: <td class="product-info-data product-brand" ...>HP</td>
+                brand_m = re.search(
+                    r'class="[^"]*product-brand[^"]*"[^>]*>\s*([^<]+)',
+                    html,
+                    re.IGNORECASE,
+                )
+                if brand_m:
+                    b_val = brand_m.group(1).strip()
+                    if b_val:
+                        result["brand"] = b_val
+
+                # Extract Product Code: <td class="product-info-data product-code">51247</td>
+                code_m = re.search(
+                    r'class="[^"]*product-code[^"]*"[^>]*>\s*([^<]+)',
+                    html,
+                    re.IGNORECASE,
+                )
+                if code_m:
+                    c_val = code_m.group(1).strip()
+                    if c_val:
+                        result["product_id"] = c_val
+
+                # Extract Status: <td class="product-info-data product-status">In Stock</td>
+                status_m = re.search(
+                    r'class="[^"]*product-status[^"]*"[^>]*>\s*([^<]+)',
+                    html,
+                    re.IGNORECASE,
+                )
+                if status_m:
+                    s_val = status_m.group(1).strip()
+                    if s_val:
+                        result["stock_status"] = s_val
+
+                return result
+            except requests.RequestException:
+                time.sleep(0.8 * attempt)
+        return {}
 
     def get_total_pages(self, soup: BeautifulSoup) -> int:
         text_match = soup.find(string=re.compile(r'\((\d+)\s*Pages?\)', re.IGNORECASE))
@@ -240,7 +316,6 @@ class StartechCategoryScraper:
         link_tag = name_tag.find("a")
         product_url = link_tag["href"].strip() if link_tag and link_tag.get("href") else ""
 
-        # Extract numeric Product ID from cart action or URL
         product_id = ""
         action_btn = item_tag.find("span", class_=re.compile(r"btn-add-cart|btn-compare"))
         if action_btn and action_btn.get("onclick"):
@@ -392,20 +467,17 @@ class StartechCategoryScraper:
 # ==============================================================================
 
 class StartechTracker:
-    def __init__(self, categories: Optional[List[str]] = None, workers: int = 4):
+    def __init__(self, categories: Optional[List[str]] = None, workers: int = 16, refresh_details: bool = False):
         if not categories or "all" in [c.lower() for c in categories]:
             self.selected_categories = list(CATEGORIES.keys())
         else:
             self.selected_categories = [c.lower() for c in categories if c.lower() in CATEGORIES]
         self.workers = max(1, workers)
+        self.refresh_details = refresh_details
         self.scraper = StartechCategoryScraper()
         os.makedirs(HISTORY_DIR, exist_ok=True)
 
     def load_history_index(self) -> Dict[str, dict]:
-        """
-        Loads persistent per-product historical state from history/product_history_index.json
-        and seeds it from any existing category JSON files if not yet indexed.
-        """
         index: Dict[str, dict] = {}
         if os.path.exists(HISTORY_INDEX_FILE):
             try:
@@ -416,7 +488,6 @@ class StartechTracker:
             except Exception:
                 index = {}
 
-        # Also merge any existing category JSON files so we never miss prior state
         for cat_key, cat_info in CATEGORIES.items():
             jpath = cat_info["json"]
             if not os.path.exists(jpath):
@@ -430,9 +501,9 @@ class StartechTracker:
                         if not pid or pid in index:
                             continue
                         price = item.get("current_price", 0)
+                        reg_price = item.get("regular_price", price)
                         stock = item.get("stock_status", "Out Of Stock")
                         ext_date = item.get("extract-date", "")
-                        iso_date = ext_date
                         index[pid] = {
                             "product_id": pid,
                             "category": item.get("category", cat_key),
@@ -440,22 +511,24 @@ class StartechTracker:
                             "brand": item.get("brand", ""),
                             "model": item.get("model", ""),
                             "url": item.get("url", ""),
-                            "first_seen": iso_date,
-                            "last_checked": iso_date,
-                            "last_changed": iso_date,
+                            "detail_fetched": bool(item.get("detail_fetched", False)),
+                            "first_seen": ext_date,
+                            "last_checked": ext_date,
+                            "last_changed": ext_date,
                             "current_price": price,
+                            "regular_price": reg_price,
                             "previous_price": item.get("previous_price", price),
                             "lowest_price": item.get("lowest_price", price if price > 0 else 0),
-                            "lowest_price_date": item.get("lowest_price_date", iso_date if price > 0 else ""),
+                            "lowest_price_date": item.get("lowest_price_date", ext_date if price > 0 else ""),
                             "highest_price": item.get("highest_price", price if price > 0 else 0),
-                            "highest_price_date": item.get("highest_price_date", iso_date if price > 0 else ""),
+                            "highest_price_date": item.get("highest_price_date", ext_date if price > 0 else ""),
                             "stock_status": stock,
                             "previous_stock_status": item.get("previous_stock_status", stock),
                             "price_history": item.get("price_history") or [
                                 {
-                                    "date": iso_date,
+                                    "date": ext_date,
                                     "price": price,
-                                    "regular_price": item.get("regular_price", price),
+                                    "regular_price": reg_price,
                                     "stock_status": stock,
                                     "event": "INITIAL",
                                 }
@@ -475,6 +548,85 @@ class StartechTracker:
         with open(HISTORY_INDEX_FILE, "w", encoding="utf-8") as f:
             json.dump(payload, f, indent=2, ensure_ascii=False)
 
+    def enrich_regular_prices_from_detail_pages(
+        self,
+        cat_name: str,
+        cat_items: List[dict],
+        history_index: Dict[str, dict],
+    ):
+        """
+        Ensures every In-Stock product has its true `regular_price` from
+        <td class="product-info-data product-regular-price"> on the product page.
+        Uses cached regular_price from history_index if neither current_price nor
+        stock_status changed, and fetches product pages in parallel for all new,
+        changed, or un-enriched items.
+        """
+        to_fetch: List[dict] = []
+
+        for item in cat_items:
+            pid = str(item["product_id"])
+            prev = history_index.get(pid)
+
+            if item["stock_status"] != "In Stock":
+                # Out of stock / Upcoming items have no regular price on detail page
+                if prev and prev.get("regular_price", 0) > 0 and item["current_price"] == 0:
+                    item["regular_price"] = 0
+                    item["discount_bdt"] = 0
+                item["detail_fetched"] = True
+                continue
+
+            can_reuse_cached = (
+                not self.refresh_details
+                and prev is not None
+                and prev.get("detail_fetched") is True
+                and prev.get("current_price") == item["current_price"]
+                and prev.get("stock_status") == item["stock_status"]
+                and prev.get("regular_price", 0) > 0
+            )
+
+            if can_reuse_cached:
+                item["regular_price"] = prev["regular_price"]
+                if prev.get("brand") and prev["brand"] != "Other":
+                    item["brand"] = prev["brand"]
+                item["discount_bdt"] = max(0, item["regular_price"] - item["current_price"])
+                item["detail_fetched"] = True
+            else:
+                to_fetch.append(item)
+
+        if not to_fetch:
+            return
+
+        total_fetch = len(to_fetch)
+        completed = 0
+        with concurrent.futures.ThreadPoolExecutor(max_workers=self.workers) as executor:
+            future_to_item = {
+                executor.submit(self.scraper.fetch_product_detail_info, item["url"]): item
+                for item in to_fetch
+            }
+            for future in concurrent.futures.as_completed(future_to_item):
+                item = future_to_item[future]
+                completed += 1
+                sys.stdout.write(
+                    f"\r--> [{cat_name}] Fetching Regular Price details: {completed}/{total_fetch}..."
+                )
+                sys.stdout.flush()
+                detail = future.result() or {}
+
+                if detail.get("regular_price"):
+                    item["regular_price"] = int(detail["regular_price"])
+                if detail.get("current_price") and item["current_price"] == 0:
+                    item["current_price"] = int(detail["current_price"])
+                if detail.get("brand"):
+                    item["brand"] = str(detail["brand"])
+                    item["model"] = self.scraper._extract_model(item["title"], item["brand"], item["category"])
+
+                item["discount_bdt"] = (
+                    max(0, item["regular_price"] - item["current_price"])
+                    if item["regular_price"] > item["current_price"] and item["current_price"] > 0
+                    else 0
+                )
+                item["detail_fetched"] = True
+
     def reconcile_product_history(
         self,
         item: dict,
@@ -482,10 +634,6 @@ class StartechTracker:
         extract_date_str: str,
         iso_date_str: str,
     ) -> List[dict]:
-        """
-        Compares current scraped product with its historical state, updates
-        past & present price/stock fields, and returns any change events detected.
-        """
         pid = str(item["product_id"])
         new_price = item["current_price"]
         new_reg_price = item["regular_price"]
@@ -494,7 +642,6 @@ class StartechTracker:
 
         prev = history_index.get(pid)
         if not prev:
-            # Newly discovered product
             history_entry = {
                 "date": iso_date_str,
                 "timestamp": extract_date_str,
@@ -510,10 +657,12 @@ class StartechTracker:
                 "brand": item["brand"],
                 "model": item["model"],
                 "url": item["url"],
+                "detail_fetched": bool(item.get("detail_fetched", False)),
                 "first_seen": iso_date_str,
                 "last_checked": extract_date_str,
                 "last_changed": iso_date_str,
                 "current_price": new_price,
+                "regular_price": new_reg_price,
                 "previous_price": new_price,
                 "lowest_price": new_price if new_price > 0 else 0,
                 "lowest_price_date": iso_date_str if new_price > 0 else "",
@@ -533,7 +682,6 @@ class StartechTracker:
             highest_date = prev.get("highest_price_date", "")
             history_list = list(prev.get("price_history") or [])
 
-            # Find last known positive price if product was previously out of stock
             last_positive_price = old_price
             if last_positive_price == 0:
                 for h in reversed(history_list):
@@ -550,7 +698,6 @@ class StartechTracker:
 
             event_tags: List[str] = []
 
-            # 1. Check Stock Status Transition
             if stock_changed:
                 if new_stock == "In Stock" and old_stock != "In Stock":
                     stock_event_type = "RESTOCKED"
@@ -571,6 +718,7 @@ class StartechTracker:
                     "title": item["title"],
                     "old_price": last_positive_price,
                     "new_price": new_price,
+                    "regular_price": new_reg_price,
                     "change_amount": (new_price - last_positive_price) if (new_price > 0 and last_positive_price > 0) else 0,
                     "change_percentage": round(((new_price - last_positive_price) / last_positive_price) * 100, 2)
                     if (new_price > 0 and last_positive_price > 0) else 0.0,
@@ -579,7 +727,6 @@ class StartechTracker:
                     "url": item["url"],
                 })
 
-            # 2. Check Price Change (Drop / Increase)
             if price_changed:
                 diff = new_price - last_positive_price
                 pct = round((diff / last_positive_price) * 100, 2)
@@ -596,6 +743,7 @@ class StartechTracker:
                     "title": item["title"],
                     "old_price": last_positive_price,
                     "new_price": new_price,
+                    "regular_price": new_reg_price,
                     "change_amount": diff,
                     "change_percentage": pct,
                     "old_stock": old_stock,
@@ -603,7 +751,6 @@ class StartechTracker:
                     "url": item["url"],
                 })
 
-            # Update lowest / highest price records
             if new_price > 0:
                 if lowest_price == 0 or new_price < lowest_price:
                     lowest_price = new_price
@@ -612,7 +759,10 @@ class StartechTracker:
                     highest_price = new_price
                     highest_date = iso_date_str
 
-            # Append to product's price_history only when price or stock changed
+            # Update regular_price on the latest history entry if it was previously equal to price
+            if history_list and not event_tags and new_reg_price > 0:
+                history_list[-1]["regular_price"] = new_reg_price
+
             if event_tags:
                 history_list.append({
                     "date": iso_date_str,
@@ -630,10 +780,12 @@ class StartechTracker:
                 "brand": item["brand"],
                 "model": item["model"],
                 "url": item["url"],
+                "detail_fetched": bool(item.get("detail_fetched", prev.get("detail_fetched", False))),
                 "first_seen": prev.get("first_seen") or iso_date_str,
                 "last_checked": extract_date_str,
                 "last_changed": iso_date_str if event_tags else prev.get("last_changed", iso_date_str),
                 "current_price": new_price,
+                "regular_price": new_reg_price,
                 "previous_price": last_positive_price if price_changed else prev.get("previous_price", new_price),
                 "lowest_price": lowest_price,
                 "lowest_price_date": lowest_date,
@@ -645,7 +797,7 @@ class StartechTracker:
             }
             history_index[pid] = record
 
-        # Enrich product item with past & present tracking metadata
+        item["detail_fetched"] = record["detail_fetched"]
         item["first_seen"] = record["first_seen"]
         item["last_changed"] = record["last_changed"]
         item["previous_price"] = record["previous_price"]
@@ -684,7 +836,7 @@ class StartechTracker:
         if total_to_scrape > 1:
             remaining = list(range(2, total_to_scrape + 1))
             if self.workers > 1:
-                with concurrent.futures.ThreadPoolExecutor(max_workers=self.workers) as executor:
+                with concurrent.futures.ThreadPoolExecutor(max_workers=min(self.workers, 12)) as executor:
                     future_to_page = {
                         executor.submit(self.scraper.fetch_page, base_url, p): p
                         for p in remaining
@@ -723,7 +875,7 @@ class StartechTracker:
 
         return cat_items
 
-    def run_scan(self, max_pages: Optional[int] = None, delay: float = 0.25) -> Tuple[List[dict], List[dict]]:
+    def run_scan(self, max_pages: Optional[int] = None, delay: float = 0.1) -> Tuple[List[dict], List[dict]]:
         dt = now_bd()
         extract_date_str = dt.strftime("%a %d %b %Y %I:%M %p %A")
         iso_date_str = dt.strftime("%Y-%m-%d")
@@ -742,35 +894,33 @@ class StartechTracker:
             if not cat_items:
                 continue
 
+            # Enrich true Regular Price (<td class="product-info-data product-regular-price">) from product pages
+            self.enrich_regular_prices_from_detail_pages(cat_name, cat_items, history_index)
+
             for item in cat_items:
                 events = self.reconcile_product_history(item, history_index, extract_date_str, iso_date_str)
                 if events:
                     run_events.extend(events)
 
-            # Sort model-wise (alphabetical A-Z)
             cat_items.sort(key=lambda x: (x.get("model", "").lower(), x.get("brand", "").lower()))
-            print(f"\n[OK] {cat_name}: Processed {len(cat_items)} items.")
+            print(f"\n[OK] {cat_name}: Processed {len(cat_items)} items (with Regular Prices).")
 
             self.export_json(cat_items, extract_date_str, cat_info["json"], cat_key)
             self.export_csv(cat_items, cat_info["csv"])
             master_items.extend(cat_items)
 
-        # Save updated persistent product history index
         self.save_history_index(history_index, extract_date_str)
 
-        # Export combined master files
         if master_items:
             master_items.sort(key=lambda x: (x.get("category", ""), x.get("model", "").lower(), x.get("brand", "").lower()))
             self.export_json(master_items, extract_date_str, ALL_JSON_FILE, "all")
             self.export_csv(master_items, ALL_CSV_FILE)
 
-        # Log price & stock events
         if run_events:
             self._record_events(run_events)
         else:
             print("\n[i] Tracker: No price or stock status changes detected in this run.")
 
-        # Log daily run metrics & generate Markdown Dashboard
         self._append_daily_run_log(iso_date_str, extract_date_str, master_items, run_events)
         self.generate_markdown_dashboard(extract_date_str, master_items, run_events)
 
@@ -789,6 +939,7 @@ class StartechTracker:
             if etype in ("PRICE_DROP", "PRICE_INCREASE"):
                 print(f"[{etype}] [{cat}] {title}")
                 print(f"   Price: BDT {ev['old_price']:,} -> BDT {ev['new_price']:,} "
+                      f"(Regular: BDT {ev.get('regular_price', 0):,}) "
                       f"({ev['change_amount']:+,} BDT | {ev['change_percentage']:+.2f}%) | Stock: {ev['new_stock']}")
             else:
                 print(f"[{etype}] [{cat}] {title}")
@@ -798,11 +949,10 @@ class StartechTracker:
             if etype == "PRICE_DROP":
                 drops.append(ev)
 
-        # 1. Append to cumulative CSV log: history/price_and_stock_changes.csv
         csv_exists = os.path.exists(CHANGES_CSV_FILE)
         fields = [
             "detected_at", "date", "event_type", "category", "product_id",
-            "brand", "model", "title", "old_price", "new_price",
+            "brand", "model", "title", "old_price", "new_price", "regular_price",
             "change_amount", "change_percentage", "old_stock", "new_stock", "url"
         ]
         with open(CHANGES_CSV_FILE, mode="a", newline="", encoding="utf-8") as f:
@@ -812,7 +962,6 @@ class StartechTracker:
             for ev in events:
                 writer.writerow(ev)
 
-        # 2. Update cumulative JSON log: history/price_and_stock_changes.json
         existing_events: List[dict] = []
         if os.path.exists(CHANGES_JSON_FILE):
             try:
@@ -835,12 +984,11 @@ class StartechTracker:
                 ensure_ascii=False,
             )
 
-        # 3. Also append price drops to legacy startech_price_drops.csv
         if drops:
             drops_exists = os.path.exists(DROPS_CSV_FILE)
             drop_keys = [
                 "detected_at", "category", "product_id", "title",
-                "old_price", "new_price", "change_amount", "change_percentage", "url"
+                "old_price", "new_price", "regular_price", "change_amount", "change_percentage", "url"
             ]
             with open(DROPS_CSV_FILE, mode="a", newline="", encoding="utf-8") as f:
                 writer = csv.DictWriter(f, fieldnames=drop_keys, extrasaction="ignore")
@@ -887,8 +1035,8 @@ class StartechTracker:
             return
         fields = [
             "extract-date", "category", "model", "brand", "product_id", "title",
-            "current_price", "previous_price", "lowest_price", "highest_price",
-            "regular_price", "discount_bdt", "stock_status", "previous_stock_status",
+            "current_price", "regular_price", "discount_bdt", "previous_price",
+            "lowest_price", "highest_price", "stock_status", "previous_stock_status",
             "first_seen", "last_changed", "specs_summary", "url", "image_url"
         ]
         with open(csv_path, mode="w", newline="", encoding="utf-8") as f:
@@ -917,10 +1065,6 @@ class StartechTracker:
         print(f"[OK] Exported {len(items)} items to JSON: '{json_path}'")
 
     def generate_markdown_dashboard(self, extract_date_str: str, items: List[dict], run_events: List[dict]):
-        """
-        Generates a Markdown dashboard (TRACKER_DASHBOARD.md) and writes to
-        $GITHUB_STEP_SUMMARY when running inside GitHub Actions.
-        """
         if not items:
             return
 
@@ -933,7 +1077,6 @@ class StartechTracker:
         increases = [e for e in run_events if e["event_type"] == "PRICE_INCREASE"]
         stock_changes = [e for e in run_events if e["event_type"] in ("RESTOCKED", "OUT_OF_STOCK", "STOCK_CHANGE")]
 
-        # Load recent historical events if this run had none, so dashboard always shows recent activity
         recent_historical_events: List[dict] = []
         if os.path.exists(CHANGES_JSON_FILE):
             try:
@@ -982,14 +1125,16 @@ class StartechTracker:
 
         display_drops = drops if drops else [e for e in reversed(recent_historical_events) if e.get("event_type") == "PRICE_DROP"][:15]
         if display_drops:
-            lines.append("| Date | Category | Product | Old Price | New Price | Saved | Link |")
-            lines.append("|:---|:---|:---|---:|---:|---:|:---|")
+            lines.append("| Date | Category | Product | Old Price | New Price | Regular Price | Saved | Link |")
+            lines.append("|:---|:---|:---|---:|---:|---:|---:|:---|")
             for d in display_drops[:25]:
                 saved = abs(int(d.get("change_amount", 0)))
                 pct = d.get("change_percentage", 0)
+                reg_p = int(d.get("regular_price", 0))
+                reg_str = f"৳{reg_p:,}" if reg_p > 0 else "—"
                 lines.append(
                     f"| `{d.get('date', '')}` | `{d.get('category', '')}` | {d.get('title', '')} | "
-                    f"৳{int(d.get('old_price', 0)):,} | **৳{int(d.get('new_price', 0)):,}** | "
+                    f"৳{int(d.get('old_price', 0)):,} | **৳{int(d.get('new_price', 0)):,}** | {reg_str} | "
                     f"🟢 **-৳{saved:,} ({pct}%)** | [View]({d.get('url', '')}) |"
                 )
         else:
@@ -1005,14 +1150,16 @@ class StartechTracker:
 
         display_inc = increases if increases else [e for e in reversed(recent_historical_events) if e.get("event_type") == "PRICE_INCREASE"][:15]
         if display_inc:
-            lines.append("| Date | Category | Product | Old Price | New Price | Increase | Link |")
-            lines.append("|:---|:---|:---|---:|---:|---:|:---|")
+            lines.append("| Date | Category | Product | Old Price | New Price | Regular Price | Increase | Link |")
+            lines.append("|:---|:---|:---|---:|---:|---:|---:|:---|")
             for inc in display_inc[:25]:
                 diff = abs(int(inc.get("change_amount", 0)))
                 pct = inc.get("change_percentage", 0)
+                reg_p = int(inc.get("regular_price", 0))
+                reg_str = f"৳{reg_p:,}" if reg_p > 0 else "—"
                 lines.append(
                     f"| `{inc.get('date', '')}` | `{inc.get('category', '')}` | {inc.get('title', '')} | "
-                    f"৳{int(inc.get('old_price', 0)):,} | **৳{int(inc.get('new_price', 0)):,}** | "
+                    f"৳{int(inc.get('old_price', 0)):,} | **৳{int(inc.get('new_price', 0)):,}** | {reg_str} | "
                     f"🔴 **+৳{diff:,} (+{pct}%)** | [View]({inc.get('url', '')}) |"
                 )
         else:
@@ -1050,7 +1197,6 @@ class StartechTracker:
             f.write(md_content)
         print(f"[OK] Updated Markdown Dashboard: '{DASHBOARD_MD_FILE}'")
 
-        # Write to GitHub Actions Step Summary if running in GitHub Actions
         step_summary_path = os.environ.get("GITHUB_STEP_SUMMARY")
         if step_summary_path:
             try:
@@ -1080,7 +1226,6 @@ class StartechTracker:
     def print_changes(self, limit: int = 30):
         if not os.path.exists(CHANGES_CSV_FILE):
             print("\n[i] No recorded price or stock changes yet.")
-            print("    Run scans over time to track price & stock history!")
             return
 
         with open(CHANGES_CSV_FILE, "r", encoding="utf-8") as f:
@@ -1101,6 +1246,7 @@ class StartechTracker:
             if etype in ("PRICE_DROP", "PRICE_INCREASE"):
                 print(f"* [{det}] [{etype}] [{cat}] {title}")
                 print(f"  Price: BDT {int(ev.get('old_price', 0)):,} -> BDT {int(ev.get('new_price', 0)):,} "
+                      f"(Regular: BDT {int(ev.get('regular_price', 0)):,}) "
                       f"({int(ev.get('change_amount', 0)):+,} BDT / {ev.get('change_percentage')}%)")
             else:
                 print(f"* [{det}] [{etype}] [{cat}] {title}")
@@ -1124,7 +1270,7 @@ class StartechTracker:
         for rec in matches[:10]:
             print("\n" + "=" * 80)
             print(f"Product : [{rec.get('category')}] {rec.get('title')} (ID: {rec.get('product_id')})")
-            print(f"Current : BDT {rec.get('current_price', 0):,} | Stock: {rec.get('stock_status')}")
+            print(f"Price   : BDT {rec.get('current_price', 0):,} | Regular Price: BDT {rec.get('regular_price', 0):,} | Stock: {rec.get('stock_status')}")
             print(f"Previous: BDT {rec.get('previous_price', 0):,} | Previous Stock: {rec.get('previous_stock_status')}")
             print(f"All-Time: Lowest BDT {rec.get('lowest_price', 0):,} ({rec.get('lowest_price_date')}) | "
                   f"Highest BDT {rec.get('highest_price', 0):,} ({rec.get('highest_price_date')})")
@@ -1133,7 +1279,7 @@ class StartechTracker:
             print("Timeline (Past -> Present):")
             for h in rec.get("price_history", []):
                 print(f"  - [{h.get('date')}] Event: {h.get('event', 'SCAN'):<16} | "
-                      f"Price: BDT {h.get('price', 0):>9,} | Stock: {h.get('stock_status')}")
+                      f"Price: BDT {h.get('price', 0):>9,} | Regular: BDT {h.get('regular_price', 0):>9,} | Stock: {h.get('stock_status')}")
         print("=" * 80)
 
     def print_summary(self):
@@ -1201,12 +1347,10 @@ class StartechTracker:
         for r in results[:25]:
             status_tag = " [In Stock]" if r["stock_status"] == "In Stock" else f" [{r['stock_status']}]"
             price_display = f"BDT {r['current_price']:,}" if r['current_price'] > 0 else "N/A"
-            low_p = r.get("lowest_price", 0)
-            high_p = r.get("highest_price", 0)
-            range_str = f" (Low: BDT {low_p:,} | High: BDT {high_p:,})" if low_p > 0 else ""
+            reg_display = f" (Regular: BDT {r.get('regular_price', 0):,})" if r.get("regular_price", 0) > 0 else ""
             cat_tag = CATEGORIES.get(r.get("category", ""), {}).get("name", r.get("category", ""))
             print(f"* [{cat_tag}] Model: {r['model']} | [{r['brand']}] {r['title']}")
-            print(f"  Price: {price_display}{status_tag}{range_str}")
+            print(f"  Price: {price_display}{reg_display}{status_tag}")
             print(f"  Specs: {r['specs_summary']}")
             print(f"  URL  : {r['url']}\n")
         if len(results) > 25:
@@ -1230,8 +1374,9 @@ def main():
         help="Categories to track/query (default: all)."
     )
     parser.add_argument("--pages", type=int, default=None, help="Max pages per category (omit to scrape all pages)")
-    parser.add_argument("--workers", type=int, default=4, help="Concurrent page fetch workers (default: 4)")
-    parser.add_argument("--delay", type=float, default=0.25, help="Polite delay in seconds between requests")
+    parser.add_argument("--workers", type=int, default=16, help="Concurrent fetch workers (default: 16)")
+    parser.add_argument("--delay", type=float, default=0.1, help="Polite delay in seconds between requests")
+    parser.add_argument("--refresh-details", action="store_true", help="Force re-fetching product detail pages for Regular Price")
     parser.add_argument("--track", action="store_true", help="Run continuously in tracking loop mode")
     parser.add_argument("--interval", type=int, default=86400, help="Loop interval in seconds (default: 86400s = 24h)")
     parser.add_argument("--report", action="store_true", help="Show summary statistics table")
@@ -1244,7 +1389,11 @@ def main():
     parser.add_argument("--max-price", type=int, default=0, help="Maximum price filter")
 
     args = parser.parse_args()
-    tracker = StartechTracker(categories=args.category, workers=args.workers)
+    tracker = StartechTracker(
+        categories=args.category,
+        workers=args.workers,
+        refresh_details=args.refresh_details,
+    )
 
     if args.report:
         tracker.print_summary()

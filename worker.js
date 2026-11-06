@@ -571,7 +571,8 @@ function renderAppHtml() {
                 <th class="py-3 px-4">Product / Model</th>
                 <th class="py-3 px-3">Category</th>
                 <th class="py-3 px-3">Brand</th>
-                <th class="py-3 px-3 text-right">Current Price</th>
+                <th class="py-3 px-3 text-right">Price</th>
+                <th class="py-3 px-3 text-right">Regular Price</th>
                 <th class="py-3 px-3 text-right">All-Time Low / High</th>
                 <th class="py-3 px-3 text-center">Stock Status</th>
                 <th class="py-3 px-4 text-right">Actions</th>
@@ -1137,14 +1138,15 @@ function renderAppHtml() {
           <div class="mt-4 pt-3 border-t border-slate-800/80 space-y-2.5">
             <div class="flex items-baseline justify-between">
               <div>
-                <div class="text-lg font-extrabold font-mono text-white">
-                  \${formatBDT(item.current_price)}
+                <div class="flex items-baseline gap-2">
+                  <span class="text-lg font-extrabold font-mono text-white">\${formatBDT(item.current_price)}</span>
+                  \${item.regular_price > 0 ? \`
+                    <span class="text-xs font-mono \${item.regular_price > item.current_price ? 'text-slate-400 line-through' : 'text-slate-400'}" title="Regular Price">Reg: ৳\${item.regular_price.toLocaleString('en-IN')}</span>
+                  \` : ''}
                 </div>
-                \${(item.regular_price > item.current_price && item.current_price > 0) ? \`
-                  <div class="text-[11px] font-mono text-slate-500 line-through">Regular: ৳\${item.regular_price.toLocaleString('en-IN')}</div>
-                \` : \`
-                  <div class="text-[11px] font-mono text-slate-400">Low: \${formatBDT(lowPrice)} · High: \${formatBDT(highPrice)}</div>
-                \`}
+                <div class="text-[11px] font-mono text-slate-400">
+                  Regular Price: <span class="text-slate-300">\${formatBDT(item.regular_price)}</span> · Low: \${formatBDT(lowPrice)}
+                </div>
               </div>
               <button onclick="openHistoryModal('\${escapeHtml(item.product_id)}')"
                 class="px-2.5 py-1.5 rounded-lg text-xs font-medium bg-slate-800 hover:bg-indigo-600 text-slate-200 hover:text-white transition">
@@ -1180,7 +1182,8 @@ function renderAppHtml() {
           </td>
           <td class="py-3 px-3 text-xs whitespace-nowrap">\${catMeta.icon} \${escapeHtml(catMeta.name)}</td>
           <td class="py-3 px-3 text-xs font-medium">\${escapeHtml(item.brand)}</td>
-          <td class="py-3 px-3 text-right font-mono font-bold">\${formatBDT(item.current_price)}</td>
+          <td class="py-3 px-3 text-right font-mono font-bold text-white">\${formatBDT(item.current_price)}</td>
+          <td class="py-3 px-3 text-right font-mono text-xs text-slate-300">\${formatBDT(item.regular_price)}</td>
           <td class="py-3 px-3 text-right font-mono text-xs text-slate-400">
             \${formatBDT(item.lowest_price || item.current_price)} / \${formatBDT(item.highest_price || item.current_price)}
           </td>
@@ -1241,29 +1244,36 @@ function renderAppHtml() {
       document.getElementById('modalProductUrl').href = item.url || '#';
 
       const curP = item.current_price || 0;
+      const regP = item.regular_price || 0;
       const prevP = item.previous_price || curP;
       const lowP = item.lowest_price || curP;
       const highP = item.highest_price || curP;
 
+      document.getElementById('modalStatsGrid').className = 'grid grid-cols-2 sm:grid-cols-5 gap-2.5';
       document.getElementById('modalStatsGrid').innerHTML = \`
         <div class="rounded-xl bg-slate-900/90 border border-slate-800 p-3">
-          <div class="text-[10px] uppercase text-slate-400">Current Price</div>
-          <div class="text-lg font-extrabold font-mono text-white mt-0.5">\${formatBDT(curP)}</div>
+          <div class="text-[10px] uppercase text-slate-400">Price (Cash)</div>
+          <div class="text-base sm:text-lg font-extrabold font-mono text-white mt-0.5">\${formatBDT(curP)}</div>
           <div class="text-[11px] text-emerald-400">\${escapeHtml(item.stock_status)}</div>
         </div>
         <div class="rounded-xl bg-slate-900/90 border border-slate-800 p-3">
+          <div class="text-[10px] uppercase text-indigo-400">Regular Price</div>
+          <div class="text-base sm:text-lg font-bold font-mono text-indigo-300 mt-0.5">\${formatBDT(regP)}</div>
+          <div class="text-[11px] text-amber-400">\${(regP > curP && curP > 0) ? 'Save ৳' + (regP - curP).toLocaleString('en-IN') : 'Standard'}</div>
+        </div>
+        <div class="rounded-xl bg-slate-900/90 border border-slate-800 p-3">
           <div class="text-[10px] uppercase text-slate-400">Previous Price</div>
-          <div class="text-lg font-bold font-mono text-slate-300 mt-0.5">\${formatBDT(prevP)}</div>
-          <div class="text-[11px] text-slate-400">Prev Stock: \${escapeHtml(item.previous_stock_status || item.stock_status)}</div>
+          <div class="text-base sm:text-lg font-bold font-mono text-slate-300 mt-0.5">\${formatBDT(prevP)}</div>
+          <div class="text-[11px] text-slate-400">Prev: \${escapeHtml(item.previous_stock_status || item.stock_status)}</div>
         </div>
         <div class="rounded-xl bg-slate-900/90 border border-slate-800 p-3">
           <div class="text-[10px] uppercase text-emerald-400">All-Time Lowest</div>
-          <div class="text-lg font-bold font-mono text-emerald-400 mt-0.5">\${formatBDT(lowP)}</div>
+          <div class="text-base sm:text-lg font-bold font-mono text-emerald-400 mt-0.5">\${formatBDT(lowP)}</div>
           <div class="text-[10px] text-slate-400 truncate">\${escapeHtml(item.lowest_price_date || item['extract-date'])}</div>
         </div>
         <div class="rounded-xl bg-slate-900/90 border border-slate-800 p-3">
           <div class="text-[10px] uppercase text-amber-400">All-Time Highest</div>
-          <div class="text-lg font-bold font-mono text-amber-400 mt-0.5">\${formatBDT(highP)}</div>
+          <div class="text-base sm:text-lg font-bold font-mono text-amber-400 mt-0.5">\${formatBDT(highP)}</div>
           <div class="text-[10px] text-slate-400 truncate">\${escapeHtml(item.highest_price_date || item['extract-date'])}</div>
         </div>
       \`;
@@ -1547,7 +1557,7 @@ function renderAppHtml() {
 
     function exportFilteredCsv() {
       if (filteredProducts.length === 0) return;
-      const headers = ['category', 'brand', 'model', 'product_id', 'title', 'current_price', 'lowest_price', 'highest_price', 'stock_status', 'url'];
+      const headers = ['category', 'brand', 'model', 'product_id', 'title', 'current_price', 'regular_price', 'discount_bdt', 'lowest_price', 'highest_price', 'stock_status', 'url'];
       const rows = [
         headers.join(','),
         ...filteredProducts.map(item => headers.map(h => \`"\${String(item[h] ?? '').replace(/"/g, '""')}"\`).join(','))

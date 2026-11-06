@@ -52,9 +52,9 @@ jobs:
           CATEGORY_ARG="${{ github.event.inputs.category || 'all' }}"
           PAGES_ARG="${{ github.event.inputs.pages }}"
           if [ -n "$PAGES_ARG" ]; then
-            python startech_tracker.py -c $CATEGORY_ARG --pages "$PAGES_ARG" --workers 4
+            python startech_tracker.py -c $CATEGORY_ARG --pages "$PAGES_ARG" --workers 24
           else
-            python startech_tracker.py -c $CATEGORY_ARG --workers 4
+            python startech_tracker.py -c $CATEGORY_ARG --workers 24
           fi
 
       - name: Commit & Push Updated Price & Stock History to GitHub
