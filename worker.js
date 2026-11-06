@@ -5,16 +5,13 @@
  * Repository : https://github.com/srtfile/startech
  * Deployment : Cloudflare Workers (*.workers.dev)
  *
- * Features:
- * - Automatically fetches live & historical JSON data directly from
- *   https://github.com/srtfile/startech (supports both Private & Public repos).
- * - Built-in Cloudflare Edge Cache with instant manual Sync/Refresh.
- * - Full 13-Category Explorer (Laptop, Processor, CPU Cooler, Motherboard,
- *   Graphics Card, RAM, Laptop RAM, Power Supply, HDD, SSD, Casing, Monitor, Desktop PC).
- * - Past & Present Price Timeline Modal with interactive SVG price chart,
- *   All-Time Low/High badges, and Stock Status Transition badges.
- * - Live Price Drops & Stock Changes Activity Feed.
- * - Interactive PC Builder & Budget Estimator with 1-click Markdown/CSV export.
+ * Unlimited Edition Features:
+ * - Loads 100% of products, brands, specs, and history across all 13 categories
+ *   directly from https://github.com/srtfile/startech with ZERO item limits.
+ * - Parallel Edge Aggregation: Fetches all 13 category JSON files in parallel
+ *   at the Cloudflare Edge so it never hits GitHub's 1MB single-file API cap.
+ * - Progressive / Unlimited Rendering: Displays ALL products, ALL brands, and
+ *   ALL historical price & stock events without truncation.
  * ============================================================================
  */
 
@@ -57,10 +54,14 @@ export default {
     const forceRefresh = url.searchParams.get("refresh") === "1";
 
     try {
-      // 1. API: Fetch category or master product catalog from GitHub
+      // 1. API: Fetch category or full unlimited catalog across all 13 categories
       if (path === "/api/catalog") {
         const cat = (url.searchParams.get("category") || "all").toLowerCase();
-        const catMeta = CATEGORY_FILES[cat] || CATEGORY_FILES.all;
+        if (cat === "all") {
+          const allData = await fetchAllCategoriesParallel(env, ctx, forceRefresh);
+          return jsonResponse(allData);
+        }
+        const catMeta = CATEGORY_FILES[cat] || CATEGORY_FILES.laptop;
         const data = await fetchGitHubJson(catMeta.file, env, ctx, forceRefresh);
         return jsonResponse(data);
       }
@@ -80,30 +81,19 @@ export default {
         }
       }
 
-      // 3. API: Fetch full product history index
-      if (path === "/api/history-index") {
-        const indexData = await fetchGitHubJson(
-          "history/product_history_index.json",
-          env,
-          ctx,
-          forceRefresh
-        );
-        return jsonResponse(indexData);
-      }
-
-      // 4. API: Health & Repo Metadata
+      // 3. API: Health & Repo Metadata
       if (path === "/api/health") {
         return jsonResponse({
           status: "ok",
           repo: GITHUB_REPO_URL,
           branch: GITHUB_BRANCH,
-          authenticated: Boolean(env && env.GITHUB_TOKEN),
+          authenticated: Boolean(env && (env.GITHUB_TOKEN || env.GH_TOKEN)),
           categories: Object.keys(CATEGORY_FILES),
           timestamp: new Date().toISOString(),
         });
       }
 
-      // 5. Default: Serve the Interactive Web Application
+      // 4. Default: Serve the Interactive Web Application
       return new Response(renderAppHtml(), {
         headers: {
           "Content-Type": "text/html; charset=utf-8",
@@ -126,12 +116,82 @@ export default {
 };
 
 /**
+ * Fetches all 13 category JSON files in parallel and aggregates every single product
+ * without hitting GitHub API's single-file size limit.
+ */
+async function fetchAllCategoriesParallel(env, ctx, forceRefresh = false) {
+  const cache = caches.default;
+  const masterCacheKey = new Request(
+    `https://edge-cache.startech.local/${GITHUB_OWNER}/${GITHUB_REPO}/${GITHUB_BRANCH}/__ aggregated_all_v2 __`
+  );
+
+  if (!forceRefresh) {
+    const cached = await cache.match(masterCacheKey);
+    if (cached) {
+      return await cached.json();
+    }
+  }
+
+  const catKeys = Object.keys(CATEGORY_FILES).filter((k) => k !== "all");
+  const results = await Promise.all(
+    catKeys.map(async (catKey) => {
+      try {
+        const file = CATEGORY_FILES[catKey].file;
+        const data = await fetchGitHubJson(file, env, ctx, forceRefresh);
+        const items = data.products || data.laptops || (Array.isArray(data) ? data : []);
+        for (const item of items) {
+          if (!item.category) item.category = catKey;
+        }
+        return {
+          extractDate: data["extract-date"] || "",
+          items,
+        };
+      } catch (e) {
+        return { extractDate: "", items: [] };
+      }
+    })
+  );
+
+  let latestDate = "";
+  const combinedProducts = [];
+  for (const r of results) {
+    if (r.extractDate && !latestDate) latestDate = r.extractDate;
+    for (const item of r.items) {
+      combinedProducts.push(item);
+    }
+  }
+
+  const payload = {
+    "extract-date": latestDate || new Date().toUTCString(),
+    category: "all",
+    sorted_by: "model",
+    total_items: combinedProducts.length,
+    products: combinedProducts,
+  };
+
+  const responseToCache = new Response(JSON.stringify(payload), {
+    headers: {
+      "Content-Type": "application/json; charset=utf-8",
+      "Cache-Control": "public, max-age=300",
+    },
+  });
+
+  if (ctx && ctx.waitUntil && combinedProducts.length > 0) {
+    ctx.waitUntil(cache.put(masterCacheKey, responseToCache.clone()));
+  }
+
+  return payload;
+}
+
+/**
  * Fetches a JSON file from https://github.com/srtfile/startech
- * Works seamlessly with both Private repos (via env.GITHUB_TOKEN) and Public repos.
+ * Supports both Private repos (via env.GITHUB_TOKEN) and Public repos, including >1MB blobs.
  */
 async function fetchGitHubJson(filePath, env, ctx, forceRefresh = false) {
   const cache = caches.default;
-  const cacheKey = new Request(`https://edge-cache.startech.local/${GITHUB_OWNER}/${GITHUB_REPO}/${GITHUB_BRANCH}/${filePath}`);
+  const cacheKey = new Request(
+    `https://edge-cache.startech.local/${GITHUB_OWNER}/${GITHUB_REPO}/${GITHUB_BRANCH}/${filePath}`
+  );
 
   if (!forceRefresh) {
     const cached = await cache.match(cacheKey);
@@ -142,7 +202,7 @@ async function fetchGitHubJson(filePath, env, ctx, forceRefresh = false) {
 
   const token = (env && (env.GITHUB_TOKEN || env.GH_TOKEN)) || "";
   const headers = {
-    "User-Agent": "StarTech-Cloudflare-Worker-Dashboard/2.0",
+    "User-Agent": "StarTech-Cloudflare-Worker-Dashboard/3.0",
     Accept: "application/vnd.github.v3.raw",
   };
 
@@ -156,7 +216,6 @@ async function fetchGitHubJson(filePath, env, ctx, forceRefresh = false) {
 
   let resp = await fetch(targetUrl, { headers });
 
-  // Fallback to GitHub API even without token if raw.githubusercontent returned 404
   if (!resp.ok && !token) {
     const apiFallback = `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${filePath}?ref=${GITHUB_BRANCH}`;
     resp = await fetch(apiFallback, { headers });
@@ -204,7 +263,7 @@ function renderAppHtml() {
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Star Tech BD — Live Price & Stock History Tracker</title>
+  <title>Star Tech BD — Full Catalog Price & Stock History Tracker</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -217,23 +276,13 @@ function renderAppHtml() {
           fontFamily: {
             sans: ['Inter', 'system-ui', 'sans-serif'],
             mono: ['JetBrains Mono', 'monospace'],
-          },
-          colors: {
-            brand: {
-              50: '#eef2ff',
-              400: '#818cf8',
-              500: '#6366f1',
-              600: '#4f46e5',
-            }
           }
         }
       }
     }
   </script>
   <style>
-    :root {
-      color-scheme: dark;
-    }
+    :root { color-scheme: dark; }
     body {
       font-family: 'Inter', sans-serif;
       background: radial-gradient(circle at 15% 0%, rgba(99, 102, 241, 0.14), transparent 40%),
@@ -243,49 +292,30 @@ function renderAppHtml() {
       min-height: 100vh;
     }
     html:not(.dark) body {
-      background: radial-gradient(circle at 15% 0%, rgba(99, 102, 241, 0.08), transparent 40%),
-                  #f8fafc;
+      background: radial-gradient(circle at 15% 0%, rgba(99, 102, 241, 0.08), transparent 40%), #f8fafc;
       color: #0f172a;
     }
     .glass-card {
-      background: rgba(17, 24, 39, 0.76);
+      background: rgba(17, 24, 39, 0.78);
       backdrop-filter: blur(14px);
       border: 1px solid rgba(255, 255, 255, 0.08);
     }
     html:not(.dark) .glass-card {
-      background: rgba(255, 255, 255, 0.9);
+      background: rgba(255, 255, 255, 0.92);
       border: 1px solid rgba(15, 23, 42, 0.08);
       box-shadow: 0 4px 20px -2px rgba(15, 23, 42, 0.05);
     }
-    .custom-scrollbar::-webkit-scrollbar {
-      height: 6px;
-      width: 6px;
-    }
-    .custom-scrollbar::-webkit-scrollbar-track {
-      background: transparent;
-    }
-    .custom-scrollbar::-webkit-scrollbar-thumb {
-      background: rgba(148, 163, 184, 0.25);
-      border-radius: 9999px;
-    }
-    .custom-scrollbar::-webkit-scrollbar-thumb:hover {
-      background: rgba(148, 163, 184, 0.45);
-    }
-    @keyframes pulse-subtle {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0.55; }
-    }
-    .animate-pulse-subtle {
-      animation: pulse-subtle 2.2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
-    }
+    .custom-scrollbar::-webkit-scrollbar { height: 6px; width: 6px; }
+    .custom-scrollbar::-webkit-scrollbar-track { background: transparent; }
+    .custom-scrollbar::-webkit-scrollbar-thumb { background: rgba(148, 163, 184, 0.25); border-radius: 9999px; }
+    .custom-scrollbar::-webkit-scrollbar-thumb:hover { background: rgba(148, 163, 184, 0.45); }
   </style>
 </head>
 <body class="antialiased selection:bg-indigo-500 selection:text-white">
 
   <!-- Top Navigation Header -->
   <header class="sticky top-0 z-40 glass-card border-b border-slate-800/80">
-    <div class="max-w-[1440px] mx-auto px-4 sm:px-6 py-3.5 flex flex-wrap items-center justify-between gap-4">
-      <!-- Brand Title -->
+    <div class="max-w-[1500px] mx-auto px-4 sm:px-6 py-3.5 flex flex-wrap items-center justify-between gap-4">
       <div class="flex items-center gap-3">
         <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-indigo-500 via-purple-500 to-emerald-500 p-[1px] shadow-lg shadow-indigo-500/20">
           <div class="w-full h-full bg-slate-950 rounded-[11px] flex items-center justify-center text-lg font-extrabold text-transparent bg-clip-text bg-gradient-to-br from-indigo-400 to-emerald-400">
@@ -296,26 +326,29 @@ function renderAppHtml() {
           <div class="flex items-center gap-2">
             <h1 class="text-base sm:text-lg font-bold tracking-tight">Star Tech Price & Stock Tracker</h1>
             <span class="inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[11px] font-semibold bg-emerald-500/15 text-emerald-400 border border-emerald-500/30">
-              <span class="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse-subtle"></span>
-              LIVE SYNC
+              <span class="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-ping"></span>
+              UNLIMITED FULL CATALOG
             </span>
           </div>
           <p class="text-xs text-slate-400">
-            Powered by GitHub Actions Daily Snapshots · <span id="lastExtractDate" class="font-mono text-slate-300">Loading snapshot...</span>
+            Synced with <a href="${GITHUB_REPO_URL}" target="_blank" class="text-indigo-400 hover:underline">github.com/srtfile/startech</a> · <span id="lastExtractDate" class="font-mono text-slate-300">Loading all categories...</span>
           </p>
         </div>
       </div>
 
-      <!-- Right Action Buttons -->
       <div class="flex items-center gap-2 sm:gap-3">
         <!-- Main View Switcher -->
         <div class="inline-flex rounded-xl p-1 bg-slate-900/90 border border-slate-800 text-xs font-medium">
           <button onclick="switchMainTab('catalog')" id="tabBtn-catalog" class="px-3 py-1.5 rounded-lg bg-indigo-600 text-white shadow transition">
-            🗂️ Catalog
+            🗂️ All Products
+          </button>
+          <button onclick="switchMainTab('brands')" id="tabBtn-brands" class="px-3 py-1.5 rounded-lg text-slate-400 hover:text-white transition flex items-center gap-1">
+            🏷️ All Brands
+            <span id="brandsCountBadge" class="px-1.5 py-0.2 rounded-full text-[10px] bg-indigo-500/30 text-indigo-300 font-mono">0</span>
           </button>
           <button onclick="switchMainTab('changes')" id="tabBtn-changes" class="px-3 py-1.5 rounded-lg text-slate-400 hover:text-white transition flex items-center gap-1">
             📉 Price & Stock Feed
-            <span id="changesBadge" class="hidden px-1.5 py-0.2 rounded-full text-[10px] bg-emerald-500/20 text-emerald-300 font-mono">0</span>
+            <span id="changesBadge" class="px-1.5 py-0.2 rounded-full text-[10px] bg-emerald-500/20 text-emerald-300 font-mono">0</span>
           </button>
           <button onclick="switchMainTab('builder')" id="tabBtn-builder" class="px-3 py-1.5 rounded-lg text-slate-400 hover:text-white transition flex items-center gap-1">
             ⚡ PC Builder
@@ -350,20 +383,20 @@ function renderAppHtml() {
   </header>
 
   <!-- Main Container -->
-  <main class="max-w-[1440px] mx-auto px-4 sm:px-6 py-6 space-y-6">
+  <main class="max-w-[1500px] mx-auto px-4 sm:px-6 py-6 space-y-6">
 
-    <!-- Error / Setup Banner (Hidden unless error occurs) -->
+    <!-- Error Banner -->
     <div id="errorBanner" class="hidden rounded-2xl p-4 bg-rose-950/60 border border-rose-500/40 text-rose-200 text-sm"></div>
 
     <!-- Top KPI Summary Cards -->
     <section class="grid grid-cols-2 lg:grid-cols-5 gap-3.5">
       <div class="glass-card rounded-2xl p-4">
         <div class="flex items-center justify-between text-xs text-slate-400 font-medium">
-          <span>TRACKED PRODUCTS</span>
+          <span>TOTAL PRODUCTS</span>
           <span class="text-indigo-400">13 Categories</span>
         </div>
         <div id="kpiTotal" class="mt-2 text-2xl sm:text-3xl font-extrabold font-mono tracking-tight">—</div>
-        <div id="kpiShowing" class="mt-1 text-xs text-slate-400">Loading catalog...</div>
+        <div id="kpiShowing" class="mt-1 text-xs text-slate-400">Loading full catalog...</div>
       </div>
 
       <div class="glass-card rounded-2xl p-4">
@@ -400,16 +433,16 @@ function renderAppHtml() {
 
       <div class="glass-card rounded-2xl p-4 col-span-2 lg:col-span-1">
         <div class="flex items-center justify-between text-xs text-slate-400 font-medium">
-          <span>PRICE / STOCK EVENTS</span>
-          <span class="text-purple-400">History</span>
+          <span>TOTAL BRANDS & EVENTS</span>
+          <span class="text-purple-400">No Limit</span>
         </div>
-        <div id="kpiEventsCount" class="mt-2 text-2xl sm:text-3xl font-extrabold font-mono text-purple-400">—</div>
-        <div id="kpiEventsSub" class="mt-1 text-xs text-slate-400">Tracked transitions over time</div>
+        <div id="kpiBrandsCount" class="mt-2 text-2xl sm:text-3xl font-extrabold font-mono text-purple-400">—</div>
+        <div id="kpiEventsSub" class="mt-1 text-xs text-slate-400 font-mono">0 historical events</div>
       </div>
     </section>
 
     <!-- ================================================================== -->
-    <!-- TAB 1: PRODUCT CATALOG EXPLORER                                    -->
+    <!-- TAB 1: PRODUCT CATALOG EXPLORER (UNLIMITED)                        -->
     <!-- ================================================================== -->
     <section id="tabContent-catalog" class="space-y-5">
 
@@ -424,7 +457,7 @@ function renderAppHtml() {
           <!-- Search Input -->
           <div class="md:col-span-4 relative">
             <input id="searchInput" type="text" oninput="applyFilters()"
-              placeholder="Search model, brand, specs (e.g. Ryzen 7, RTX 4060, DDR5)..."
+              placeholder="Search ANY product, model, brand, or spec (e.g. Ryzen, RTX, DDR5)..."
               class="w-full pl-9 pr-8 py-2.5 rounded-xl bg-slate-900/90 border border-slate-700/80 text-sm placeholder-slate-500 focus:outline-none focus:border-indigo-500 transition" />
             <svg class="w-4 h-4 text-slate-400 absolute left-3 top-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
@@ -432,7 +465,7 @@ function renderAppHtml() {
             <button onclick="clearSearch()" id="clearSearchBtn" class="hidden absolute right-2.5 top-2.5 text-slate-400 hover:text-white text-xs px-1">✕</button>
           </div>
 
-          <!-- Brand Filter -->
+          <!-- Brand Filter (All Brands) -->
           <div class="md:col-span-2">
             <select id="brandSelect" onchange="applyFilters()"
               class="w-full px-3 py-2.5 rounded-xl bg-slate-900/90 border border-slate-700/80 text-sm focus:outline-none focus:border-indigo-500">
@@ -467,7 +500,7 @@ function renderAppHtml() {
               <option value="price-asc">Price: Low → High</option>
               <option value="price-desc">Price: High → Low</option>
               <option value="discount-desc">Biggest Discount (৳)</option>
-              <option value="changed-desc">Recently Changed</option>
+              <option value="changed-desc">Most Price Changes</option>
             </select>
           </div>
         </div>
@@ -477,23 +510,34 @@ function renderAppHtml() {
           <div class="flex flex-wrap items-center gap-3">
             <label class="inline-flex items-center gap-1.5 cursor-pointer select-none text-slate-300">
               <input type="checkbox" id="discountedOnlyCheck" onchange="applyFilters()" class="rounded bg-slate-900 border-slate-700 text-indigo-500 focus:ring-0" />
-              <span>🔥 Discounted / Offer Items Only</span>
+              <span>🔥 Discounted Items Only</span>
             </label>
             <label class="inline-flex items-center gap-1.5 cursor-pointer select-none text-slate-300">
               <input type="checkbox" id="priceChangedCheck" onchange="applyFilters()" class="rounded bg-slate-900 border-slate-700 text-indigo-500 focus:ring-0" />
               <span>📉 Has Historical Price / Stock Changes</span>
             </label>
-            <button onclick="resetAllFilters()" class="text-indigo-400 hover:text-indigo-300 underline">Reset Filters</button>
+            <button onclick="resetAllFilters()" class="text-indigo-400 hover:text-indigo-300 underline">Reset All Filters</button>
           </div>
 
-          <div class="flex items-center gap-2">
-            <span id="resultsCountLabel" class="text-slate-400 font-mono">0 items</span>
+          <div class="flex flex-wrap items-center gap-2">
+            <span id="resultsCountLabel" class="text-slate-300 font-mono font-semibold">0 items</span>
+
+            <!-- Page Size / Unlimited Selector -->
+            <select id="pageSizeSelect" onchange="changePageSize()"
+              class="px-2.5 py-1 rounded-lg bg-slate-900 border border-slate-700 text-xs font-mono text-indigo-300">
+              <option value="0" selected>Show ALL (No Limit - Auto Scroll)</option>
+              <option value="999999">Render ALL Immediately on Page</option>
+              <option value="100">100 per page</option>
+              <option value="250">250 per page</option>
+              <option value="500">500 per page</option>
+            </select>
+
             <div class="inline-flex rounded-lg p-0.5 bg-slate-900 border border-slate-800">
               <button onclick="setLayoutMode('grid')" id="layoutBtn-grid" class="px-2.5 py-1 rounded-md bg-indigo-600 text-white">Grid</button>
               <button onclick="setLayoutMode('table')" id="layoutBtn-table" class="px-2.5 py-1 rounded-md text-slate-400 hover:text-white">Table</button>
             </div>
             <button onclick="exportFilteredCsv()" class="px-2.5 py-1 rounded-lg bg-emerald-500/15 hover:bg-emerald-500/25 text-emerald-300 border border-emerald-500/30 font-medium transition">
-              ⬇ Export CSV
+              ⬇ Export All CSV
             </button>
           </div>
         </div>
@@ -530,20 +574,40 @@ function renderAppHtml() {
         </div>
       </div>
 
-      <!-- Pagination Controls -->
+      <!-- Infinite Scroll Sentinel & Pagination Controls -->
+      <div id="infiniteScrollSentinel" class="py-4 text-center text-xs text-slate-400 font-mono"></div>
       <div id="paginationBar" class="flex flex-wrap items-center justify-between gap-4 pt-2"></div>
     </section>
 
     <!-- ================================================================== -->
-    <!-- TAB 2: PRICE DROPS & STOCK STATUS FEED                             -->
+    <!-- TAB 2: ALL BRANDS DIRECTORY (NO LIMIT)                             -->
+    <!-- ================================================================== -->
+    <section id="tabContent-brands" class="hidden space-y-5">
+      <div class="glass-card rounded-2xl p-5">
+        <div class="flex flex-wrap items-center justify-between gap-4 mb-4">
+          <div>
+            <h2 class="text-lg font-bold">🏷️ Complete Brand Directory Across All 13 Categories</h2>
+            <p class="text-xs text-slate-400">
+              Click any brand below to immediately view all of its tracked products, prices, and stock statuses.
+            </p>
+          </div>
+          <input id="brandSearchInput" type="text" oninput="renderBrandsDirectory()" placeholder="Filter brands..."
+            class="px-3 py-2 rounded-xl bg-slate-900 border border-slate-700 text-xs focus:outline-none focus:border-indigo-500" />
+        </div>
+        <div id="brandsGridContainer" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-3"></div>
+      </div>
+    </section>
+
+    <!-- ================================================================== -->
+    <!-- TAB 3: PRICE DROPS & STOCK STATUS FEED (UNLIMITED)                 -->
     <!-- ================================================================== -->
     <section id="tabContent-changes" class="hidden space-y-5">
       <div class="glass-card rounded-2xl p-5">
         <div class="flex flex-wrap items-center justify-between gap-4 mb-4">
           <div>
-            <h2 class="text-lg font-bold">📉 Chronological Price Changes & Stock Status Feed</h2>
+            <h2 class="text-lg font-bold">📉 Complete Chronological Price Changes & Stock Status Feed</h2>
             <p class="text-xs text-slate-400">
-              Automatically logged whenever GitHub Actions detects a price drop, price increase, restock, or out-of-stock transition.
+              Every recorded price drop, price increase, restock, and out-of-stock transition across all products.
             </p>
           </div>
           <div class="flex items-center gap-2">
@@ -563,7 +627,7 @@ function renderAppHtml() {
     </section>
 
     <!-- ================================================================== -->
-    <!-- TAB 3: INTERACTIVE PC BUILDER & BUDGET CALCULATOR                  -->
+    <!-- TAB 4: INTERACTIVE PC BUILDER & BUDGET CALCULATOR                  -->
     <!-- ================================================================== -->
     <section id="tabContent-builder" class="hidden space-y-5">
       <div class="glass-card rounded-2xl p-5">
@@ -571,7 +635,7 @@ function renderAppHtml() {
           <div>
             <h2 class="text-lg font-bold">⚡ Custom PC Builder & Live Quote Estimator</h2>
             <p class="text-xs text-slate-400">
-              Select components from the catalog using the <span class="text-indigo-400 font-semibold">"+ Build"</span> button on any product card to calculate your total build cost.
+              Select components from the catalog using the <span class="text-indigo-400 font-semibold">"+ Add to Build"</span> button on any product card.
             </p>
           </div>
           <div class="flex items-center gap-3">
@@ -594,9 +658,7 @@ function renderAppHtml() {
 
   </main>
 
-  <!-- ==================================================================== -->
-  <!-- PRODUCT PRICE & STOCK TIMELINE MODAL                                 -->
-  <!-- ==================================================================== -->
+  <!-- PRODUCT PRICE & STOCK TIMELINE MODAL -->
   <div id="historyModal" class="fixed inset-0 z-50 hidden items-center justify-center p-4 bg-slate-950/80 backdrop-blur-sm">
     <div class="glass-card rounded-2xl max-w-3xl w-full max-h-[90vh] overflow-y-auto custom-scrollbar border border-slate-700 shadow-2xl p-6 space-y-5">
       <div class="flex items-start justify-between gap-4">
@@ -608,10 +670,8 @@ function renderAppHtml() {
         <button onclick="closeHistoryModal()" class="p-2 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-300">✕</button>
       </div>
 
-      <!-- Past & Present Price Cards -->
       <div id="modalStatsGrid" class="grid grid-cols-2 sm:grid-cols-4 gap-3"></div>
 
-      <!-- SVG Price History Chart -->
       <div class="rounded-xl bg-slate-900/90 border border-slate-800 p-4">
         <div class="flex items-center justify-between text-xs text-slate-400 mb-2">
           <span class="font-semibold text-slate-300">📈 Historical Price Trajectory (Past → Present)</span>
@@ -620,9 +680,8 @@ function renderAppHtml() {
         <div id="modalChartBox" class="w-full h-40"></div>
       </div>
 
-      <!-- Chronological Price & Stock Event Table -->
       <div>
-        <h4 class="text-xs font-bold uppercase tracking-wider text-slate-400 mb-2">🕒 Recorded Price & Stock Status Timeline</h4>
+        <h4 class="text-xs font-bold uppercase tracking-wider text-slate-400 mb-2">🕒 Complete Price & Stock Status Timeline</h4>
         <div class="rounded-xl border border-slate-800 overflow-hidden">
           <table class="w-full text-left text-xs">
             <thead class="bg-slate-900 text-slate-400 uppercase">
@@ -639,9 +698,8 @@ function renderAppHtml() {
         </div>
       </div>
 
-      <!-- Technical Specifications -->
       <div>
-        <h4 class="text-xs font-bold uppercase tracking-wider text-slate-400 mb-2">🔧 Technical Specifications</h4>
+        <h4 class="text-xs font-bold uppercase tracking-wider text-slate-400 mb-2">🔧 Complete Technical Specifications</h4>
         <div id="modalSpecsBox" class="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs"></div>
       </div>
 
@@ -658,14 +716,14 @@ function renderAppHtml() {
   </div>
 
   <!-- Footer -->
-  <footer class="max-w-[1440px] mx-auto px-4 sm:px-6 py-8 mt-8 border-t border-slate-800/70 text-xs text-slate-400 flex flex-wrap items-center justify-between gap-4">
+  <footer class="max-w-[1500px] mx-auto px-4 sm:px-6 py-8 mt-8 border-t border-slate-800/70 text-xs text-slate-400 flex flex-wrap items-center justify-between gap-4">
     <div>
-      Star Tech Bangladesh Automated Price & Stock Tracker · Live Edge Dashboard
+      Star Tech Bangladesh Unlimited Price & Stock Tracker · Live Edge Dashboard
     </div>
     <div class="flex items-center gap-4">
       <a href="${GITHUB_REPO_URL}" target="_blank" class="hover:text-indigo-400 transition">GitHub Repository (srtfile/startech)</a>
       <span>·</span>
-      <a href="/api/catalog" target="_blank" class="hover:text-indigo-400 transition font-mono">JSON API</a>
+      <a href="/api/catalog" target="_blank" class="hover:text-indigo-400 transition font-mono">Full JSON API</a>
       <span>·</span>
       <a href="/api/changes" target="_blank" class="hover:text-indigo-400 transition font-mono">Changes API</a>
     </div>
@@ -681,7 +739,8 @@ function renderAppHtml() {
     let activeCategory = 'all';
     let layoutMode = 'grid';
     let currentPage = 1;
-    const pageSize = 24;
+    let pageSize = 0; // 0 = Unlimited Auto-Scroll Mode
+    let infiniteScrollCount = 80;
     let pcBuild = JSON.parse(localStorage.getItem('startech_pc_build') || '[]');
 
     function formatBDT(num) {
@@ -715,14 +774,16 @@ function renderAppHtml() {
         }
 
         allProducts = catalogData.products || catalogData.laptops || [];
-        document.getElementById('lastExtractDate').textContent = catalogData['extract-date'] || 'Synced';
+        document.getElementById('lastExtractDate').textContent =
+          (catalogData['extract-date'] || 'Synced') + \` · \${allProducts.length.toLocaleString()} Products Loaded\`;
 
         const changesData = await changesResp.json();
         changeEvents = (changesData && changesData.events) ? changesData.events : [];
 
-        buildSyntheticEventsIfEmpty();
+        updateGlobalBadges();
         renderCategoryPills();
         populateBrandsDropdown();
+        renderBrandsDirectory();
         applyFilters();
         renderChangesFeed();
         renderBuilder();
@@ -737,14 +798,12 @@ function renderAppHtml() {
       }
     }
 
-    // Also derive transitions from embedded product price_history if events file is empty
-    function buildSyntheticEventsIfEmpty() {
-      const badge = document.getElementById('changesBadge');
-      if (changeEvents.length > 0) {
-        badge.textContent = changeEvents.length;
-        badge.classList.remove('hidden');
-      }
-      document.getElementById('kpiEventsCount').textContent = changeEvents.length.toLocaleString();
+    function updateGlobalBadges() {
+      const allBrandsSet = new Set(allProducts.map(p => p.brand || 'Other'));
+      document.getElementById('brandsCountBadge').textContent = allBrandsSet.size;
+      document.getElementById('kpiBrandsCount').textContent = allBrandsSet.size + ' Brands';
+      document.getElementById('kpiEventsSub').textContent = changeEvents.length.toLocaleString() + ' price/stock events';
+      document.getElementById('changesBadge').textContent = changeEvents.length;
     }
 
     function renderCategoryPills() {
@@ -766,7 +825,7 @@ function renderAppHtml() {
             class="px-3 py-1.5 rounded-xl text-xs font-semibold border transition flex items-center gap-1.5 \${cls}">
             <span>\${meta.icon}</span>
             <span>\${meta.name}</span>
-            <span class="px-1.5 py-0.2 rounded-full text-[10px] font-mono \${active ? 'bg-indigo-800 text-indigo-100' : 'bg-slate-800 text-slate-400'}">\${count}</span>
+            <span class="px-1.5 py-0.2 rounded-full text-[10px] font-mono \${active ? 'bg-indigo-800 text-indigo-100' : 'bg-slate-800 text-slate-400'}">\${count.toLocaleString()}</span>
           </button>
         \`;
       }).join('');
@@ -775,6 +834,7 @@ function renderAppHtml() {
     function selectCategory(catKey) {
       activeCategory = catKey;
       currentPage = 1;
+      infiniteScrollCount = 80;
       renderCategoryPills();
       populateBrandsDropdown();
       applyFilters();
@@ -800,6 +860,52 @@ function renderAppHtml() {
       if (sortedBrands.includes(currentVal)) {
         select.value = currentVal;
       }
+    }
+
+    function renderBrandsDirectory() {
+      const container = document.getElementById('brandsGridContainer');
+      const q = (document.getElementById('brandSearchInput')?.value || '').trim().toLowerCase();
+      const brandStats = {};
+
+      for (const p of allProducts) {
+        const b = p.brand || 'Other';
+        if (!brandStats[b]) {
+          brandStats[b] = { total: 0, inStock: 0 };
+        }
+        brandStats[b].total++;
+        if (p.stock_status === 'In Stock') brandStats[b].inStock++;
+      }
+
+      const entries = Object.entries(brandStats)
+        .filter(([b]) => !q || b.toLowerCase().includes(q))
+        .sort((a, b) => b[1].total - a[1].total || a[0].localeCompare(b[0]));
+
+      container.innerHTML = entries.map(([brandName, st]) => \`
+        <button onclick="filterByBrandFromDirectory('\${escapeHtml(brandName)}')"
+          class="rounded-xl bg-slate-900/80 hover:bg-indigo-600/20 border border-slate-800 hover:border-indigo-500/50 p-3.5 text-left transition group">
+          <div class="font-bold text-sm text-white group-hover:text-indigo-300 truncate">\${escapeHtml(brandName)}</div>
+          <div class="mt-1 flex items-center justify-between text-xs font-mono text-slate-400">
+            <span>\${st.total} items</span>
+            <span class="text-emerald-400">\${st.inStock} in stock</span>
+          </div>
+        </button>
+      \`).join('');
+    }
+
+    function filterByBrandFromDirectory(brandName) {
+      activeCategory = 'all';
+      renderCategoryPills();
+      populateBrandsDropdown();
+      document.getElementById('brandSelect').value = brandName;
+      switchMainTab('catalog');
+      applyFilters();
+    }
+
+    function changePageSize() {
+      pageSize = Number(document.getElementById('pageSizeSelect').value);
+      currentPage = 1;
+      infiniteScrollCount = 80;
+      renderProducts();
     }
 
     function applyFilters() {
@@ -858,6 +964,7 @@ function renderAppHtml() {
       });
 
       currentPage = 1;
+      infiniteScrollCount = 80;
       updateKpis();
       renderProducts();
     }
@@ -870,7 +977,7 @@ function renderAppHtml() {
 
       document.getElementById('kpiTotal').textContent = total.toLocaleString();
       document.getElementById('kpiShowing').textContent =
-        activeCategory === 'all' ? \`Across all \${allProducts.length.toLocaleString()} catalog items\` : \`Category: \${CATEGORIES[activeCategory]?.name}\`;
+        activeCategory === 'all' ? \`Full catalog: \${allProducts.length.toLocaleString()} items\` : \`Category: \${CATEGORIES[activeCategory]?.name}\`;
 
       document.getElementById('kpiInStock').textContent = inStockItems.length.toLocaleString();
       document.getElementById('kpiOutStock').textContent = \`\${outItems.toLocaleString()} Out/Upc\`;
@@ -883,9 +990,13 @@ function renderAppHtml() {
 
       const posPrices = inStockItems.map(x => x.current_price).filter(p => p > 0);
       if (posPrices.length > 0) {
-        const minP = Math.min(...posPrices);
-        const maxP = Math.max(...posPrices);
-        const avgP = Math.round(posPrices.reduce((s, v) => s + v, 0) / posPrices.length);
+        let minP = posPrices[0], maxP = posPrices[0], sumP = 0;
+        for (const v of posPrices) {
+          if (v < minP) minP = v;
+          if (v > maxP) maxP = v;
+          sumP += v;
+        }
+        const avgP = Math.round(sumP / posPrices.length);
         document.getElementById('kpiPriceRange').textContent = \`৳\${minP.toLocaleString('en-IN')} – ৳\${maxP.toLocaleString('en-IN')}\`;
         document.getElementById('kpiAvgPrice').textContent = \`Avg: ৳\${avgP.toLocaleString('en-IN')}\`;
       } else {
@@ -893,19 +1004,41 @@ function renderAppHtml() {
         document.getElementById('kpiAvgPrice').textContent = 'Avg: N/A';
       }
 
-      document.getElementById('resultsCountLabel').textContent = \`\${total.toLocaleString()} products\`;
+      document.getElementById('resultsCountLabel').textContent = \`\${total.toLocaleString()} products matched\`;
     }
 
     function renderProducts() {
       const grid = document.getElementById('productGrid');
       const tableWrap = document.getElementById('productTableWrap');
       const tableBody = document.getElementById('productTableBody');
+      const sentinel = document.getElementById('infiniteScrollSentinel');
+      const bar = document.getElementById('paginationBar');
 
-      const totalPages = Math.max(1, Math.ceil(filteredProducts.length / pageSize));
-      if (currentPage > totalPages) currentPage = totalPages;
-
-      const start = (currentPage - 1) * pageSize;
-      const slice = filteredProducts.slice(start, start + pageSize);
+      let slice = [];
+      if (pageSize === 0) {
+        // Unlimited Auto-Scroll Mode
+        slice = filteredProducts.slice(0, infiniteScrollCount);
+        bar.innerHTML = '';
+        if (infiniteScrollCount < filteredProducts.length) {
+          sentinel.innerHTML = \`
+            <div class="inline-flex items-center gap-3 px-4 py-2 rounded-xl bg-slate-900 border border-slate-800">
+              <span>Showing \${slice.length.toLocaleString()} of \${filteredProducts.length.toLocaleString()} products (scroll down for more)</span>
+              <button onclick="showAllImmediately()" class="text-indigo-400 hover:underline font-semibold">Load All \${filteredProducts.length.toLocaleString()} Now</button>
+            </div>
+          \`;
+        } else {
+          sentinel.innerHTML = filteredProducts.length > 0
+            ? \`Showing all \${filteredProducts.length.toLocaleString()} products (100% loaded)\`
+            : '';
+        }
+      } else {
+        sentinel.innerHTML = '';
+        const totalPages = Math.max(1, Math.ceil(filteredProducts.length / pageSize));
+        if (currentPage > totalPages) currentPage = totalPages;
+        const start = (currentPage - 1) * pageSize;
+        slice = filteredProducts.slice(start, start + pageSize);
+        renderPagination(totalPages);
+      }
 
       if (layoutMode === 'grid') {
         grid.classList.remove('hidden');
@@ -924,9 +1057,27 @@ function renderAppHtml() {
         tableWrap.classList.remove('hidden');
         tableBody.innerHTML = slice.map(item => renderProductRow(item)).join('');
       }
-
-      renderPagination(totalPages);
     }
+
+    function showAllImmediately() {
+      infiniteScrollCount = filteredProducts.length;
+      renderProducts();
+    }
+
+    // Automatic Infinite Scroll Observer for Unlimited Mode
+    const scrollObserver = new IntersectionObserver((entries) => {
+      for (const entry of entries) {
+        if (entry.isIntersecting && pageSize === 0 && infiniteScrollCount < filteredProducts.length) {
+          infiniteScrollCount = Math.min(filteredProducts.length, infiniteScrollCount + 80);
+          renderProducts();
+        }
+      }
+    }, { rootMargin: '400px' });
+
+    window.addEventListener('DOMContentLoaded', () => {
+      const el = document.getElementById('infiniteScrollSentinel');
+      if (el) scrollObserver.observe(el);
+    });
 
     function renderProductCard(item) {
       const catMeta = CATEGORIES[item.category] || CATEGORIES.laptop;
@@ -945,7 +1096,6 @@ function renderAppHtml() {
       return \`
         <div class="glass-card rounded-2xl p-4 flex flex-col justify-between hover:border-indigo-500/50 transition group">
           <div>
-            <!-- Top Row: Category + Stock + Discount -->
             <div class="flex items-center justify-between gap-2 mb-3">
               <span class="text-[11px] font-medium text-slate-400 flex items-center gap-1">
                 <span>\${catMeta.icon}</span>
@@ -957,7 +1107,6 @@ function renderAppHtml() {
               </div>
             </div>
 
-            <!-- Image & Title -->
             <div class="flex items-start gap-3">
               \${item.image_url ? \`
                 <img src="\${escapeHtml(item.image_url)}" alt="\${escapeHtml(item.model)}" loading="lazy"
@@ -972,13 +1121,11 @@ function renderAppHtml() {
               </div>
             </div>
 
-            <!-- Key Specs Preview -->
             <div class="mt-3 text-xs text-slate-400 line-clamp-2 bg-slate-900/50 rounded-xl p-2.5 border border-slate-800/60">
               \${escapeHtml(item.specs_summary || 'Standard specifications')}
             </div>
           </div>
 
-          <!-- Pricing & Action Footer -->
           <div class="mt-4 pt-3 border-t border-slate-800/80 space-y-2.5">
             <div class="flex items-baseline justify-between">
               <div>
@@ -1205,7 +1352,7 @@ function renderAppHtml() {
     }
 
     // =========================================================================
-    // TAB 2: PRICE DROPS & STOCK STATUS FEED
+    // TAB 3: PRICE DROPS & STOCK STATUS FEED (NO LIMIT)
     // =========================================================================
     function renderChangesFeed() {
       const container = document.getElementById('changesFeedContainer');
@@ -1225,7 +1372,7 @@ function renderAppHtml() {
         return;
       }
 
-      container.innerHTML = [...list].reverse().slice(0, 100).map(ev => {
+      container.innerHTML = [...list].reverse().map(ev => {
         const isDrop = ev.event_type === 'PRICE_DROP';
         const isInc = ev.event_type === 'PRICE_INCREASE';
         const isRestock = ev.event_type === 'RESTOCKED';
@@ -1264,7 +1411,7 @@ function renderAppHtml() {
     }
 
     // =========================================================================
-    // TAB 3: PC BUILDER & BUDGET CALCULATOR
+    // TAB 4: PC BUILDER & BUDGET CALCULATOR
     // =========================================================================
     function addToBuild(productId) {
       const item = allProducts.find(p => String(p.product_id) === String(productId));
@@ -1348,7 +1495,7 @@ function renderAppHtml() {
     // UI HELPERS
     // =========================================================================
     function switchMainTab(tab) {
-      ['catalog', 'changes', 'builder'].forEach(t => {
+      ['catalog', 'brands', 'changes', 'builder'].forEach(t => {
         document.getElementById('tabContent-' + t).classList.toggle('hidden', t !== tab);
         const btn = document.getElementById('tabBtn-' + t);
         if (t === tab) {
@@ -1400,7 +1547,7 @@ function renderAppHtml() {
       const blob = new Blob([rows.join('\\n')], { type: 'text/csv;charset=utf-8;' });
       const a = document.createElement('a');
       a.href = URL.createObjectURL(blob);
-      a.download = \`startech_\${activeCategory}_export.csv\`;
+      a.download = \`startech_\${activeCategory}_all_\${filteredProducts.length}_products.csv\`;
       a.click();
     }
 

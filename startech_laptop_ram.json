@@ -1,11 +1,47 @@
 {
-  "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+  "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
   "category": "laptop-ram",
   "sorted_by": "model",
-  "total_items": 20,
+  "total_items": 100,
   "products": [
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "8833",
+      "brand": "Kingston",
+      "model": "16GB 2400MHz",
+      "title": "Kingston 16GB 2400MHz Laptop ram",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Features": "Type DDR4 | Capacity- 16GB | Speed 2400Mhz | Non ECC"
+      },
+      "specs_summary": "Features: Type DDR4 | Capacity- 16GB | Speed 2400Mhz | Non ECC",
+      "url": "https://www.startech.com.bd/kingston-16gb-ddr4-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/kingston/kingston-16gb/kingston-16gb-1-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "laptop-ram",
       "product_id": "27103",
       "brand": "TwinMOS",
@@ -43,7 +79,511 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "13713",
+      "brand": "Transcend",
+      "model": "16GB DDR4 2666MHz SO-DIMM",
+      "title": "Transcend 16GB DDR4 2666MHz SO-DIMM Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "16GB",
+        "CAS Latency": "CL19",
+        "Speed": "PC4-21300 (2666 MHz)",
+        "DIMM Type": "260-Pin SO-DIMM"
+      },
+      "specs_summary": "Capacity: 16GB | CAS Latency: CL19 | Speed: PC4-21300 (2666 MHz) | DIMM Type: 260-Pin SO-DIMM",
+      "url": "https://www.startech.com.bd/transcend-16gb-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/transcend/16gb/16gb-1-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "36563",
+      "brand": "BORY",
+      "model": "16GB DDR4 3200MHz SODIMM",
+      "title": "BORY 16GB DDR4 3200MHz SODIMM Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Memory Capacity": "16GB",
+        "Memory Type": "DDR4",
+        "BUS Speed": "3200Mhz",
+        "Interface": "260 Pin"
+      },
+      "specs_summary": "Memory Capacity: 16GB | Memory Type: DDR4 | BUS Speed: 3200Mhz | Interface: 260 Pin",
+      "url": "https://www.startech.com.bd/bory-16gb-ddr4-3200mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/bory/ddr4/8gb-ddr4-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "29581",
+      "brand": "Lexar",
+      "model": "16GB DDR4 3200MHz SODIMM",
+      "title": "Lexar 16GB DDR4 3200MHz SODIMM Laptop RAM",
+      "current_price": 19500,
+      "regular_price": 19500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "16GB",
+        "Frequency": "3200HMz",
+        "Module Type": "DDR4 260 PIN SO-DIMM",
+        "Operating voltage": "1.2V, Latency: CL22"
+      },
+      "specs_summary": "Capacity: 16GB | Frequency: 3200HMz | Module Type: DDR4 260 PIN SO-DIMM | Operating voltage: 1.2V, Latency: CL22",
+      "url": "https://www.startech.com.bd/lexar-16gb-ddr4-3200mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/lexar/16gb-ddr4-3200mhz/16gb-ddr4-3200mhz-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 19500,
+      "lowest_price": 19500,
+      "lowest_price_date": "2026-11-06",
+      "highest_price": 19500,
+      "highest_price_date": "2026-11-06",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 19500,
+          "regular_price": 19500,
+          "stock_status": "In Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "46162",
+      "brand": "Lexar",
+      "model": "16GB DDR5 4800Mhz",
+      "title": "Lexar 16GB DDR5 4800Mhz Laptop Ram",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "16GB, Memory Type: DDR5",
+        "Tested Latency": "CL40-39-39-76",
+        "Tested Speed": "4800Mhz",
+        "Tested Voltage": "1.1V"
+      },
+      "specs_summary": "Capacity: 16GB, Memory Type: DDR5 | Tested Latency: CL40-39-39-76 | Tested Speed: 4800Mhz | Tested Voltage: 1.1V",
+      "url": "https://www.startech.com.bd/lexar-16gb-ddr5-4800mhz-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/lexar/lexar-16gb/lexar-16gb-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "46160",
+      "brand": "Lexar",
+      "model": "16GB DDR5 5600Mhz",
+      "title": "Lexar 16GB DDR5 5600Mhz Laptop Ram",
+      "current_price": 33500,
+      "regular_price": 33500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "16GB, Memory Type: DDR5",
+        "Tested Latency": "CL46-45-45-90",
+        "Tested Speed": "5600Mhz",
+        "Tested Voltage": "1.1V"
+      },
+      "specs_summary": "Capacity: 16GB, Memory Type: DDR5 | Tested Latency: CL46-45-45-90 | Tested Speed: 5600Mhz | Tested Voltage: 1.1V",
+      "url": "https://www.startech.com.bd/lexar-16gb-ddr5-5600mhz-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/lexar/lexar-16gb/lexar-16gb-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 33500,
+      "lowest_price": 33500,
+      "lowest_price_date": "2026-11-06",
+      "highest_price": 33500,
+      "highest_price_date": "2026-11-06",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 33500,
+          "regular_price": 33500,
+          "stock_status": "In Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "46159",
+      "brand": "ADATA",
+      "model": "16GB DDR5 5600MHz CL46",
+      "title": "Adata 16GB DDR5 5600MHz CL46 Laptop Ram",
+      "current_price": 29500,
+      "regular_price": 29500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "16GB",
+        "Type": "DDR5",
+        "Frequency": "5600MHz",
+        "CAS Latency": "CL46"
+      },
+      "specs_summary": "Capacity: 16GB | Type: DDR5 | Frequency: 5600MHz | CAS Latency: CL46",
+      "url": "https://www.startech.com.bd/adata-16gb-ddr5-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/adata/16gb-ddr5/16gb-ddr5-03-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 29500,
+      "lowest_price": 29500,
+      "lowest_price_date": "2026-11-06",
+      "highest_price": 29500,
+      "highest_price_date": "2026-11-06",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 29500,
+          "regular_price": 29500,
+          "stock_status": "In Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "15399",
+      "brand": "Crucial",
+      "model": "16GB Single DDR4 2666MHz",
+      "title": "Crucial 16GB Single DDR4 2666MHz Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Features": "Make everything on your computer faster | Easy to install | Multitask with ease | Maximize the value of your system"
+      },
+      "specs_summary": "Features: Make everything on your computer faster | Easy to install | Multitask with ease | Maximize the value of your system",
+      "url": "https://www.startech.com.bd/crucial-16gb-single-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/crucial/16gb-single-laptop/16gb-single-laptop-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "20938",
+      "brand": "Crucial",
+      "model": "16GB Single DDR4 3200MHz SODIMM",
+      "title": "Crucial 16GB Single DDR4 3200MHz SODIMM Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "16GB",
+        "Type": "DDR4-3200Mhz",
+        "Speed": "PC4-25600",
+        "CAS latency": "22"
+      },
+      "specs_summary": "Capacity: 16GB | Type: DDR4-3200Mhz | Speed: PC4-25600 | CAS latency: 22",
+      "url": "https://www.startech.com.bd/crucial-16gb-single-ddr4-3200mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/crucial/16gb-single-laptop/16gb-single-laptop-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "29582",
+      "brand": "Lexar",
+      "model": "32GB DDR4 3200MHz SODIMM",
+      "title": "Lexar 32GB DDR4 3200MHz SODIMM Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "32GB",
+        "Frequency": "3200HMz",
+        "Module Type": "DDR4 260 PIN SO-DIMM",
+        "Operating voltage": "1.2V, Latency: CL22"
+      },
+      "specs_summary": "Capacity: 32GB | Frequency: 3200HMz | Module Type: DDR4 260 PIN SO-DIMM | Operating voltage: 1.2V, Latency: CL22",
+      "url": "https://www.startech.com.bd/lexar-32gb-ddr4-3200mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/lexar/16gb-ddr4-3200mhz/16gb-ddr4-3200mhz-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "52371",
+      "brand": "Lexar",
+      "model": "32GB DDR5 5600Mhz",
+      "title": "Lexar 32GB DDR5 5600Mhz Laptop Ram",
+      "current_price": 52000,
+      "regular_price": 52000,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "32GB, Memory Type: DDR5",
+        "Tested Latency": "CL46-45-45-90",
+        "Tested Speed": "5600Mhz",
+        "Tested Voltage": "1.1V"
+      },
+      "specs_summary": "Capacity: 32GB, Memory Type: DDR5 | Tested Latency: CL46-45-45-90 | Tested Speed: 5600Mhz | Tested Voltage: 1.1V",
+      "url": "https://www.startech.com.bd/lexar-32gb-ddr5-5600mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/lexar/lexar-32gb-ddr5-5600mhz/lexar-32gb-ddr5-5600mhz-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 52000,
+      "lowest_price": 52000,
+      "lowest_price_date": "2026-11-06",
+      "highest_price": 52000,
+      "highest_price_date": "2026-11-06",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 52000,
+          "regular_price": 52000,
+          "stock_status": "In Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "12725",
+      "brand": "Samsung",
+      "model": "4GB 1600MHz DDR3",
+      "title": "Samsung 4GB 1600MHz DDR3 PC3L Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "4GB",
+        "Speed": "1600MHz PC3L",
+        "Upgrade Type": "Generic",
+        "Product Dimensions": "21 x 13 x 2.5 cm"
+      },
+      "specs_summary": "Capacity: 4GB | Speed: 1600MHz PC3L | Upgrade Type: Generic | Product Dimensions: 21 x 13 x 2.5 cm",
+      "url": "https://www.startech.com.bd/samsung-4gb-ddr3-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/component/laptop-ram/samsung/4gb-ddr3/4gb-ddr3-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "12396",
+      "brand": "Transcend",
+      "model": "4GB DDR4 2666MHz Bus SO-DIMM",
+      "title": "Transcend 4GB DDR4 2666MHz Bus SO-DIMM Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "CAS Latency": "CL19",
+        "Speed": "PC4-21300 (2666 MHz)",
+        "DIMM Type": "260-Pin SO-DIMM",
+        "Features": "Capacity- 4GB"
+      },
+      "specs_summary": "CAS Latency: CL19 | Speed: PC4-21300 (2666 MHz) | DIMM Type: 260-Pin SO-DIMM | Features: Capacity- 4GB",
+      "url": "https://www.startech.com.bd/transcend-4gb-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/transcend/4gb-2666/4gb-2-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "25685",
+      "brand": "Lexar",
+      "model": "4GB DDR4 2666Mhz SODIMM",
+      "title": "Lexar 4GB DDR4 2666Mhz SODIMM Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Memory": "4GB DDR4-2666",
+        "Interface": "260 Pin",
+        "CAS Latency": "CL19",
+        "Voltage": "1.2V"
+      },
+      "specs_summary": "Memory: 4GB DDR4-2666 | Interface: 260 Pin | CAS Latency: CL19 | Voltage: 1.2V",
+      "url": "https://www.startech.com.bd/lexar-4gb-ddr4-2666mhz-sodimm-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/lexar/ddr4-2666mhz-sodimm/ddr4-2666mhz-sodimm-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "laptop-ram",
       "product_id": "32865",
       "brand": "Lexar",
@@ -80,7 +620,7 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "laptop-ram",
       "product_id": "17771",
       "brand": "Transcend",
@@ -118,7 +658,118 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "13617",
+      "brand": "Crucial",
+      "model": "4GB Single DDR4 2400MHz",
+      "title": "Crucial 4GB Single DDR4 2400MHz Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Features": "Make everything on your computer faster | Easy to install | Multitask with ease | Maximize the value of your system"
+      },
+      "specs_summary": "Features: Make everything on your computer faster | Easy to install | Multitask with ease | Maximize the value of your system",
+      "url": "https://www.startech.com.bd/crucial-4gb-2400-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/crucial/4gb-2400/71exOjbZWiL._AC_SX466_-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "12550",
+      "brand": "Crucial",
+      "model": "4GB Single DDR4 2666MHz",
+      "title": "Crucial 4GB Single DDR4 2666MHz Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "CAS Latency": "CL19",
+        "Features": "Extra Fast and Ultra Efficient | 2666 MHz Clock Speed | PC Speed - PC4-21300"
+      },
+      "specs_summary": "CAS Latency: CL19 | Features: Extra Fast and Ultra Efficient | 2666 MHz Clock Speed | PC Speed - PC4-21300",
+      "url": "https://www.startech.com.bd/crucial-4-single-ddr4-2666-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/crucial/single-ddr4-2666/single-ddr4-2666-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "12441",
+      "brand": "Crucial",
+      "model": "8GB DDR4 2400MHz",
+      "title": "Crucial 8GB DDR4 2400MHz Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Interface": "260-pin",
+        "CAS Latency": "CL17",
+        "Features": "Extra Fast and Ultra Efficient | 2400 MHz Clock Speed"
+      },
+      "specs_summary": "Interface: 260-pin | CAS Latency: CL17 | Features: Extra Fast and Ultra Efficient | 2400 MHz Clock Speed",
+      "url": "https://www.startech.com.bd/crucial-8gb-ddr4-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/component/laptop-ram/crucial/8gb-2400mhz-1-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "laptop-ram",
       "product_id": "50316",
       "brand": "Samsung",
@@ -156,7 +807,7 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "laptop-ram",
       "product_id": "50320",
       "brand": "Samsung",
@@ -194,7 +845,85 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "12398",
+      "brand": "Transcend",
+      "model": "8GB DDR4 2666MHz Bus SO-DIMM",
+      "title": "Transcend 8GB DDR4 2666MHz Bus SO-DIMM Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "CAS Latency": "CL19",
+        "Speed": "PC4-21300 (2666 MHz)",
+        "DIMM Type": "260-Pin SO-DIMM",
+        "Features": "Capacity- 8GB"
+      },
+      "specs_summary": "CAS Latency: CL19 | Speed: PC4-21300 (2666 MHz) | DIMM Type: 260-Pin SO-DIMM | Features: Capacity- 8GB",
+      "url": "https://www.startech.com.bd/transcend-8gb-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/transcend/8gb-2666/8gb-1-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "13659",
+      "brand": "Lexar",
+      "model": "8GB DDR4 2666Mhz SODIMM",
+      "title": "Lexar 8GB DDR4 2666Mhz SODIMM Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "CAS Latency": "19 (Default)",
+        "Bus width": "64bit",
+        "Speed": "DDR4 2666 (PC4 21300)",
+        "Features": "260-pin SO-DIMM"
+      },
+      "specs_summary": "CAS Latency: 19 (Default) | Bus width: 64bit | Speed: DDR4 2666 (PC4 21300) | Features: 260-pin SO-DIMM",
+      "url": "https://www.startech.com.bd/lexar-ddr4-8gb-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/lexar/ddr4-8gb/ddr4-8gb-1-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "laptop-ram",
       "product_id": "53860",
       "brand": "Lexar",
@@ -232,7 +961,7 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "laptop-ram",
       "product_id": "50322",
       "brand": "Samsung",
@@ -270,7 +999,46 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "36561",
+      "brand": "BORY",
+      "model": "8GB DDR4 3200MHz SODIMM",
+      "title": "BORY 8GB DDR4 3200MHz SODIMM Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Memory Capacity": "8GB",
+        "Memory Type": "DDR4",
+        "BUS Speed": "3200Mhz",
+        "Interface": "260 Pin"
+      },
+      "specs_summary": "Memory Capacity: 8GB | Memory Type: DDR4 | BUS Speed: 3200Mhz | Interface: 260 Pin",
+      "url": "https://www.startech.com.bd/bory-8gb-ddr4-3200mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/bory/ddr4/8gb-ddr4-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "laptop-ram",
       "product_id": "14912",
       "brand": "Lexar",
@@ -307,7 +1075,161 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "53859",
+      "brand": "Lexar",
+      "model": "8GB DDR5 5600Mhz",
+      "title": "Lexar 8GB DDR5 5600Mhz Laptop Ram",
+      "current_price": 17500,
+      "regular_price": 17500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "8GB, Memory Type: DDR5",
+        "Tested Latency": "CL46-45-45-90",
+        "Tested Speed": "5600Mhz",
+        "Tested Voltage": "1.1V"
+      },
+      "specs_summary": "Capacity: 8GB, Memory Type: DDR5 | Tested Latency: CL46-45-45-90 | Tested Speed: 5600Mhz | Tested Voltage: 1.1V",
+      "url": "https://www.startech.com.bd/lexar-8gb-ddr5-5600mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/lexar/lexar-8gb-ddr5/lexar-8gb-ddr5-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 17500,
+      "lowest_price": 17500,
+      "lowest_price_date": "2026-11-06",
+      "highest_price": 17500,
+      "highest_price_date": "2026-11-06",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 17500,
+          "regular_price": 17500,
+          "stock_status": "In Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "50111",
+      "brand": "ADATA",
+      "model": "8GB DDR5 5600MHz CL46",
+      "title": "Adata 8GB DDR5 5600MHz CL46 Laptop Ram",
+      "current_price": 18000,
+      "regular_price": 18000,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "8GB",
+        "Type": "DDR5",
+        "Frequency": "5600MHz",
+        "CAS Latency": "CL46"
+      },
+      "specs_summary": "Capacity: 8GB | Type: DDR5 | Frequency: 5600MHz | CAS Latency: CL46",
+      "url": "https://www.startech.com.bd/adata-8gb-ddr5-5600mhz-cl46-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/adata/8gb-ddr5-5600mhz/8gb-ddr5-5600mhz-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 18000,
+      "lowest_price": 18000,
+      "lowest_price_date": "2026-11-06",
+      "highest_price": 18000,
+      "highest_price_date": "2026-11-06",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 18000,
+          "regular_price": 18000,
+          "stock_status": "In Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "12549",
+      "brand": "Crucial",
+      "model": "8GB Single DDR4 2666MHz",
+      "title": "Crucial 8GB Single DDR4 2666MHz Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "CAS Latency": "CL19",
+        "Features": "Extra Fast and Ultra Efficient | 2666 MHz Clock Speed | PC Speed - PC4-21300"
+      },
+      "specs_summary": "CAS Latency: CL19 | Features: Extra Fast and Ultra Efficient | 2666 MHz Clock Speed | PC Speed - PC4-21300",
+      "url": "https://www.startech.com.bd/crucial-8-single-ddr4-2666-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/crucial/single-ddr4-2666/single-ddr4-2666-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "20190",
+      "brand": "Crucial",
+      "model": "8GB Single DDR4 3200MHz",
+      "title": "Crucial 8GB Single DDR4 3200MHz Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "CAS Latency, Extended timings": "CL22, 22-22-22",
+        "8GB (1 x 8GB) Capacity, Voltage": "1.2 V",
+        "Speed": "DDR4 3200MHz",
+        "DIMM Type": "260-Pin SO-DIMM"
+      },
+      "specs_summary": "CAS Latency, Extended timings: CL22, 22-22-22 | 8GB (1 x 8GB) Capacity, Voltage: 1.2 V | Speed: DDR4 3200MHz | DIMM Type: 260-Pin SO-DIMM",
+      "url": "https://www.startech.com.bd/crucial-8gb-ddr4-3200mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/crucial/8gb-ddr4-3200mhz/8gb-ddr4-3200mhz-001-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "laptop-ram",
       "product_id": "33148",
       "brand": "Netac",
@@ -345,7 +1267,7 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "laptop-ram",
       "product_id": "33149",
       "brand": "Netac",
@@ -383,7 +1305,7 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "laptop-ram",
       "product_id": "33150",
       "brand": "Netac",
@@ -421,7 +1343,7 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "laptop-ram",
       "product_id": "33152",
       "brand": "Netac",
@@ -459,7 +1381,7 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "laptop-ram",
       "product_id": "33154",
       "brand": "Netac",
@@ -497,7 +1419,7 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "laptop-ram",
       "product_id": "33153",
       "brand": "Netac",
@@ -535,7 +1457,267 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "13869",
+      "brand": "Team",
+      "model": "ELITE 16GB 2666MHz",
+      "title": "TEAM ELITE 16GB 2666MHz Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Features": "All new generation product of DRAM module | DDR4 2666MHz | CAS Latency 19 | 1.2V memory module"
+      },
+      "specs_summary": "Features: All new generation product of DRAM module | DDR4 2666MHz | CAS Latency 19 | 1.2V memory module",
+      "url": "https://www.startech.com.bd/team-elite-16gb-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/team/elite-16gb-laptop/elite-16gb-2-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "13217",
+      "brand": "Team",
+      "model": "ELITE 16GB 3200MHz",
+      "title": "TEAM ELITE 16GB 3200MHz Laptop RAM",
+      "current_price": 16500,
+      "regular_price": 16500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Latency": "CL22-22-22-52",
+        "Features": "All new generation product of DRAM module | DDR4 3200MHz | 1.2V memory module"
+      },
+      "specs_summary": "Latency: CL22-22-22-52 | Features: All new generation product of DRAM module | DDR4 3200MHz | 1.2V memory module",
+      "url": "https://www.startech.com.bd/team-elite-16g-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/team/elite-8g-3200/elite-8g-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 16500,
+      "lowest_price": 16500,
+      "lowest_price_date": "2026-11-06",
+      "highest_price": 16500,
+      "highest_price_date": "2026-11-06",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 16500,
+          "regular_price": 16500,
+          "stock_status": "In Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "33286",
+      "brand": "Team",
+      "model": "ELITE 16GB 4800MHz DDR5",
+      "title": "TEAM ELITE 16GB 4800MHz DDR5 Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "16GB",
+        "Type- DDR5, Speed": "4800MHz",
+        "Operating Voltage": "1.1V",
+        "Latency": "CL40-39-39-77"
+      },
+      "specs_summary": "Capacity: 16GB | Type- DDR5, Speed: 4800MHz | Operating Voltage: 1.1V | Latency: CL40-39-39-77",
+      "url": "https://www.startech.com.bd/team-elite-16gb-4800mhz-ddr5-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/team/elite-ddr5/elite-16gb-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "41478",
+      "brand": "Team",
+      "model": "ELITE 16GB 5600MHz DDR5",
+      "title": "TEAM ELITE 16GB 5600MHz DDR5 Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "16GB",
+        "Type- DDR5, Speed": "5600MHz",
+        "Operating Voltage": "1.1V",
+        "Latency": "CL46"
+      },
+      "specs_summary": "Capacity: 16GB | Type- DDR5, Speed: 5600MHz | Operating Voltage: 1.1V | Latency: CL46",
+      "url": "https://www.startech.com.bd/team-elite-16gb-ddr5-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/team/elite-16gb-ddr5/elite-16gb-ddr5-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "15656",
+      "brand": "Team",
+      "model": "ELITE 32GB 3200MHz DDR4",
+      "title": "TEAM ELITE 32GB 3200MHz DDR4 LAPTOP RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "CAS Latency": "22-22-22-52",
+        "Features": "1.2V memory module | Massive 32GB Kit | Lifetime warranty"
+      },
+      "specs_summary": "CAS Latency: 22-22-22-52 | Features: 1.2V memory module | Massive 32GB Kit | Lifetime warranty",
+      "url": "https://www.startech.com.bd/team-elite-32gb-3200mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/team/elite-32gb-3200mhz-laptop/elite-32gb-3200mhz-laptop-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "11154",
+      "brand": "Team",
+      "model": "ELITE 4GB 2666MHz",
+      "title": "TEAM ELITE 4GB 2666MHz Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Features": "All new generation product of DRAM module | DDR4 2666 (PC4 21300) | CAS Latency 19 | 1.2V memory module"
+      },
+      "specs_summary": "Features: All new generation product of DRAM module | DDR4 2666 (PC4 21300) | CAS Latency 19 | 1.2V memory module",
+      "url": "https://www.startech.com.bd/team-elite-4gb-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/component/laptop-ram/team/4gb-2666mhz/4gb-1-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "12575",
+      "brand": "Team",
+      "model": "ELITE 8GB 2666MHz",
+      "title": "TEAM ELITE 8GB 2666MHz Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Features": "All new generation product of DRAM module | DDR4 2666MHz | CAS Latency 19 | 1.2V memory module"
+      },
+      "specs_summary": "Features: All new generation product of DRAM module | DDR4 2666MHz | CAS Latency 19 | 1.2V memory module",
+      "url": "https://www.startech.com.bd/team-elite-8gb-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/team/elite-16gb-laptop/elite-16gb-1-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "laptop-ram",
       "product_id": "13216",
       "brand": "Team",
@@ -571,7 +1753,819 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "38125",
+      "brand": "Team",
+      "model": "ELITE 8GB 4800MHz DDR5",
+      "title": "TEAM ELITE 8GB 4800MHz DDR5 Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "8GB",
+        "Type- DDR5, Speed": "4800MHz",
+        "Operating Voltage": "1.1V",
+        "Latency": "CL40-39-39-77"
+      },
+      "specs_summary": "Capacity: 8GB | Type- DDR5, Speed: 4800MHz | Operating Voltage: 1.1V | Latency: CL40-39-39-77",
+      "url": "https://www.startech.com.bd/team-elite-8gb-4800mhz-ddr5-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/team/elite-ddr5/elite-16gb-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "33290",
+      "brand": "Team",
+      "model": "ELITE 8GB 5600MHz DDR5",
+      "title": "TEAM ELITE 8GB 5600MHz DDR5 Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "8GB",
+        "Type- DDR5, Speed": "5600MHz",
+        "Operating Voltage": "1.1V",
+        "Latency": "CL46-45-45-90"
+      },
+      "specs_summary": "Capacity: 8GB | Type- DDR5, Speed: 5600MHz | Operating Voltage: 1.1V | Latency: CL46-45-45-90",
+      "url": "https://www.startech.com.bd/team-elite-8gb-5600mhz-ddr5-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/team/elite-ddr5/elite-16gb-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "10861",
+      "brand": "Team",
+      "model": "ELITE SO-DIMM DDR4 16GB 2400MHz",
+      "title": "TEAM ELITE SO-DIMM DDR4 16GB 2400MHz Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "16GB",
+        "Dimensions": "67.6 x 30 mm",
+        "Features": "1.2V memory module | Massive 32GB Kit"
+      },
+      "specs_summary": "Capacity: 16GB | Dimensions: 67.6 x 30 mm | Features: 1.2V memory module | Massive 32GB Kit",
+      "url": "https://www.startech.com.bd/team-elite-so-dimm-16gb-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/team/elite-so-dimm/elite-so-dimm-1-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "10344",
+      "brand": "Team",
+      "model": "ELITE SO-DIMM DDR4 4GB 2400MHz",
+      "title": "TEAM ELITE SO-DIMM DDR4 4GB 2400MHz Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Features": "Capacity- 4GB | Massive 32GB Kit | Tested Voltage- 1.2V | New generation product of DRAM"
+      },
+      "specs_summary": "Features: Capacity- 4GB | Massive 32GB Kit | Tested Voltage- 1.2V | New generation product of DRAM",
+      "url": "https://www.startech.com.bd/team-elite-so-ddim-4gb-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/team/elite-so-laptop/elite-so-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "10347",
+      "brand": "Team",
+      "model": "ELITE SO-DIMM DDR4 8GB 2400MHz",
+      "title": "TEAM ELITE SO-DIMM DDR4 8GB 2400MHz Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Features": "Capacity- 8GB | Massive 32GB Kit | Tested Voltage- 1.2V | New generation product of DRAM"
+      },
+      "specs_summary": "Features: Capacity- 8GB | Massive 32GB Kit | Tested Voltage- 1.2V | New generation product of DRAM",
+      "url": "https://www.startech.com.bd/team-elite-so-ddim-8gb-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/team/elite-so-laptop/elite-so-2-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "36079",
+      "brand": "Kingston",
+      "model": "FURY Impact 16GB DDDR5 4800Mhz",
+      "title": "Kingston FURY Impact 16GB DDDR5 4800Mhz Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "16GB",
+        "Type- DDR5, Speed": "4800MHz",
+        "Operating Voltage": "1.1V",
+        "Latency": "CL38-38-38-38"
+      },
+      "specs_summary": "Capacity: 16GB | Type- DDR5, Speed: 4800MHz | Operating Voltage: 1.1V | Latency: CL38-38-38-38",
+      "url": "https://www.startech.com.bd/kingston-fury-impact-16gb-dddr5-4800mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/kingston/fury-impact/fury-impact-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "18721",
+      "brand": "Transcend",
+      "model": "JetRAM 16GB DDR4 3200Mhz SO-DIMM",
+      "title": "Transcend JetRAM 16GB DDR4 3200Mhz SO-DIMM Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "16GB",
+        "RAM Type": "DDR4",
+        "Frequency": "3200Mhz",
+        "CAS Latency": "CL22"
+      },
+      "specs_summary": "Capacity: 16GB | RAM Type: DDR4 | Frequency: 3200Mhz | CAS Latency: CL22",
+      "url": "https://www.startech.com.bd/transcend-16gb-ddr4-3200mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/transcend/jm-ddr4/jm3200hsb-16g-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "31762",
+      "brand": "Transcend",
+      "model": "JetRAM 16GB DDR5 4800Mhz SO-DIMM",
+      "title": "Transcend JetRAM 16GB DDR5 4800Mhz SO-DIMM Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "16GB DDR5",
+        "Frequency": "4800Mhz",
+        "CAS Latency": "CL40",
+        "Voltage": "1.1 V"
+      },
+      "specs_summary": "Capacity: 16GB DDR5 | Frequency: 4800Mhz | CAS Latency: CL40 | Voltage: 1.1 V",
+      "url": "https://www.startech.com.bd/transcend-jetram-16gb-ddr5-4800mhz-so-dimm-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/component/laptop-ram/transced/16gb-ddr5-4800mhz/16gb-ddr5-4800mhz-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "31764",
+      "brand": "Transcend",
+      "model": "JetRAM 16GB DDR5 5600Mhz SO-DIMM",
+      "title": "Transcend JetRAM 16GB DDR5 5600Mhz SO-DIMM Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "16GB DDR5",
+        "Frequency": "5600Mhz",
+        "CAS Latency": "CL46",
+        "Voltage": "1.1 V"
+      },
+      "specs_summary": "Capacity: 16GB DDR5 | Frequency: 5600Mhz | CAS Latency: CL46 | Voltage: 1.1 V",
+      "url": "https://www.startech.com.bd/transcend-jetram-16gb-ddr5-5600mhz-so-dimm-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/component/laptop-ram/transced/16gb-ddr5-5600mhz/16gb-ddr5-5600mhz-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "27759",
+      "brand": "Transcend",
+      "model": "JetRAM 32GB DDR4 3200Mhz SO-DIMM",
+      "title": "Transcend JetRAM 32GB DDR4 3200Mhz SO-DIMM Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "32GB",
+        "RAM Type": "DDR4",
+        "Frequency": "3200Mhz",
+        "CAS Latency": "CL22"
+      },
+      "specs_summary": "Capacity: 32GB | RAM Type: DDR4 | Frequency: 3200Mhz | CAS Latency: CL22",
+      "url": "https://www.startech.com.bd/transcend-jetram-32gb-ddr4-3200mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/transcend/jetram-32gb-ddr4/jetram-32gb-ddr4-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "33579",
+      "brand": "Transcend",
+      "model": "JetRAM 32GB DDR5 4800Mhz SO-DIMM",
+      "title": "Transcend JetRAM 32GB DDR5 4800Mhz SO-DIMM Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "32GB DDR5",
+        "Frequency": "4800Mhz",
+        "CAS Latency": "CL40",
+        "Voltage": "1.1 V"
+      },
+      "specs_summary": "Capacity: 32GB DDR5 | Frequency: 4800Mhz | CAS Latency: CL40 | Voltage: 1.1 V",
+      "url": "https://www.startech.com.bd/transcend-jetram-32gb-ddr5-4800mhz-so-dimm-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/transcend/jetram-32gb-ddr5/jetram-32gb-ddr5-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "17850",
+      "brand": "Transcend",
+      "model": "JetRAM 8GB DDR4 3200Mhz SO-DIMM",
+      "title": "Transcend JetRAM 8GB DDR4 3200Mhz SO-DIMM Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "8GB",
+        "RAM Type": "DDR4",
+        "Frequency": "3200Mhz",
+        "CAS Latency": "CL22"
+      },
+      "specs_summary": "Capacity: 8GB | RAM Type: DDR4 | Frequency: 3200Mhz | CAS Latency: CL22",
+      "url": "https://www.startech.com.bd/transcend-8gb-ddr4-3200mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/transcend/jm-ddr4/jm-ddr4-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "27754",
+      "brand": "Transcend",
+      "model": "JetRAM 8GB DDR5 4800Mhz SO-DIMM",
+      "title": "Transcend JetRAM 8GB DDR5 4800Mhz SO-DIMM Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "8GB",
+        "RAM Type": "DDR5",
+        "Frequency": "4800Mhz",
+        "CAS Latency": "CL40"
+      },
+      "specs_summary": "Capacity: 8GB | RAM Type: DDR5 | Frequency: 4800Mhz | CAS Latency: CL40",
+      "url": "https://www.startech.com.bd/transcend-jetram-8gb-ddr5-4800mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/transcend/jetram/jetram-ddr5-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "40099",
+      "brand": "Transcend",
+      "model": "JetRAM 8GB DDR5 5600Mhz SO-DIMM",
+      "title": "Transcend JetRAM 8GB DDR5 5600Mhz SO-DIMM Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "8GB",
+        "RAM Type": "DDR5",
+        "Frequency": "5600Mhz",
+        "CAS Latency": "CL46"
+      },
+      "specs_summary": "Capacity: 8GB | RAM Type: DDR5 | Frequency: 5600Mhz | CAS Latency: CL46",
+      "url": "https://www.startech.com.bd/transcend-jetram-8gb-5600mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/transcend/jetram-8gb-5600mhz/jetram-8gb-5600mhz-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "46807",
+      "brand": "Colorful",
+      "model": "Notebook",
+      "title": "Colorful Notebook 16GB DDR5 5600MHz Laptop RAM",
+      "current_price": 28500,
+      "regular_price": 28500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "16GB, Memory Type: DDR5",
+        "Speed": "5600MHz",
+        "Voltage": "1.2V",
+        "Latency": "CL46-45-45-90"
+      },
+      "specs_summary": "Capacity: 16GB, Memory Type: DDR5 | Speed: 5600MHz | Voltage: 1.2V | Latency: CL46-45-45-90",
+      "url": "https://www.startech.com.bd/colorful-notebook-16gb-ddr5-5600mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/colorful/notebook-ddr5/notebook-ddr5-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 28500,
+      "lowest_price": 28500,
+      "lowest_price_date": "2026-11-06",
+      "highest_price": 28500,
+      "highest_price_date": "2026-11-06",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 28500,
+          "regular_price": 28500,
+          "stock_status": "In Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "43839",
+      "brand": "Colorful",
+      "model": "Notebook",
+      "title": "Colorful Notebook 16GB DDR5 4800MHz Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "16GB",
+        "Type": "DDR5 4800 MHz",
+        "Latency": "CL22-22-22-52",
+        "Voltage": "1.2V"
+      },
+      "specs_summary": "Capacity: 16GB | Type: DDR5 4800 MHz | Latency: CL22-22-22-52 | Voltage: 1.2V",
+      "url": "https://www.startech.com.bd/colorful-notebook-16gb-ddr5-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/colorful/notebook-16gb-ddr4-3200mhz/notebook-16gb-ddr4-3200mhz-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "30794",
+      "brand": "Colorful",
+      "model": "Notebook 16GB DDR4 3200MHz SO-DIMM",
+      "title": "Colorful Notebook 16GB DDR4 3200MHz SO-DIMM Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "16GB",
+        "Type": "DDR4 3200 MHz",
+        "Latency": "CL22-22-22-52",
+        "Voltage": "1.2V"
+      },
+      "specs_summary": "Capacity: 16GB | Type: DDR4 3200 MHz | Latency: CL22-22-22-52 | Voltage: 1.2V",
+      "url": "https://www.startech.com.bd/colorful-notebook-16gb-ddr4-3200mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/colorful/notebook-16gb-ddr4-3200mhz/notebook-16gb-ddr4-3200mhz-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "30792",
+      "brand": "Colorful",
+      "model": "Notebook 8GB DDR4 2666MHz SO-DIMM",
+      "title": "Colorful Notebook 8GB DDR4 2666MHz SO-DIMM Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "8GB",
+        "Type": "DDR4 2666 MHz",
+        "Latency": "CL19-19-19-43",
+        "Voltage": "1.2V"
+      },
+      "specs_summary": "Capacity: 8GB | Type: DDR4 2666 MHz | Latency: CL19-19-19-43 | Voltage: 1.2V",
+      "url": "https://www.startech.com.bd/colorful-notebook-8gb-ddr4-2666mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/colorful/notebook-8gb-ddr4-2666mhz/notebook-8gb-ddr4-2666mhz-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "30793",
+      "brand": "Colorful",
+      "model": "Notebook 8GB DDR4 3200MHz SO-DIMM",
+      "title": "Colorful Notebook 8GB DDR4 3200MHz SO-DIMM Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "8GB",
+        "Type": "DDR4 3200 MHz",
+        "Latency": "CL22-22-22-52",
+        "Voltage": "1.2V"
+      },
+      "specs_summary": "Capacity: 8GB | Type: DDR4 3200 MHz | Latency: CL22-22-22-52 | Voltage: 1.2V",
+      "url": "https://www.startech.com.bd/colorful-notebook-8gb-ddr4-3200mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/colorful/notebook-8gb-ddr4-3200mhz/notebook-8gb-ddr4-3200mhz-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "46141",
+      "brand": "PNY",
+      "model": "Performance 16GB DDR5 5600MHz CL46",
+      "title": "PNY Performance 16GB DDR5 5600MHz CL46 Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "16GB DDR5",
+        "Frequency Speed": "5600MHz",
+        "CAS Latency": "CL46",
+        "DIMM Type": "262-Pin SO-DIMM"
+      },
+      "specs_summary": "Capacity: 16GB DDR5 | Frequency Speed: 5600MHz | CAS Latency: CL46 | DIMM Type: 262-Pin SO-DIMM",
+      "url": "https://www.startech.com.bd/pny-performance-16gb-ddr5-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/pny/pny-performance-4gb/performance-4gb-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "16374",
+      "brand": "G.Skill",
+      "model": "Ripjaws 16GB DDR4 2400MHz SO-DIMM",
+      "title": "G.Skill Ripjaws 16GB DDR4 2400MHz SO-DIMM Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "CAS Latency": "16-16-16-39",
+        "Form Factor": "SO-DIMM",
+        "DRAM Voltage": "1.20V",
+        "Features": "16GB 2400MHz DDR4 Capacity"
+      },
+      "specs_summary": "CAS Latency: 16-16-16-39 | Form Factor: SO-DIMM | DRAM Voltage: 1.20V | Features: 16GB 2400MHz DDR4 Capacity",
+      "url": "https://www.startech.com.bd/g-skill-ripjaws-16gb-2400mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/ripjaws/ripjaws-001-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "laptop-ram",
       "product_id": "16375",
       "brand": "G.Skill",
@@ -609,7 +2603,7 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "laptop-ram",
       "product_id": "32105",
       "brand": "G.Skill",
@@ -647,7 +2641,859 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "16376",
+      "brand": "G.Skill",
+      "model": "Ripjaws 16GB DDR4 3200MHz SO-DIMM",
+      "title": "G.Skill Ripjaws 16GB DDR4 3200MHz SO-DIMM Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "CAS Latency": "18-18-18-43",
+        "Form Factor": "SO-DIMM",
+        "DRAM Voltage": "1.20V",
+        "Features": "16GB 3200MHz DDR4 Capacity"
+      },
+      "specs_summary": "CAS Latency: 18-18-18-43 | Form Factor: SO-DIMM | DRAM Voltage: 1.20V | Features: 16GB 3200MHz DDR4 Capacity",
+      "url": "https://www.startech.com.bd/g-skill-ripjaws-16gb-3200mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/ripjaws/ripjaws-001-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "29570",
+      "brand": "G.Skill",
+      "model": "Ripjaws 16GB DDR5 4800MHz SO-DIMM",
+      "title": "G.Skill Ripjaws 16GB DDR5 4800MHz SO-DIMM Laptop RAM",
+      "current_price": 31500,
+      "regular_price": 31500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "CAS Latency": "40-39-39-76",
+        "Form Factor": "SO-DIMM",
+        "DRAM Voltage": "1.10V",
+        "Features": "16GB 4800MHz DDR5 Capacity"
+      },
+      "specs_summary": "CAS Latency: 40-39-39-76 | Form Factor: SO-DIMM | DRAM Voltage: 1.10V | Features: 16GB 4800MHz DDR5 Capacity",
+      "url": "https://www.startech.com.bd/g-skill-ripjaws-16gb-ddr5-4800mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/ripjaws-ddr5/ripjaws-ddr5-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 31500,
+      "lowest_price": 31500,
+      "lowest_price_date": "2026-11-06",
+      "highest_price": 31500,
+      "highest_price_date": "2026-11-06",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 31500,
+          "regular_price": 31500,
+          "stock_status": "In Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "32106",
+      "brand": "G.Skill",
+      "model": "Ripjaws 32GB DDR4 3200MHz C22",
+      "title": "G.Skill Ripjaws 32GB DDR4 3200MHz C22 Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "32GB, 3200MHz, DDR4",
+        "CAS Latency": "22-22-22-52",
+        "Form Factor": "SO-DIMM",
+        "DRAM Voltage": "1.20V"
+      },
+      "specs_summary": "Capacity: 32GB, 3200MHz, DDR4 | CAS Latency: 22-22-22-52 | Form Factor: SO-DIMM | DRAM Voltage: 1.20V",
+      "url": "https://www.startech.com.bd/g-skill-ripjaws-32gb-ddr4-3200mhz-c22-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/ripjaws/ripjaws-ddr4-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "15487",
+      "brand": "G.Skill",
+      "model": "RipJaws 4GB 2666MHz",
+      "title": "G.Skill RipJaws 4GB 2666MHz Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Features": "4GB Capacity | Unbuffered, Non-ECC | 2666 MHz Clock Speed | Tested Latency 18-18-18-43"
+      },
+      "specs_summary": "Features: 4GB Capacity | Unbuffered, Non-ECC | 2666 MHz Clock Speed | Tested Latency 18-18-18-43",
+      "url": "https://www.startech.com.bd/g-skill-ripjaws-v-4gb-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/ripjaws-v-4gb-lap/ripjaws-v-4gb-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "32096",
+      "brand": "G.Skill",
+      "model": "Ripjaws 4GB DDR3 1600MHz SO-DIMM",
+      "title": "G.Skill Ripjaws 4GB DDR3 1600MHz SO-DIMM Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "4GB, 1600MHz DDR3L",
+        "CAS Latency": "9-9-9-28",
+        "Form Factor": "SO-DIMM",
+        "DRAM Voltage": "1.35V"
+      },
+      "specs_summary": "Capacity: 4GB, 1600MHz DDR3L | CAS Latency: 9-9-9-28 | Form Factor: SO-DIMM | DRAM Voltage: 1.35V",
+      "url": "https://www.startech.com.bd/g-skill-ripjaws-4gb-ddr3-1600mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/ripjaws/ripjaws-4gb-ddr3-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "16362",
+      "brand": "G.Skill",
+      "model": "Ripjaws 4GB DDR4-L 2400MHz SO-DIMM",
+      "title": "G.Skill Ripjaws 4GB DDR4-L 2400MHz SO-DIMM Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "CAS Latency": "16-16-16-39",
+        "Form Factor": "SO-DIMM",
+        "DRAM Voltage": "1.20V",
+        "Features": "4GB 2400MHz DDR4-L Capacity"
+      },
+      "specs_summary": "CAS Latency: 16-16-16-39 | Form Factor: SO-DIMM | DRAM Voltage: 1.20V | Features: 4GB 2400MHz DDR4-L Capacity",
+      "url": "https://www.startech.com.bd/g-skill-ripjaws-4gb-so-dimm-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/ripjaws/ripjaws-001-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "15486",
+      "brand": "G.Skill",
+      "model": "RipJaws 8GB 2666MHz",
+      "title": "G.Skill RipJaws 8GB 2666MHz Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Features": "8GB Capacity | Unbuffered, Non-ECC | 2666 MHz Clock Speed | Tested Latency 18-18-18-43"
+      },
+      "specs_summary": "Features: 8GB Capacity | Unbuffered, Non-ECC | 2666 MHz Clock Speed | Tested Latency 18-18-18-43",
+      "url": "https://www.startech.com.bd/g-skill-ripjaws-v-8gb-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/ripjaws-v-8gb-lap/ripjaws-v-8gb-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "32098",
+      "brand": "G.Skill",
+      "model": "Ripjaws 8GB DDR3 1600MHz SO-DIMM",
+      "title": "G.Skill Ripjaws 8GB DDR3 1600MHz SO-DIMM Laptop RAM",
+      "current_price": 6300,
+      "regular_price": 6300,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "8GB, 1600MHz DDR3L",
+        "CAS Latency": "11-11-11-28",
+        "Form Factor": "SO-DIMM",
+        "DRAM Voltage": "1.35V"
+      },
+      "specs_summary": "Capacity: 8GB, 1600MHz DDR3L | CAS Latency: 11-11-11-28 | Form Factor: SO-DIMM | DRAM Voltage: 1.35V",
+      "url": "https://www.startech.com.bd/g-skill-ripjaws-8gb-ddr3-1600mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/ripjaws/ripjaws-4gb-ddr3-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 6300,
+      "lowest_price": 6300,
+      "lowest_price_date": "2026-11-06",
+      "highest_price": 6300,
+      "highest_price_date": "2026-11-06",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 6300,
+          "regular_price": 6300,
+          "stock_status": "In Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "32103",
+      "brand": "G.Skill",
+      "model": "Ripjaws 8GB DDR4 3200MHz C22",
+      "title": "G.Skill Ripjaws 8GB DDR4 3200MHz C22 Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "8GB, 3200MHz, DDR4",
+        "CAS Latency": "22-22-22-52",
+        "Form Factor": "SO-DIMM",
+        "DRAM Voltage": "1.20V"
+      },
+      "specs_summary": "Capacity: 8GB, 3200MHz, DDR4 | CAS Latency: 22-22-22-52 | Form Factor: SO-DIMM | DRAM Voltage: 1.20V",
+      "url": "https://www.startech.com.bd/g-skill-ripjaws-8gb-ddr4-3200mhz-c22-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/ripjaws/ripjaws-ddr4-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "16373",
+      "brand": "G.Skill",
+      "model": "Ripjaws 8GB DDR4 3200MHz SO-DIMM",
+      "title": "G.Skill Ripjaws 8GB DDR4 3200MHz SO-DIMM Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "CAS Latency": "18-18-18-43",
+        "Form Factor": "SO-DIMM",
+        "DRAM Voltage": "1.20V",
+        "Features": "8GB 3200MHz DDR4 Capacity"
+      },
+      "specs_summary": "CAS Latency: 18-18-18-43 | Form Factor: SO-DIMM | DRAM Voltage: 1.20V | Features: 8GB 3200MHz DDR4 Capacity",
+      "url": "https://www.startech.com.bd/g-skill-ripjaws-8gb-3200mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/ripjaws/ripjaws-001-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "16372",
+      "brand": "G.Skill",
+      "model": "Ripjaws 8GB DDR4-L 2400MHz SO-DIMM",
+      "title": "G.Skill Ripjaws 8GB DDR4-L 2400MHz SO-DIMM Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "CAS Latency": "16-16-16-39",
+        "Form Factor": "SO-DIMM",
+        "DRAM Voltage": "1.20V",
+        "Features": "8GB 2400MHz DDR4-L Capacity"
+      },
+      "specs_summary": "CAS Latency: 16-16-16-39 | Form Factor: SO-DIMM | DRAM Voltage: 1.20V | Features: 8GB 2400MHz DDR4-L Capacity",
+      "url": "https://www.startech.com.bd/g-skill-ripjaws-8gb-so-dimm-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/ripjaws/ripjaws-001-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "37802",
+      "brand": "OCPC",
+      "model": "SODIMM VS",
+      "title": "OCPC SODIMM VS 16GB DDR5 4800MHz Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Memory Capacity": "16GB",
+        "Memory Type": "DDR5",
+        "Frequency": "4800MHz",
+        "Latency": "CL40-40-40-77"
+      },
+      "specs_summary": "Memory Capacity: 16GB | Memory Type: DDR5 | Frequency: 4800MHz | Latency: CL40-40-40-77",
+      "url": "https://www.startech.com.bd/ocpc-sodimm-vs-16gb-ddr5-4800mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/ocpc/sodimm-vs-ddr5/sodimm-vs-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "39586",
+      "brand": "OCPC",
+      "model": "SODIMM VS",
+      "title": "OCPC SODIMM VS 16GB DDR5 5600MHz Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Memory Capacity": "16GB",
+        "Memory Type": "DDR5L",
+        "Frequency": "5600MHz",
+        "Latency": "CL46-45-45-90"
+      },
+      "specs_summary": "Memory Capacity: 16GB | Memory Type: DDR5L | Frequency: 5600MHz | Latency: CL46-45-45-90",
+      "url": "https://www.startech.com.bd/ocpc-sodimm-vs-16gb-ddr5-5600mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/ocpc/sodimm-vs-ddr5/sodimm-vs-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "47117",
+      "brand": "OCPC",
+      "model": "SODIMM VS DDR4 3200MHz 16GB",
+      "title": "OCPC SODIMM VS DDR4 3200MHz 16GB Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Memory Capacity": "16GB",
+        "Memory Type": "DDR4",
+        "Frequency": "3200MHz",
+        "Latency": "CL22-22-22-52"
+      },
+      "specs_summary": "Memory Capacity: 16GB | Memory Type: DDR4 | Frequency: 3200MHz | Latency: CL22-22-22-52",
+      "url": "https://www.startech.com.bd/ocpc-sodimm-vs-16gb-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/ocpc/sodimm-vs-ddr4-3200mhz-16gb/ocpc-sodimm-vs-ddr4-3200mhz-16gb-laptop-ram-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "33074",
+      "brand": "OCPC",
+      "model": "SODIMM VS DDR4 3200MHz 8GB",
+      "title": "OCPC SODIMM VS DDR4 3200MHz 8GB Laptop RAM",
+      "current_price": 8000,
+      "regular_price": 8000,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Memory Capacity": "8GB",
+        "Memory Type": "DDR4",
+        "Frequency": "3200MHz",
+        "Latency": "CL22-22-22-52"
+      },
+      "specs_summary": "Memory Capacity: 8GB | Memory Type: DDR4 | Frequency: 3200MHz | Latency: CL22-22-22-52",
+      "url": "https://www.startech.com.bd/ocpc-sodimm-vs-ddr4-3200mhz-8gb-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/ocpc/sodimm-vs-ddr4/sodimm-vs-ddr4-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 8000,
+      "lowest_price": 8000,
+      "lowest_price_date": "2026-11-06",
+      "highest_price": 8000,
+      "highest_price_date": "2026-11-06",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 8000,
+          "regular_price": 8000,
+          "stock_status": "In Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "33307",
+      "brand": "Team",
+      "model": "T-CREATE CLASSIC 16GB 5600MHz DDR5",
+      "title": "TEAM T-CREATE CLASSIC 16GB 5600MHz DDR5 Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "16GB",
+        "Type- DDR5, Speed": "5600MHz",
+        "Operating Voltage": "1.1V",
+        "Latency": "CL46-45-45-90"
+      },
+      "specs_summary": "Capacity: 16GB | Type- DDR5, Speed: 5600MHz | Operating Voltage: 1.1V | Latency: CL46-45-45-90",
+      "url": "https://www.startech.com.bd/team-t-create-classic-16gb-5600mhz-ddr5-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/team/classic/classic-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "33309",
+      "brand": "Team",
+      "model": "T-CREATE CLASSIC 32GB 5600MHz DDR5",
+      "title": "TEAM T-CREATE CLASSIC 32GB 5600MHz DDR5 Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "32GB",
+        "Type- DDR5, Speed": "5600MHz",
+        "Operating Voltage": "1.1V",
+        "Latency": "CL46-45-45-90"
+      },
+      "specs_summary": "Capacity: 32GB | Type- DDR5, Speed: 5600MHz | Operating Voltage: 1.1V | Latency: CL46-45-45-90",
+      "url": "https://www.startech.com.bd/team-t-create-classic-32gb-5600mhz-ddr5-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/team/classic/classic-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "23367",
+      "brand": "Kingston",
+      "model": "Value RAM",
+      "title": "Kingston Value RAM 4GB DDR4 2666MHz Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Memory Capacity": "4GB",
+        "Form Factor": "DDR4",
+        "Speed (Data Rate)": "2666MT/s",
+        "CAS Latency": "CL19, Pin: 260 Pin"
+      },
+      "specs_summary": "Memory Capacity: 4GB | Form Factor: DDR4 | Speed (Data Rate): 2666MT/s | CAS Latency: CL19, Pin: 260 Pin",
+      "url": "https://www.startech.com.bd/kingston-value-ram-4gb-ddr4-2666mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/kingston/kvr32s22s6-8/kvr32s22s6-8-02-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "23369",
+      "brand": "Kingston",
+      "model": "Value RAM",
+      "title": "Kingston Value RAM 4GB DDR4 3200MHz Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Memory Capacity": "4GB",
+        "Form Factor": "DDR4",
+        "Speed (Data Rate)": "3200MT/s",
+        "CAS Latency": "CL22, Pin: 260 Pin"
+      },
+      "specs_summary": "Memory Capacity: 4GB | Form Factor: DDR4 | Speed (Data Rate): 3200MT/s | CAS Latency: CL22, Pin: 260 Pin",
+      "url": "https://www.startech.com.bd/kingston-value-ram-4gb-ddr4-3200mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/kingston/kvr32s22s6-8/kvr32s22s6-8-02-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "23366",
+      "brand": "Kingston",
+      "model": "Value RAM",
+      "title": "Kingston Value RAM 8GB DDR4 2666MHz Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Memory Capacity": "8GB",
+        "Form Factor": "DDR4",
+        "Speed (Data Rate)": "2666MT/s",
+        "CAS Latency": "CL19, Pin: 260 Pin"
+      },
+      "specs_summary": "Memory Capacity: 8GB | Form Factor: DDR4 | Speed (Data Rate): 2666MT/s | CAS Latency: CL19, Pin: 260 Pin",
+      "url": "https://www.startech.com.bd/kingston-value-ram-8gb-ddr4-2666mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/kingston/kvr32s22s6-8/kvr32s22s6-8-02-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "23365",
+      "brand": "Kingston",
+      "model": "Value RAM",
+      "title": "Kingston Value RAM 8GB DDR4 3200MHz Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Memory Capacity": "8GB",
+        "Form Factor": "DDR4",
+        "Speed (Data Rate)": "3200MT/s",
+        "CAS Latency": "CL22, Pin: 260 Pin"
+      },
+      "specs_summary": "Memory Capacity: 8GB | Form Factor: DDR4 | Speed (Data Rate): 3200MT/s | CAS Latency: CL22, Pin: 260 Pin",
+      "url": "https://www.startech.com.bd/kingston-value-ram-8gb-ddr4-3200mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/kingston/kvr32s22s6-8/kvr32s22s6-8-02-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "23364",
+      "brand": "Kingston",
+      "model": "Value RAM",
+      "title": "Kingston Value RAM 16GB DDR4 3200MHz Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Memory Capacity": "16GB",
+        "Form Factor": "DDR4",
+        "Speed (Data Rate)": "3200MT/s",
+        "CAS Latency": "CL22, Pin: 260 Pin"
+      },
+      "specs_summary": "Memory Capacity: 16GB | Form Factor: DDR4 | Speed (Data Rate): 3200MT/s | CAS Latency: CL22, Pin: 260 Pin",
+      "url": "https://www.startech.com.bd/kingston-value-ram-16gb-ddr4-3200mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/kingston/kvr32s22s8-16/kvr32s22s8-16-02-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "laptop-ram",
       "product_id": "35440",
       "brand": "Corsair",
@@ -685,7 +3531,124 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "37319",
+      "brand": "Corsair",
+      "model": "VENGEANCE 16GB DDR5 4800MHz SODIMM",
+      "title": "CORSAIR VENGEANCE 16GB DDR5 4800MHz SODIMM Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "16GB, Memory Type: DDR5",
+        "Tested Speed": "4800MHz",
+        "Tested Voltage": "1.1V",
+        "Tested Latency": "40-40-40-77"
+      },
+      "specs_summary": "Capacity: 16GB, Memory Type: DDR5 | Tested Speed: 4800MHz | Tested Voltage: 1.1V | Tested Latency: 40-40-40-77",
+      "url": "https://www.startech.com.bd/corsair-vengeance-16gb-ddr5-4800mhz-sodimm-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/cosair/vengeance-16gb-ddr5/vengeance-16gb-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "42791",
+      "brand": "Corsair",
+      "model": "VENGEANCE 16GB DDR5 5200MHz SODIMM",
+      "title": "Corsair VENGEANCE 16GB DDR5 5200MHz SODIMM Laptop RAM",
+      "current_price": 27500,
+      "regular_price": 27500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "16GB, Memory Type: DDR5",
+        "Tested Speed": "5200 MHz",
+        "Tested Voltage": "1.10V",
+        "Tested Latency": "44-44-44-84"
+      },
+      "specs_summary": "Capacity: 16GB, Memory Type: DDR5 | Tested Speed: 5200 MHz | Tested Voltage: 1.10V | Tested Latency: 44-44-44-84",
+      "url": "https://www.startech.com.bd/corsair-vengeance-16gb-ddr5-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/corsair/vengeance-sodimm-ddr5/vengeance-sodimm-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 27500,
+      "lowest_price": 27500,
+      "lowest_price_date": "2026-11-06",
+      "highest_price": 27500,
+      "highest_price_date": "2026-11-06",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 27500,
+          "regular_price": 27500,
+          "stock_status": "In Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "37322",
+      "brand": "Corsair",
+      "model": "VENGEANCE 16GB DDR5 5600MHz SODIMM",
+      "title": "CORSAIR VENGEANCE 16GB DDR5 5600MHz SODIMM Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "16GB, Memory Type: DDR5",
+        "Tested Speed": "5600MHz",
+        "Tested Voltage": "1.1V",
+        "Tested Latency": "48-48-48-90"
+      },
+      "specs_summary": "Capacity: 16GB, Memory Type: DDR5 | Tested Speed: 5600MHz | Tested Voltage: 1.1V | Tested Latency: 48-48-48-90",
+      "url": "https://www.startech.com.bd/corsair-vengeance-16gb-ddr5-5600mhz-sodimm-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/cosair/vengeance-16gb-ddr5/vengeance-16gb-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "laptop-ram",
       "product_id": "27392",
       "brand": "Corsair",
@@ -723,7 +3686,85 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "49943",
+      "brand": "Corsair",
+      "model": "VENGEANCE 8GB DDR5 4800MHz SODIMM",
+      "title": "CORSAIR VENGEANCE 8GB DDR5 4800MHz SODIMM Laptop RAM",
+      "current_price": 17000,
+      "regular_price": 17000,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "8GB, Memory Type: DDR5",
+        "Tested Speed": "4800MHz",
+        "Tested Voltage": "1.1V",
+        "Tested Latency": "40-40-40-77"
+      },
+      "specs_summary": "Capacity: 8GB, Memory Type: DDR5 | Tested Speed: 4800MHz | Tested Voltage: 1.1V | Tested Latency: 40-40-40-77",
+      "url": "https://www.startech.com.bd/corsair-vengeance-8gb-ddr5-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/cosair/vengeance-16gb-ddr5/vengeance-16gb-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 17000,
+      "lowest_price": 17000,
+      "lowest_price_date": "2026-11-06",
+      "highest_price": 17000,
+      "highest_price_date": "2026-11-06",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 17000,
+          "regular_price": 17000,
+          "stock_status": "In Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "45567",
+      "brand": "TwinMOS",
+      "model": "VOLTX 8GB DDR5 5600Mhz SO-DIMM",
+      "title": "TwinMOS VOLTX 8GB DDR5 5600Mhz SO-DIMM Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "8GB",
+        "RAM Type": "DDR5",
+        "Frequency": "5600Mhz",
+        "CAS Latency": "CL46"
+      },
+      "specs_summary": "Capacity: 8GB | RAM Type: DDR5 | Frequency: 5600Mhz | CAS Latency: CL46",
+      "url": "https://www.startech.com.bd/twinmos-voltx-8gb-ddr5-5600mhz-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/twinmos/voltx-8gb-ddr5/voltx-8gb-ddr5-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "laptop-ram",
       "product_id": "31466",
       "brand": "PNY",
@@ -756,6 +3797,45 @@
           "regular_price": 16000,
           "stock_status": "In Stock",
           "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "laptop-ram",
+      "product_id": "46140",
+      "brand": "PNY",
+      "model": "XLR8 Gaming 8GB DDR4 3200MHz CL22",
+      "title": "PNY XLR8 Gaming 8GB DDR4 3200MHz CL22 Laptop RAM",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "8GB",
+        "Frequency Speed": "3200MHz",
+        "CAS Latency": "CL22",
+        "Form Factor": "SODIMM"
+      },
+      "specs_summary": "Capacity: 8GB | Frequency Speed: 3200MHz | CAS Latency: CL22 | Form Factor: SODIMM",
+      "url": "https://www.startech.com.bd/pny-xlr8-gaming-8gb-ddr4-cl22-laptop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/pny/xlr8-gaming/xlr8-gaming-01-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
         }
       ]
     }

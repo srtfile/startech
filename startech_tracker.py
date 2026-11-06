@@ -641,7 +641,7 @@ class StartechTracker:
                 "highest_price_date": highest_date,
                 "stock_status": new_stock,
                 "previous_stock_status": old_stock if stock_changed else prev.get("previous_stock_status", new_stock),
-                "price_history": history_list[-100:],  # Keep up to last 100 distinct transitions per item
+                "price_history": history_list,
             }
             history_index[pid] = record
 
@@ -823,8 +823,6 @@ class StartechTracker:
                 existing_events = []
 
         existing_events.extend(events)
-        # Keep most recent 5,000 events in JSON
-        existing_events = existing_events[-5000:]
         with open(CHANGES_JSON_FILE, "w", encoding="utf-8") as f:
             json.dump(
                 {

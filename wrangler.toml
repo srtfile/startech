@@ -12,3 +12,4 @@ GITHUB_BRANCH = "main"
 # add your GitHub token as a secret in Cloudflare Workers:
 #   npx wrangler secret put GITHUB_TOKEN
 # or in Cloudflare Dashboard -> Workers & Pages -> startech-price-tracker -> Settings -> Variables and Secrets -> Add GITHUB_TOKEN
+

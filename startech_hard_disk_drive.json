@@ -1,11 +1,284 @@
 {
-  "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+  "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
   "category": "hard-disk-drive",
   "sorted_by": "model",
-  "total_items": 20,
+  "total_items": 111,
   "products": [
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "23092",
+      "brand": "Seagate",
+      "model": "1TB 2.5 Inch SATA",
+      "title": "Seagate 1TB 2.5 Inch SATA Laptop HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "1TB",
+        "Form factor": "2.5 Inch",
+        "Interface (Built-in)": "SATA 6.0Gb/s",
+        "Average Seek Time": "13ms"
+      },
+      "specs_summary": "Capacity: 1TB | Form factor: 2.5 Inch | Interface (Built-in): SATA 6.0Gb/s | Average Seek Time: 13ms",
+      "url": "https://www.startech.com.bd/seagate-1tb-sata-laptop-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/seagate-1tb/seagate-1tb-01-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "4716",
+      "brand": "Toshiba",
+      "model": "1TB Sata Laptop Hard Disk",
+      "title": "Toshiba 1TB Sata Laptop Hard Disk",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "1TB",
+        "Interface": "Serial ATA",
+        "Rotational Speed": "5400 RPM",
+        "Form factor": "2.5 inch"
+      },
+      "specs_summary": "Capacity: 1TB | Interface: Serial ATA | Rotational Speed: 5400 RPM | Form factor: 2.5 inch",
+      "url": "https://www.startech.com.bd/toshiba-1-tb-laptop-hard-disk",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/1-tb-laptop-hard-disk/1-tb-laptop-hard-disk-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "410",
+      "brand": "Toshiba",
+      "model": "2TB Sata Desktop Hard Disk",
+      "title": "Toshiba 2TB Sata Desktop Hard Disk",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "2TB",
+        "Interface": "ATA-8 Serial ATA 3.0",
+        "Rotational Speed": "7200RPM",
+        "Form factor": "3.5 inch"
+      },
+      "specs_summary": "Capacity: 2TB | Interface: ATA-8 Serial ATA 3.0 | Rotational Speed: 7200RPM | Form factor: 3.5 inch",
+      "url": "https://www.startech.com.bd/toshiba-2tb-dt01aca200-sata-hard-disk",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/dt01aca200/dt01aca200-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "24969",
+      "brand": "Toshiba",
+      "model": "3TB SATA Desktop Hard Disk",
+      "title": "Toshiba 3TB SATA Desktop Hard Disk",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Storage": "3TB",
+        "RPM": "7200 RPM",
+        "Interface": "SATA 6Gb/s",
+        "Form factor": "3.5 inch"
+      },
+      "specs_summary": "Storage: 3TB | RPM: 7200 RPM | Interface: SATA 6Gb/s | Form factor: 3.5 inch",
+      "url": "https://www.startech.com.bd/toshiba-3tb-sata-desktop-hard-disk",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/3tb-sata-hard-disk/3tb-sata-hard-disk-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "17195",
+      "brand": "Seagate",
+      "model": "4TB 3.5\" 64MB Cache 5900RPM Internal",
+      "title": "Seagate 4TB 3.5\" 64MB Cache 5900RPM Internal Surveillance HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "4TB",
+        "Form Factor": "3.5\"",
+        "Cache capacity": "64MB",
+        "Drive speed": "5900 rpm"
+      },
+      "specs_summary": "Capacity: 4TB | Form Factor: 3.5\" | Cache capacity: 64MB | Drive speed: 5900 rpm",
+      "url": "https://www.startech.com.bd/seagate-4tb-5900rpm-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/skyhawk-4tb-5900rpm/skyhawk-4tb-5900rpm-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "2361",
+      "brand": "Toshiba",
+      "model": "4TB Sata Desktop Hard Disk",
+      "title": "Toshiba 4TB Sata Desktop Hard Disk",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "4TB",
+        "Interface": "ATA-8 Serial ATA 3.0",
+        "Rotational Speed": "5400 RPM",
+        "Latency Time": "4.17ms"
+      },
+      "specs_summary": "Capacity: 4TB | Interface: ATA-8 Serial ATA 3.0 | Rotational Speed: 5400 RPM | Latency Time: 4.17ms",
+      "url": "https://www.startech.com.bd/toshiba-md04aca400-4tb-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/md04aca400/md04aca400-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "17198",
+      "brand": "Seagate",
+      "model": "6TB 3.5\" 64MB Cache 5900RPM Internal",
+      "title": "Seagate 6TB 3.5\" 64MB Cache 5900RPM Internal Surveillance HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "6TB",
+        "Form Factor": "3.5\"",
+        "Cache capacity": "64MB",
+        "Drive speed": "5900 rpm"
+      },
+      "specs_summary": "Capacity: 6TB | Form Factor: 3.5\" | Cache capacity: 64MB | Drive speed: 5900 rpm",
+      "url": "https://www.startech.com.bd/seagate-6tb-5900rpm-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/6tb-5900rpm/6tb-5900rpm-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "hard-disk-drive",
       "product_id": "5972",
       "brand": "Western Digital",
@@ -41,7 +314,161 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "11094",
+      "brand": "Seagate",
+      "model": "Barracuda 1TB 2.5 Inch SATA",
+      "title": "Seagate Barracuda 1TB 2.5 Inch SATA Laptop HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "1TB",
+        "Form factor": "2.5 Inch",
+        "Interface (Built-in)": "SATA 6.0Gb/s",
+        "Average Seek Time": "13ms"
+      },
+      "specs_summary": "Capacity: 1TB | Form factor: 2.5 Inch | Interface (Built-in): SATA 6.0Gb/s | Average Seek Time: 13ms",
+      "url": "https://www.startech.com.bd/seagate-barracuda-1tb-sata-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/barracuda35/barracuda35-1-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "6513",
+      "brand": "Seagate",
+      "model": "Barracuda 1TB 7200RPM 3.5\" SATA",
+      "title": "Seagate Barracuda 1TB 7200RPM 3.5\" SATA HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "1TB",
+        "Interface": "SATA 6Gb/s",
+        "Latency Average": "6Gb/s",
+        "Rotational Speed": "7200 RPM"
+      },
+      "specs_summary": "Capacity: 1TB | Interface: SATA 6Gb/s | Latency Average: 6Gb/s | Rotational Speed: 7200 RPM",
+      "url": "https://www.startech.com.bd/seagate-1tb-barracuda",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/barracuda-1tb/barracuda-1tb-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "18485",
+      "brand": "Seagate",
+      "model": "Barracuda 2TB 2.5 Inch SATA",
+      "title": "Seagate Barracuda 2TB 2.5 Inch SATA Laptop HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "2TB",
+        "Form factor": "2.5 Inch",
+        "Interface (Built-in)": "SATA 6.0Gb/s",
+        "Average Seek Time": "13ms"
+      },
+      "specs_summary": "Capacity: 2TB | Form factor: 2.5 Inch | Interface (Built-in): SATA 6.0Gb/s | Average Seek Time: 13ms",
+      "url": "https://www.startech.com.bd/seagate-barracuda-2tb-sata-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/barracuda/barracuda-0010-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "8883",
+      "brand": "Seagate",
+      "model": "Barracuda 2TB 3.5 Inch SATA 5400RPM",
+      "title": "Seagate Barracuda 2TB 3.5 Inch SATA 5400RPM Desktop HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "RPM Class": "5400",
+        "Features": "Capacity\t2TB | Interface SATA 6Gb/s | Cache 64MB"
+      },
+      "specs_summary": "RPM Class: 5400 | Features: Capacity\t2TB | Interface SATA 6Gb/s | Cache 64MB",
+      "url": "https://www.startech.com.bd/seagate-2tb-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/2tb-hdd/2tb-hdd-1-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "hard-disk-drive",
       "product_id": "14262",
       "brand": "Seagate",
@@ -79,7 +506,7 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "hard-disk-drive",
       "product_id": "8884",
       "brand": "Seagate",
@@ -115,7 +542,46 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "12192",
+      "brand": "Seagate",
+      "model": "Barracuda 6TB 3.5 Inch",
+      "title": "Seagate Barracuda 6TB 3.5 Inch Desktop HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "6TB",
+        "Interface": "SATA 6.0Gb/s",
+        "Cache": "256MB",
+        "RPM Class": "5400 rpm"
+      },
+      "specs_summary": "Capacity: 6TB | Interface: SATA 6.0Gb/s | Cache: 256MB | RPM Class: 5400 rpm",
+      "url": "https://www.startech.com.bd/seagate-barracuda-6tb-desktop-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/barracuda-6tb/barracuda-6tb-01-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "hard-disk-drive",
       "product_id": "12191",
       "brand": "Seagate",
@@ -153,7 +619,421 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "45837",
+      "brand": "Hikvision",
+      "model": "DS80HKVS-VX1 8TB 5400RPM 3.5\" SATA",
+      "title": "Hikvision DS80HKVS-VX1 8TB 5400RPM 3.5\" SATA Surveillance HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Storage Capacity": "8TB, 5400RPM",
+        "Form-Factor": "3.5-inch, Interface: SATA 6.0Gb/s",
+        "Features": "Advanced Format 512e Sector Technology | Designed for 24x7 operation, 1M Hours MTTF"
+      },
+      "specs_summary": "Storage Capacity: 8TB, 5400RPM | Form-Factor: 3.5-inch, Interface: SATA 6.0Gb/s | Features: Advanced Format 512e Sector Technology | Designed for 24x7 operation, 1M Hours MTTF",
+      "url": "https://www.startech.com.bd/hikvision-ds80hkvs-vx1-8tb-sata-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/hikvision/ds80hkvs-vx1/ds80hkvs-vx1-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "17378",
+      "brand": "Toshiba",
+      "model": "DT01ABA100V 1TB",
+      "title": "Toshiba DT01ABA100V 1TB Surveillance Hard Drive",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Speed": "5,700 rpm",
+        "Features": "3.5-inch, Low Profile Form Factor | SATA up to 6.0 Gbit/s | Applicable for STB, DVR, NVR"
+      },
+      "specs_summary": "Speed: 5,700 rpm | Features: 3.5-inch, Low Profile Form Factor | SATA up to 6.0 Gbit/s | Applicable for STB, DVR, NVR",
+      "url": "https://www.startech.com.bd/toshiba-dt01aba100v-1tb-surveillance-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/dt01aba100v/dt01aba100v-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "39152",
+      "brand": "Seagate",
+      "model": "Exos 7E10 10TB 7200RPM 3.5\" SATA Enterprise",
+      "title": "Seagate Exos 7E10 10TB 7200RPM 3.5\" SATA Enterprise HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Form Factor": "3.5\", Interface: SAS 12Gb/s,  SATA 6Gb/s",
+        "Features": "Hyperscale applications/cloud data centers | High-capacity density RAID storage | Centralized surveillance, Big data applications"
+      },
+      "specs_summary": "Form Factor: 3.5\", Interface: SAS 12Gb/s,  SATA 6Gb/s | Features: Hyperscale applications/cloud data centers | High-capacity density RAID storage | Centralized surveillance, Big data applications",
+      "url": "https://www.startech.com.bd/seagate-exos-7e10-10tb-sata-enterprise-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/exos-7e10/exos-7e10-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "40404",
+      "brand": "Seagate",
+      "model": "Exos 7E10 4TB 3.5 Inch SAS 7200RPM Enterprise",
+      "title": "Seagate Exos 7E10 4TB 3.5 Inch SAS 7200RPM Enterprise Internal HDD #ST4000NM025B",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Storage Type": "Enterprise HDD",
+        "Capacity": "4TB, Transfer Rates - 250MB/s",
+        "Form Factor": "3.5\", Interface: SAS 12Gb/s",
+        "Shock Resistance": "70 / 40Gs (2 ms Read/Write)"
+      },
+      "specs_summary": "Storage Type: Enterprise HDD | Capacity: 4TB, Transfer Rates - 250MB/s | Form Factor: 3.5\", Interface: SAS 12Gb/s | Shock Resistance: 70 / 40Gs (2 ms Read/Write)",
+      "url": "https://www.startech.com.bd/seagate-exos-7e10-4tb-sas-enterprise-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/exos-7e10-4tb-sas/exos-7e10-4tb-sas-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "32652",
+      "brand": "Seagate",
+      "model": "Exos 7E10 4TB 3.5 Inch SATA 7200RPM Enterprise",
+      "title": "Seagate Exos 7E10 4TB 3.5 Inch SATA 7200RPM Enterprise HDD #ST4000NM024B",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Form Factor": "3.5\", Interface: SATA 6Gb/s",
+        "Features": "Hyperscale applications/cloud data centers | High-capacity density RAID storage | Centralized surveillance, Big data applications"
+      },
+      "specs_summary": "Form Factor: 3.5\", Interface: SATA 6Gb/s | Features: Hyperscale applications/cloud data centers | High-capacity density RAID storage | Centralized surveillance, Big data applications",
+      "url": "https://www.startech.com.bd/seagate-exos-7e10-4tb-enterprise-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/exos-7e10/exos-7e10-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "39151",
+      "brand": "Seagate",
+      "model": "Exos 7E10 8TB 7200RPM 3.5\" SATA Enterprise",
+      "title": "Seagate Exos 7E10 8TB 7200RPM 3.5\" SATA Enterprise HDD",
+      "current_price": 68000,
+      "regular_price": 68000,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Form Factor": "3.5\", Interface: SAS 12Gb/s,  SATA 6Gb/s",
+        "Features": "Hyperscale applications/cloud data centers | High-capacity density RAID storage | Centralized surveillance, Big data applications"
+      },
+      "specs_summary": "Form Factor: 3.5\", Interface: SAS 12Gb/s,  SATA 6Gb/s | Features: Hyperscale applications/cloud data centers | High-capacity density RAID storage | Centralized surveillance, Big data applications",
+      "url": "https://www.startech.com.bd/seagate-exos-7e10-8tb-sata-enterprise-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/exos-7e10/exos-7e10-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 68000,
+      "lowest_price": 68000,
+      "lowest_price_date": "2026-11-06",
+      "highest_price": 68000,
+      "highest_price_date": "2026-11-06",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 68000,
+          "regular_price": 68000,
+          "stock_status": "In Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "18428",
+      "brand": "Seagate",
+      "model": "Exos 7E8 4TB 512N Enterprise SATA",
+      "title": "Seagate Exos 7E8 4TB 512N Enterprise SATA Hard Drive",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Form Factor": "3.5 Inch, Interface: SATA 6Gb/s",
+        "RPM": "7200RPM, Buffer: 256MB",
+        "Features": "High-capacity density RAID storage | Massive scale-out data centers"
+      },
+      "specs_summary": "Form Factor: 3.5 Inch, Interface: SATA 6Gb/s | RPM: 7200RPM, Buffer: 256MB | Features: High-capacity density RAID storage | Massive scale-out data centers",
+      "url": "https://www.startech.com.bd/seagate-exos-7e8-4tb-512n-sata-hard-drive",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/exos-7e8/exos-7e8-03-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "16282",
+      "brand": "Seagate",
+      "model": "Exos X16 14TB 3.5 Inch SATA 7200RPM Enterprise",
+      "title": "Seagate Exos X16 14TB 3.5 Inch SATA 7200RPM Enterprise HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Features": "Hyperscale applications/cloud data centers | High-capacity density RAID storage | Centralized surveillance | Big data applications"
+      },
+      "specs_summary": "Features: Hyperscale applications/cloud data centers | High-capacity density RAID storage | Centralized surveillance | Big data applications",
+      "url": "https://www.startech.com.bd/seagate-exos-x16-14tb-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/exos-x16-14tb/exos-x16-14tb-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "18573",
+      "brand": "Seagate",
+      "model": "Exos X16 16TB 3.5 Inch SATA 7200RPM Enterprise",
+      "title": "Seagate Exos X16 16TB 3.5 Inch SATA 7200RPM Enterprise HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Form Factor 3.5\"; Interface": "SATA 6 Gb/s",
+        "Features": "Hyperscale applications/cloud data centers | High-capacity density RAID storage | Centralized surveillance, Big data applications"
+      },
+      "specs_summary": "Form Factor 3.5\"; Interface: SATA 6 Gb/s | Features: Hyperscale applications/cloud data centers | High-capacity density RAID storage | Centralized surveillance, Big data applications",
+      "url": "https://www.startech.com.bd/seagate-exos-x16-16tb-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/exos-x16/exos-x16-01-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "32750",
+      "brand": "Seagate",
+      "model": "Exos X18 10TB 7200rpm SATA III 3.5\" Enterprise",
+      "title": "Seagate Exos X18 10TB 7200rpm SATA III 3.5\" Enterprise HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "10TB Storage",
+        "Form Factor": "3.5 Inch",
+        "Interface": "SATA 6Gb/s",
+        "RPM": "7200 RPM"
+      },
+      "specs_summary": "Capacity: 10TB Storage | Form Factor: 3.5 Inch | Interface: SATA 6Gb/s | RPM: 7200 RPM",
+      "url": "https://www.startech.com.bd/seagate-exos-x18-10tb-7200rpm-enterprise-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/exos-x18-12tb/exos-x18-12tb-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "26845",
+      "brand": "Seagate",
+      "model": "Exos X18 12TB 7200rpm SATA III 3.5\"",
+      "title": "Seagate Exos X18 12TB 7200rpm SATA III 3.5\" NAS HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "12TB Storage",
+        "Interface": "SATA 6Gb/s",
+        "RPM": "7200 RPM",
+        "Transfer Rate": "600MB/s"
+      },
+      "specs_summary": "Capacity: 12TB Storage | Interface: SATA 6Gb/s | RPM: 7200 RPM | Transfer Rate: 600MB/s",
+      "url": "https://www.startech.com.bd/seagate-exos-x18-12tb-7200rpm-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/exos-x18-12tb/exos-x18-12tb-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "hard-disk-drive",
       "product_id": "39148",
       "brand": "Seagate",
@@ -191,7 +1071,160 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "18575",
+      "brand": "Seagate",
+      "model": "Exos X18 18TB 7200rpm SATA III 3.5\"",
+      "title": "Seagate Exos X18 18TB 7200rpm SATA III 3.5\" NAS HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Features": "18TB Storage Capacity | SATA III 6 Gb/s Interface | 3.5\" Form Factor | 256MB Cache"
+      },
+      "specs_summary": "Features: 18TB Storage Capacity | SATA III 6 Gb/s Interface | 3.5\" Form Factor | 256MB Cache",
+      "url": "https://www.startech.com.bd/seagate-exos-x18-18tb-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/exos-x18/exos-x18-01-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "38385",
+      "brand": "Seagate",
+      "model": "Exos X22 22TB 7200rpm SATA 6Gb/s 3.5\" Enterprise",
+      "title": "Seagate Exos X22 22TB 7200rpm SATA 6Gb/s 3.5\" Enterprise HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "22TB Storage",
+        "Form Factor": "3.5 Inch",
+        "Interface": "SATA 6Gb/s",
+        "RPM": "7200 RPM"
+      },
+      "specs_summary": "Capacity: 22TB Storage | Form Factor: 3.5 Inch | Interface: SATA 6Gb/s | RPM: 7200 RPM",
+      "url": "https://www.startech.com.bd/seagate-exos-x22-22tb-7200rpm-enterprise-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/exos-x22/exos-x22-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "49693",
+      "brand": "Seagate",
+      "model": "Exos X24 12TB 7200RPM 3.5\" SATA Enterprise",
+      "title": "Seagate Exos X24 12TB 7200RPM 3.5\" SATA Enterprise HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Storage Capacity": "12TB",
+        "Form Factor": "3.5 Inch",
+        "Interface": "SATA 6Gb/s",
+        "RPM": "7200 RPM, Buffer: 512MB"
+      },
+      "specs_summary": "Storage Capacity: 12TB | Form Factor: 3.5 Inch | Interface: SATA 6Gb/s | RPM: 7200 RPM, Buffer: 512MB",
+      "url": "https://www.startech.com.bd/seagate-exos-x24-12tb-enterprise-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/exos-x24/exos-x24-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "46181",
+      "brand": "Seagate",
+      "model": "Exos X24 16TB 7200RPM 3.5\" SATA Enterprise",
+      "title": "Seagate Exos X24 16TB 7200RPM 3.5\" SATA Enterprise HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Storage Capacity": "16TB",
+        "Form Factor": "3.5 Inch",
+        "Interface": "SATA 6Gb/s",
+        "RPM": "7200 RPM, Buffer: 512MB"
+      },
+      "specs_summary": "Storage Capacity: 16TB | Form Factor: 3.5 Inch | Interface: SATA 6Gb/s | RPM: 7200 RPM, Buffer: 512MB",
+      "url": "https://www.startech.com.bd/seagate-exos-x24-16tb-enterprise-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/exos-x24/exos-x24-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "hard-disk-drive",
       "product_id": "39153",
       "brand": "Seagate",
@@ -229,7 +1262,239 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "49747",
+      "brand": "Seagate",
+      "model": "Exos X24 24TB 7200RPM 3.5\" SATA Enterprise",
+      "title": "Seagate Exos X24 24TB 7200RPM 3.5\" SATA Enterprise HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Storage Capacity": "24TB",
+        "Form Factor": "3.5 Inch",
+        "Interface": "SATA 6Gb/s",
+        "RPM": "7200 RPM, Buffer: 512MB"
+      },
+      "specs_summary": "Storage Capacity: 24TB | Form Factor: 3.5 Inch | Interface: SATA 6Gb/s | RPM: 7200 RPM, Buffer: 512MB",
+      "url": "https://www.startech.com.bd/seagate-exos-x24-24tb-enterprise-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/exos-x24/exos-x24-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "13872",
+      "brand": "Seagate",
+      "model": "Ironwolf 10TB Home, SOHO and Small Business",
+      "title": "Seagate Ironwolf 10TB Home, SOHO and Small Business NAS HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Storage Capacity": "10TB",
+        "Cache": "Up to 256 MB",
+        "Interface": "SATA 6Gb/s",
+        "Features": "1- to 8-bay network-attached storage (NAS)"
+      },
+      "specs_summary": "Storage Capacity: 10TB | Cache: Up to 256 MB | Interface: SATA 6Gb/s | Features: 1- to 8-bay network-attached storage (NAS)",
+      "url": "https://www.startech.com.bd/seagate-ironwolf-10tb-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/ironwolf-10tb/ironwolf-10tb-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "30624",
+      "brand": "Seagate",
+      "model": "IronWolf 10TB SATA 3.5\" 7200RPM NAS Hard Disk",
+      "title": "Seagate IronWolf 10TB SATA 3.5\" 7200RPM NAS Hard Disk",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Storage Capacity": "10TB",
+        "RPM": "7200 RPM",
+        "Form Factor": "3.5\"",
+        "Interface": "SATA III 6 Gb/s"
+      },
+      "specs_summary": "Storage Capacity: 10TB | RPM: 7200 RPM | Form Factor: 3.5\" | Interface: SATA III 6 Gb/s",
+      "url": "https://www.startech.com.bd/seagate-ironwolf-10tb-7200rpm-nas-hard-disk",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/ironwolf-10tb/ironwolf-10tb-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "32751",
+      "brand": "Seagate",
+      "model": "IronWolf 12TB 3.5 Inch SATA 7200RPM",
+      "title": "Seagate IronWolf 12TB 3.5 Inch SATA 7200RPM NAS HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Storage Capacity": "12TB",
+        "Form factor": "3.5-inch",
+        "Interface": "SATA III 6 Gb/s",
+        "Transfer Rate": "Up to 210 MB/s Data"
+      },
+      "specs_summary": "Storage Capacity: 12TB | Form factor: 3.5-inch | Interface: SATA III 6 Gb/s | Transfer Rate: Up to 210 MB/s Data",
+      "url": "https://www.startech.com.bd/seagate-ironwolf-12tb-sata-7200rpm-nas-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/ironwolf-12tb/ironwolf-12tb-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "18486",
+      "brand": "Seagate",
+      "model": "IronWolf 12TB NAS 7200 RPM 3.5\"",
+      "title": "Seagate IronWolf 12TB NAS 7200 RPM 3.5\" Internal HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Interface": "SATA 6.0Gb/s, RPM: 7200 RPM",
+        "Form Factor": "3.5\", Private Cloud",
+        "Features": "Multimedia Server Storage | Desktop RAID and Servers"
+      },
+      "specs_summary": "Interface: SATA 6.0Gb/s, RPM: 7200 RPM | Form Factor: 3.5\", Private Cloud | Features: Multimedia Server Storage | Desktop RAID and Servers",
+      "url": "https://www.startech.com.bd/seagate-ironwolf-12tb-nas-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/ironwolf/ironwolf-010-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "35495",
+      "brand": "Seagate",
+      "model": "IronWolf 2TB 3.5 Inch SATA 5400RPM",
+      "title": "Seagate IronWolf 2TB 3.5 Inch SATA 5400RPM NAS Hard Drive",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "RPM": "5400rpm, Buffer Memory: 256MB",
+        "Max. Sustained Transfer Rate OD": "180MB/s",
+        "Features": "CMR Technology and AgileArray Firmware | Compatible with 1-to 8-bay NAS servers"
+      },
+      "specs_summary": "RPM: 5400rpm, Buffer Memory: 256MB | Max. Sustained Transfer Rate OD: 180MB/s | Features: CMR Technology and AgileArray Firmware | Compatible with 1-to 8-bay NAS servers",
+      "url": "https://www.startech.com.bd/seagate-ironwolf-2tb-sata-nas-hard-drive",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/ironwolf-2tb/ironwolf-2tb-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "hard-disk-drive",
       "product_id": "26844",
       "brand": "Seagate",
@@ -267,7 +1532,273 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "11793",
+      "brand": "Seagate",
+      "model": "IronWolf 4TB SATA",
+      "title": "Seagate IronWolf 4TB SATA NAS HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Interface (Built-in)": "SATA 6.0Gb/s",
+        "Form factor": "3.5 Inch",
+        "Buffer": "64MB",
+        "Transfer Rate": "180MB/s"
+      },
+      "specs_summary": "Interface (Built-in): SATA 6.0Gb/s | Form factor: 3.5 Inch | Buffer: 64MB | Transfer Rate: 180MB/s",
+      "url": "https://www.startech.com.bd/seagate-ironwolf-4tb-nas-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/ironwolf-4tb/ironwolf-4tb-1-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "32748",
+      "brand": "Seagate",
+      "model": "IronWolf 6TB 3.5 Inch SATA 5400RPM",
+      "title": "Seagate IronWolf 6TB 3.5 Inch SATA 5400RPM NAS HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Storage Capacity": "6TB",
+        "Form factor": "3.5-inch",
+        "Interface": "SATA III 6 Gb/s",
+        "Transfer Rate": "Up to 202 MB/s Data"
+      },
+      "specs_summary": "Storage Capacity: 6TB | Form factor: 3.5-inch | Interface: SATA III 6 Gb/s | Transfer Rate: Up to 202 MB/s Data",
+      "url": "https://www.startech.com.bd/seagate-ironwolf-6tb-sata-5400rpm-nas-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/ironwolf-6tb/ironwolf-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "16578",
+      "brand": "Seagate",
+      "model": "IronWolf 6TB NAS 5400 RPM 3.5\"",
+      "title": "Seagate IronWolf 6TB NAS 5400 RPM 3.5\" Internal HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Storage Capacity": "6 TB",
+        "Form factor": "3.5 Inch",
+        "Features": "5400 RPM 256MB Cache | SATA 6.0Gb/s"
+      },
+      "specs_summary": "Storage Capacity: 6 TB | Form factor: 3.5 Inch | Features: 5400 RPM 256MB Cache | SATA 6.0Gb/s",
+      "url": "https://www.startech.com.bd/seagate-ironwolf-6tb-nas-internal-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/ironwolf-6tb/seagate-ironwolf-6tb-nas-internal-hdd-01-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "15952",
+      "brand": "Seagate",
+      "model": "IronWolf 6TB NAS 7200 RPM 3.5\"",
+      "title": "Seagate IronWolf 6TB NAS 7200 RPM 3.5\" Internal HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Features": "1- to 8-Bay Network Attached Storage (NAS) | Multimedia Server Storage | Desktop RAID and Servers | Private Cloud"
+      },
+      "specs_summary": "Features: 1- to 8-Bay Network Attached Storage (NAS) | Multimedia Server Storage | Desktop RAID and Servers | Private Cloud",
+      "url": "https://www.startech.com.bd/seagate-ironwolf-6tb-nas-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/ironwolf-6tb-nas/ironwolf-6tb-nas-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "21262",
+      "brand": "Seagate",
+      "model": "IronWolf 8TB NAS 3.5\" 7200RPM Desktop Hard disk",
+      "title": "Seagate IronWolf 8TB NAS 3.5\" 7200RPM Desktop Hard disk",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Features": "Actively protect NAS with IronWolf Health Management | High performance means no lag time | Optimized for NAS with AgileArray | Rotational Vibration (RV) sensors"
+      },
+      "specs_summary": "Features: Actively protect NAS with IronWolf Health Management | High performance means no lag time | Optimized for NAS with AgileArray | Rotational Vibration (RV) sensors",
+      "url": "https://www.startech.com.bd/seagate-ironwolf-8tb-nas-desktop-hard-disk",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/ironwolf-8tb-nas/ironwolf-8tb-nas-02-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "39155",
+      "brand": "Seagate",
+      "model": "IronWolf Pro 10TB 3.5-inch SATA 7200RPM",
+      "title": "Seagate IronWolf Pro 10TB 3.5-inch SATA 7200RPM NAS HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Storage Capacity": "10TB",
+        "Form factor": "3.5-inch",
+        "Interface": "SATA 6Gb/s",
+        "Workload Rate": "Up to 550 TB/year"
+      },
+      "specs_summary": "Storage Capacity: 10TB | Form factor: 3.5-inch | Interface: SATA 6Gb/s | Workload Rate: Up to 550 TB/year",
+      "url": "https://www.startech.com.bd/seagate-ironwolf-pro-10tb-sata-nas-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/ironwolf-pro-10tb/ironwolf-pro-10tb-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "32754",
+      "brand": "Seagate",
+      "model": "IronWolf Pro 12TB 3.5 Inch SATA 7200RPM",
+      "title": "Seagate IronWolf Pro 12TB 3.5 Inch SATA 7200RPM NAS HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Storage Capacity": "12TB",
+        "Form factor": "3.5-inch",
+        "Interface": "SATA III 6 Gb/s",
+        "Transfer Rate": "Up to 270 MB/s Data"
+      },
+      "specs_summary": "Storage Capacity: 12TB | Form factor: 3.5-inch | Interface: SATA III 6 Gb/s | Transfer Rate: Up to 270 MB/s Data",
+      "url": "https://www.startech.com.bd/seagate-ironwolf-pro-12tb-sata-7200rpm-nas-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/ironwolf-pro-12tb/ironwolf-pro-12tb-02-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "hard-disk-drive",
       "product_id": "32756",
       "brand": "Seagate",
@@ -305,7 +1836,733 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "16284",
+      "brand": "Seagate",
+      "model": "IronWolf Pro 16TB 3.5 Inch SATA 7200RPM",
+      "title": "Seagate IronWolf Pro 16TB 3.5 Inch SATA 7200RPM NAS Hard Drive",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Features": "Commercial and enterprise network-attached storage (NAS) | Virtual storage | On-premise private cloud | Backup, archiving & disaster recovery"
+      },
+      "specs_summary": "Features: Commercial and enterprise network-attached storage (NAS) | Virtual storage | On-premise private cloud | Backup, archiving & disaster recovery",
+      "url": "https://www.startech.com.bd/seagate-ironwolf-pro-16tb-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/ironwolf-pro-16tb/ironwolf-pro-16tb-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "20407",
+      "brand": "Seagate",
+      "model": "IronWolf Pro 18TB 3.5 Inch SATA 7200RPM",
+      "title": "Seagate IronWolf Pro 18TB 3.5 Inch SATA 7200RPM NAS Hard Drive",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Features": "Commercial and enterprise network-attached storage (NAS) | Virtual storage | On-premise private cloud | Backup, archiving & disaster recovery"
+      },
+      "specs_summary": "Features: Commercial and enterprise network-attached storage (NAS) | Virtual storage | On-premise private cloud | Backup, archiving & disaster recovery",
+      "url": "https://www.startech.com.bd/seagate-ironwolf-pro-18tb-nas-hard-drive",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/ironwolf-pro/18tb/ironwolf-pro-18tb-01-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "35721",
+      "brand": "Seagate",
+      "model": "IronWolf Pro 20TB 3.5-inch SATA 7200RPM",
+      "title": "Seagate IronWolf Pro 20TB 3.5-inch SATA 7200RPM NAS HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Storage Capacity": "20TB",
+        "Form factor": "3.5-inch",
+        "Interface": "SATA 6Gb/s",
+        "Workload Rate": "Up to 550 TB/year"
+      },
+      "specs_summary": "Storage Capacity: 20TB | Form factor: 3.5-inch | Interface: SATA 6Gb/s | Workload Rate: Up to 550 TB/year",
+      "url": "https://www.startech.com.bd/seagate-ironwolf-pro-20tb-nas-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/ironwolf-pro-20/ironwolf-pro-20tb-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "20405",
+      "brand": "Seagate",
+      "model": "IronWolf Pro 4TB 3.5 Inch SATA 7200RPM",
+      "title": "Seagate IronWolf Pro 4TB 3.5 Inch SATA 7200RPM NAS Hard Drive",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Features": "Commercial and enterprise network-attached storage (NAS) | Virtual storage | On-premise private cloud | Backup, archiving & disaster recovery"
+      },
+      "specs_summary": "Features: Commercial and enterprise network-attached storage (NAS) | Virtual storage | On-premise private cloud | Backup, archiving & disaster recovery",
+      "url": "https://www.startech.com.bd/seagate-ironwolf-pro-4tb-nas-hard-drive",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/ironwolf-pro/4tb/ironwolf-pro-4tb-01-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "14837",
+      "brand": "Seagate",
+      "model": "IronWolf Pro 6TB 3.5 Inch SATA 7200RPM",
+      "title": "Seagate IronWolf Pro 6TB 3.5 Inch SATA 7200RPM NAS HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Features": "Commercial and enterprise network-attached storage (NAS) | Virtual storage | On-premise private cloud | Backup, archiving & disaster recovery"
+      },
+      "specs_summary": "Features: Commercial and enterprise network-attached storage (NAS) | Virtual storage | On-premise private cloud | Backup, archiving & disaster recovery",
+      "url": "https://www.startech.com.bd/seagate-ironwolf-pro-6tb-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/ironwolf-pro-6tb/ironwolf-pro-6tb-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "16285",
+      "brand": "Seagate",
+      "model": "IronWolf Pro 8TB 3.5 Inch SATA 7200RPM",
+      "title": "Seagate IronWolf Pro 8TB 3.5 Inch SATA 7200RPM NAS Hard Drive",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Features": "Commercial and enterprise network-attached storage (NAS) | Virtual storage | On-premise private cloud | Backup, archiving & disaster recovery"
+      },
+      "specs_summary": "Features: Commercial and enterprise network-attached storage (NAS) | Virtual storage | On-premise private cloud | Backup, archiving & disaster recovery",
+      "url": "https://www.startech.com.bd/seagate-ironwolf-pro-8tb-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/ironwolf-pro-8tb/ironwolf-pro-8tb-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "32736",
+      "brand": "Seagate",
+      "model": "IronWolf Pro 8TB 3.5 Inch SATA 7200RPM",
+      "title": "Seagate IronWolf Pro 8TB 3.5 Inch SATA 7200RPM NAS HDD (3 Years Warranty)",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Storage Capacity": "8TB",
+        "Form factor": "3.5-inch",
+        "Interface": "SATA III 6 Gb/s",
+        "Transfer Rate": "Up to 255 MB/s Data"
+      },
+      "specs_summary": "Storage Capacity: 8TB | Form factor: 3.5-inch | Interface: SATA III 6 Gb/s | Transfer Rate: Up to 255 MB/s Data",
+      "url": "https://www.startech.com.bd/seagate-ironwolf-pro-8tb-sata-7200rpm-nas-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/ironwolf-pro/8tb/ironwolf-pro-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "16297",
+      "brand": "Toshiba",
+      "model": "MG06 Enterprise 10TB 3.5 Inch 7200RPM SATA",
+      "title": "TOSHIBA MG06 Enterprise 10TB 3.5 Inch 7200RPM SATA HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "10TB",
+        "Form Factor": "3.5-inch",
+        "Interface": "SATA 6 Gbit/s",
+        "Rotation Speed": "7200 rpm"
+      },
+      "specs_summary": "Capacity: 10TB | Form Factor: 3.5-inch | Interface: SATA 6 Gbit/s | Rotation Speed: 7200 rpm",
+      "url": "https://www.startech.com.bd/toshiba-mg06-enterprise-10tb-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/mg06-enterprise-10tb/mg06-enterprise-10tb-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "26557",
+      "brand": "Toshiba",
+      "model": "MG06 Enterprise 8TB 3.5 Inch 7200RPM SATA",
+      "title": "TOSHIBA MG06 Enterprise 8TB 3.5 Inch 7200RPM SATA HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "8TB",
+        "Interface": "SATA 6 Gbit/s",
+        "Rotation Speed": "7200 rpm",
+        "Data Transfer Speed": "230 MiB/s"
+      },
+      "specs_summary": "Capacity: 8TB | Interface: SATA 6 Gbit/s | Rotation Speed: 7200 rpm | Data Transfer Speed: 230 MiB/s",
+      "url": "https://www.startech.com.bd/toshiba-mg06-enterprise-8tb-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/mg06-enterprise-10tb/mg06-enterprise-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "16400",
+      "brand": "Toshiba",
+      "model": "MG07ACA Enterprise 12TB 3.5 Inch SATA 7200RPM",
+      "title": "Toshiba MG07ACA Enterprise 12TB 3.5 Inch SATA 7200RPM HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Form Factor": "3.5-inch",
+        "MTTF": "2,500,000 hours",
+        "Interface": "SATA 6 Gbit/s",
+        "Rotation Speed": "7200 rpm"
+      },
+      "specs_summary": "Form Factor: 3.5-inch | MTTF: 2,500,000 hours | Interface: SATA 6 Gbit/s | Rotation Speed: 7200 rpm",
+      "url": "https://www.startech.com.bd/toshiba-mg07aca-enterprise-12tb-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/mg07aca-enterprise-12tb/mg07aca-enterprise-12tb-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "16402",
+      "brand": "Toshiba",
+      "model": "MG07ACA Enterprise 14TB 3.5 Inch SATA 7200RPM",
+      "title": "Toshiba MG07ACA Enterprise 14TB 3.5 Inch SATA 7200RPM HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Form Factor": "3.5-inch",
+        "MTTF": "2,500,000 hours",
+        "Interface": "SATA 6 Gbit/s",
+        "Rotation Speed": "7200 rpm"
+      },
+      "specs_summary": "Form Factor: 3.5-inch | MTTF: 2,500,000 hours | Interface: SATA 6 Gbit/s | Rotation Speed: 7200 rpm",
+      "url": "https://www.startech.com.bd/toshiba-mg07aca-enterprise-14tb-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/mg07aca-enterprise-14tb/mg07aca-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "16405",
+      "brand": "Toshiba",
+      "model": "MG08 Enterprise 16TB 3.5 Inch SATA 7200RPM",
+      "title": "Toshiba MG08 Enterprise 16TB 3.5 Inch SATA 7200RPM HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Form Factor": "3.5-inch",
+        "MTTF": "2,500,000 hours",
+        "Interface": "SATA 6 Gbit/s",
+        "Rotation Speed": "7200 rpm"
+      },
+      "specs_summary": "Form Factor: 3.5-inch | MTTF: 2,500,000 hours | Interface: SATA 6 Gbit/s | Rotation Speed: 7200 rpm",
+      "url": "https://www.startech.com.bd/toshiba-mg08-enterprise-16tb-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/mg08-18tb/mg08-18tb-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "49458",
+      "brand": "Toshiba",
+      "model": "MG08 Enterprise 18TB 3.5 Inch SATA 7200RPM",
+      "title": "Toshiba MG08 Enterprise 18TB 3.5 Inch SATA 7200RPM HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Form Factor": "3.5-inch",
+        "Data Transfer Rates": "Up to 268 Mb/s",
+        "Interface": "SATA 6 Gbit/s",
+        "Rotation Speed": "7200 rpm"
+      },
+      "specs_summary": "Form Factor: 3.5-inch | Data Transfer Rates: Up to 268 Mb/s | Interface: SATA 6 Gbit/s | Rotation Speed: 7200 rpm",
+      "url": "https://www.startech.com.bd/toshiba-mg08-enterprise-18tb-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/mg08-18tb/mg08-18tb-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "33845",
+      "brand": "Toshiba",
+      "model": "MG08-D Series 6TB 3.5\" 7200RPM Enterprise",
+      "title": "TOSHIBA MG08-D Series 6TB 3.5\" 7200RPM Enterprise HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "6TB",
+        "Form Factor": "3.5-inch",
+        "Interface": "SATA 6 Gbit/s",
+        "Rotation Speed": "7200 rpm"
+      },
+      "specs_summary": "Capacity: 6TB | Form Factor: 3.5-inch | Interface: SATA 6 Gbit/s | Rotation Speed: 7200 rpm",
+      "url": "https://www.startech.com.bd/toshiba-mg08-d-series-6tb-enterprise-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/mg08-d-series/mg08-d-series-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "45785",
+      "brand": "Toshiba",
+      "model": "MG10-D 10TB 7200RPM 3.5\" SATA III Enterprise",
+      "title": "TOSHIBA MG10-D 10TB 7200RPM 3.5\" SATA III Enterprise HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "10TB, 512MB Cache",
+        "Form Factor": "3.5-inch, Rotation Speed: 7200 RPM",
+        "Interface": "SATA III 6 Gb/s, Workload Rate up to 550TB per Year",
+        "Features": "Up to 268 MB/s Data Transfer Speeds, 2.0 Million Hour MTBF"
+      },
+      "specs_summary": "Capacity: 10TB, 512MB Cache | Form Factor: 3.5-inch, Rotation Speed: 7200 RPM | Interface: SATA III 6 Gb/s, Workload Rate up to 550TB per Year | Features: Up to 268 MB/s Data Transfer Speeds, 2.0 Million Hour MTBF",
+      "url": "https://www.startech.com.bd/toshiba-mg10-d-10tb-enterprise-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/mg10-d/mg10-d-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "47000",
+      "brand": "Toshiba",
+      "model": "MG10-D 4TB 7200RPM 3.5\" SATA III Enterprise",
+      "title": "TOSHIBA MG10-D 4TB 7200RPM 3.5\" SATA III Enterprise HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "4TB, 512MB Cache",
+        "Form Factor": "3.5-inch, Rotation Speed: 7200 RPM",
+        "Interface": "SATA III 6 Gb/s, Workload Rate up to 550TB per Year",
+        "Features": "Up to 268 MB/s Data Transfer Speeds, 2.0 Million Hour MTBF"
+      },
+      "specs_summary": "Capacity: 4TB, 512MB Cache | Form Factor: 3.5-inch, Rotation Speed: 7200 RPM | Interface: SATA III 6 Gb/s, Workload Rate up to 550TB per Year | Features: Up to 268 MB/s Data Transfer Speeds, 2.0 Million Hour MTBF",
+      "url": "https://www.startech.com.bd/toshiba-mg10-d-4tb-enterprise-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/mg10-d/mg10-d-4tb-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "46304",
+      "brand": "Toshiba",
+      "model": "MG10-D 6TB 7200RPM 3.5\" SATA III Enterprise",
+      "title": "TOSHIBA MG10-D 6TB 7200RPM 3.5\" SATA III Enterprise HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "6TB, 512MB Cache",
+        "Form Factor": "3.5-inch, Rotation Speed: 7200 RPM",
+        "Interface": "SATA III 6 Gb/s, Workload Rate up to 550TB per Year",
+        "Features": "Up to 268 MB/s Data Transfer Speeds, 2.0 Million Hour MTBF"
+      },
+      "specs_summary": "Capacity: 6TB, 512MB Cache | Form Factor: 3.5-inch, Rotation Speed: 7200 RPM | Interface: SATA III 6 Gb/s, Workload Rate up to 550TB per Year | Features: Up to 268 MB/s Data Transfer Speeds, 2.0 Million Hour MTBF",
+      "url": "https://www.startech.com.bd/toshiba-mg10-d-6tb-enterprise-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/mg10-d/mg10-d-6tb-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "47339",
+      "brand": "Toshiba",
+      "model": "MG10-D 8TB 7200RPM 3.5\" SATA III Enterprise",
+      "title": "TOSHIBA MG10-D 8TB 7200RPM 3.5\" SATA III Enterprise HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "8TB, 512MB Cache",
+        "Form Factor": "3.5-inch, Rotation Speed: 7200 RPM",
+        "Interface": "SATA III 6 Gb/s, Workload Rate up to 550TB per Year",
+        "Features": "Up to 268 MB/s Data Transfer Speeds, 2.0 Million Hour MTBF"
+      },
+      "specs_summary": "Capacity: 8TB, 512MB Cache | Form Factor: 3.5-inch, Rotation Speed: 7200 RPM | Interface: SATA III 6 Gb/s, Workload Rate up to 550TB per Year | Features: Up to 268 MB/s Data Transfer Speeds, 2.0 Million Hour MTBF",
+      "url": "https://www.startech.com.bd/toshiba-mg10-d-8tb-enterprise-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/mg10-d/mg10-d-8tb-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "49462",
+      "brand": "Toshiba",
+      "model": "N300 10TB 3.5 Inch SATA 7200RPM",
+      "title": "Toshiba N300 10TB 3.5 Inch SATA 7200RPM NAS HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Form Factor": "3.5-inch",
+        "Data Transfer Rates": "Up to 248 Mb/s",
+        "Interface": "SATA 6 Gb/s",
+        "Rotation Speed": "7200 rpm"
+      },
+      "specs_summary": "Form Factor: 3.5-inch | Data Transfer Rates: Up to 248 Mb/s | Interface: SATA 6 Gb/s | Rotation Speed: 7200 rpm",
+      "url": "https://www.startech.com.bd/toshiba-n300-10tb-7200rpm-nas-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/n300-10tb/n300-10tb-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "hard-disk-drive",
       "product_id": "51721",
       "brand": "Toshiba",
@@ -343,7 +2600,163 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "49463",
+      "brand": "Toshiba",
+      "model": "N300 8TB 3.5 Inch SATA 7200RPM",
+      "title": "Toshiba N300 8TB 3.5 Inch SATA 7200RPM NAS HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Form Factor": "3.5-inch",
+        "Data Transfer Rates": "Up to 248 Mb/s",
+        "Interface": "SATA 6 Gb/s",
+        "Rotation Speed": "7200 rpm"
+      },
+      "specs_summary": "Form Factor: 3.5-inch | Data Transfer Rates: Up to 248 Mb/s | Interface: SATA 6 Gb/s | Rotation Speed: 7200 rpm",
+      "url": "https://www.startech.com.bd/toshiba-n300-8tb-7200rpm-nas-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/n300-8tb/n300-8tb-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "14935",
+      "brand": "Toshiba",
+      "model": "P300 1TB",
+      "title": "Toshiba P300 1TB Desktop PC Internal Hard Drive",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Storage": "1TB; RPM: 7200 rpm",
+        "Seek Time": "4.17ms, Buffer: 64MB",
+        "Form Factor": "3.5 Inch",
+        "Interface": "SATA 6Gb/s"
+      },
+      "specs_summary": "Storage: 1TB; RPM: 7200 rpm | Seek Time: 4.17ms, Buffer: 64MB | Form Factor: 3.5 Inch | Interface: SATA 6Gb/s",
+      "url": "https://www.startech.com.bd/toshiba-p300-1tb-internal-hard-drive",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/p300-1tb/p300-1tb-1-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "14343",
+      "brand": "Toshiba",
+      "model": "P300 2TB 3.5-Inch SATA 5400RPM",
+      "title": "Toshiba P300 2TB 3.5-Inch SATA 5400RPM Desktop HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "2TB 5400RPM",
+        "Type": "SATA Desktop HDD",
+        "Interface": "SATA 6Gb/s",
+        "Buffer": "128MB; Form Factor: 3.5 Inch"
+      },
+      "specs_summary": "Capacity: 2TB 5400RPM | Type: SATA Desktop HDD | Interface: SATA 6Gb/s | Buffer: 128MB; Form Factor: 3.5 Inch",
+      "url": "https://www.startech.com.bd/toshiba-p300-2tb-desktop-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/p300/p300-1-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "25774",
+      "brand": "Toshiba",
+      "model": "P300 2TB 3.5-Inch SATA 7200RPM",
+      "title": "Toshiba P300 2TB 3.5-Inch SATA 7200RPM Desktop HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "2TB 7200RPM",
+        "Interface": "SATA 6Gb/s",
+        "Buffer": "128MB",
+        "Form Factor": "3.5 Inch"
+      },
+      "specs_summary": "Capacity: 2TB 7200RPM | Interface: SATA 6Gb/s | Buffer: 128MB | Form Factor: 3.5 Inch",
+      "url": "https://www.startech.com.bd/toshiba-p300-2tb-sata-7200rpm-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/p300/p300-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "hard-disk-drive",
       "product_id": "14268",
       "brand": "Toshiba",
@@ -381,7 +2794,123 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "22840",
+      "brand": "Toshiba",
+      "model": "P300 6TB 3.5-Inch SATA 5400RPM",
+      "title": "Toshiba P300 6TB 3.5-Inch SATA 5400RPM Desktop HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Form Factor": "3.5 Inch",
+        "Interface": "SATA 6Gb/s",
+        "Rotational speed": "5400RPM",
+        "Buffer size": "128 MB"
+      },
+      "specs_summary": "Form Factor: 3.5 Inch | Interface: SATA 6Gb/s | Rotational speed: 5400RPM | Buffer size: 128 MB",
+      "url": "https://www.startech.com.bd/toshiba-p300-6tb-desktop-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/p300/p300-1-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "14356",
+      "brand": "Toshiba",
+      "model": "S300 10TB 3.5\"",
+      "title": "Toshiba S300 10TB 3.5\" Surveillance Hard Drive",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Interface": "SATA 3.0 Gb/s",
+        "Rotational Speed": "5400 rpm",
+        "Features": "Supports up to 64 video cameras | 128 MB buffer"
+      },
+      "specs_summary": "Interface: SATA 3.0 Gb/s | Rotational Speed: 5400 rpm | Features: Supports up to 64 video cameras | 128 MB buffer",
+      "url": "https://www.startech.com.bd/toshiba-surveillance-s300-10tb-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/s300/s300-1-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "20386",
+      "brand": "Toshiba",
+      "model": "S300 1TB 5700rpm 3.5\"",
+      "title": "Toshiba S300 1TB 5700rpm 3.5\" Surveillance Hard Drive",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Buffer size": "64 MB",
+        "Form factor": "3,5-inch",
+        "Interface": "6.0 Gbit/s",
+        "Cameras supported": "up to 64"
+      },
+      "specs_summary": "Buffer size: 64 MB | Form factor: 3,5-inch | Interface: 6.0 Gbit/s | Cameras supported: up to 64",
+      "url": "https://www.startech.com.bd/toshiba-s300-1tb-surveillance-hard-drive",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/s300/s300-1tb-01-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "hard-disk-drive",
       "product_id": "50298",
       "brand": "Toshiba",
@@ -419,7 +2948,7 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "hard-disk-drive",
       "product_id": "18580",
       "brand": "Toshiba",
@@ -457,7 +2986,7 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "hard-disk-drive",
       "product_id": "48809",
       "brand": "Toshiba",
@@ -495,7 +3024,46 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "51719",
+      "brand": "Toshiba",
+      "model": "S300 4TB 3.5 Inch 5400 RPM",
+      "title": "Toshiba S300 4TB 3.5 Inch 5400 RPM Surveillance Hard Disk Drive (3 Years Warranty)",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Storage": "4TB, Form Factor: 3.5 Inch",
+        "Interface": "SATA 6Gb/s",
+        "RPM": "5400 RPM, Buffer: 256MB",
+        "Reading Speed": "157 Mb/s"
+      },
+      "specs_summary": "Storage: 4TB, Form Factor: 3.5 Inch | Interface: SATA 6Gb/s | RPM: 5400 RPM, Buffer: 256MB | Reading Speed: 157 Mb/s",
+      "url": "https://www.startech.com.bd/toshiba-s300-4tb-surveillance-hard-drive",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/s300-4tb/s300-4tb-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "hard-disk-drive",
       "product_id": "20860",
       "brand": "Toshiba",
@@ -533,7 +3101,7 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "hard-disk-drive",
       "product_id": "53603",
       "brand": "Toshiba",
@@ -571,7 +3139,7 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "hard-disk-drive",
       "product_id": "53968",
       "brand": "Toshiba",
@@ -609,7 +3177,276 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "22839",
+      "brand": "Toshiba",
+      "model": "S300 Pro 10TB 7200rpm 3.5\"",
+      "title": "Toshiba S300 Pro 10TB 7200rpm 3.5\" Surveillance Hard Drive",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Rotational speed": "7,200 rpm",
+        "Data transfer speed": "248 MB/s Typ",
+        "Buffer size": "256 MB",
+        "Cameras supported": "up to 64"
+      },
+      "specs_summary": "Rotational speed: 7,200 rpm | Data transfer speed: 248 MB/s Typ | Buffer size: 256 MB | Cameras supported: up to 64",
+      "url": "https://www.startech.com.bd/toshiba-s300-pro-10tb-surveillance-hard-drive",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/s300-pro/s300-pro-01-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "51011",
+      "brand": "Toshiba",
+      "model": "S300 Pro 10TB 7200rpm 3.5\"",
+      "title": "Toshiba S300 Pro 10TB 7200rpm 3.5\" Surveillance Hard Drive (3 Years Warranty)",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Rotational speed": "7,200 rpm",
+        "Data transfer speed": "248 MB/s Typ",
+        "Buffer size": "256 MB",
+        "Cameras supported": "up to 64"
+      },
+      "specs_summary": "Rotational speed: 7,200 rpm | Data transfer speed: 248 MB/s Typ | Buffer size: 256 MB | Cameras supported: up to 64",
+      "url": "https://www.startech.com.bd/toshiba-s300-pro-10tb-surveillance-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/s300-pro/s300-pro-01-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "22838",
+      "brand": "Toshiba",
+      "model": "S300 Pro 6TB 7200rpm 3.5\"",
+      "title": "Toshiba S300 Pro 6TB 7200rpm 3.5\" Surveillance Hard Drive",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Rotational speed": "7,200 rpm",
+        "Data transfer speed": "241 MB/s Typ",
+        "Buffer size": "256 MB",
+        "Cameras supported": "up to 64"
+      },
+      "specs_summary": "Rotational speed: 7,200 rpm | Data transfer speed: 241 MB/s Typ | Buffer size: 256 MB | Cameras supported: up to 64",
+      "url": "https://www.startech.com.bd/toshiba-s300-pro-6tb-surveillance-hard-drive",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/s300-pro/s300-pro-01-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "20861",
+      "brand": "Toshiba",
+      "model": "S300 Pro 8TB 7200rpm 3.5\"",
+      "title": "Toshiba S300 Pro 8TB 7200rpm 3.5\" Surveillance Hard Drive",
+      "current_price": 62500,
+      "regular_price": 62500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Form factor": "3,5-inch",
+        "Interface": "6.0 Gbit/s",
+        "Buffer size": "256 MB",
+        "Cameras supported": "up to 64"
+      },
+      "specs_summary": "Form factor: 3,5-inch | Interface: 6.0 Gbit/s | Buffer size: 256 MB | Cameras supported: up to 64",
+      "url": "https://www.startech.com.bd/toshiba-s300-pro-8tb-7200rpm-surveillance-hard-drive",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/s300-pro/s300-pro-01-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 62500,
+      "lowest_price": 62500,
+      "lowest_price_date": "2026-11-06",
+      "highest_price": 62500,
+      "highest_price_date": "2026-11-06",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 62500,
+          "regular_price": 62500,
+          "stock_status": "In Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "9354",
+      "brand": "Seagate",
+      "model": "SkyHawk 10TB 3.5\"",
+      "title": "Seagate SkyHawk 10TB 3.5\" Surveillance Hard Drive",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "RPM Class": "5400",
+        "Features": "Type Internal | Capacity\t10TB | Interface SATA 6Gb/s"
+      },
+      "specs_summary": "RPM Class: 5400 | Features: Type Internal | Capacity\t10TB | Interface SATA 6Gb/s",
+      "url": "https://www.startech.com.bd/seagate-skyhawk-10tb-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/skyhawk/10tb-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "11102",
+      "brand": "Seagate",
+      "model": "Skyhawk 12TB 3.5\" SATA",
+      "title": "Seagate Skyhawk 12TB 3.5\" SATA Surveillance HDD (ST12000VX0008)",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Storage Capacity": "12TB",
+        "Buffer": "256MB",
+        "Interface": "SATA 6Gb/s",
+        "Features": "Rotational Vibration"
+      },
+      "specs_summary": "Storage Capacity: 12TB | Buffer: 256MB | Interface: SATA 6Gb/s | Features: Rotational Vibration",
+      "url": "https://www.startech.com.bd/seagate-skyhawk-12tb-surveillance-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/skyhawk-12tb/skyhawk-12tb-1-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "9350",
+      "brand": "Seagate",
+      "model": "SkyHawk 1TB 3.5\"",
+      "title": "Seagate SkyHawk 1TB 3.5\" Surveillance Hard Drive",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "RPM Class": "5400",
+        "Features": "Type Internal | Capacity\t1TB | Interface SATA 6Gb/s"
+      },
+      "specs_summary": "RPM Class: 5400 | Features: Type Internal | Capacity\t1TB | Interface SATA 6Gb/s",
+      "url": "https://www.startech.com.bd/seagate-skyhawk-1tb-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/skyhawk/1tb-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "hard-disk-drive",
       "product_id": "9351",
       "brand": "Seagate",
@@ -645,7 +3482,192 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "26827",
+      "brand": "Seagate",
+      "model": "Skyhawk 2TB 3.5\"",
+      "title": "Seagate Skyhawk 2TB 3.5\" Surveillance HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "2TB Storage",
+        "Features": "SATA III 6 Gb/s Interface, 256MB Cache | 600,000 Load/Unload Cycles | Designed for 24/7 Surveillance, Supports up to 64 HD Cameras"
+      },
+      "specs_summary": "Capacity: 2TB Storage | Features: SATA III 6 Gb/s Interface, 256MB Cache | 600,000 Load/Unload Cycles | Designed for 24/7 Surveillance, Supports up to 64 HD Cameras",
+      "url": "https://www.startech.com.bd/seagate-skyhawk-2tb-surveillance-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/skyhawk-2tb-surveillance/skyhawk-2tb-surveillance-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "8890",
+      "brand": "Seagate",
+      "model": "SkyHawk 4TB",
+      "title": "Seagate SkyHawk 4TB Surveillance Hard Drive",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "RPM Class": "5400",
+        "Features": "Type Internal | Capacity\t4TB | Interface SATA 6Gb/s"
+      },
+      "specs_summary": "RPM Class: 5400 | Features: Type Internal | Capacity\t4TB | Interface SATA 6Gb/s",
+      "url": "https://www.startech.com.bd/seagate-skyhawk-4tb-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/skyhawk/skyhawk-4tb-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "35476",
+      "brand": "Seagate",
+      "model": "Skyhawk 4TB 3.5\"",
+      "title": "Seagate Skyhawk 4TB 3.5\" Surveillance HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "4TB Storage",
+        "Features": "SATA III 6 Gb/s Interface, 256MB Cache | 600,000 Load/Unload Cycles | Designed for 24/7 Surveillance, Supports up to 64 HD Cameras"
+      },
+      "specs_summary": "Capacity: 4TB Storage | Features: SATA III 6 Gb/s Interface, 256MB Cache | 600,000 Load/Unload Cycles | Designed for 24/7 Surveillance, Supports up to 64 HD Cameras",
+      "url": "https://www.startech.com.bd/seagate-skyhawk-4tb-surveillance-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/skyhawk-4tb-5900rpm/skyhawk-4tb-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "8891",
+      "brand": "Seagate",
+      "model": "SkyHawk 6TB",
+      "title": "Seagate SkyHawk 6TB Surveillance Hard Drive",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "RPM Class": "5900",
+        "Features": "Type Internal | Capacity\t6TB | Interface SATA 6Gb/s"
+      },
+      "specs_summary": "RPM Class: 5900 | Features: Type Internal | Capacity\t6TB | Interface SATA 6Gb/s",
+      "url": "https://www.startech.com.bd/seagate-skyhawk-6tb-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/skyhawk-6tb/skyhawk-6tb-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "26842",
+      "brand": "Seagate",
+      "model": "Skyhawk 6TB 3.5\"",
+      "title": "Seagate Skyhawk 6TB 3.5\" Surveillance HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "6TB Storage",
+        "Features": "SATA III 6 Gb/s Interface, 256MB Cache | 300,000 Load/Unload Cycles | Designed for 24/7 Surveillance, Supports up to 64 HD Cameras"
+      },
+      "specs_summary": "Capacity: 6TB Storage | Features: SATA III 6 Gb/s Interface, 256MB Cache | 300,000 Load/Unload Cycles | Designed for 24/7 Surveillance, Supports up to 64 HD Cameras",
+      "url": "https://www.startech.com.bd/seagate-skyhawk-6tb-surveillance-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/skyhawk-6tb-surveillance/skyhawk-6tb-surveillance-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "hard-disk-drive",
       "product_id": "49751",
       "brand": "Seagate",
@@ -681,7 +3703,464 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "43711",
+      "brand": "Seagate",
+      "model": "Skyhawk 6TB 3.5\" Surveillance",
+      "title": "Seagate Skyhawk 6TB 3.5\" Surveillance Internal HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "6TB Storage",
+        "Features": "SATA III 6 Gb/s Interface, 256MB Cache | 300,000 Load/Unload Cycles | Designed for 24/7 Surveillance, Supports up to 64 HD Cameras"
+      },
+      "specs_summary": "Capacity: 6TB Storage | Features: SATA III 6 Gb/s Interface, 256MB Cache | 300,000 Load/Unload Cycles | Designed for 24/7 Surveillance, Supports up to 64 HD Cameras",
+      "url": "https://www.startech.com.bd/seagate-skyhawk-6tb-surveillance-internal-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/skyhawk-6tb-surveillance/skyhawk-6tb-001-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "9353",
+      "brand": "Seagate",
+      "model": "SkyHawk 8TB 3.5 inch SATA 5400RPM",
+      "title": "Seagate SkyHawk 8TB 3.5 inch SATA 5400RPM Surveillance HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "RPM Class": "5400",
+        "Features": "Type Internal | Capacity\t8TB | Interface SATA 6Gb/s"
+      },
+      "specs_summary": "RPM Class: 5400 | Features: Type Internal | Capacity\t8TB | Interface SATA 6Gb/s",
+      "url": "https://www.startech.com.bd/seagate-skyhawk-8tb-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/skyhawk/8tb-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "17201",
+      "brand": "Seagate",
+      "model": "SkyHawk 8TB 3.5 inch SATA 7200RPM",
+      "title": "Seagate SkyHawk 8TB 3.5 inch SATA 7200RPM Surveillance HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "8TB",
+        "Form Factor": "3.5\"",
+        "Drive speed": "7200 rpm",
+        "Transfer Rate": "210MB/s"
+      },
+      "specs_summary": "Capacity: 8TB | Form Factor: 3.5\" | Drive speed: 7200 rpm | Transfer Rate: 210MB/s",
+      "url": "https://www.startech.com.bd/seagate-skyhawk-8tb-7200rpm-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/skyhawk-8tb-7200rpm/skyhawk-8tb-7200rpm-228x228.jpeg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "26843",
+      "brand": "Seagate",
+      "model": "SkyHawk AI 10TB 3.5\"",
+      "title": "Seagate SkyHawk AI 10TB 3.5\" Surveillance HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "10TB Storage",
+        "300,000 Load/Unload Cycles, Internal Data Rate": "245 MB/s",
+        "Features": "SATA III 6 Gb/s Interface, 256MB Cache | Designed for 24/7 Surveillance, 2 Million Hours MTBF"
+      },
+      "specs_summary": "Capacity: 10TB Storage | 300,000 Load/Unload Cycles, Internal Data Rate: 245 MB/s | Features: SATA III 6 Gb/s Interface, 256MB Cache | Designed for 24/7 Surveillance, 2 Million Hours MTBF",
+      "url": "https://www.startech.com.bd/seagate-skyhawk-ai-10tb-surveillance-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/skyhawk-ai/skyhawk-ai-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "35021",
+      "brand": "Seagate",
+      "model": "SkyHawk AI 12TB 3.5\"",
+      "title": "Seagate SkyHawk AI 12TB 3.5\" Surveillance HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "12TB Storage",
+        "600,000 Load/Unload Cycles, Internal Data Rate": "255 MB/s",
+        "Features": "SATA III 6 Gb/s Interface, 256MB Cache | Designed for 24/7 Surveillance, 2.5 Million Hours MTBF"
+      },
+      "specs_summary": "Capacity: 12TB Storage | 600,000 Load/Unload Cycles, Internal Data Rate: 255 MB/s | Features: SATA III 6 Gb/s Interface, 256MB Cache | Designed for 24/7 Surveillance, 2.5 Million Hours MTBF",
+      "url": "https://www.startech.com.bd/seagate-skyhawk-ai-12tb-surveillance-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/skyhawk-ai/skyhawk-ai-12tb-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "49739",
+      "brand": "Seagate",
+      "model": "SkyHawk AI 16TB 3.5\"",
+      "title": "Seagate SkyHawk AI 16TB 3.5\" Surveillance HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "16TB Storage",
+        "600,000 Load/Unload Cycles, Internal Data Rate": "255 MB/s",
+        "Features": "SATA III 6 Gb/s Interface, 256MB Cache | Designed for 24/7 Surveillance, 2.5 Million Hours MTBF"
+      },
+      "specs_summary": "Capacity: 16TB Storage | 600,000 Load/Unload Cycles, Internal Data Rate: 255 MB/s | Features: SATA III 6 Gb/s Interface, 256MB Cache | Designed for 24/7 Surveillance, 2.5 Million Hours MTBF",
+      "url": "https://www.startech.com.bd/seagate-skyhawk-ai-16tb-surveillance-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/skyhawk-ai-16tb/skyhawk-ai-16tb-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "49741",
+      "brand": "Seagate",
+      "model": "SkyHawk AI 20TB 3.5\"",
+      "title": "Seagate SkyHawk AI 20TB 3.5\" Surveillance HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "20TB Storage",
+        "600,000 Load/Unload Cycles, Internal Data Rate": "255 MB/s",
+        "Features": "SATA III 6 Gb/s Interface, 256MB Cache | Designed for 24/7 Surveillance, 2.5 Million Hours MTBF"
+      },
+      "specs_summary": "Capacity: 20TB Storage | 600,000 Load/Unload Cycles, Internal Data Rate: 255 MB/s | Features: SATA III 6 Gb/s Interface, 256MB Cache | Designed for 24/7 Surveillance, 2.5 Million Hours MTBF",
+      "url": "https://www.startech.com.bd/seagate-skyhawk-ai-20tb-surveillance-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/skyhawk-ai-20tb/skyhawk-ai-20tb-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "35499",
+      "brand": "Seagate",
+      "model": "SkyHawk AI 8TB 3.5 Inch SATA 7200RPM",
+      "title": "Seagate SkyHawk AI 8TB 3.5 Inch SATA 7200RPM Surveillance HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "RPM": "7200rpm, Buffer Memory: 256MB",
+        "Max. Sustained Transfer Rate OD": "235MB/s",
+        "Features": "Built-in RV Sensor, CMR Recording Technology | Built for Video DVR & NVR Security Camera System"
+      },
+      "specs_summary": "RPM: 7200rpm, Buffer Memory: 256MB | Max. Sustained Transfer Rate OD: 235MB/s | Features: Built-in RV Sensor, CMR Recording Technology | Built for Video DVR & NVR Security Camera System",
+      "url": "https://www.startech.com.bd/seagate-skyhawk-ai-8tb-surveillance-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/skyhawk-ai-8tb/skyhawk-ai-8tb-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "17192",
+      "brand": "Seagate",
+      "model": "Skyhawk Lite 2TB 3.5\"",
+      "title": "Seagate Skyhawk Lite 2TB 3.5\" Surveillance HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "2TB",
+        "Features": "Low activity power | Support for S.M.A.R.T | Low-RPM spindle speed"
+      },
+      "specs_summary": "Capacity: 2TB | Features: Low activity power | Support for S.M.A.R.T | Low-RPM spindle speed",
+      "url": "https://www.startech.com.bd/seagate-skyhawk-lite-2tb-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/skyhawk-lite-2tb/skyhawk-lite-2tb-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "16290",
+      "brand": "Toshiba",
+      "model": "Tomcat Nearline 4TB 3.5 Inch 7200RPM SATA",
+      "title": "TOSHIBA Tomcat Nearline 4TB 3.5 Inch 7200RPM SATA NAS HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "4TB",
+        "Form Factor": "3.5-inch",
+        "Interface": "SATA 6 Gbit/s",
+        "Rotation Speed": "7200 rpm"
+      },
+      "specs_summary": "Capacity: 4TB | Form Factor: 3.5-inch | Interface: SATA 6 Gbit/s | Rotation Speed: 7200 rpm",
+      "url": "https://www.startech.com.bd/toshiba-tomcat-nearline-4tb-nas-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/tomcat-nearline-4tb/tomcat-nearline-4tb-228x228.jpg",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "38200",
+      "brand": "Toshiba",
+      "model": "Tomcat Nearline 8TB 3.5 Inch 7200RPM SATA",
+      "title": "TOSHIBA Tomcat Nearline 8TB 3.5 Inch 7200RPM SATA NAS HDD",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "8TB",
+        "Form Factor": "3.5-inch",
+        "Interface": "SATA 6 Gbit/s",
+        "Rotation Speed": "7200 rpm"
+      },
+      "specs_summary": "Capacity: 8TB | Form Factor: 3.5-inch | Interface: SATA 6 Gbit/s | Rotation Speed: 7200 rpm",
+      "url": "https://www.startech.com.bd/toshiba-tomcat-nearline-8tb-nas-hdd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/tomcat-nearline-8tb/tomcat-nearline-8tb-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
+      "category": "hard-disk-drive",
+      "product_id": "51716",
+      "brand": "Toshiba",
+      "model": "X300 10TB 3.5\" 7200 RPM SATA",
+      "title": "TOSHIBA X300 10TB 3.5\" 7200 RPM SATA Hard Disk Drive",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "10TB",
+        "Form factor": "3.5-inch",
+        "Interface": "SATA 6.0 Gb/s",
+        "Speed": "7200 rpm"
+      },
+      "specs_summary": "Capacity: 10TB | Form factor: 3.5-inch | Interface: SATA 6.0 Gb/s | Speed: 7200 rpm",
+      "url": "https://www.startech.com.bd/toshiba-x300-10tb-sata-hard-disk-drive",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/x300-10tb/x300-10tb-01-228x228.webp",
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "hard-disk-drive",
       "product_id": "17722",
       "brand": "Toshiba",
@@ -716,7 +4195,7 @@
       ]
     },
     {
-      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "extract-date": "Fri 06 Nov 2026 02:04 PM Friday",
       "category": "hard-disk-drive",
       "product_id": "28992",
       "brand": "Toshiba",
