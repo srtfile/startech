@@ -58,6 +58,14 @@ export default {
       if (path === "/api/catalog") {
         const cat = (url.searchParams.get("category") || "all").toLowerCase();
         if (cat === "all") {
+          try {
+            const masterData = await fetchGitHubJson("startech_all_products.json", env, ctx, forceRefresh);
+            if (masterData && (masterData.products || masterData.laptops)) {
+              return jsonResponse(masterData);
+            }
+          } catch (_) {
+            // Fallback to parallel category aggregation
+          }
           const allData = await fetchAllCategoriesParallel(env, ctx, forceRefresh);
           return jsonResponse(allData);
         }
