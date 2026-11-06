@@ -1,0 +1,768 @@
+{
+  "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+  "category": "monitor",
+  "sorted_by": "model",
+  "total_items": 20,
+  "products": [
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "monitor",
+      "product_id": "53318",
+      "brand": "Alimoto",
+      "model": "22C",
+      "title": "Alimoto 22C 21.5\" 100Hz FHD IPS Monitor",
+      "current_price": 7999,
+      "regular_price": 8500,
+      "discount_bdt": 501,
+      "stock_status": "In Stock",
+      "specs": {
+        "Resolution": "FHD (1920 × 1080)",
+        "Display": "IPS, 100Hz, 5 ms, 250 cd/m²",
+        "Ports": "1x HDMI, 1x VGA",
+        "Features": "72% NTSC, 100% SRGB, 100X100 mm VESA Mount"
+      },
+      "specs_summary": "Resolution: FHD (1920 × 1080) | Display: IPS, 100Hz, 5 ms, 250 cd/m² | Ports: 1x HDMI, 1x VGA | Features: 72% NTSC, 100% SRGB, 100X100 mm VESA Mount",
+      "url": "https://www.startech.com.bd/alimoto-22c-fhd-monitor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/monitor/alimoto/22c/22c-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 7999,
+      "lowest_price": 7999,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 7999,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 7999,
+          "regular_price": 8500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "monitor",
+      "product_id": "52907",
+      "brand": "GEESUU",
+      "model": "BAFANG M215LF2",
+      "title": "GEESUU BAFANG M215LF2 21.5\" 100Hz FHD IPS Monitor",
+      "current_price": 8999,
+      "regular_price": 8999,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Resolution": "FHD (1920 x 1080)",
+        "Display": "21.5 Inch IPS, 100Hz",
+        "Ports": "1x HDMI 1x VGA",
+        "Features": "Low Blue Light, VESA Mount"
+      },
+      "specs_summary": "Resolution: FHD (1920 x 1080) | Display: 21.5 Inch IPS, 100Hz | Ports: 1x HDMI 1x VGA | Features: Low Blue Light, VESA Mount",
+      "url": "https://www.startech.com.bd/geesuu-bafang-21-5-inch-100hz-monitor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/monitor/geesuu/bafang-21-5-inch/bafang-21-5-inch-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 8999,
+      "lowest_price": 8999,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 8999,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 8999,
+          "regular_price": 8999,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "monitor",
+      "product_id": "18840",
+      "brand": "Lenovo",
+      "model": "D19-10",
+      "title": "Lenovo D19-10 18.5 Inch HD HDMI VGA Monitor",
+      "current_price": 8799,
+      "regular_price": 9200,
+      "discount_bdt": 401,
+      "stock_status": "In Stock",
+      "specs": {
+        "Resolution": "1366 x 768",
+        "Display": "TN, 60Hz, 5ms",
+        "Ports": "HDMI, VGA",
+        "Features": "‎VESA Mount"
+      },
+      "specs_summary": "Resolution: 1366 x 768 | Display: TN, 60Hz, 5ms | Ports: HDMI, VGA | Features: ‎VESA Mount",
+      "url": "https://www.startech.com.bd/lenovo-d19-10-wled-monitor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/monitor/lenovo/d19-10/d19-10-001-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 8799,
+      "lowest_price": 8799,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 8799,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 8799,
+          "regular_price": 9200,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "monitor",
+      "product_id": "51189",
+      "brand": "Dahua",
+      "model": "DHI-LM19-L200N",
+      "title": "Dahua DHI-LM19-L200N 19.5\" 75Hz HD+ Monitor",
+      "current_price": 8200,
+      "regular_price": 8200,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Resolution": "HD+ (1600×900)",
+        "Display": "TN, 75Hz, 5ms",
+        "Ports": "1x HDMI, 1 x VGA",
+        "Features": "VESA Wall Mount Support"
+      },
+      "specs_summary": "Resolution: HD+ (1600×900) | Display: TN, 75Hz, 5ms | Ports: 1x HDMI, 1 x VGA | Features: VESA Wall Mount Support",
+      "url": "https://www.startech.com.bd/dahua-dhi-lm19-l200n-monitor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/monitor/dahua/dhi-lm19-l200n/dhi-lm19-l200n-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 8200,
+      "lowest_price": 8200,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 8200,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 8200,
+          "regular_price": 8200,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "monitor",
+      "product_id": "39902",
+      "brand": "Dahua",
+      "model": "DHI-LM22-A201YF",
+      "title": "Dahua DHI-LM22-A201YF 21.45\" IPS Full HD 100Hz Monitor",
+      "current_price": 8599,
+      "regular_price": 8900,
+      "discount_bdt": 301,
+      "stock_status": "In Stock",
+      "specs": {
+        "Resolution": "FHD (1920×1080)",
+        "Display": "IPS, 100Hz, 10ms",
+        "Ports": "1x HDMI, 1x VGA",
+        "Features": "Anti-Blue Light Design, Eye Protective"
+      },
+      "specs_summary": "Resolution: FHD (1920×1080) | Display: IPS, 100Hz, 10ms | Ports: 1x HDMI, 1x VGA | Features: Anti-Blue Light Design, Eye Protective",
+      "url": "https://www.startech.com.bd/dahua-dhi-lm22-a201yf-100hz-monitor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/monitor/dahua/dhi-lm22-a201yf/dhi-lm22-a201yf-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 8599,
+      "lowest_price": 8599,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 8599,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 8599,
+          "regular_price": 8900,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "monitor",
+      "product_id": "53142",
+      "brand": "Dahua",
+      "model": "DHI-LM22-A201YW",
+      "title": "Dahua DHI-LM22-A201YW 21.45\" IPS FHD 100Hz Monitor",
+      "current_price": 9200,
+      "regular_price": 9200,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Resolution": "FHD (1920×1080)",
+        "Display": "21.45\", IPS, 100Hz, 5ms",
+        "Ports": "1x HDMI, 1x VGA",
+        "Features": "Anti-Blue Light Design, Eye Protective"
+      },
+      "specs_summary": "Resolution: FHD (1920×1080) | Display: 21.45\", IPS, 100Hz, 5ms | Ports: 1x HDMI, 1x VGA | Features: Anti-Blue Light Design, Eye Protective",
+      "url": "https://www.startech.com.bd/dahua-dhi-lm22-a201yw-monitor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/monitor/dahua/dhi-lm22-a201yw/dhi-lm22-a201yw-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 9200,
+      "lowest_price": 9200,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 9200,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 9200,
+          "regular_price": 9200,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "monitor",
+      "product_id": "52080",
+      "brand": "Dahua",
+      "model": "DHI-LM22-A220",
+      "title": "Dahua DHI-LM22-A220 21.45\" 144Hz FHD VA Monitor",
+      "current_price": 8499,
+      "regular_price": 9100,
+      "discount_bdt": 601,
+      "stock_status": "In Stock",
+      "specs": {
+        "Resolution": "FHD (1920 x 1080)",
+        "Display": "VA, 120Hz (144Hz OC), 1ms MPRT",
+        "Ports": "HDMI 1.4 × 1, VGA × 1",
+        "Features": "Low Blue Light, VESA Mount"
+      },
+      "specs_summary": "Resolution: FHD (1920 x 1080) | Display: VA, 120Hz (144Hz OC), 1ms MPRT | Ports: HDMI 1.4 × 1, VGA × 1 | Features: Low Blue Light, VESA Mount",
+      "url": "https://www.startech.com.bd/dahua-dhi-lm22-a220-fhd-monitor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/monitor/dahua/dhi-lm22-a220/dhi-lm22-a220-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 8499,
+      "lowest_price": 8499,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 8499,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 8499,
+          "regular_price": 9100,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "monitor",
+      "product_id": "52021",
+      "brand": "Eurovision",
+      "model": "EV-GT2200",
+      "title": "Eurovision EV-GT2200 21.45\" 100Hz FHD Monitor",
+      "current_price": 7999,
+      "regular_price": 8500,
+      "discount_bdt": 501,
+      "stock_status": "In Stock",
+      "specs": {
+        "Resolution": "FHD (1920 x 1080)",
+        "Display": "280cd/㎡(max), 100Hz, 6.5ms",
+        "Ports": "VGA×1, HDMI×1",
+        "Features": "3D Digital Comb Filtering, VESA wall mount"
+      },
+      "specs_summary": "Resolution: FHD (1920 x 1080) | Display: 280cd/㎡(max), 100Hz, 6.5ms | Ports: VGA×1, HDMI×1 | Features: 3D Digital Comb Filtering, VESA wall mount",
+      "url": "https://www.startech.com.bd/eurovision-ev-gt2200-22-inch-monitor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/monitor/eurovision/ev-gt2200a/ev-gt2200-001-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 7999,
+      "lowest_price": 7999,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 7999,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 7999,
+          "regular_price": 8500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "monitor",
+      "product_id": "52018",
+      "brand": "Eurovision",
+      "model": "EV-GT2200A",
+      "title": "Eurovision EV-GT2200A 21.45\" 100Hz FHD Monitor",
+      "current_price": 8199,
+      "regular_price": 8900,
+      "discount_bdt": 701,
+      "stock_status": "In Stock",
+      "specs": {
+        "Resolution": "FHD (1920 x 1080)",
+        "Display": "280cd/㎡(max), 100Hz, 6.5ms",
+        "Ports": "VGA×1, HDMI×1, Audio Out x1",
+        "Features": "Built-in speaker, VESA wall mount"
+      },
+      "specs_summary": "Resolution: FHD (1920 x 1080) | Display: 280cd/㎡(max), 100Hz, 6.5ms | Ports: VGA×1, HDMI×1, Audio Out x1 | Features: Built-in speaker, VESA wall mount",
+      "url": "https://www.startech.com.bd/eurovision-ev-gt2200a-22-inch-monitor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/monitor/eurovision/ev-gt2200a/ev-gt2200-001-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 8199,
+      "lowest_price": 8199,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 8199,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 8199,
+          "regular_price": 8900,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "monitor",
+      "product_id": "53453",
+      "brand": "Gigasonic",
+      "model": "GS-21.5FHD500S9",
+      "title": "Gigasonic GS-21.5FHD500S9 21.5\" 75Hz FHD IPS Gaming Monitor",
+      "current_price": 7500,
+      "regular_price": 7500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Resolution": "FHD (1920 × 1080)",
+        "Display": "IPS, 75Hz, 5ms (GTG)",
+        "Ports": "1x HDMI, 1x VGA",
+        "Features": "Flicker-Free, Low Blue Light"
+      },
+      "specs_summary": "Resolution: FHD (1920 × 1080) | Display: IPS, 75Hz, 5ms (GTG) | Ports: 1x HDMI, 1x VGA | Features: Flicker-Free, Low Blue Light",
+      "url": "https://www.startech.com.bd/gigasonic-gs-215fhd500s9-75hz-monitor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/monitor/gigasonic/gs-215fhd500s9-75hz/gs-215fhd500s9-75hz-11-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 7500,
+      "lowest_price": 7500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 7500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 7500,
+          "regular_price": 7500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "monitor",
+      "product_id": "53462",
+      "brand": "Gigasonic",
+      "model": "GS-21.5FHD500S9",
+      "title": "Gigasonic GS-21.5FHD500S9 21.5\" 75Hz FHD IPS Gaming Monitor White",
+      "current_price": 7500,
+      "regular_price": 7500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Resolution": "FHD (1920 × 1080)",
+        "Display": "IPS, 75Hz, 5ms (GTG)",
+        "Ports": "1x HDMI, 1x VGA",
+        "Features": "Flicker-Free, Low Blue Light"
+      },
+      "specs_summary": "Resolution: FHD (1920 × 1080) | Display: IPS, 75Hz, 5ms (GTG) | Ports: 1x HDMI, 1x VGA | Features: Flicker-Free, Low Blue Light",
+      "url": "https://www.startech.com.bd/gigasonic-gs-215fhd500s9-75hz-monitor-white",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/monitor/gigasonic/gs-215fhd500s9/gs-215fhd500s9-white-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 7500,
+      "lowest_price": 7500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 7500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 7500,
+          "regular_price": 7500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "monitor",
+      "product_id": "42326",
+      "brand": "Aiwa",
+      "model": "MF2219-V",
+      "title": "Aiwa MF2219-V 21.45\" IPS FHD 100Hz Monitor",
+      "current_price": 8999,
+      "regular_price": 9500,
+      "discount_bdt": 501,
+      "stock_status": "In Stock",
+      "specs": {
+        "Resolution": "FHD (1920 x 1080)",
+        "Display": "21.45\" IPS, 100Hz, 5ms",
+        "Ports": "VGA×1, HDMI×1",
+        "Features": "Low Blue Light, VESA wall mount, Eye Protection"
+      },
+      "specs_summary": "Resolution: FHD (1920 x 1080) | Display: 21.45\" IPS, 100Hz, 5ms | Ports: VGA×1, HDMI×1 | Features: Low Blue Light, VESA wall mount, Eye Protection",
+      "url": "https://www.startech.com.bd/aiwa-mf2219-v-100hz-monitor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/monitor/aiwa/mf2219-v/mf2219-v-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 8999,
+      "lowest_price": 8999,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 8999,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 8999,
+          "regular_price": 9500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "monitor",
+      "product_id": "48834",
+      "brand": "PC Power",
+      "model": "PCGM-King22",
+      "title": "PC Power PCGM-King22 21.45\" IPS FHD 100Hz Monitor White",
+      "current_price": 9500,
+      "regular_price": 9500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Resolution": "FHD (1920×1080)",
+        "Display": "IPS, 100Hz, 5ms GTG",
+        "Ports": "1x HDMI, 1x VGA",
+        "Features": "Low Blue Light, Flicker-Free"
+      },
+      "specs_summary": "Resolution: FHD (1920×1080) | Display: IPS, 100Hz, 5ms GTG | Ports: 1x HDMI, 1x VGA | Features: Low Blue Light, Flicker-Free",
+      "url": "https://www.startech.com.bd/pc-power-pcgm-king22-monitor-white",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/monitor/pc-power/pcgm-king22/pcgm-king22-white-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 9500,
+      "lowest_price": 9500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 9500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 9500,
+          "regular_price": 9500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "monitor",
+      "product_id": "54023",
+      "brand": "PC Power",
+      "model": "PCGMX22F120B",
+      "title": "PC Power PCGMX22F120B 21.45\" IPS FHD 120Hz Monitor",
+      "current_price": 8500,
+      "regular_price": 8500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Resolution": "FHD (1920×1080)",
+        "Display": "IPS, 120Hz, 6.5ms GTG",
+        "Ports": "1x HDMI, 1x VGA",
+        "Features": "Mobile Holder, Built-in Speaker"
+      },
+      "specs_summary": "Resolution: FHD (1920×1080) | Display: IPS, 120Hz, 6.5ms GTG | Ports: 1x HDMI, 1x VGA | Features: Mobile Holder, Built-in Speaker",
+      "url": "https://www.startech.com.bd/pc-power-pcgmx22f120b-monitor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/monitor/pc-power/pcgmx22f120b/pcgmx22f120b-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 8500,
+      "lowest_price": 8500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 8500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 8500,
+          "regular_price": 8500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "monitor",
+      "product_id": "54022",
+      "brand": "PC Power",
+      "model": "PCGMX22F120W",
+      "title": "PC Power PCGMX22F120W 21.45\" IPS FHD 120Hz Monitor",
+      "current_price": 8700,
+      "regular_price": 9200,
+      "discount_bdt": 500,
+      "stock_status": "In Stock",
+      "specs": {
+        "Resolution": "FHD (1920×1080)",
+        "Display": "IPS, 120Hz, 6.5ms GTG",
+        "Ports": "1x HDMI, 1x VGA",
+        "Features": "Mobile Holder, Built-in Speaker"
+      },
+      "specs_summary": "Resolution: FHD (1920×1080) | Display: IPS, 120Hz, 6.5ms GTG | Ports: 1x HDMI, 1x VGA | Features: Mobile Holder, Built-in Speaker",
+      "url": "https://www.startech.com.bd/pc-power-pcgmx22f120w-monitor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/monitor/pc-power/pcgmx22f120w/pcgmx22f120w-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 8700,
+      "lowest_price": 8700,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 8700,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 8700,
+          "regular_price": 9200,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "monitor",
+      "product_id": "49044",
+      "brand": "Gigasonic",
+      "model": "RB-G185S-300C",
+      "title": "Gigasonic RB-G185S-300C 18.5\" HD LED Monitor",
+      "current_price": 4999,
+      "regular_price": 5900,
+      "discount_bdt": 901,
+      "stock_status": "In Stock",
+      "specs": {
+        "Resolution": "HD (1366 × 768)",
+        "Display": "LED, 60Hz, 5ms",
+        "Ports": "1x HDMI, 1x VGA",
+        "Aspect Ratio": "16.9, Brightness: 200 nits"
+      },
+      "specs_summary": "Resolution: HD (1366 × 768) | Display: LED, 60Hz, 5ms | Ports: 1x HDMI, 1x VGA | Aspect Ratio: 16.9, Brightness: 200 nits",
+      "url": "https://www.startech.com.bd/gigasonic-rb-g185s-300c-monitor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/monitor/gigasonic/rb-g195s-300c/rb-g195s-300c-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 4999,
+      "lowest_price": 4999,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 4999,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 4999,
+          "regular_price": 5900,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "monitor",
+      "product_id": "45593",
+      "brand": "Gigasonic",
+      "model": "RB-G20S-400C",
+      "title": "Gigasonic RB-G20S-400C 20 Inch HD LED Monitor",
+      "current_price": 5200,
+      "regular_price": 6100,
+      "discount_bdt": 900,
+      "stock_status": "In Stock",
+      "specs": {
+        "Resolution": "HD (1366×768 )",
+        "Display": "LED, 60Hz, 5ms",
+        "Ports": "1x HDMI, 1x VGA",
+        "Color Support": "16.7 million (6 bits +2 bits scalar FRC)"
+      },
+      "specs_summary": "Resolution: HD (1366×768 ) | Display: LED, 60Hz, 5ms | Ports: 1x HDMI, 1x VGA | Color Support: 16.7 million (6 bits +2 bits scalar FRC)",
+      "url": "https://www.startech.com.bd/gigasonic-rb-g20s-400c-monitor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/monitor/gigasonic/rb-g19s-400c/rb-g19s-400c-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 5200,
+      "lowest_price": 5200,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 5200,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 5200,
+          "regular_price": 6100,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "monitor",
+      "product_id": "48297",
+      "brand": "Gigasonic",
+      "model": "RB-G215S-400C",
+      "title": "Gigasonic RB-G215S-400C 21.5\" FHD LED Monitor",
+      "current_price": 6400,
+      "regular_price": 6700,
+      "discount_bdt": 300,
+      "stock_status": "In Stock",
+      "specs": {
+        "Resolution": "FHD (1920 × 1080)",
+        "Display": "LED, 60Hz, 5ms",
+        "Ports": "1x HDMI, 1x VGA",
+        "Features": "Eye-Comfort Mode, Anti-Glare Coating"
+      },
+      "specs_summary": "Resolution: FHD (1920 × 1080) | Display: LED, 60Hz, 5ms | Ports: 1x HDMI, 1x VGA | Features: Eye-Comfort Mode, Anti-Glare Coating",
+      "url": "https://www.startech.com.bd/gigasonic-rb-g215s-400c-monitor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/monitor/gigasonic/gs-21-5m/gs-21-5m-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 6400,
+      "lowest_price": 6400,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 6400,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 6400,
+          "regular_price": 6700,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "monitor",
+      "product_id": "46019",
+      "brand": "Gigasonic",
+      "model": "RDA-1707W",
+      "title": "Gigasonic RDA-1707W 17 Inch LED Square Monitor",
+      "current_price": 4300,
+      "regular_price": 5200,
+      "discount_bdt": 900,
+      "stock_status": "In Stock",
+      "specs": {
+        "Maximum Resolution": "1600 x 900p",
+        "Display": "LED, 60Hz, 5ms",
+        "Ports": "1x HDMI, 1x VGA",
+        "Color Support": "16.7 million colors with the use of FRC"
+      },
+      "specs_summary": "Maximum Resolution: 1600 x 900p | Display: LED, 60Hz, 5ms | Ports: 1x HDMI, 1x VGA | Color Support: 16.7 million colors with the use of FRC",
+      "url": "https://www.startech.com.bd/gigasonic-rda-1707w-monitor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/monitor/gigasonic/rda-1705m/rda-1705m-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 4300,
+      "lowest_price": 4300,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 4300,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 4300,
+          "regular_price": 5200,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "monitor",
+      "product_id": "48821",
+      "brand": "Value-Top",
+      "model": "X22IFR100",
+      "title": "Value-Top X22IFR100 21.5\" 100Hz FHD IPS Monitor",
+      "current_price": 8699,
+      "regular_price": 8800,
+      "discount_bdt": 101,
+      "stock_status": "In Stock",
+      "specs": {
+        "Resolution": "FHD (1920×1080)",
+        "Display": "IPS, 100Hz, 5ms",
+        "Ports": "HDMI, VGA, Audio in, DC",
+        "Features": "VESA Wall Mount, 16.7M Color"
+      },
+      "specs_summary": "Resolution: FHD (1920×1080) | Display: IPS, 100Hz, 5ms | Ports: HDMI, VGA, Audio in, DC | Features: VESA Wall Mount, 16.7M Color",
+      "url": "https://www.startech.com.bd/value-top-x22ifr100-monitor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/monitor/value-top/x22ifr100/x22ifr100-001-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 8699,
+      "lowest_price": 8699,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 8699,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 8699,
+          "regular_price": 8800,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    }
+  ]
+}

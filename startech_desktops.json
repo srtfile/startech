@@ -1,0 +1,717 @@
+{
+  "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+  "category": "desktops",
+  "sorted_by": "model",
+  "total_items": 20,
+  "products": [
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "desktops",
+      "product_id": "31209",
+      "brand": "Intel",
+      "model": "10th Gen Core i5-10400",
+      "title": "Intel 10th Gen Core i5-10400 Desktop PC",
+      "current_price": 39999,
+      "regular_price": 42700,
+      "discount_bdt": 2701,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "Intel 10th Gen Core i5-10400 Processor | ASUS PRIME H510M-K R2.0 10th and 11th Gen Micro-ATX Motherboard | Corsair Vengeance LPX 8GB 3200MHz DDR4 RAM | Colorful CN600 PRO 256GB M.2 NVMe SSD"
+      },
+      "specs_summary": "Features: Intel 10th Gen Core i5-10400 Processor | ASUS PRIME H510M-K R2.0 10th and 11th Gen Micro-ATX Motherboard | Corsair Vengeance LPX 8GB 3200MHz DDR4 RAM | Colorful CN600 PRO 256GB M.2 NVMe SSD",
+      "url": "https://www.startech.com.bd/intel-10th-gen-core-i5-10400-desktop-pc",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/31209-04-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 39999,
+      "lowest_price": 39999,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 39999,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 39999,
+          "regular_price": 42700,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "desktops",
+      "product_id": "38909",
+      "brand": "Intel",
+      "model": "12th Gen Core i5-12400",
+      "title": "Intel 12th Gen Core i5-12400 Desktop PC",
+      "current_price": 41999,
+      "regular_price": 44300,
+      "discount_bdt": 2301,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "Intel 12th Gen Core i5-12400 Alder Lake Processor | MSI PRO H610M-S DDR4 m-ATX Motherboard | Netac Shadow III 8GB DDR4 3200MHz Desktop RAM | Colorful CN600 PRO 256GB M.2 NVMe SSD"
+      },
+      "specs_summary": "Features: Intel 12th Gen Core i5-12400 Alder Lake Processor | MSI PRO H610M-S DDR4 m-ATX Motherboard | Netac Shadow III 8GB DDR4 3200MHz Desktop RAM | Colorful CN600 PRO 256GB M.2 NVMe SSD",
+      "url": "https://www.startech.com.bd/intel-12th-gen-core-i5-12400-desktop-pc",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/38909-04-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 41999,
+      "lowest_price": 41999,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 41999,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 41999,
+          "regular_price": 44300,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "desktops",
+      "product_id": "54297",
+      "brand": "AMD",
+      "model": "Athlon PRO 300GE",
+      "title": "AMD Athlon PRO 300GE Budget Desktop PC",
+      "current_price": 23999,
+      "regular_price": 26149,
+      "discount_bdt": 2150,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "AMD Athlon PRO 300GE Processor with Radeon Graphics | XENTHRA XN-B450M-VH-PRO AMD AM4 mATX Motherboard | AITC Kingsman Innovator 8GB DDR4 3200MHz Desktop RAM Black | Netac SA500 256GB 2.5-inch SATAIII SSD"
+      },
+      "specs_summary": "Features: AMD Athlon PRO 300GE Processor with Radeon Graphics | XENTHRA XN-B450M-VH-PRO AMD AM4 mATX Motherboard | AITC Kingsman Innovator 8GB DDR4 3200MHz Desktop RAM Black | Netac SA500 256GB 2.5-inch SATAIII SSD",
+      "url": "https://www.startech.com.bd/amd-athlon-pro-300ge-budget-desktop-pc",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/54297-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 23999,
+      "lowest_price": 23999,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 23999,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 23999,
+          "regular_price": 26149,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "desktops",
+      "product_id": "35123",
+      "brand": "Intel",
+      "model": "Core i3-12100 12th Gen",
+      "title": "Intel Core i3-12100 12th Gen Budget Desktop PC",
+      "current_price": 38999,
+      "regular_price": 41750,
+      "discount_bdt": 2751,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "Intel Core i3-12100 12th Gen Alder Lake Processor (Tray Box) | MSI PRO H610M-S DDR4 m-ATX Motherboard | Corsair Vengeance LPX 8GB 3200MHz DDR4 Desktop RAM | Colorful CN600 PRO 256GB M.2 NVMe SSD"
+      },
+      "specs_summary": "Features: Intel Core i3-12100 12th Gen Alder Lake Processor (Tray Box) | MSI PRO H610M-S DDR4 m-ATX Motherboard | Corsair Vengeance LPX 8GB 3200MHz DDR4 Desktop RAM | Colorful CN600 PRO 256GB M.2 NVMe SSD",
+      "url": "https://www.startech.com.bd/intel-core-i3-12100-12th-gen-budget-desktop-pc",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/35123-04-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 38999,
+      "lowest_price": 38999,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 38999,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 38999,
+          "regular_price": 41750,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "desktops",
+      "product_id": "41588",
+      "brand": "Intel",
+      "model": "Core i5 14500 14th Gen",
+      "title": "Intel Core i5 14500 14th Gen Desktop PC",
+      "current_price": 62999,
+      "regular_price": 67400,
+      "discount_bdt": 4401,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "Intel 14th Gen Core i5-14500 Raptor Lake Processor (Tray With Fan) | MSI PRO H610M-S DDR4 m-ATX Motherboard | Colorful CN600 PRO 256GB M.2 NVMe SSD | MSI PAG PANO M110A Micro-ATX Mid Tower Gaming Casing"
+      },
+      "specs_summary": "Features: Intel 14th Gen Core i5-14500 Raptor Lake Processor (Tray With Fan) | MSI PRO H610M-S DDR4 m-ATX Motherboard | Colorful CN600 PRO 256GB M.2 NVMe SSD | MSI PAG PANO M110A Micro-ATX Mid Tower Gaming Casing",
+      "url": "https://www.startech.com.bd/intel-core-i5-14500-desktop-pc",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/41588-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 62999,
+      "lowest_price": 62999,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 62999,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 62999,
+          "regular_price": 67400,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "desktops",
+      "product_id": "46183",
+      "brand": "Asus",
+      "model": "ExpertCenter PN53 (Barebone) Ryzen 5 7535H Portable",
+      "title": "ASUS ExpertCenter PN53 (Barebone) Ryzen 5 7535H Portable Mini PC",
+      "current_price": 52000,
+      "regular_price": 52000,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "AMD Ryzen 5 7535H: 6C/12T, 3.30/4.55GHz (35W)",
+        "RAM": "32GB DDR5-4800 SO-DIMM x 2 (Support), Graphic: Integrated Radeon Graphics",
+        "Storage": "256GB~2TB M.2 2280 PCIe 4.0 x 4 SSD + 1TB 2.5\" SATA HDD (Support)",
+        "WLAN": "Intel Wi-Fi 6E (Gig+), Bluetooth 5.2, LAN: 2.5G Ethernet, 10/100/1000/2500 Mbps"
+      },
+      "specs_summary": "Processor: AMD Ryzen 5 7535H: 6C/12T, 3.30/4.55GHz (35W) | RAM: 32GB DDR5-4800 SO-DIMM x 2 (Support), Graphic: Integrated Radeon Graphics | Storage: 256GB~2TB M.2 2280 PCIe 4.0 x 4 SSD + 1TB 2.5\" SATA HDD (Support) | WLAN: Intel Wi-Fi 6E (Gig+), Bluetooth 5.2, LAN: 2.5G Ethernet, 10/100/1000/2500 Mbps",
+      "url": "https://www.startech.com.bd/asus-expertcenter-pn53-barebone-mini-pc",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/mini-pc/asus/expertcenter-pn53-barebone/expertcenter-pn53-barebone-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 52000,
+      "lowest_price": 52000,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 52000,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 52000,
+          "regular_price": 52000,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "desktops",
+      "product_id": "41825",
+      "brand": "Asus",
+      "model": "Nuc 14 Essential Core 3 N355 Portable",
+      "title": "Asus Nuc 14 Essential Core 3 N355 Portable Mini Pc",
+      "current_price": 42000,
+      "regular_price": 42000,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel Core 3 N355",
+        "Graphics": "Integrated, Intel Graphics",
+        "WLAN": "Intel Wi-Fi 6E AX211 (Gig+), Bluetooth 5.3",
+        "LAN": "1 x Realtek Ethernet Controller RTL8125BG-CG, 2.5G"
+      },
+      "specs_summary": "Processor: Intel Core 3 N355 | Graphics: Integrated, Intel Graphics | WLAN: Intel Wi-Fi 6E AX211 (Gig+), Bluetooth 5.3 | LAN: 1 x Realtek Ethernet Controller RTL8125BG-CG, 2.5G",
+      "url": "https://www.startech.com.bd/asus-nuc-14-essential-core-3-n355-mini-pc",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/mini-pc/asus/asus-nuc-14-essential/asus-nuc-14-essential-1-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 42000,
+      "lowest_price": 42000,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 42000,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 42000,
+          "regular_price": 42000,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "desktops",
+      "product_id": "50663",
+      "brand": "Asus",
+      "model": "NUC 15 Pro Core i3 13th Gen Portable",
+      "title": "ASUS NUC 15 Pro Core i3 13th Gen Portable Mini PC",
+      "current_price": 42000,
+      "regular_price": 42000,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel Core i3-1315U Processor",
+        "RAM": "2 x SO-DIMM Slots Support Up to DDR5-5200 (48GB*2)",
+        "Storage": "1 x M.2 2280 PCIe Gen4x4, 128GB~8TB NVMe SSD (Support)",
+        "WLAN": "Intel Wi-Fi 6E, Bluetooth 5.2, LAN: Intel Ethernet Controller 2.5G"
+      },
+      "specs_summary": "Processor: Intel Core i3-1315U Processor | RAM: 2 x SO-DIMM Slots Support Up to DDR5-5200 (48GB*2) | Storage: 1 x M.2 2280 PCIe Gen4x4, 128GB~8TB NVMe SSD (Support) | WLAN: Intel Wi-Fi 6E, Bluetooth 5.2, LAN: Intel Ethernet Controller 2.5G",
+      "url": "https://www.startech.com.bd/asus-nuc-15-pro-core-i3-13th-gen-mini-pc",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/mini-pc/asus/nuc-15-pro/asus-nuc-15-pro-04-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 42000,
+      "lowest_price": 42000,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 42000,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 42000,
+          "regular_price": 42000,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "desktops",
+      "product_id": "54301",
+      "brand": "AMD",
+      "model": "Ryzen 3 2200G",
+      "title": "AMD Ryzen 3 2200G Budget Desktop PC",
+      "current_price": 23999,
+      "regular_price": 26649,
+      "discount_bdt": 2650,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "AMD Ryzen 3 2200G Desktop Processor with Radeon Vega 8 Graphics | XENTHRA XN-B450M-VH-PRO AMD AM4 mATX Motherboard | AITC Kingsman Innovator 8GB DDR4 3200MHz Desktop RAM Black | Netac SA500 256GB 2.5-inch SATAIII SSD"
+      },
+      "specs_summary": "Features: AMD Ryzen 3 2200G Desktop Processor with Radeon Vega 8 Graphics | XENTHRA XN-B450M-VH-PRO AMD AM4 mATX Motherboard | AITC Kingsman Innovator 8GB DDR4 3200MHz Desktop RAM Black | Netac SA500 256GB 2.5-inch SATAIII SSD",
+      "url": "https://www.startech.com.bd/amd-ryzen-3-2200g-budget-desktop-pc",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/54301-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 23999,
+      "lowest_price": 23999,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 23999,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 23999,
+          "regular_price": 26649,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "desktops",
+      "product_id": "47054",
+      "brand": "AMD",
+      "model": "Ryzen 3 2200G",
+      "title": "AMD Ryzen 3 2200G Desktop PC",
+      "current_price": 31999,
+      "regular_price": 36799,
+      "discount_bdt": 4800,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "AMD Ryzen 3 2200G Quad-Core Processor With Radeon Vega 8 Graphics | XENTHRA XN-B450M-VH-PRO AMD AM4 mATX Motherboard | Netac Shadow III 8GB DDR4 3200MHz RAM; Colorful CN600 PRO 256GB SSD | Alimoto 22C 21.5\" 100Hz FHD IPS Monitor"
+      },
+      "specs_summary": "Features: AMD Ryzen 3 2200G Quad-Core Processor With Radeon Vega 8 Graphics | XENTHRA XN-B450M-VH-PRO AMD AM4 mATX Motherboard | Netac Shadow III 8GB DDR4 3200MHz RAM; Colorful CN600 PRO 256GB SSD | Alimoto 22C 21.5\" 100Hz FHD IPS Monitor",
+      "url": "https://www.startech.com.bd/amd-ryzen-3-2200g-desktop-pc",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/amd-ryzen-3-2200g-desktop-pc-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 31999,
+      "lowest_price": 31999,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 31999,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 31999,
+          "regular_price": 36799,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "desktops",
+      "product_id": "52802",
+      "brand": "AMD",
+      "model": "Ryzen 3 3200G",
+      "title": "AMD Ryzen 3 3200G Budget Desktop PC With Monitor",
+      "current_price": 33999,
+      "regular_price": 40050,
+      "discount_bdt": 6051,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "AMD Ryzen 3 3200G Processor with Radeon RX Vega 8 Graphics | XENTHRA XN-B450M-VH-PRO AMD AM4 mATX Motherboard | AITC Kingsman Innovator 8GB 3200MHz RAM; Colorful CN600 PRO 256GB SSD | Eurovision EV-GT2200 21.45\" 100Hz FHD Monitor"
+      },
+      "specs_summary": "Features: AMD Ryzen 3 3200G Processor with Radeon RX Vega 8 Graphics | XENTHRA XN-B450M-VH-PRO AMD AM4 mATX Motherboard | AITC Kingsman Innovator 8GB 3200MHz RAM; Colorful CN600 PRO 256GB SSD | Eurovision EV-GT2200 21.45\" 100Hz FHD Monitor",
+      "url": "https://www.startech.com.bd/amd-ryzen-3-3200g-budget-desktop-pc",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/52802-03-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 33999,
+      "lowest_price": 33999,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 33999,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 33999,
+          "regular_price": 40050,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "desktops",
+      "product_id": "54300",
+      "brand": "AMD",
+      "model": "Ryzen 5 2400G",
+      "title": "AMD Ryzen 5 2400G Budget Desktop PC",
+      "current_price": 24999,
+      "regular_price": 27200,
+      "discount_bdt": 2201,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "AMD Ryzen 5 2400G Desktop Processor with Radeon RX Vega 11 Graphics | XENTHRA XN-B450M-VH-PRO AMD AM4 mATX Motherboard | AITC Kingsman Innovator 8GB DDR4 3200MHz Desktop RAM Black | Netac SA500 256GB 2.5-inch SATAIII SSD"
+      },
+      "specs_summary": "Features: AMD Ryzen 5 2400G Desktop Processor with Radeon RX Vega 11 Graphics | XENTHRA XN-B450M-VH-PRO AMD AM4 mATX Motherboard | AITC Kingsman Innovator 8GB DDR4 3200MHz Desktop RAM Black | Netac SA500 256GB 2.5-inch SATAIII SSD",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-2400g-budget-pc",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/54300-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 24999,
+      "lowest_price": 24999,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 24999,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 24999,
+          "regular_price": 27200,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "desktops",
+      "product_id": "44878",
+      "brand": "AMD",
+      "model": "Ryzen 5 3400G",
+      "title": "AMD Ryzen 5 3400G Processor Gaming Desktop PC",
+      "current_price": 28999,
+      "regular_price": 31100,
+      "discount_bdt": 2101,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "AMD Ryzen 5 3400G Processor with Radeon RX Vega 11 Graphics | MSI A520M-A Pro AM4 AMD Micro-ATX Motherboard | Netac Shadow III 8GB DDR4 3200MHz Desktop RAM | Colorful CN600 PRO 256GB M.2 NVMe SSD"
+      },
+      "specs_summary": "Features: AMD Ryzen 5 3400G Processor with Radeon RX Vega 11 Graphics | MSI A520M-A Pro AM4 AMD Micro-ATX Motherboard | Netac Shadow III 8GB DDR4 3200MHz Desktop RAM | Colorful CN600 PRO 256GB M.2 NVMe SSD",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-3400g-processor-gaming-pc",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/44878-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 28999,
+      "lowest_price": 28999,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 28999,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 28999,
+          "regular_price": 31100,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "desktops",
+      "product_id": "40261",
+      "brand": "AMD",
+      "model": "Ryzen 5 5500",
+      "title": "AMD Ryzen 5 5500 Gaming PC",
+      "current_price": 69000,
+      "regular_price": 72800,
+      "discount_bdt": 3800,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "AMD Ryzen 5 5500 Processor | MSI A520M-A Pro AM4 AMD Micro-ATX Motherboard | Corsair Vengeance LPX 8GB 3200MHz DDR4 Desktop RAM | GIGABYTE Intel Arc A380 GAMING OC 6G GDDR6 Graphics Card"
+      },
+      "specs_summary": "Features: AMD Ryzen 5 5500 Processor | MSI A520M-A Pro AM4 AMD Micro-ATX Motherboard | Corsair Vengeance LPX 8GB 3200MHz DDR4 Desktop RAM | GIGABYTE Intel Arc A380 GAMING OC 6G GDDR6 Graphics Card",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-5500-gaming-pc",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/40261-05-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 69000,
+      "lowest_price": 69000,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 69000,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 69000,
+          "regular_price": 72800,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "desktops",
+      "product_id": "49914",
+      "brand": "AMD",
+      "model": "Ryzen 5 5600",
+      "title": "AMD Ryzen 5 5600 Desktop PC",
+      "current_price": 47999,
+      "regular_price": 56199,
+      "discount_bdt": 8200,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "AMD Ryzen 5 5600 Processor | GIGABYTE B450M K AMD AM4 Micro ATX Motherboard | Corsair Vengeance LPX 8GB 3200MHz DDR4 Desktop RAM | MSI GT 710 2GD3H LP 2GB DDR3 Gaming Graphic Card"
+      },
+      "specs_summary": "Features: AMD Ryzen 5 5600 Processor | GIGABYTE B450M K AMD AM4 Micro ATX Motherboard | Corsair Vengeance LPX 8GB 3200MHz DDR4 Desktop RAM | MSI GT 710 2GD3H LP 2GB DDR3 Gaming Graphic Card",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-5600-desktop-pc",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/49914-04-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 47999,
+      "lowest_price": 47999,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 47999,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 47999,
+          "regular_price": 56199,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "desktops",
+      "product_id": "38204",
+      "brand": "AMD",
+      "model": "Ryzen 5 5600GT",
+      "title": "AMD Ryzen 5 5600GT Budget Desktop PC",
+      "current_price": 40800,
+      "regular_price": 44300,
+      "discount_bdt": 3500,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "AMD Ryzen 5 5600GT AM4 Processor with Radeon Graphics | MSI A520M-A PRO AM4 AMD ATX MOTHERBOARD | Netac Shadow III 8GB DDR4 3200MHz Desktop RAM | Colorful CN600 PRO 256GB M.2 NVMe SSD"
+      },
+      "specs_summary": "Features: AMD Ryzen 5 5600GT AM4 Processor with Radeon Graphics | MSI A520M-A PRO AM4 AMD ATX MOTHERBOARD | Netac Shadow III 8GB DDR4 3200MHz Desktop RAM | Colorful CN600 PRO 256GB M.2 NVMe SSD",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-5600gt-desktop-pc",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/38204-11-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 40800,
+      "lowest_price": 40800,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 40800,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 40800,
+          "regular_price": 44300,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "desktops",
+      "product_id": "45276",
+      "brand": "AMD",
+      "model": "Ryzen 5 8500G",
+      "title": "AMD Ryzen 5 8500G Gaming Desktop PC",
+      "current_price": 57999,
+      "regular_price": 66998,
+      "discount_bdt": 8999,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "AMD Ryzen 5 8500G Processor with Radeon Graphics | MSI PRO B650M-B DDR5 AMD AM5 m-ATX Motherboard | V-Color Manta XFinity RGB 8GB DDR5 6000MHz CL36 Desktop RAM | Colorful CN600 512GB M.2 NVMe SSD"
+      },
+      "specs_summary": "Features: AMD Ryzen 5 8500G Processor with Radeon Graphics | MSI PRO B650M-B DDR5 AMD AM5 m-ATX Motherboard | V-Color Manta XFinity RGB 8GB DDR5 6000MHz CL36 Desktop RAM | Colorful CN600 512GB M.2 NVMe SSD",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-8500g-gaming-pc",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/45276-04-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 57999,
+      "lowest_price": 57999,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 57999,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 57999,
+          "regular_price": 66998,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "desktops",
+      "product_id": "50486",
+      "brand": "AMD",
+      "model": "Ryzen 5 PRO 5650G",
+      "title": "AMD Ryzen 5 PRO 5650G Desktop PC",
+      "current_price": 39700,
+      "regular_price": 43400,
+      "discount_bdt": 3700,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "AMD Ryzen 5 PRO 5650G Processor with Radeon Graphics | MSI A520M-A Pro AMD AM4 Micro-ATX Motherboard | Netac Shadow III 8GB DDR4 3200MHz Desktop RAM | Colorful CN600 PRO 256GB M.2 NVMe SSD"
+      },
+      "specs_summary": "Features: AMD Ryzen 5 PRO 5650G Processor with Radeon Graphics | MSI A520M-A Pro AMD AM4 Micro-ATX Motherboard | Netac Shadow III 8GB DDR4 3200MHz Desktop RAM | Colorful CN600 PRO 256GB M.2 NVMe SSD",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-pro-5650g-desktop-pc",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/50486-04-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 39700,
+      "lowest_price": 39700,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 39700,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 39700,
+          "regular_price": 43400,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "desktops",
+      "product_id": "52291",
+      "brand": "AMD",
+      "model": "Ryzen 5 PRO 5650GE",
+      "title": "AMD Ryzen 5 PRO 5650GE Desktop PC",
+      "current_price": 37499,
+      "regular_price": 42000,
+      "discount_bdt": 4501,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "AMD Ryzen 5 PRO 5650GE Processor with Radeon Graphics | GIGABYTE B450M K AMD AM4 Micro ATX Motherboard | Netac Shadow III 8GB DDR4 3200MHz Desktop RAM | Colorful CN600 PRO 256GB M.2 NVMe SSD"
+      },
+      "specs_summary": "Features: AMD Ryzen 5 PRO 5650GE Processor with Radeon Graphics | GIGABYTE B450M K AMD AM4 Micro ATX Motherboard | Netac Shadow III 8GB DDR4 3200MHz Desktop RAM | Colorful CN600 PRO 256GB M.2 NVMe SSD",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-pro-5650ge-desktop-pc",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/52291-02-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 37499,
+      "lowest_price": 37499,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 37499,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 37499,
+          "regular_price": 42000,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "desktops",
+      "product_id": "31452",
+      "brand": "AMD",
+      "model": "Ryzen 7 5700G Custom",
+      "title": "AMD Ryzen 7 5700G Custom Desktop PC",
+      "current_price": 44999,
+      "regular_price": 47700,
+      "discount_bdt": 2701,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "AMD Ryzen 7 5700G Processor with Radeon Graphics | MSI A520M-A Pro AM4 AMD Micro-ATX Motherboard | AITC Kingsman Innovator 8GB DDR4 3200MHz Desktop RAM Black | Colorful CN600 PRO 256GB M.2 NVMe SSD"
+      },
+      "specs_summary": "Features: AMD Ryzen 7 5700G Processor with Radeon Graphics | MSI A520M-A Pro AM4 AMD Micro-ATX Motherboard | AITC Kingsman Innovator 8GB DDR4 3200MHz Desktop RAM Black | Colorful CN600 PRO 256GB M.2 NVMe SSD",
+      "url": "https://www.startech.com.bd/amd-ryzen-7-5700g-custom-desktop-pc",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/31452-02-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 44999,
+      "lowest_price": 44999,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 44999,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 44999,
+          "regular_price": 47700,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    }
+  ]
+}

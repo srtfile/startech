@@ -1,0 +1,762 @@
+{
+  "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+  "category": "cpu-cooler",
+  "sorted_by": "model",
+  "total_items": 20,
+  "products": [
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "cpu-cooler",
+      "product_id": "45016",
+      "brand": "DeepCool",
+      "model": "AG300 Single Tower",
+      "title": "Deepcool AG300 Single Tower Air CPU Cooler",
+      "current_price": 1498,
+      "regular_price": 1800,
+      "discount_bdt": 302,
+      "stock_status": "In Stock",
+      "specs": {
+        "Fan Dimensions": "92 x 92 x 25mm",
+        "Fan Speed": "3050 RPM",
+        "Max. Air Flow": "36.75 CFM",
+        "Fan Connector": "4-pin PWM"
+      },
+      "specs_summary": "Fan Dimensions: 92 x 92 x 25mm | Fan Speed: 3050 RPM | Max. Air Flow: 36.75 CFM | Fan Connector: 4-pin PWM",
+      "url": "https://www.startech.com.bd/deepcool-ag300-air-cpu-cooler",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/deepcool/ag300/ag300-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 1498,
+      "lowest_price": 1498,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 1498,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 1498,
+          "regular_price": 1800,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "cpu-cooler",
+      "product_id": "50021",
+      "brand": "DeepCool",
+      "model": "AG400 G2 Single Tower 120mm",
+      "title": "DeepCool AG400 G2 Single Tower 120mm CPU Cooler",
+      "current_price": 2100,
+      "regular_price": 2400,
+      "discount_bdt": 300,
+      "stock_status": "In Stock",
+      "specs": {
+        "Fan Speed": "500~2200±10% RPM",
+        "Fan Airflow": "70.09 CFM",
+        "Fan Air Pressure": "2.49 mmAq",
+        "Features": "Compatible with Intel & AMD"
+      },
+      "specs_summary": "Fan Speed: 500~2200±10% RPM | Fan Airflow: 70.09 CFM | Fan Air Pressure: 2.49 mmAq | Features: Compatible with Intel & AMD",
+      "url": "https://www.startech.com.bd/deepcool-ag400-g2-cpu-cooler",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/deepcool/ag400-g2/ag400-g2-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2100,
+      "lowest_price": 2100,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2100,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2100,
+          "regular_price": 2400,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "cpu-cooler",
+      "product_id": "40054",
+      "brand": "Arctic",
+      "model": "Alpine 17 CO Low Profile Intel",
+      "title": "Arctic Alpine 17 CO Low Profile Intel CPU Cooler",
+      "current_price": 999,
+      "regular_price": 1300,
+      "discount_bdt": 301,
+      "stock_status": "In Stock",
+      "specs": {
+        "Fan Speed": "250-2700 rpm",
+        "Fan Size": "92 mm",
+        "Fan Bearing": "Dual Ball Bearing",
+        "Compatibility": "Intel 1851, 1700 Socket"
+      },
+      "specs_summary": "Fan Speed: 250-2700 rpm | Fan Size: 92 mm | Fan Bearing: Dual Ball Bearing | Compatibility: Intel 1851, 1700 Socket",
+      "url": "https://www.startech.com.bd/arctic-alpine-17-co-cpu-cooler",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/arctic/alpine-17-co/alpine-17-co-02-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 999,
+      "lowest_price": 999,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 999,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 999,
+          "regular_price": 1300,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "cpu-cooler",
+      "product_id": "40053",
+      "brand": "Arctic",
+      "model": "Alpine 23 CO Compact AMD",
+      "title": "Arctic Alpine 23 CO Compact AMD CPU Cooler",
+      "current_price": 999,
+      "regular_price": 1250,
+      "discount_bdt": 251,
+      "stock_status": "In Stock",
+      "specs": {
+        "Fan Speed": "200-2700 rpm",
+        "Fan Size": "90 mm",
+        "Fan Bearing": "Dual Ball Bearing",
+        "Compatibility": "AMD AM5, AM4 Socket"
+      },
+      "specs_summary": "Fan Speed: 200-2700 rpm | Fan Size: 90 mm | Fan Bearing: Dual Ball Bearing | Compatibility: AMD AM5, AM4 Socket",
+      "url": "https://www.startech.com.bd/arctic-alpine-23-co-cpu-cooler",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/arctic/alpine-23-co/alpine-23-co-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 999,
+      "lowest_price": 999,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 999,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 999,
+          "regular_price": 1250,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "cpu-cooler",
+      "product_id": "22563",
+      "brand": "DeepCool",
+      "model": "CK-11509",
+      "title": "Deepcool CK-11509 CPU Cooler",
+      "current_price": 300,
+      "regular_price": 400,
+      "discount_bdt": 100,
+      "stock_status": "In Stock",
+      "specs": {
+        "Fan Dimension": "92X25mm",
+        "Rated Voltage": "12VDC",
+        "Started Voltage": "7VDC",
+        "Features": "Radial aluminum heatsink for excellent cooling performance."
+      },
+      "specs_summary": "Fan Dimension: 92X25mm | Rated Voltage: 12VDC | Started Voltage: 7VDC | Features: Radial aluminum heatsink for excellent cooling performance.",
+      "url": "https://www.startech.com.bd/deepcool-ck-11509-cpu-cooler",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/deepcool/ck-11509/ck-11509-01-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 300,
+      "lowest_price": 300,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 300,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 300,
+          "regular_price": 400,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "cpu-cooler",
+      "product_id": "45195",
+      "brand": "1stplayer",
+      "model": "CRYO CY12L Black ARGB",
+      "title": "1STPLAYER CRYO CY12L Black ARGB Air CPU Cooler",
+      "current_price": 2190,
+      "regular_price": 2500,
+      "discount_bdt": 310,
+      "stock_status": "In Stock",
+      "specs": {
+        "Fan Speed": "750-1900 ± 10% RPM",
+        "Fan Max Airflow": "57.56 CFM",
+        "Fan Bearing": "Hydraulic bearing",
+        "Fan Life Span": "30,000/hrs @ 25℃"
+      },
+      "specs_summary": "Fan Speed: 750-1900 ± 10% RPM | Fan Max Airflow: 57.56 CFM | Fan Bearing: Hydraulic bearing | Fan Life Span: 30,000/hrs @ 25℃",
+      "url": "https://www.startech.com.bd/1stplayer-cryo-cy12l-black-cpu-cooler",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/1stplayer/cryo-cy12l-black/cryo-cy12l-black-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2190,
+      "lowest_price": 2190,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2190,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2190,
+          "regular_price": 2500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "cpu-cooler",
+      "product_id": "44365",
+      "brand": "Arctic",
+      "model": "Freezer 8A AMD",
+      "title": "Arctic Freezer 8A AMD Air CPU Cooler",
+      "current_price": 1800,
+      "regular_price": 1950,
+      "discount_bdt": 150,
+      "stock_status": "In Stock",
+      "specs": {
+        "Fan Speed": "200–2300 rpm, PWM Controlled",
+        "Heat Pipe": "2x Ø 6 mm Copper, Direct Touch",
+        "Features": "Pre-Applied MX-6 Thermal Paste | Compatible with AMD AM5, AM4"
+      },
+      "specs_summary": "Fan Speed: 200–2300 rpm, PWM Controlled | Heat Pipe: 2x Ø 6 mm Copper, Direct Touch | Features: Pre-Applied MX-6 Thermal Paste | Compatible with AMD AM5, AM4",
+      "url": "https://www.startech.com.bd/arctic-freezer-8a-cpu-cooler",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/arctic/freezer-8a/freezer-8a-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 1800,
+      "lowest_price": 1800,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 1800,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 1800,
+          "regular_price": 1950,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "cpu-cooler",
+      "product_id": "44367",
+      "brand": "Arctic",
+      "model": "Freezer 8A CO AMD",
+      "title": "Arctic Freezer 8A CO AMD Air CPU Cooler",
+      "current_price": 1899,
+      "regular_price": 2190,
+      "discount_bdt": 291,
+      "stock_status": "In Stock",
+      "specs": {
+        "Fan Speed": "200–2300 rpm, PWM Controlled",
+        "Heat Pipe": "2x Ø 6 mm Copper, Direct Touch",
+        "Features": "Dual Ball Bearing, Pre-Applied MX-6 Thermal Paste | Compatible with AMD AM5, AM4"
+      },
+      "specs_summary": "Fan Speed: 200–2300 rpm, PWM Controlled | Heat Pipe: 2x Ø 6 mm Copper, Direct Touch | Features: Dual Ball Bearing, Pre-Applied MX-6 Thermal Paste | Compatible with AMD AM5, AM4",
+      "url": "https://www.startech.com.bd/arctic-freezer-8a-co-cpu-cooler",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/arctic/freezer-8a/freezer-8a-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 1899,
+      "lowest_price": 1899,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 1899,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 1899,
+          "regular_price": 2190,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "cpu-cooler",
+      "product_id": "44353",
+      "brand": "Arctic",
+      "model": "Freezer 8i",
+      "title": "Arctic Freezer 8i Air CPU Cooler",
+      "current_price": 1980,
+      "regular_price": 1980,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Fan Speed": "200–2300 rpm",
+        "Fan Size": "100 mm",
+        "Fan Bearing": "Fluid Dynamic Bearing",
+        "Compatibility": "LGA 1851,1700"
+      },
+      "specs_summary": "Fan Speed: 200–2300 rpm | Fan Size: 100 mm | Fan Bearing: Fluid Dynamic Bearing | Compatibility: LGA 1851,1700",
+      "url": "https://www.startech.com.bd/arctic-freezer-8i-air-cpu-cooler",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/arctic/freezer-8i/freezer-8i-04-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 1980,
+      "lowest_price": 1980,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 1980,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 1980,
+          "regular_price": 1980,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "cpu-cooler",
+      "product_id": "44362",
+      "brand": "Arctic",
+      "model": "Freezer 8i CO Intel",
+      "title": "Arctic Freezer 8i CO Intel Air CPU Cooler",
+      "current_price": 1990,
+      "regular_price": 2299,
+      "discount_bdt": 309,
+      "stock_status": "In Stock",
+      "specs": {
+        "Fan Speed": "200–2300 rpm, PWM Controlled",
+        "Heat Pipe": "2x Ø 6 mm Copper, Direct Touch",
+        "Features": "Dual Ball Bearing, Pre-Applied MX-6 Thermal Paste | Compatible with Intel LGA1851, LGA1700"
+      },
+      "specs_summary": "Fan Speed: 200–2300 rpm, PWM Controlled | Heat Pipe: 2x Ø 6 mm Copper, Direct Touch | Features: Dual Ball Bearing, Pre-Applied MX-6 Thermal Paste | Compatible with Intel LGA1851, LGA1700",
+      "url": "https://www.startech.com.bd/arctic-freezer-8i-co-cpu-cooler",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/arctic/freezer-8i-co/freezer-8i-co-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 1990,
+      "lowest_price": 1990,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 1990,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 1990,
+          "regular_price": 2299,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "cpu-cooler",
+      "product_id": "54041",
+      "brand": "Ocypus",
+      "model": "GAMMA A20 ARGB BK",
+      "title": "Ocypus GAMMA A20 ARGB BK Air CPU Cooler",
+      "current_price": 1550,
+      "regular_price": 1600,
+      "discount_bdt": 50,
+      "stock_status": "In Stock",
+      "specs": {
+        "Fan Speed": "1900±10%RPM",
+        "Fan Noise": "≤21dB(A); Connector: 3-Pin",
+        "Air Flow": "32CFM; Air Pressure: 1mmH2O",
+        "Features": "Compatible with Intel LGA 1700/1851 & AMD AM4/AM5"
+      },
+      "specs_summary": "Fan Speed: 1900±10%RPM | Fan Noise: ≤21dB(A); Connector: 3-Pin | Air Flow: 32CFM; Air Pressure: 1mmH2O | Features: Compatible with Intel LGA 1700/1851 & AMD AM4/AM5",
+      "url": "https://www.startech.com.bd/ocypus-gamma-a20-argb-bk-cpu-cooler",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/ocypus/gamma-a20-argb-bk/gamma-a20-argb-bk-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 1550,
+      "lowest_price": 1550,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 1550,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 1550,
+          "regular_price": 1600,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "cpu-cooler",
+      "product_id": "54042",
+      "brand": "Ocypus",
+      "model": "GAMMA A20 ARGB WH",
+      "title": "Ocypus GAMMA A20 ARGB WH Air CPU Cooler",
+      "current_price": 1550,
+      "regular_price": 1600,
+      "discount_bdt": 50,
+      "stock_status": "In Stock",
+      "specs": {
+        "Fan Speed": "1900±10%RPM",
+        "Fan Noise": "≤21dB(A); Connector: 3-Pin",
+        "Air Flow": "32CFM; Air Pressure: 1mmH2O",
+        "Features": "Compatible with Intel LGA 1700/1851 & AMD AM4/AM5"
+      },
+      "specs_summary": "Fan Speed: 1900±10%RPM | Fan Noise: ≤21dB(A); Connector: 3-Pin | Air Flow: 32CFM; Air Pressure: 1mmH2O | Features: Compatible with Intel LGA 1700/1851 & AMD AM4/AM5",
+      "url": "https://www.startech.com.bd/ocypus-gamma-a20-argb-wh-cpu-cooler",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/ocypus/gamma-a20-argb-wh/gamma-a20-argb-wh-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 1550,
+      "lowest_price": 1550,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 1550,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 1550,
+          "regular_price": 1600,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "cpu-cooler",
+      "product_id": "46846",
+      "brand": "Ocypus",
+      "model": "Gamma A40 BK ARGB Single Tower",
+      "title": "Ocypus Gamma A40 BK ARGB Single Tower Air CPU Cooler",
+      "current_price": 2450,
+      "regular_price": 2500,
+      "discount_bdt": 50,
+      "stock_status": "In Stock",
+      "specs": {
+        "Fan Speed": "600~2400RPM ±10%, 4 Heat Pipes",
+        "Fan Air Flow (MAX)": "41CFM, Air Pressure (MAX): 2.2mmH2O",
+        "Features": "Glyph Display with Unique Dot-Matrix Design | Compatible with Intel LGA 1700/1851 & AMD AM4/AM5"
+      },
+      "specs_summary": "Fan Speed: 600~2400RPM ±10%, 4 Heat Pipes | Fan Air Flow (MAX): 41CFM, Air Pressure (MAX): 2.2mmH2O | Features: Glyph Display with Unique Dot-Matrix Design | Compatible with Intel LGA 1700/1851 & AMD AM4/AM5",
+      "url": "https://www.startech.com.bd/ocypus-gamma-a40-bk-argb-cpu-cooler",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/ocypus/gamma-a40-bk-argb/gamma-a40-bk-argb-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2450,
+      "lowest_price": 2450,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2450,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2450,
+          "regular_price": 2500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "cpu-cooler",
+      "product_id": "46849",
+      "brand": "Ocypus",
+      "model": "Gamma A40 BK Single Tower",
+      "title": "Ocypus Gamma A40 BK Single Tower Air CPU Cooler",
+      "current_price": 2100,
+      "regular_price": 2300,
+      "discount_bdt": 200,
+      "stock_status": "In Stock",
+      "specs": {
+        "Fan Speed": "600~2400RPM ±10%, 4 Heat Pipes",
+        "Fan Air Flow (MAX)": "41CFM, Air Pressure (MAX): 2.2mmH2O",
+        "Features": "Glyph Display with Unique Dot-Matrix Design | Compatible with Intel LGA 1700/1851 & AMD AM4/AM5"
+      },
+      "specs_summary": "Fan Speed: 600~2400RPM ±10%, 4 Heat Pipes | Fan Air Flow (MAX): 41CFM, Air Pressure (MAX): 2.2mmH2O | Features: Glyph Display with Unique Dot-Matrix Design | Compatible with Intel LGA 1700/1851 & AMD AM4/AM5",
+      "url": "https://www.startech.com.bd/ocypus-gamma-a40-bk-cpu-cooler",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/ocypus/gamma-a40-bk/gamma-a40-bk-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2100,
+      "lowest_price": 2100,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2100,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2100,
+          "regular_price": 2300,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "cpu-cooler",
+      "product_id": "52071",
+      "brand": "Value-Top",
+      "model": "GLACIO X170 RGB",
+      "title": "Value-Top GLACIO X170 RGB Air CPU Cooler",
+      "current_price": 1300,
+      "regular_price": 1300,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Fan speed": "800–2300 RPM ± 10%",
+        "Max Air Flow": "76.6 CFM ±10%",
+        "Max Noise Level": "36 dBA ±10%",
+        "Supports Intel and AMD CPU, Max TDP": "170W"
+      },
+      "specs_summary": "Fan speed: 800–2300 RPM ± 10% | Max Air Flow: 76.6 CFM ±10% | Max Noise Level: 36 dBA ±10% | Supports Intel and AMD CPU, Max TDP: 170W",
+      "url": "https://www.startech.com.bd/value-top-glacio-x170-cpu-cooler",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/value-top/glacio-x170/glacio-x170-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 1300,
+      "lowest_price": 1300,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 1300,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 1300,
+          "regular_price": 1300,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "cpu-cooler",
+      "product_id": "52073",
+      "brand": "Value-Top",
+      "model": "GLACIO X200W RGB White",
+      "title": "Value-Top GLACIO X200W RGB White Air CPU Cooler",
+      "current_price": 1650,
+      "regular_price": 1650,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Fan speed": "800–2300 RPM ± 10%",
+        "Max Air Flow": "76.6 CFM ±10%",
+        "Max Noise Level": "36 dBA ±10%",
+        "Supports Intel and AMD CPU, Max TDP": "200W"
+      },
+      "specs_summary": "Fan speed: 800–2300 RPM ± 10% | Max Air Flow: 76.6 CFM ±10% | Max Noise Level: 36 dBA ±10% | Supports Intel and AMD CPU, Max TDP: 200W",
+      "url": "https://www.startech.com.bd/value-top-glacio-x200w-cpu-cooler",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/value-top/glacio-x200w/glacio-x200w-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 1650,
+      "lowest_price": 1650,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 1650,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 1650,
+          "regular_price": 1650,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "cpu-cooler",
+      "product_id": "52077",
+      "brand": "Value-Top",
+      "model": "GLACIO XD220 RGB",
+      "title": "Value-Top GLACIO XD220 RGB Air CPU Cooler with Display",
+      "current_price": 2540,
+      "regular_price": 2540,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Fan speed": "800–2600 RPM ± 10%",
+        "Max Air Flow": "98 CFM ±10%",
+        "Max Noise Level": "36 dBA ±10%",
+        "Supports Intel and AMD CPU, Max TDP": "220W"
+      },
+      "specs_summary": "Fan speed: 800–2600 RPM ± 10% | Max Air Flow: 98 CFM ±10% | Max Noise Level: 36 dBA ±10% | Supports Intel and AMD CPU, Max TDP: 220W",
+      "url": "https://www.startech.com.bd/value-top-glacio-xd220-air-cpu-cooler",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/value-top/glacio-xd220/glacio-xd220-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2540,
+      "lowest_price": 2540,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2540,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2540,
+          "regular_price": 2540,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "cpu-cooler",
+      "product_id": "17390",
+      "brand": "DeepCool",
+      "model": "ICE EDGE MINI FS V2.0 CPU Air Cooler",
+      "title": "DeepCool ICE EDGE MINI FS V2.0 CPU Air Cooler",
+      "current_price": 1150,
+      "regular_price": 1150,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Fan Speed": "2200 RPMÂ±10%",
+        "Fan Connector": "3-pin",
+        "Features": "Hydro Bearing | Supports Intel and AMD"
+      },
+      "specs_summary": "Fan Speed: 2200 RPMÂ±10% | Fan Connector: 3-pin | Features: Hydro Bearing | Supports Intel and AMD",
+      "url": "https://www.startech.com.bd/deepcool-ice-edge-mini-fs-v2-0-cpu-cooler",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/deepcool/ice-edge-mini-fs-v2-0/ice-edge-mini-fs-v2-0-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 1150,
+      "lowest_price": 1150,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 1150,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 1150,
+          "regular_price": 1150,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "cpu-cooler",
+      "product_id": "43895",
+      "brand": "upHere",
+      "model": "UP1K4 120mm",
+      "title": "upHere UP1K4 120mm Air CPU Cooler",
+      "current_price": 2190,
+      "regular_price": 2500,
+      "discount_bdt": 310,
+      "stock_status": "In Stock",
+      "specs": {
+        "Fan Speed": "600-1650 rpm ± 10%",
+        "Air Flow": "68 CFM Max",
+        "Fan Size": "130 x 120 x 25 mm",
+        "Features": "Compatible with Intel LGA 1851, 1700, and AMD AM5, AM4"
+      },
+      "specs_summary": "Fan Speed: 600-1650 rpm ± 10% | Air Flow: 68 CFM Max | Fan Size: 130 x 120 x 25 mm | Features: Compatible with Intel LGA 1851, 1700, and AMD AM5, AM4",
+      "url": "https://www.startech.com.bd/uphere-up1k4-air-cpu-cooler",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/uphere/up1k4/up1k4-10-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2190,
+      "lowest_price": 2190,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2190,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2190,
+          "regular_price": 2500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "cpu-cooler",
+      "product_id": "43896",
+      "brand": "upHere",
+      "model": "UP1T4 120mm",
+      "title": "upHere UP1T4 120mm Air CPU Cooler",
+      "current_price": 2190,
+      "regular_price": 2500,
+      "discount_bdt": 310,
+      "stock_status": "In Stock",
+      "specs": {
+        "Fan Speed": "600-1650 rpm ± 10%",
+        "Air Flow": "68 CFM Max",
+        "Fan Size": "130 x 120 x 25 mm",
+        "Features": "Compatible with Intel LGA 1851, 1700, and AMD AM5, AM4"
+      },
+      "specs_summary": "Fan Speed: 600-1650 rpm ± 10% | Air Flow: 68 CFM Max | Fan Size: 130 x 120 x 25 mm | Features: Compatible with Intel LGA 1851, 1700, and AMD AM5, AM4",
+      "url": "https://www.startech.com.bd/uphere-up1t4-air-cpu-cooler",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/uphere/up1t4/up1t4-00-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2190,
+      "lowest_price": 2190,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2190,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2190,
+          "regular_price": 2500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    }
+  ]
+}

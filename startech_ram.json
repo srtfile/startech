@@ -1,0 +1,768 @@
+{
+  "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+  "category": "ram",
+  "sorted_by": "model",
+  "total_items": 20,
+  "products": [
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ram",
+      "product_id": "53609",
+      "brand": "Huadisk",
+      "model": "8GB DDR4 3200MHz",
+      "title": "Huadisk 8GB DDR4 3200MHz Desktop RAM",
+      "current_price": 7199,
+      "regular_price": 7500,
+      "discount_bdt": 301,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "8GB",
+        "Frequency": "3200 MHz",
+        "Type": "DDR4 Voltage: 1.35V",
+        "Form Factor": "288-Pin UDIMM"
+      },
+      "specs_summary": "Capacity: 8GB | Frequency: 3200 MHz | Type: DDR4 Voltage: 1.35V | Form Factor: 288-Pin UDIMM",
+      "url": "https://www.startech.com.bd/huadisk-8gb-ddr4-3200mhz-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/huadisk/bd4328g/bd4328g-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 7199,
+      "lowest_price": 7199,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 7199,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 7199,
+          "regular_price": 7500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ram",
+      "product_id": "25755",
+      "brand": "G.Skill",
+      "model": "Aegis",
+      "title": "G.SKILL Aegis 8GB DDR4 3200Mhz Desktop RAM",
+      "current_price": 7999,
+      "regular_price": 7999,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "8GB",
+        "Speed": "3200 Mhz",
+        "Latency": "16-18-18-38",
+        "Voltage": "1.20V"
+      },
+      "specs_summary": "Capacity: 8GB | Speed: 3200 Mhz | Latency: 16-18-18-38 | Voltage: 1.20V",
+      "url": "https://www.startech.com.bd/g-skill-aegis-8gb-ddr4-3200mhz-desktop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/Aegis/Aegis-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 7999,
+      "lowest_price": 7999,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 7999,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 7999,
+          "regular_price": 7999,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ram",
+      "product_id": "27782",
+      "brand": "Netac",
+      "model": "Basic",
+      "title": "Netac Basic 4GB DDR4 2666MHZ Desktop RAM",
+      "current_price": 3900,
+      "regular_price": 3950,
+      "discount_bdt": 50,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "4GB",
+        "Frequency": "DDR4 2666MHz",
+        "Form Factor": "288-Pin UDIMM",
+        "Voltage & Cas Latency": "1.2V/19-19-19-43"
+      },
+      "specs_summary": "Capacity: 4GB | Frequency: DDR4 2666MHz | Form Factor: 288-Pin UDIMM | Voltage & Cas Latency: 1.2V/19-19-19-43",
+      "url": "https://www.startech.com.bd/netac-basic-4gb-ddr4-2666mhz-desktop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/netac/basic-4gb-ddr4-2666mhz/basic-4gb-ddr4-2666mhz-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 3900,
+      "lowest_price": 3900,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 3900,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 3900,
+          "regular_price": 3950,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ram",
+      "product_id": "27783",
+      "brand": "Netac",
+      "model": "Basic",
+      "title": "Netac Basic 8GB DDR4 2666MHZ Desktop RAM",
+      "current_price": 6500,
+      "regular_price": 6600,
+      "discount_bdt": 100,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "8GB",
+        "Frequency": "DDR4 2666MHz",
+        "Form Factor": "288-Pin UDIMM",
+        "Voltage & Cas Latency": "1.2V/19-19-19-43"
+      },
+      "specs_summary": "Capacity: 8GB | Frequency: DDR4 2666MHz | Form Factor: 288-Pin UDIMM | Voltage & Cas Latency: 1.2V/19-19-19-43",
+      "url": "https://www.startech.com.bd/netac-basic-8gb-ddr4-2666mhz-desktop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/netac/basic-4gb-ddr4-2666mhz/basic-4gb-ddr4-2666mhz-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 6500,
+      "lowest_price": 6500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 6500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 6500,
+          "regular_price": 6600,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ram",
+      "product_id": "27797",
+      "brand": "Netac",
+      "model": "Basic DDR3 8GB 1600MHZ",
+      "title": "Netac Basic DDR3 8GB 1600MHZ Desktop RAM",
+      "current_price": 2800,
+      "regular_price": 3900,
+      "discount_bdt": 1100,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "8GB",
+        "Frequency": "DDR3 1600MHz",
+        "Form Factor": "240-Pin UDIMM",
+        "Voltage & Cas Latency": "1.5V/11-11-11-28"
+      },
+      "specs_summary": "Capacity: 8GB | Frequency: DDR3 1600MHz | Form Factor: 240-Pin UDIMM | Voltage & Cas Latency: 1.5V/11-11-11-28",
+      "url": "https://www.startech.com.bd/netac-basic-ddr3-8gb-1600mhz-desktop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/netac/basic-ddr3-4gb-1600mhz/basic-ddr3-4gb-1600mhz-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2800,
+      "lowest_price": 2800,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2800,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2800,
+          "regular_price": 3900,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ram",
+      "product_id": "24291",
+      "brand": "Team",
+      "model": "ELITE 8GB 3200MHz DDR4 RAM",
+      "title": "TEAM ELITE 8GB 3200MHz DDR4 RAM",
+      "current_price": 7950,
+      "regular_price": 7950,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "8Gb",
+        "Type- DDR4, Speed": "3200MHz",
+        "Operating Voltage": "1.2V",
+        "Latency": "CL22-22-22-52"
+      },
+      "specs_summary": "Capacity: 8Gb | Type- DDR4, Speed: 3200MHz | Operating Voltage: 1.2V | Latency: CL22-22-22-52",
+      "url": "https://www.startech.com.bd/team-elite-8gb-3200mhz-ddr4-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/team/elite-8gb-3200mhz/elite-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 7950,
+      "lowest_price": 7950,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 7950,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 7950,
+          "regular_price": 7950,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ram",
+      "product_id": "52677",
+      "brand": "AITC",
+      "model": "Kingsman Innovator",
+      "title": "AITC Kingsman Innovator 8GB DDR4 3200MHz Desktop RAM Black",
+      "current_price": 7500,
+      "regular_price": 7500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Memory Capacity": "8GB",
+        "Memory Type": "DDR4",
+        "Memory Frequency": "3200 MHz",
+        "Latency": "CL16"
+      },
+      "specs_summary": "Memory Capacity: 8GB | Memory Type: DDR4 | Memory Frequency: 3200 MHz | Latency: CL16",
+      "url": "https://www.startech.com.bd/aitc-kingsman-innovator-8gb-ddr4-3200mhz-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/aitc/kingsman-innovator/kingsman-innovator-black-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 7500,
+      "lowest_price": 7500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 7500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 7500,
+          "regular_price": 7500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ram",
+      "product_id": "48444",
+      "brand": "KingBank",
+      "model": "KJXB",
+      "title": "KingBank KJXB 8GB DDR4 3200MHz Desktop RAM",
+      "current_price": 8000,
+      "regular_price": 8000,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Memory Capacity": "8GB",
+        "Memory Type": "DDR4",
+        "Frequency": "3200MHz",
+        "Voltage & Cas Latency": "CL16/1.35V"
+      },
+      "specs_summary": "Memory Capacity: 8GB | Memory Type: DDR4 | Frequency: 3200MHz | Voltage & Cas Latency: CL16/1.35V",
+      "url": "https://www.startech.com.bd/kingbank-kjxb-8gb-ddr4-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/kingbank/kjxb/kjxb-8gb-02-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 8000,
+      "lowest_price": 8000,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 8000,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 8000,
+          "regular_price": 8000,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ram",
+      "product_id": "51966",
+      "brand": "Netac",
+      "model": "Shadow III",
+      "title": "Netac Shadow III 8GB DDR4 3200MHz Desktop RAM",
+      "current_price": 7500,
+      "regular_price": 7500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "8GB, Type: DDR4",
+        "Frequency": "3200 MHz",
+        "Form Factor": "288-Pin UDIMM",
+        "Voltage & Cas Latency": "1.35V/CL16"
+      },
+      "specs_summary": "Capacity: 8GB, Type: DDR4 | Frequency: 3200 MHz | Form Factor: 288-Pin UDIMM | Voltage & Cas Latency: 1.35V/CL16",
+      "url": "https://www.startech.com.bd/netac-shadow-iii-8gb-ddr4-3200mhz-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/netac/shadow-iii/shadow-iii-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 7500,
+      "lowest_price": 7500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 7500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 7500,
+          "regular_price": 7500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ram",
+      "product_id": "53591",
+      "brand": "Addlink",
+      "model": "Spider S4",
+      "title": "Addlink Spider S4 8GB DDR4 3200MHz Desktop RAM",
+      "current_price": 8600,
+      "regular_price": 8600,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "8GB, Type: DDR4",
+        "Frequency": "3200 MHz",
+        "Form Factor": "288-Pin UDIMM",
+        "Voltage & Cas Latency": "1.35V/CL16"
+      },
+      "specs_summary": "Capacity: 8GB, Type: DDR4 | Frequency: 3200 MHz | Form Factor: 288-Pin UDIMM | Voltage & Cas Latency: 1.35V/CL16",
+      "url": "https://www.startech.com.bd/addlink-spider-s4-8gb-3200mhz-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/addlink/spider-s4/spider-s4-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 8600,
+      "lowest_price": 8600,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 8600,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 8600,
+          "regular_price": 8600,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ram",
+      "product_id": "41470",
+      "brand": "Team",
+      "model": "T-CREATE EXPERT",
+      "title": "Team T-CREATE EXPERT 8GB DDR4 3200MHz Desktop RAM",
+      "current_price": 8550,
+      "regular_price": 8550,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "8GB",
+        "Type": "DDR4, Speed: 3200MHz",
+        "Operating Voltage": "1.35V",
+        "Latency": "CL16"
+      },
+      "specs_summary": "Capacity: 8GB | Type: DDR4, Speed: 3200MHz | Operating Voltage: 1.35V | Latency: CL16",
+      "url": "https://www.startech.com.bd/team-t-create-expert-8gb-ddr4-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/team/t-create-expert-8gb-ddr4/t-create-expert-8gb-ddr4-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 8550,
+      "lowest_price": 8550,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 8550,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 8550,
+          "regular_price": 8550,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ram",
+      "product_id": "25920",
+      "brand": "Lexar",
+      "model": "THOR 8GB DDR4 3200Mhz UDIMM",
+      "title": "Lexar THOR 8GB DDR4 3200Mhz UDIMM Desktop RAM",
+      "current_price": 7999,
+      "regular_price": 7999,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "8GB, Memory Type: DDR4",
+        "Tested Latency": "CL16-18-18-38",
+        "Tested Speed": "3200MHz",
+        "Tested Voltage": "1.35V"
+      },
+      "specs_summary": "Capacity: 8GB, Memory Type: DDR4 | Tested Latency: CL16-18-18-38 | Tested Speed: 3200MHz | Tested Voltage: 1.35V",
+      "url": "https://www.startech.com.bd/lexar-thor-8gb-ddr4-3200mhz-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/lexar/thor-8gb/thor-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 7999,
+      "lowest_price": 7999,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 7999,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 7999,
+          "regular_price": 7999,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ram",
+      "product_id": "25753",
+      "brand": "G.Skill",
+      "model": "Value",
+      "title": "G.SKILL Value 8GB DDR4 2400Mhz Desktop RAM",
+      "current_price": 7800,
+      "regular_price": 7800,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "8GB",
+        "Speed": "2400 Mhz",
+        "Latency": "17-17-17-39",
+        "Voltage": "1.20V"
+      },
+      "specs_summary": "Capacity: 8GB | Speed: 2400 Mhz | Latency: 17-17-17-39 | Voltage: 1.20V",
+      "url": "https://www.startech.com.bd/g-skill-value-8gb-ddr4-2400mhz-desktop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/value/value-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 7800,
+      "lowest_price": 7800,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 7800,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 7800,
+          "regular_price": 7800,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ram",
+      "product_id": "25754",
+      "brand": "G.Skill",
+      "model": "Value",
+      "title": "G.SKILL Value 8GB DDR4 2666Mhz Desktop RAM",
+      "current_price": 7800,
+      "regular_price": 7800,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "8GB",
+        "Speed": "2666 Mhz",
+        "Latency": "19-19-19-43",
+        "Voltage": "1.20V"
+      },
+      "specs_summary": "Capacity: 8GB | Speed: 2666 Mhz | Latency: 19-19-19-43 | Voltage: 1.20V",
+      "url": "https://www.startech.com.bd/g-skill-value-8gb-ddr4-2666mhz-desktop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/value/value-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 7800,
+      "lowest_price": 7800,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 7800,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 7800,
+          "regular_price": 7800,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ram",
+      "product_id": "6046",
+      "brand": "Corsair",
+      "model": "Vengeance LPX 8GB 3200MHz DDR4",
+      "title": "Corsair Vengeance LPX 8GB 3200MHz DDR4 Desktop RAM",
+      "current_price": 8300,
+      "regular_price": 8700,
+      "discount_bdt": 400,
+      "stock_status": "In Stock",
+      "specs": {
+        "Speed": "3200MHz",
+        "Tested Latency": "16-20-20-38",
+        "Voltage": "1.35V",
+        "Features": "Capacity 8GB"
+      },
+      "specs_summary": "Speed: 3200MHz | Tested Latency: 16-20-20-38 | Voltage: 1.35V | Features: Capacity 8GB",
+      "url": "https://www.startech.com.bd/corsair-vengeance-lpx-8gb-3200mhz",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/RAM/VENG_LPX_BLK_01-228x228.png",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 8300,
+      "lowest_price": 8300,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 8300,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 8300,
+          "regular_price": 8700,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ram",
+      "product_id": "49079",
+      "brand": "OCPC",
+      "model": "VS",
+      "title": "OCPC VS 8GB DDR3 1600MHz Desktop RAM",
+      "current_price": 3200,
+      "regular_price": 3200,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "8GB, Type: DDR3",
+        "Frequency": "1600MHz, Voltage: 1.5V",
+        "Latency": "CL11-11-11-28",
+        "Features": "Unbuffered, Non-ECC Memory"
+      },
+      "specs_summary": "Capacity: 8GB, Type: DDR3 | Frequency: 1600MHz, Voltage: 1.5V | Latency: CL11-11-11-28 | Features: Unbuffered, Non-ECC Memory",
+      "url": "https://www.startech.com.bd/ocpc-vs-8gb-ddr3-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/ocpc/vs-8gb-1600mhz/vs-8gb-1600mhz-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 3200,
+      "lowest_price": 3200,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 3200,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 3200,
+          "regular_price": 3200,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ram",
+      "product_id": "33065",
+      "brand": "OCPC",
+      "model": "X3 RGB DDR4 3200MHz 8GB",
+      "title": "OCPC X3 RGB DDR4 3200MHz 8GB Desktop RAM",
+      "current_price": 8699,
+      "regular_price": 8699,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Memory Capacity": "8GB",
+        "Memory Type": "DDR4",
+        "Memory Frequency": "3200 MHz",
+        "Latency": "CL16-20-20-40"
+      },
+      "specs_summary": "Memory Capacity: 8GB | Memory Type: DDR4 | Memory Frequency: 3200 MHz | Latency: CL16-20-20-40",
+      "url": "https://www.startech.com.bd/ocpc-x3-rgb-ddr4-3200mhz-8gb-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/ocpc/x3-rgb-ddr4/x3-rgb-ddr4-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 8699,
+      "lowest_price": 8699,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 8699,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 8699,
+          "regular_price": 8699,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ram",
+      "product_id": "33066",
+      "brand": "OCPC",
+      "model": "X3 RGB DDR4 3200MHz 8GB",
+      "title": "OCPC X3 RGB DDR4 3200MHz 8GB Desktop RAM White",
+      "current_price": 8700,
+      "regular_price": 8700,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Memory Capacity": "8GB",
+        "Memory Type": "DDR4",
+        "Memory Frequency": "3200 MHz",
+        "Latency": "CL16-20-20-40"
+      },
+      "specs_summary": "Memory Capacity: 8GB | Memory Type: DDR4 | Memory Frequency: 3200 MHz | Latency: CL16-20-20-40",
+      "url": "https://www.startech.com.bd/ocpc-x3-rgb-ddr4-3200mhz-8gb-ram-white",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/ocpc/x3-rgb-ddr4-white/x3-rgb-ddr4-white-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 8700,
+      "lowest_price": 8700,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 8700,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 8700,
+          "regular_price": 8700,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ram",
+      "product_id": "33071",
+      "brand": "OCPC",
+      "model": "XT II DDR4 3200MHz 8GB",
+      "title": "OCPC XT II DDR4 3200MHz 8GB Desktop RAM",
+      "current_price": 7990,
+      "regular_price": 7990,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "8GB, Type: DDR4",
+        "Frequency": "3200MHz, Voltage: 1.35V",
+        "Latency": "CL16-20-20-40",
+        "Features": "Intel XMP 2.0 (Extreme Memory Profile) Ready"
+      },
+      "specs_summary": "Capacity: 8GB, Type: DDR4 | Frequency: 3200MHz, Voltage: 1.35V | Latency: CL16-20-20-40 | Features: Intel XMP 2.0 (Extreme Memory Profile) Ready",
+      "url": "https://www.startech.com.bd/ocpc-xt-ii-ddr4-3200mhz-8gb-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/ocpc/xt-ii-ddr4/xt-ii-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 7990,
+      "lowest_price": 7990,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 7990,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 7990,
+          "regular_price": 7990,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ram",
+      "product_id": "40488",
+      "brand": "OCPC",
+      "model": "XT II DDR4 3200MHz 8GB",
+      "title": "OCPC XT II DDR4 3200MHz 8GB Desktop RAM White",
+      "current_price": 7999,
+      "regular_price": 7999,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "8GB, Type: DDR4",
+        "Frequency": "3200MHz, Voltage: 1.35V",
+        "Latency": "CL16-20-20-40",
+        "Features": "Intel XMP 2.0 (Extreme Memory Profile) Ready"
+      },
+      "specs_summary": "Capacity: 8GB, Type: DDR4 | Frequency: 3200MHz, Voltage: 1.35V | Latency: CL16-20-20-40 | Features: Intel XMP 2.0 (Extreme Memory Profile) Ready",
+      "url": "https://www.startech.com.bd/ocpc-xt-ii-ddr4-3200mhz-8gb-ram-white",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/ocpc/xt-ii-ddr4-3200-8gb/xt-ii-ddr4-3200-8gb-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 7999,
+      "lowest_price": 7999,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 7999,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 7999,
+          "regular_price": 7999,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    }
+  ]
+}

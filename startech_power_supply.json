@@ -1,0 +1,761 @@
+{
+  "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+  "category": "power-supply",
+  "sorted_by": "model",
+  "total_items": 20,
+  "products": [
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "power-supply",
+      "product_id": "46681",
+      "brand": "T-Wolf",
+      "model": "ATX",
+      "title": "T-Wolf ATX 350W Power Supply",
+      "current_price": 1450,
+      "regular_price": 1450,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Output Capacity": "350 Watts",
+        "Frequency": "50-60HZ",
+        "SATA": "650MM Black Cable",
+        "Voltage": "230V"
+      },
+      "specs_summary": "Output Capacity: 350 Watts | Frequency: 50-60HZ | SATA: 650MM Black Cable | Voltage: 230V",
+      "url": "https://www.startech.com.bd/t-wolf-atx-350w-power-supply",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/power-supply/t-wolf/atx-350/atx-350w-04-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 1450,
+      "lowest_price": 1450,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 1450,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 1450,
+          "regular_price": 1450,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "power-supply",
+      "product_id": "45934",
+      "brand": "Gamdias",
+      "model": "AURA GP300",
+      "title": "Gamdias AURA GP300 300W Power Supply",
+      "current_price": 1900,
+      "regular_price": 2400,
+      "discount_bdt": 500,
+      "stock_status": "In Stock",
+      "specs": {
+        "Power Output Capacity": "300W",
+        "Fan Type": "120mm Silent Fan",
+        "Features": "Compatible with ATX12V v2.4 | Heavy-Duty Protection"
+      },
+      "specs_summary": "Power Output Capacity: 300W | Fan Type: 120mm Silent Fan | Features: Compatible with ATX12V v2.4 | Heavy-Duty Protection",
+      "url": "https://www.startech.com.bd/gamdias-aura-gp300-power-supply",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/power-supply/gamdias/aura-gp300/aura-gp300-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 1900,
+      "lowest_price": 1900,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 1900,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 1900,
+          "regular_price": 2400,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "power-supply",
+      "product_id": "54053",
+      "brand": "Ocypus",
+      "model": "BETA P350S",
+      "title": "Ocypus BETA P350S 350W Non Modular ATX Power Supply",
+      "current_price": 1600,
+      "regular_price": 1700,
+      "discount_bdt": 100,
+      "stock_status": "In Stock",
+      "specs": {
+        "Form Factor": "ATX",
+        "Rated Output Capacity": "250W max",
+        "Topology": "Active PFC; Up to 80% Efficiency",
+        "Features": "120mm FAN , Hydraulic bearing"
+      },
+      "specs_summary": "Form Factor: ATX | Rated Output Capacity: 250W max | Topology: Active PFC; Up to 80% Efficiency | Features: 120mm FAN , Hydraulic bearing",
+      "url": "https://www.startech.com.bd/ocypus-beta-p350s-350w-power-supply",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/power-supply/ocypus/beta-p350s/beta-p350s-03-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 1600,
+      "lowest_price": 1600,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 1600,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 1600,
+          "regular_price": 1700,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "power-supply",
+      "product_id": "46734",
+      "brand": "Ocypus",
+      "model": "BETA P400",
+      "title": "Ocypus BETA P400 400W Non Modular ATX Power Supply",
+      "current_price": 2800,
+      "regular_price": 2900,
+      "discount_bdt": 100,
+      "stock_status": "In Stock",
+      "specs": {
+        "Type": "ATX 2.53",
+        "Output Capacity": "400W",
+        "Topology": "Active PFC+Double tube forward",
+        "Features": "120mm FAN , Hydraulic bearing"
+      },
+      "specs_summary": "Type: ATX 2.53 | Output Capacity: 400W | Topology: Active PFC+Double tube forward | Features: 120mm FAN , Hydraulic bearing",
+      "url": "https://www.startech.com.bd/ocypus-beta-p400-400w-power-supply",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/power-supply/ocypus/beta-p400/beta-p400-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2800,
+      "lowest_price": 2800,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2800,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2800,
+          "regular_price": 2900,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "power-supply",
+      "product_id": "46732",
+      "brand": "Ocypus",
+      "model": "BETA P500",
+      "title": "Ocypus BETA P500 500W Non Modular ATX Power Supply",
+      "current_price": 3400,
+      "regular_price": 3450,
+      "discount_bdt": 50,
+      "stock_status": "In Stock",
+      "specs": {
+        "Type": "ATX 2.53",
+        "Output Capacity": "500W",
+        "Topology": "Active PFC+Double tube forward",
+        "Features": "120mm FAN , Hydraulic bearing"
+      },
+      "specs_summary": "Type: ATX 2.53 | Output Capacity: 500W | Topology: Active PFC+Double tube forward | Features: 120mm FAN , Hydraulic bearing",
+      "url": "https://www.startech.com.bd/ocypus-beta-p500-500w-power-supply",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/power-supply/ocypus/beta-p500/beta-p500-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 3400,
+      "lowest_price": 3400,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 3400,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 3400,
+          "regular_price": 3450,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "power-supply",
+      "product_id": "46731",
+      "brand": "Ocypus",
+      "model": "BETA P600",
+      "title": "Ocypus BETA P600 600W Non Modular ATX Power Supply",
+      "current_price": 3500,
+      "regular_price": 3950,
+      "discount_bdt": 450,
+      "stock_status": "In Stock",
+      "specs": {
+        "Type": "ATX 2.53",
+        "Output Capacity": "600W",
+        "Topology": "Active PFC+Double tube forward",
+        "Features": "120mm FAN , Hydraulic bearing"
+      },
+      "specs_summary": "Type: ATX 2.53 | Output Capacity: 600W | Topology: Active PFC+Double tube forward | Features: 120mm FAN , Hydraulic bearing",
+      "url": "https://www.startech.com.bd/ocypus-beta-p600-600w-power-supply",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/power-supply/ocypus/beta-p600/beta-p600-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 3500,
+      "lowest_price": 3500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 3500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 3500,
+          "regular_price": 3950,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "power-supply",
+      "product_id": "54054",
+      "brand": "Ocypus",
+      "model": "BETA P600S",
+      "title": "Ocypus BETA P600S 600W Non Modular ATX Power Supply",
+      "current_price": 2650,
+      "regular_price": 2700,
+      "discount_bdt": 50,
+      "stock_status": "In Stock",
+      "specs": {
+        "Form Factor": "ATX",
+        "Rated Output Capacity": "500W max",
+        "Topology": "Active PFC; Up to 80% Efficiency",
+        "Features": "120mm FAN , Hydraulic bearing"
+      },
+      "specs_summary": "Form Factor: ATX | Rated Output Capacity: 500W max | Topology: Active PFC; Up to 80% Efficiency | Features: 120mm FAN , Hydraulic bearing",
+      "url": "https://www.startech.com.bd/ocypus-beta-p600s-600w-power-supply",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/power-supply/ocypus/beta-p350s/beta-p350s-03-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2650,
+      "lowest_price": 2650,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2650,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2650,
+          "regular_price": 2700,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "power-supply",
+      "product_id": "41894",
+      "brand": "1stplayer",
+      "model": "FK 5.0 PS-500FK",
+      "title": "1STPLAYER FK 5.0 PS-500FK 500W Non-Modular ATX Power Supply",
+      "current_price": 3100,
+      "regular_price": 3500,
+      "discount_bdt": 400,
+      "stock_status": "In Stock",
+      "specs": {
+        "Output Capacity": "500W",
+        "Circuit Structure": "Double Forward + APFC",
+        "Fan Size": "120MM Hydraulic Bearing",
+        "Efficiency": "Over 85% efficiency at typical load"
+      },
+      "specs_summary": "Output Capacity: 500W | Circuit Structure: Double Forward + APFC | Fan Size: 120MM Hydraulic Bearing | Efficiency: Over 85% efficiency at typical load",
+      "url": "https://www.startech.com.bd/1stplayer-fk-5-0-500w-power-supply",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/power-supply/1stplayer/fk-5-0/fk-5-0-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 3100,
+      "lowest_price": 3100,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 3100,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 3100,
+          "regular_price": 3500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "power-supply",
+      "product_id": "50236",
+      "brand": "Xigmatek",
+      "model": "Litepower II i350",
+      "title": "Xigmatek Litepower II i350 350W 75+ Non-Modular Power Supply",
+      "current_price": 2300,
+      "regular_price": 2450,
+      "discount_bdt": 150,
+      "stock_status": "In Stock",
+      "specs": {
+        "Output Power": "350W",
+        "Fan Size": "120mm",
+        "Efficiency": "75%+",
+        "Input Voltage": "100-240V"
+      },
+      "specs_summary": "Output Power: 350W | Fan Size: 120mm | Efficiency: 75%+ | Input Voltage: 100-240V",
+      "url": "https://www.startech.com.bd/xigmatek-litepower-ii-i350-350w-power-supply",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/power-supply/xigmatek/litepower-ii-i350/litepower-ii-i350-02-228x228.png",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2300,
+      "lowest_price": 2300,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2300,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2300,
+          "regular_price": 2450,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "power-supply",
+      "product_id": "44110",
+      "brand": "MSI",
+      "model": "MAG A300N-H",
+      "title": "MSI MAG A300N-H 300W 80 Plus Non Modular Power Supply",
+      "current_price": 2299,
+      "regular_price": 2290,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Output Capacity": "300W",
+        "Modular": "Non modular design",
+        "Efficiency Rating": "80 PLUS",
+        "Features": "Active PFC, Hydraulic Bearing"
+      },
+      "specs_summary": "Output Capacity: 300W | Modular: Non modular design | Efficiency Rating: 80 PLUS | Features: Active PFC, Hydraulic Bearing",
+      "url": "https://www.startech.com.bd/msi-mag-a300n-h-300w-power-supply",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/power-supply/msi/mag-a300n-h/mag-a300n-h-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2299,
+      "lowest_price": 2299,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2299,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2299,
+          "regular_price": 2290,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "power-supply",
+      "product_id": "27626",
+      "brand": "Antec",
+      "model": "META V350",
+      "title": "Antec META V350 350W Power Supply",
+      "current_price": 2700,
+      "regular_price": 3200,
+      "discount_bdt": 500,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "Produces less noise and less heat | Industrial grade protections | 120mm Silent Fan | Thermal Manager"
+      },
+      "specs_summary": "Features: Produces less noise and less heat | Industrial grade protections | 120mm Silent Fan | Thermal Manager",
+      "url": "https://www.startech.com.bd/antec-meta-v350-power-supply",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/power-supply/antec/meta-v350/meta-v350-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2700,
+      "lowest_price": 2700,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2700,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2700,
+          "regular_price": 3200,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "power-supply",
+      "product_id": "14387",
+      "brand": "Gigabyte",
+      "model": "P450B",
+      "title": "Gigabyte P450B 450W 80 Plus Bronze Certified Power Supply",
+      "current_price": 4200,
+      "regular_price": 4200,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "OVP/OPP/SCP/UVP/OCP/OTP protection | 80 PLUS Bronze certified | Reliable flat cable | Single +12V rail"
+      },
+      "specs_summary": "Features: OVP/OPP/SCP/UVP/OCP/OTP protection | 80 PLUS Bronze certified | Reliable flat cable | Single +12V rail",
+      "url": "https://www.startech.com.bd/gigabyte-p450b-power-supply",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/power-supply/gigabyte/p450b/p450b-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 4200,
+      "lowest_price": 4200,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 4200,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 4200,
+          "regular_price": 4200,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "power-supply",
+      "product_id": "48789",
+      "brand": "T-Wolf",
+      "model": "Phantom P500 ATX",
+      "title": "T-Wolf Phantom P500 ATX 500W Power Supply",
+      "current_price": 2400,
+      "regular_price": 2499,
+      "discount_bdt": 99,
+      "stock_status": "In Stock",
+      "specs": {
+        "Output Capacity": "500 Watts",
+        "Frequency": "50-60HZ",
+        "Protective Function": "OCP/SIP/OPP/SCP",
+        "Voltage": "230V"
+      },
+      "specs_summary": "Output Capacity: 500 Watts | Frequency: 50-60HZ | Protective Function: OCP/SIP/OPP/SCP | Voltage: 230V",
+      "url": "https://www.startech.com.bd/t-wolf-phantom-p500-500w-power-supply",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/power-supply/t-wolf/phantom-p500/phantom-p500-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2400,
+      "lowest_price": 2400,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2400,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2400,
+          "regular_price": 2499,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "power-supply",
+      "product_id": "48790",
+      "brand": "T-Wolf",
+      "model": "PHANTOM P650 ATX",
+      "title": "T-Wolf PHANTOM P650 ATX 650W Power Supply",
+      "current_price": 2950,
+      "regular_price": 2999,
+      "discount_bdt": 49,
+      "stock_status": "In Stock",
+      "specs": {
+        "Output Capacity": "650 Watts",
+        "Frequency": "50-60Hz",
+        "Protective Function": "OVP/UVP/OPP/OCVP/SCP",
+        "Voltage": "230V"
+      },
+      "specs_summary": "Output Capacity: 650 Watts | Frequency: 50-60Hz | Protective Function: OVP/UVP/OPP/OCVP/SCP | Voltage: 230V",
+      "url": "https://www.startech.com.bd/t-wolf-phantom-p650-power-supply",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/power-supply/t-wolf/phantom-p650/phantom-p650-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2950,
+      "lowest_price": 2950,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2950,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2950,
+          "regular_price": 2999,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "power-supply",
+      "product_id": "51764",
+      "brand": "MaxGreen",
+      "model": "Power Wave",
+      "title": "MaxGreen Power Wave 230W Power Supply",
+      "current_price": 1300,
+      "regular_price": 1300,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Output Power": "230W",
+        "Fans": "120mm Silent Fan, Form Factor: ATX",
+        "Interface": "2x SATA, 2x Molex, 1x Main",
+        "Protections": "OVP, UVP, OPP, SCP, OCP"
+      },
+      "specs_summary": "Output Power: 230W | Fans: 120mm Silent Fan, Form Factor: ATX | Interface: 2x SATA, 2x Molex, 1x Main | Protections: OVP, UVP, OPP, SCP, OCP",
+      "url": "https://www.startech.com.bd/maxgreen-power-wave-230w-power-supply",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/power-supply/maxgreen/power-wave-230w/power-wave-230w-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 1300,
+      "lowest_price": 1300,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 1300,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 1300,
+          "regular_price": 1300,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "power-supply",
+      "product_id": "46525",
+      "brand": "1stplayer",
+      "model": "PS-300FK Non Modular",
+      "title": "1STPlayer PS-300FK Non Modular Power Supply",
+      "current_price": 2000,
+      "regular_price": 2350,
+      "discount_bdt": 350,
+      "stock_status": "In Stock",
+      "specs": {
+        "Output Capacity": "300W, 90% at full load",
+        "Protection": "SUVP, OVP, OPP, SCP, Lightning Protection",
+        "Fan Size": "120MM Hydraulic Bearing",
+        "Features": "Double Forward + APFC, Non-Modular"
+      },
+      "specs_summary": "Output Capacity: 300W, 90% at full load | Protection: SUVP, OVP, OPP, SCP, Lightning Protection | Fan Size: 120MM Hydraulic Bearing | Features: Double Forward + APFC, Non-Modular",
+      "url": "https://www.startech.com.bd/1stplayer-ps-300fk-power-supply",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/power-supply/1stplayer/ps-400fk/ps-400fk-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2000,
+      "lowest_price": 2000,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2000,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2000,
+          "regular_price": 2350,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "power-supply",
+      "product_id": "46524",
+      "brand": "1stplayer",
+      "model": "PS-400FK Non Modular",
+      "title": "1STPlayer PS-400FK Non Modular Power Supply",
+      "current_price": 2499,
+      "regular_price": 2850,
+      "discount_bdt": 351,
+      "stock_status": "In Stock",
+      "specs": {
+        "Output Capacity": "400W, 90% at full load",
+        "Protection": "SUVP, OVP, OPP, SCP, Lightning Protection",
+        "Fan Size": "120MM Hydraulic Bearing",
+        "Features": "Double Forward + APFC, Non-Modular"
+      },
+      "specs_summary": "Output Capacity: 400W, 90% at full load | Protection: SUVP, OVP, OPP, SCP, Lightning Protection | Fan Size: 120MM Hydraulic Bearing | Features: Double Forward + APFC, Non-Modular",
+      "url": "https://www.startech.com.bd/1stplayer-ps-400fk-power-supply",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/power-supply/1stplayer/ps-400fk/ps-400fk-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2499,
+      "lowest_price": 2499,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2499,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2499,
+          "regular_price": 2850,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "power-supply",
+      "product_id": "49336",
+      "brand": "MaxGreen",
+      "model": "Standard Series",
+      "title": "MaxGreen Standard Series 200W Power Supply",
+      "current_price": 1200,
+      "regular_price": 1500,
+      "discount_bdt": 300,
+      "stock_status": "In Stock",
+      "specs": {
+        "Maximum Power": "200 Watt (Max 230W)",
+        "Fans": "80mm Silent Fan, Form Factor: ATX",
+        "Input Voltage": "230V with 110/230V switchable",
+        "Interface": "2x SATA, 2x Molex, 1x CPU, 1x Main"
+      },
+      "specs_summary": "Maximum Power: 200 Watt (Max 230W) | Fans: 80mm Silent Fan, Form Factor: ATX | Input Voltage: 230V with 110/230V switchable | Interface: 2x SATA, 2x Molex, 1x CPU, 1x Main",
+      "url": "https://www.startech.com.bd/maxgreen-standard-series-200w-power-supply",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/power-supply/maxgreen/standard-series-200w/standard-series-200w-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 1200,
+      "lowest_price": 1200,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 1200,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 1200,
+          "regular_price": 1500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "power-supply",
+      "product_id": "50262",
+      "brand": "Solitine",
+      "model": "STN-RP450BZ",
+      "title": "Solitine STN-RP450BZ 450W 80 Plus Bronze Power Supply",
+      "current_price": 4140,
+      "regular_price": 4140,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Power Output": "450W",
+        "Input Voltage": "AC 220V",
+        "Cooling Fan": "12 cm Fan",
+        "Certification": "80 Plus Bronze"
+      },
+      "specs_summary": "Power Output: 450W | Input Voltage: AC 220V | Cooling Fan: 12 cm Fan | Certification: 80 Plus Bronze",
+      "url": "https://www.startech.com.bd/solitine-stn-rp450bz-450w-power-supply",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/power-supply/solitine/stn-rp450bz/stn-rp450bz-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 4140,
+      "lowest_price": 4140,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 4140,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 4140,
+          "regular_price": 4140,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "power-supply",
+      "product_id": "50260",
+      "brand": "Solitine",
+      "model": "STN-SP350WB",
+      "title": "Solitine STN-SP350WB 350W Power Supply",
+      "current_price": 2175,
+      "regular_price": 2175,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Power Output": "350W",
+        "Input Voltage": "AC 220V",
+        "Cooling Fan": "12 cm Fan",
+        "Main Connector": "20+4 Pin (650mm)"
+      },
+      "specs_summary": "Power Output: 350W | Input Voltage: AC 220V | Cooling Fan: 12 cm Fan | Main Connector: 20+4 Pin (650mm)",
+      "url": "https://www.startech.com.bd/solitine-stn-sp350wb-350w-power-supply",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/power-supply/solitine/stn-sp350wb/stn-sp350wb-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2175,
+      "lowest_price": 2175,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2175,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2175,
+          "regular_price": 2175,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    }
+  ]
+}

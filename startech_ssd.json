@@ -1,0 +1,757 @@
+{
+  "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+  "category": "ssd",
+  "sorted_by": "model",
+  "total_items": 20,
+  "products": [
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ssd",
+      "product_id": "14163",
+      "brand": "Team",
+      "model": "CX2 2.5\"",
+      "title": "TEAM CX2 2.5\" SATA 256GB SSD",
+      "current_price": 6200,
+      "regular_price": 6200,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "256GB",
+        "Features": "ECC function enhances efficiency | Advanced SLC Caching technology | Shock and drop resistant for safe use"
+      },
+      "specs_summary": "Capacity: 256GB | Features: ECC function enhances efficiency | Advanced SLC Caching technology | Shock and drop resistant for safe use",
+      "url": "https://www.startech.com.bd/team-cx2-256gb-ssd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ssd/team/cx2-256gb/cx2-256gb-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 6200,
+      "lowest_price": 6200,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 6200,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 6200,
+          "regular_price": 6200,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ssd",
+      "product_id": "53445",
+      "brand": "Memory",
+      "model": "Ghost ON900 256GB",
+      "title": "Memory Ghost ON900 256GB PCIe Gen3 M.2 NVMe SSD",
+      "current_price": 6100,
+      "regular_price": 6250,
+      "discount_bdt": 150,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "256GB, Form Factor M.2 2280",
+        "Interface": "NVMe PCIe Gen3.0x4",
+        "Read Speed": "Up to 3400MB/s",
+        "Write Speed": "Up to 1500MB/s"
+      },
+      "specs_summary": "Capacity: 256GB, Form Factor M.2 2280 | Interface: NVMe PCIe Gen3.0x4 | Read Speed: Up to 3400MB/s | Write Speed: Up to 1500MB/s",
+      "url": "https://www.startech.com.bd/memory-ghost-on900-256gb-ssd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ssd/memory-ghost/on900/on900-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 6100,
+      "lowest_price": 6100,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 6100,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 6100,
+          "regular_price": 6250,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ssd",
+      "product_id": "15090",
+      "brand": "TwinMOS",
+      "model": "H2 Ultra 256GB",
+      "title": "TwinMOS H2 Ultra 256GB SATA III SSD",
+      "current_price": 6400,
+      "regular_price": 6400,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Sequential Read": "Up to 580 MB/s",
+        "Sequential Write": "Up to 550 MB/s",
+        "Capacity": "256GB",
+        "Drive Type": "2.5-Inch, Sata III"
+      },
+      "specs_summary": "Sequential Read: Up to 580 MB/s | Sequential Write: Up to 550 MB/s | Capacity: 256GB | Drive Type: 2.5-Inch, Sata III",
+      "url": "https://www.startech.com.bd/twinmos-h2-ultra-256gb-ssd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ssd/twinmos/h2-ultra/h2-ultra-256gb-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 6400,
+      "lowest_price": 6400,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 6400,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 6400,
+          "regular_price": 6400,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ssd",
+      "product_id": "27065",
+      "brand": "TwinMOS",
+      "model": "Hyper H2 Ultra 128GB",
+      "title": "TwinMOS Hyper H2 Ultra 128GB 2.5 Inch SATA III SSD",
+      "current_price": 3700,
+      "regular_price": 3750,
+      "discount_bdt": 50,
+      "stock_status": "In Stock",
+      "specs": {
+        "Interface": "SATA III 6Gb/s",
+        "Form Factor": "2.5 Inch",
+        "Read Speed": "Up to 580 MB/s",
+        "Write Speed": "Up to 550 MB/s"
+      },
+      "specs_summary": "Interface: SATA III 6Gb/s | Form Factor: 2.5 Inch | Read Speed: Up to 580 MB/s | Write Speed: Up to 550 MB/s",
+      "url": "https://www.startech.com.bd/twinmos-hyper-h2-ultra-128gb-ssd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ssd/twinmos/hyper-h2-ultra/hyper-h2-001-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 3700,
+      "lowest_price": 3700,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 3700,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 3700,
+          "regular_price": 3750,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ssd",
+      "product_id": "50216",
+      "brand": "Biostar",
+      "model": "M760 256GB Gen3",
+      "title": "Biostar M760 256GB Gen3 M.2 NVMe SSD",
+      "current_price": 5999,
+      "regular_price": 5999,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "256GB",
+        "Interface": "PCI-e Gen3x4",
+        "Form Factor": "M.2 2280",
+        "Read": "2800 MB/s, Write: 1150 MB/s"
+      },
+      "specs_summary": "Capacity: 256GB | Interface: PCI-e Gen3x4 | Form Factor: M.2 2280 | Read: 2800 MB/s, Write: 1150 MB/s",
+      "url": "https://www.startech.com.bd/biostar-m760-256gb-ssd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ssd/biostar/m760/m760-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 5999,
+      "lowest_price": 5999,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 5999,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 5999,
+          "regular_price": 5999,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ssd",
+      "product_id": "38280",
+      "brand": "MiPhi",
+      "model": "MP100 256GB 2.5''",
+      "title": "MiPhi MP100 256GB 2.5'' SATA III SSD",
+      "current_price": 5500,
+      "regular_price": 6100,
+      "discount_bdt": 600,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "256GB",
+        "Interface": "SATA III (6 Gbps)",
+        "Form Factor": "2.5 inch",
+        "Read": "550MB/s, Write: 465MB/s"
+      },
+      "specs_summary": "Capacity: 256GB | Interface: SATA III (6 Gbps) | Form Factor: 2.5 inch | Read: 550MB/s, Write: 465MB/s",
+      "url": "https://www.startech.com.bd/miphi-mp100-256gb-sata-iii-ssd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ssd/miphi/mp100/mp100-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 5500,
+      "lowest_price": 5500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 5500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 5500,
+          "regular_price": 6100,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ssd",
+      "product_id": "16439",
+      "brand": "Netac",
+      "model": "N535N 256GB",
+      "title": "Netac N535N 256GB M.2 2280 SSD",
+      "current_price": 5500,
+      "regular_price": 6550,
+      "discount_bdt": 1050,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "256GB",
+        "Read Speed": "540 MB/s",
+        "Write Speed": "490 MB/s",
+        "Interface": "SATA III 6Gb/s"
+      },
+      "specs_summary": "Capacity: 256GB | Read Speed: 540 MB/s | Write Speed: 490 MB/s | Interface: SATA III 6Gb/s",
+      "url": "https://www.startech.com.bd/netac-n535n-256gb-ssd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ssd/netac/n535n-256gb/n535n-256gb-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 5500,
+      "lowest_price": 5500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 5500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 5500,
+          "regular_price": 6550,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ssd",
+      "product_id": "16460",
+      "brand": "Netac",
+      "model": "N535S 120GB",
+      "title": "Netac N535S 120GB 2.5-inch SATAIII SSD",
+      "current_price": 3450,
+      "regular_price": 3450,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Read Speed": "510MB/s",
+        "Write Speed": "440MB/s",
+        "Interface": "SATA III",
+        "Form Factor": "2.5\""
+      },
+      "specs_summary": "Read Speed: 510MB/s | Write Speed: 440MB/s | Interface: SATA III | Form Factor: 2.5\"",
+      "url": "https://www.startech.com.bd/netac-n535s-120gb-ssd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ssd/netac/n535s/n535s-001-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 3450,
+      "lowest_price": 3450,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 3450,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 3450,
+          "regular_price": 3450,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ssd",
+      "product_id": "33197",
+      "brand": "Netac",
+      "model": "N600S 128GB",
+      "title": "Netac N600S 128GB 2.5-inch SATAIII SSD",
+      "current_price": 3200,
+      "regular_price": 3700,
+      "discount_bdt": 500,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "128GB, Form Factor: 2.5-inch",
+        "Interface": "SATAIII 6Gb/s",
+        "Read Speed": "Up to 560MB/s",
+        "Write Speed": "Up to 490MB/s"
+      },
+      "specs_summary": "Capacity: 128GB, Form Factor: 2.5-inch | Interface: SATAIII 6Gb/s | Read Speed: Up to 560MB/s | Write Speed: Up to 490MB/s",
+      "url": "https://www.startech.com.bd/netac-n600s-128gb-2-5-inch-sataiii-ssd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ssd/netac/n600s/n600s-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 3200,
+      "lowest_price": 3200,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 3200,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 3200,
+          "regular_price": 3700,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ssd",
+      "product_id": "33165",
+      "brand": "Netac",
+      "model": "N930ES 128GB",
+      "title": "Netac N930ES 128GB M.2 NVMe PCIe 2242 SSD",
+      "current_price": 3800,
+      "regular_price": 4500,
+      "discount_bdt": 700,
+      "stock_status": "In Stock",
+      "specs": {
+        "Interface": "PCIe Gen3x2",
+        "Capacity": "128GB",
+        "Read Speed": "Up to 970MB/s",
+        "Write Speed": "Up to 635MB/s"
+      },
+      "specs_summary": "Interface: PCIe Gen3x2 | Capacity: 128GB | Read Speed: Up to 970MB/s | Write Speed: Up to 635MB/s",
+      "url": "https://www.startech.com.bd/netac-n930es-128gb-m-2-nvme-pcie-ssd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ssd/netac/n930es/n930es-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 3800,
+      "lowest_price": 3800,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 3800,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 3800,
+          "regular_price": 4500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ssd",
+      "product_id": "14824",
+      "brand": "Lexar",
+      "model": "NS100 256GB",
+      "title": "Lexar NS100 256GB 2.5 inch Gray SATA III SSD",
+      "current_price": 6400,
+      "regular_price": 6400,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "Shock and Vibration Resistant | Easy Set Up | Faster Startup | Energy Efficient"
+      },
+      "specs_summary": "Features: Shock and Vibration Resistant | Easy Set Up | Faster Startup | Energy Efficient",
+      "url": "https://www.startech.com.bd/lexar-ns100-256gb-ssd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ssd/lexar/ns100-256gb/ns100-256gb-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 6400,
+      "lowest_price": 6400,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 6400,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 6400,
+          "regular_price": 6400,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ssd",
+      "product_id": "45822",
+      "brand": "Netac",
+      "model": "NV3000 250GB",
+      "title": "Netac NV3000 250GB M.2 2280 NVMe PCIe Gen 3 x4 SSD",
+      "current_price": 6300,
+      "regular_price": 6500,
+      "discount_bdt": 200,
+      "stock_status": "In Stock",
+      "specs": {
+        "Storage Capacity": "250GB, 3D NAND Flash",
+        "From Factor": "M.2 2280, Interface: NVMe PCIe Gen 3 x4",
+        "Seq. Read/ Write Speed": "Up to 3000MB/s/ 1400MB/s",
+        "Features": "Supports S.M.A.R.T./TRIM Command/NCQ"
+      },
+      "specs_summary": "Storage Capacity: 250GB, 3D NAND Flash | From Factor: M.2 2280, Interface: NVMe PCIe Gen 3 x4 | Seq. Read/ Write Speed: Up to 3000MB/s/ 1400MB/s | Features: Supports S.M.A.R.T./TRIM Command/NCQ",
+      "url": "https://www.startech.com.bd/netac-nv3000-250gb-ssd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ssd/netac/nv3000/nv3000-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 6300,
+      "lowest_price": 6300,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 6300,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 6300,
+          "regular_price": 6500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ssd",
+      "product_id": "44959",
+      "brand": "OSCOO",
+      "model": "OS001 256GB 2.5''",
+      "title": "OSCOO OS001 256GB 2.5'' SATA III SSD",
+      "current_price": 5600,
+      "regular_price": 5600,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "256GB",
+        "Interface": "SATA III (6 Gbps)",
+        "Form Factor": "2.5 inch",
+        "Read": "550MB/s (Max), Write: 520MB/s (Max)"
+      },
+      "specs_summary": "Capacity: 256GB | Interface: SATA III (6 Gbps) | Form Factor: 2.5 inch | Read: 550MB/s (Max), Write: 520MB/s (Max)",
+      "url": "https://www.startech.com.bd/oscoo-os001-256gb-ssd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ssd/oscoo/os001/os001-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 5600,
+      "lowest_price": 5600,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 5600,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 5600,
+          "regular_price": 5600,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ssd",
+      "product_id": "43472",
+      "brand": "OSCOO",
+      "model": "OS002 256GB 2.5''",
+      "title": "OSCOO OS002 256GB 2.5'' SATA III SSD",
+      "current_price": 5700,
+      "regular_price": 5700,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "256GB",
+        "Interface": "SATA III (6 Gbps)",
+        "Form Factor": "2.5 inch",
+        "Read": "550MB/s (Max), Write: 520MB/s (Max)"
+      },
+      "specs_summary": "Capacity: 256GB | Interface: SATA III (6 Gbps) | Form Factor: 2.5 inch | Read: 550MB/s (Max), Write: 520MB/s (Max)",
+      "url": "https://www.startech.com.bd/oscoo-os002-256gb-ssd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ssd/oscoo/os002/os002-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 5700,
+      "lowest_price": 5700,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 5700,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 5700,
+          "regular_price": 5700,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ssd",
+      "product_id": "53714",
+      "brand": "Silicon Power",
+      "model": "P34A60 128GB",
+      "title": "Silicon Power P34A60 128GB M.2 PCIe Gen3 NVMe SSD",
+      "current_price": 4800,
+      "regular_price": 4800,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "128GB",
+        "Interface": "PCIe Gen3 x4",
+        "Form Factor": "M.2 2280",
+        "Sequential Read/Write": "1800MB/s / 600MB/s"
+      },
+      "specs_summary": "Capacity: 128GB | Interface: PCIe Gen3 x4 | Form Factor: M.2 2280 | Sequential Read/Write: 1800MB/s / 600MB/s",
+      "url": "https://www.startech.com.bd/silicon-power-p34a60-128gb-gen3-ssd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ssd/silicon-power/p34a60/p34a60-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 4800,
+      "lowest_price": 4800,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 4800,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 4800,
+          "regular_price": 4800,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ssd",
+      "product_id": "49062",
+      "brand": "Addlink",
+      "model": "S70 Lite 256GB",
+      "title": "Addlink S70 Lite 256GB M.2 2280 NVMe PCIe Gen 3 x4 SSD",
+      "current_price": 6200,
+      "regular_price": 6500,
+      "discount_bdt": 300,
+      "stock_status": "In Stock",
+      "specs": {
+        "Storage Capacity": "256GB, 3D NAND Flash",
+        "From Factor": "M.2 2280, Interface: NVMe PCIe Gen 3 x4",
+        "Seq. Read/ Write Speed": "Up to 3000MB/s/ 1000MB/s",
+        "Features": "Supports S.M.A.R.T./TRIM"
+      },
+      "specs_summary": "Storage Capacity: 256GB, 3D NAND Flash | From Factor: M.2 2280, Interface: NVMe PCIe Gen 3 x4 | Seq. Read/ Write Speed: Up to 3000MB/s/ 1000MB/s | Features: Supports S.M.A.R.T./TRIM",
+      "url": "https://www.startech.com.bd/addlink-s70-lite-256gb-nvme-ssd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ssd/addlink/s70-lite/s70-lite-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 6200,
+      "lowest_price": 6200,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 6200,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 6200,
+          "regular_price": 6500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ssd",
+      "product_id": "25980",
+      "brand": "Netac",
+      "model": "SA500 128GB",
+      "title": "Netac SA500 128GB 2.5-inch SATAIII SSD",
+      "current_price": 3400,
+      "regular_price": 3400,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "128GB",
+        "Interface": "SATA III, 6.0 GB/s",
+        "Form Factor": "2.5 inch",
+        "Read": "500 MB/s, Write: 400 MB/s"
+      },
+      "specs_summary": "Capacity: 128GB | Interface: SATA III, 6.0 GB/s | Form Factor: 2.5 inch | Read: 500 MB/s, Write: 400 MB/s",
+      "url": "https://www.startech.com.bd/netac-sa500-128-gb-ssd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ssd/netac/ls-ne-sa500/ls-ne-sa500-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 3400,
+      "lowest_price": 3400,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 3400,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 3400,
+          "regular_price": 3400,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ssd",
+      "product_id": "25983",
+      "brand": "Netac",
+      "model": "SA500 256GB",
+      "title": "Netac SA500 256GB 2.5-inch SATAIII SSD",
+      "current_price": 5450,
+      "regular_price": 5450,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "256GB",
+        "Interface": "SATA III, 6.0 GB/s",
+        "Form Factor": "2.5 inch",
+        "Read": "520 MB/s, Write: 450 MB/s"
+      },
+      "specs_summary": "Capacity: 256GB | Interface: SATA III, 6.0 GB/s | Form Factor: 2.5 inch | Read: 520 MB/s, Write: 450 MB/s",
+      "url": "https://www.startech.com.bd/netac-sa500-256-gb-ssd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ssd/netac/ls-ne-sa500/ls-ne-sa500-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 5450,
+      "lowest_price": 5450,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 5450,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 5450,
+          "regular_price": 5450,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ssd",
+      "product_id": "33349",
+      "brand": "OCPC",
+      "model": "XTL-200 128GB",
+      "title": "OCPC XTL-200 128GB SATA III SSD",
+      "current_price": 3600,
+      "regular_price": 3800,
+      "discount_bdt": 200,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "Capacity - 128GB | Form Factor - 2.5 Inch | Read Speed (Max) - 510MB/s | Write Speed (Max) - 450MB/s"
+      },
+      "specs_summary": "Features: Capacity - 128GB | Form Factor - 2.5 Inch | Read Speed (Max) - 510MB/s | Write Speed (Max) - 450MB/s",
+      "url": "https://www.startech.com.bd/ocpc-xtl-200-128gb-ssd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ssd/ocpc/xtl-200/xtl-200-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 3600,
+      "lowest_price": 3600,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 3600,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 3600,
+          "regular_price": 3800,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "ssd",
+      "product_id": "33351",
+      "brand": "OCPC",
+      "model": "XTL-200 256GB",
+      "title": "OCPC XTL-200 256GB SATA III SSD",
+      "current_price": 5600,
+      "regular_price": 6000,
+      "discount_bdt": 400,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "Capacity - 256GB | Form Factor - 2.5 Inch | Read Speed (Max) - 510MB/s | Write Speed (Max) - 450MB/s"
+      },
+      "specs_summary": "Features: Capacity - 256GB | Form Factor - 2.5 Inch | Read Speed (Max) - 510MB/s | Write Speed (Max) - 450MB/s",
+      "url": "https://www.startech.com.bd/ocpc-xtl-200-256gb-ssd",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ssd/ocpc/xtl-200/xtl-200-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 5600,
+      "lowest_price": 5600,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 5600,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 5600,
+          "regular_price": 6000,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+{
+  "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+  "category": "motherboard",
+  "sorted_by": "model",
+  "total_items": 20,
+  "products": [
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "motherboard",
+      "product_id": "40838",
+      "brand": "Gigabyte",
+      "model": "A520M DS3H V2 Micro-ATX DDR4 AMD AM4",
+      "title": "Gigabyte A520M DS3H V2 Micro-ATX DDR4 AMD AM4 Motherboard",
+      "current_price": 9500,
+      "regular_price": 10300,
+      "discount_bdt": 800,
+      "stock_status": "In Stock",
+      "specs": {
+        "Supported CPU": "Ryzen 5000 / 4000 / 3000 G-Series Processors for Socket AM4",
+        "Supported RAM": "4x DDR4, up to 128GB",
+        "Graphics Output": "1x Display Port, 1x HDMI",
+        "Features": "Realtek GbE LAN chip, Ultra Durable PCIe 3.0 x16 Slot"
+      },
+      "specs_summary": "Supported CPU: Ryzen 5000 / 4000 / 3000 G-Series Processors for Socket AM4 | Supported RAM: 4x DDR4, up to 128GB | Graphics Output: 1x Display Port, 1x HDMI | Features: Realtek GbE LAN chip, Ultra Durable PCIe 3.0 x16 Slot",
+      "url": "https://www.startech.com.bd/gigabyte-a520m-ds3h-v2-motherboard",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/a520m-ds3h-v2/a520m-ds3h-v2-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 9500,
+      "lowest_price": 9500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 9500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 9500,
+          "regular_price": 10300,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "motherboard",
+      "product_id": "14048",
+      "brand": "MSI",
+      "model": "A520M-A Pro AMD AM4",
+      "title": "MSI A520M-A Pro AMD AM4 Micro-ATX Motherboard",
+      "current_price": 7800,
+      "regular_price": 8300,
+      "discount_bdt": 500,
+      "stock_status": "In Stock",
+      "specs": {
+        "Supported CPU": "Ryzen 3000/ 4000G / 5000 Series for Socket AM4",
+        "Supported RAM": "2x DDR4, up to 4600MHz (OC), Max. 64GB",
+        "Graphics Output": "1x HDMI 2.1, 1x DVI-D",
+        "Features": "1x M.2, Realtek RTL8111H Gigabit LAN"
+      },
+      "specs_summary": "Supported CPU: Ryzen 3000/ 4000G / 5000 Series for Socket AM4 | Supported RAM: 2x DDR4, up to 4600MHz (OC), Max. 64GB | Graphics Output: 1x HDMI 2.1, 1x DVI-D | Features: 1x M.2, Realtek RTL8111H Gigabit LAN",
+      "url": "https://www.startech.com.bd/msi-a520m-a-pro-motherboard",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/msi/a520m-a-pro/a520m-a-pro-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 7800,
+      "lowest_price": 7800,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 7800,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 7800,
+          "regular_price": 8300,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "motherboard",
+      "product_id": "27480",
+      "brand": "Gigabyte",
+      "model": "B450M K AMD AM4 Micro",
+      "title": "GIGABYTE B450M K AMD AM4 Micro ATX Motherboard",
+      "current_price": 8800,
+      "regular_price": 8800,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Supported CPU": "Ryzen 5000/ 5000 G/ 3rd/ 2nd/1st Gen Processors for Socket AM4",
+        "Supported RAM": "2 x DDR4, up to 64GB, 3600(O.C.)",
+        "Graphics Output": "1 x HDMI port",
+        "Features": "1 x M.2 Slot, Realtek GbE LAN"
+      },
+      "specs_summary": "Supported CPU: Ryzen 5000/ 5000 G/ 3rd/ 2nd/1st Gen Processors for Socket AM4 | Supported RAM: 2 x DDR4, up to 64GB, 3600(O.C.) | Graphics Output: 1 x HDMI port | Features: 1 x M.2 Slot, Realtek GbE LAN",
+      "url": "https://www.startech.com.bd/gigabyte-b450m-k-motherboard",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/b450m-k/b450m-k-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 8800,
+      "lowest_price": 8800,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 8800,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 8800,
+          "regular_price": 8800,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "motherboard",
+      "product_id": "32269",
+      "brand": "Colorful",
+      "model": "BATTLE-AX H610M-E WIFI V20",
+      "title": "Colorful BATTLE-AX H610M-E WIFI V20 mATX Motherboard",
+      "current_price": 10200,
+      "regular_price": 10200,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Supported CPU": "14th/13th/12th Gen Intel Processors (LGA1700)",
+        "Supported RAM": "2x DDR4, Max 64GB 3200(OC)",
+        "Graphics Output": "1×VGA, 1x HDMI",
+        "Features": "RTL8111H Gbit network card, WiFi 5"
+      },
+      "specs_summary": "Supported CPU: 14th/13th/12th Gen Intel Processors (LGA1700) | Supported RAM: 2x DDR4, Max 64GB 3200(OC) | Graphics Output: 1×VGA, 1x HDMI | Features: RTL8111H Gbit network card, WiFi 5",
+      "url": "https://www.startech.com.bd/colorful-battle-ax-h610m-e-wifi-v20-motherboard",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/colorful/battle-ax-h610m-e-wifi-v20/battle-ax-h610m-e-wifi-v20-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 10200,
+      "lowest_price": 10200,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 10200,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 10200,
+          "regular_price": 10200,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "motherboard",
+      "product_id": "30371",
+      "brand": "Gigabyte",
+      "model": "GA-H81M-H M.2 DDR3 Micro",
+      "title": "Gigabyte GA-H81M-H M.2 DDR3 Micro ATX Motherboard",
+      "current_price": 8900,
+      "regular_price": 9200,
+      "discount_bdt": 300,
+      "stock_status": "In Stock",
+      "specs": {
+        "Supported CPU": "4th Generation Intel Core processors (LGA1150)",
+        "Supported RAM": "2 x 1.5V DDR3 DIMM up to 16 GB 1600MHz",
+        "Graphics Output": "1 x D-Sub, 1 x HDMI",
+        "Features": "LAN with high ESD Protection"
+      },
+      "specs_summary": "Supported CPU: 4th Generation Intel Core processors (LGA1150) | Supported RAM: 2 x 1.5V DDR3 DIMM up to 16 GB 1600MHz | Graphics Output: 1 x D-Sub, 1 x HDMI | Features: LAN with high ESD Protection",
+      "url": "https://www.startech.com.bd/gigabyte-ga-h81m-h-motherboard",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/ga-h81m-h/ga-h81m-h-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 8900,
+      "lowest_price": 8900,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 8900,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 8900,
+          "regular_price": 9200,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "motherboard",
+      "product_id": "13599",
+      "brand": "Gigabyte",
+      "model": "H310M M.2 9th Gen Micro",
+      "title": "Gigabyte H310M M.2 9th Gen Micro ATX Motherboard",
+      "current_price": 9500,
+      "regular_price": 9600,
+      "discount_bdt": 100,
+      "stock_status": "In Stock",
+      "specs": {
+        "Chipset": "Intel H310 Express Chipset",
+        "Features": "Supports 9th and 8th Gen Intel Core Processors | CEC 2019 Ready | 2 x DIMM, Max. 32GB DDR4"
+      },
+      "specs_summary": "Chipset: Intel H310 Express Chipset | Features: Supports 9th and 8th Gen Intel Core Processors | CEC 2019 Ready | 2 x DIMM, Max. 32GB DDR4",
+      "url": "https://www.startech.com.bd/gigabyte-h310m-m2-motherboard",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/h310m-m2/h310m-m2-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 9500,
+      "lowest_price": 9500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 9500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 9500,
+          "regular_price": 9600,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "motherboard",
+      "product_id": "13937",
+      "brand": "MSI",
+      "model": "H410M A Pro Intel 10th Gen",
+      "title": "MSI H410M A Pro Intel 10th Gen Micro-ATX Motherboard",
+      "current_price": 10200,
+      "regular_price": 10500,
+      "discount_bdt": 300,
+      "stock_status": "In Stock",
+      "specs": {
+        "Intel LGA 1200 socket": "Ready for 10th Gen Intel Core processors",
+        "Features": "DDR4, Audio & Core Boost | Low Latency Gaming LAN | Extreme Stability & Compatibility"
+      },
+      "specs_summary": "Intel LGA 1200 socket: Ready for 10th Gen Intel Core processors | Features: DDR4, Audio & Core Boost | Low Latency Gaming LAN | Extreme Stability & Compatibility",
+      "url": "https://www.startech.com.bd/msi-h410m-a-pro-motherboard",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/msi/h410m-a-pro/h410m-a-pro-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 10200,
+      "lowest_price": 10200,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 10200,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 10200,
+          "regular_price": 10500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "motherboard",
+      "product_id": "13580",
+      "brand": "Gigabyte",
+      "model": "H410M H 10th Gen Micro",
+      "title": "Gigabyte H410M H 10th Gen Micro ATX Motherboard",
+      "current_price": 9200,
+      "regular_price": 9800,
+      "discount_bdt": 600,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "Intel Socket LGA1200 for 10th Gen Processors | 8-Channel HD Audio | Smart Fan 5 features | Anti-Sulfur Resistors Design"
+      },
+      "specs_summary": "Features: Intel Socket LGA1200 for 10th Gen Processors | 8-Channel HD Audio | Smart Fan 5 features | Anti-Sulfur Resistors Design",
+      "url": "https://www.startech.com.bd/gigabyte-h410m-h-motherboard",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/h410m-h/h410m-h-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 9200,
+      "lowest_price": 9200,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 9200,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 9200,
+          "regular_price": 9800,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "motherboard",
+      "product_id": "20787",
+      "brand": "Gigabyte",
+      "model": "H610M H DDR4 Micro",
+      "title": "GIGABYTE H610M H DDR4 Micro ATX Motherboard",
+      "current_price": 10499,
+      "regular_price": 10600,
+      "discount_bdt": 101,
+      "stock_status": "In Stock",
+      "specs": {
+        "Supported CPU": "14th/13th/12th Gen Intel Processors (LGA1700)",
+        "Features": "Dual Channel Non-ECC Unbuffered DDR4, 2 DIMMs | Intel GbE LAN with cFosSpeed Internet Accelerator Software | NVMe PCIe 3.0 x4 M.2"
+      },
+      "specs_summary": "Supported CPU: 14th/13th/12th Gen Intel Processors (LGA1700) | Features: Dual Channel Non-ECC Unbuffered DDR4, 2 DIMMs | Intel GbE LAN with cFosSpeed Internet Accelerator Software | NVMe PCIe 3.0 x4 M.2",
+      "url": "https://www.startech.com.bd/gigabyte-h610m-h-ddr4-motherboard",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/h610m-h-ddr4/h610m-h-ddr4-01-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 10499,
+      "lowest_price": 10499,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 10499,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 10499,
+          "regular_price": 10600,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "motherboard",
+      "product_id": "37011",
+      "brand": "Gigabyte",
+      "model": "H610M K DDR4 Micro",
+      "title": "GIGABYTE H610M K DDR4 Micro ATX Motherboard",
+      "current_price": 10499,
+      "regular_price": 10499,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Supported CPU": "14th/13th/12th Gen Intel Processors (LGA1700)",
+        "Supported RAM": "2x DDR4, Max 64GB 3200",
+        "Graphics Output": "1x HDMI 2.1",
+        "Features": "Realtek GbE LAN chip (1 Gbps/100 Mbps)"
+      },
+      "specs_summary": "Supported CPU: 14th/13th/12th Gen Intel Processors (LGA1700) | Supported RAM: 2x DDR4, Max 64GB 3200 | Graphics Output: 1x HDMI 2.1 | Features: Realtek GbE LAN chip (1 Gbps/100 Mbps)",
+      "url": "https://www.startech.com.bd/gigabyte-h610m-k-ddr4-motherboard",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/h610m-k/h610m-k-ddr4-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 10499,
+      "lowest_price": 10499,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 10499,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 10499,
+          "regular_price": 10499,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "motherboard",
+      "product_id": "46674",
+      "brand": "ASRock",
+      "model": "H610M-H2/M.2 14th, 13th and 12th Gen mATX",
+      "title": "ASROCK H610M-H2/M.2 14th, 13th and 12th Gen mATX DDR5 Motherboard",
+      "current_price": 9100,
+      "regular_price": 9100,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Supported CPU": "14th/13th/12th Gen Intel Processors (LGA1700)",
+        "Supported RAM": "2x DDR5, up to 5600 Hz",
+        "Graphics Output": "2x HDMI, Max. Resolution up to 4K 60Hz",
+        "Features": "Realtek Gigabit LAN 10/100/1000 Mb/s"
+      },
+      "specs_summary": "Supported CPU: 14th/13th/12th Gen Intel Processors (LGA1700) | Supported RAM: 2x DDR5, up to 5600 Hz | Graphics Output: 2x HDMI, Max. Resolution up to 4K 60Hz | Features: Realtek Gigabit LAN 10/100/1000 Mb/s",
+      "url": "https://www.startech.com.bd/asrock-h610m-h2-m2-motherboard",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/asrock/h610m-h2-m2/h610m-h2-m2-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 9100,
+      "lowest_price": 9100,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 9100,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 9100,
+          "regular_price": 9100,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "motherboard",
+      "product_id": "14970",
+      "brand": "Asus",
+      "model": "Prime A520M-K AM4 Micro-ATX AMD",
+      "title": "Asus Prime A520M-K AM4 Micro-ATX AMD Motherboard",
+      "current_price": 9250,
+      "regular_price": 9900,
+      "discount_bdt": 650,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "AMD AM4 Socket for Ryzen 5000 Series/ 4000 G-Series/ 3000 Series Desktop Processors | 5X Protection III | Ultrafast connectivity | Comprehensive cooling"
+      },
+      "specs_summary": "Features: AMD AM4 Socket for Ryzen 5000 Series/ 4000 G-Series/ 3000 Series Desktop Processors | 5X Protection III | Ultrafast connectivity | Comprehensive cooling",
+      "url": "https://www.startech.com.bd/asus-prime-a520m-k-amd-motherboard",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/asus/prime-a520m-k/prime-a520m-k-1-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 9250,
+      "lowest_price": 9250,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 9250,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 9250,
+          "regular_price": 9900,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "motherboard",
+      "product_id": "43415",
+      "brand": "Asus",
+      "model": "PRIME A520M-R AM4 micro",
+      "title": "Asus PRIME A520M-R AM4 micro ATX Motherboard",
+      "current_price": 8700,
+      "regular_price": 8700,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "CPU": "AMD AM4 Socket for AMD Ryzen 5000 / 4000 / 3000 Series",
+        "Supported RAM": "2 x DIMM ,Max 64GB,  Up to 5100(OC)",
+        "Output": "1 x HDMI",
+        "Features": "1 x M.2, 4 x SATA 6Gb/s ports"
+      },
+      "specs_summary": "CPU: AMD AM4 Socket for AMD Ryzen 5000 / 4000 / 3000 Series | Supported RAM: 2 x DIMM ,Max 64GB,  Up to 5100(OC) | Output: 1 x HDMI | Features: 1 x M.2, 4 x SATA 6Gb/s ports",
+      "url": "https://www.startech.com.bd/asus-prime-a520m-r-motherboard",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/msi/prime-a520m-r/prime-a520m-r-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 8700,
+      "lowest_price": 8700,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 8700,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 8700,
+          "regular_price": 8700,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "motherboard",
+      "product_id": "39216",
+      "brand": "Asus",
+      "model": "PRIME H610M-F D4 R2.0 DDR4 LGA1700",
+      "title": "ASUS PRIME H610M-F D4 R2.0 DDR4 LGA1700 mATX Motherboard",
+      "current_price": 10200,
+      "regular_price": 10200,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Supported CPU": "14th, 13th Gen & 12th Gen Processors (LGA1700)",
+        "Supported Memory": "2 x DIMM, Max. 64GB, DDR4",
+        "Graphics Output": "1x HDMI",
+        "Features": "1x M.2 slot, 1x Realtek 1Gb Ethernet"
+      },
+      "specs_summary": "Supported CPU: 14th, 13th Gen & 12th Gen Processors (LGA1700) | Supported Memory: 2 x DIMM, Max. 64GB, DDR4 | Graphics Output: 1x HDMI | Features: 1x M.2 slot, 1x Realtek 1Gb Ethernet",
+      "url": "https://www.startech.com.bd/asus-prime-h610m-f-d4-r2-0-lga1700-motherboard",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/asus/prime-h610m-f-d4-r2-0/prime-h610m-f-d4-r2-0-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 10200,
+      "lowest_price": 10200,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 10200,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 10200,
+          "regular_price": 10200,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "motherboard",
+      "product_id": "27008",
+      "brand": "MSI",
+      "model": "PRO H610M-E",
+      "title": "MSI PRO H610M-E DDR4 mATX Motherboard",
+      "current_price": 9900,
+      "regular_price": 10000,
+      "discount_bdt": 100,
+      "stock_status": "In Stock",
+      "specs": {
+        "Supported CPU": "14th/13th/12th Gen Intel Processors (LGA1700)",
+        "Supported RAM": "2x DDR4, Max 64GB",
+        "Graphics Output": "1x HDMI, 1x VGA",
+        "Features": "1x M.2 slot, Realtek RTL8111H Gigabit LAN"
+      },
+      "specs_summary": "Supported CPU: 14th/13th/12th Gen Intel Processors (LGA1700) | Supported RAM: 2x DDR4, Max 64GB | Graphics Output: 1x HDMI, 1x VGA | Features: 1x M.2 slot, Realtek RTL8111H Gigabit LAN",
+      "url": "https://www.startech.com.bd/msi-pro-h610m-e-ddr4-motherboard",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/msi/pro-h610m-e-ddr4/pro-h610m-e-ddr4-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 9900,
+      "lowest_price": 9900,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 9900,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 9900,
+          "regular_price": 10000,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "motherboard",
+      "product_id": "31998",
+      "brand": "MSI",
+      "model": "PRO H610M-G",
+      "title": "MSI PRO H610M-G DDR5 mATX Motherboard",
+      "current_price": 10700,
+      "regular_price": 10700,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Graphics Output": "1x HDMI, 1x DisplayPort, 1x VGA",
+        "Features": "Realtek ALC897 Codec | Supports 14th/ 13th/ 12th Gen, Intel Pentium Gold & Celeron Processors for LGA 1700 socket | Supports DDR5 Memory, up to 5600 (MAX) MHz"
+      },
+      "specs_summary": "Graphics Output: 1x HDMI, 1x DisplayPort, 1x VGA | Features: Realtek ALC897 Codec | Supports 14th/ 13th/ 12th Gen, Intel Pentium Gold & Celeron Processors for LGA 1700 socket | Supports DDR5 Memory, up to 5600 (MAX) MHz",
+      "url": "https://www.startech.com.bd/msi-pro-h610m-g-ddr5-motherboard",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/msi/pro-h610m-g-ddr5/pro-h610m-g-ddr5-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 10700,
+      "lowest_price": 10700,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 10700,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 10700,
+          "regular_price": 10700,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "motherboard",
+      "product_id": "50701",
+      "brand": "MSI",
+      "model": "PRO H610M-S DDR4 II",
+      "title": "MSI PRO H610M-S DDR4 II mATX Motherboard",
+      "current_price": 9700,
+      "regular_price": 9500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Supported CPU": "14th/13th/12th Gen Intel Processors (LGA1700)",
+        "Supported RAM": "2x DDR4, Max 64GB 3200 MHz",
+        "Graphics Output": "2x HDMI 1.4 with HDR",
+        "Features": "1x M.2, Realtek RTL8111H Gigabit LAN"
+      },
+      "specs_summary": "Supported CPU: 14th/13th/12th Gen Intel Processors (LGA1700) | Supported RAM: 2x DDR4, Max 64GB 3200 MHz | Graphics Output: 2x HDMI 1.4 with HDR | Features: 1x M.2, Realtek RTL8111H Gigabit LAN",
+      "url": "https://www.startech.com.bd/msi-pro-h610m-s-ddr4-ii-matx-motherboard",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/msi/pro-h610m-s-ddr4-ii/pro-h610m-s-ddr4-ii-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 9700,
+      "lowest_price": 9700,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 9700,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 9700,
+          "regular_price": 9500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "motherboard",
+      "product_id": "35635",
+      "brand": "MSI",
+      "model": "PRO H610M-S DDR4 m-ATX",
+      "title": "MSI PRO H610M-S DDR4 m-ATX Motherboard",
+      "current_price": 9700,
+      "regular_price": 10200,
+      "discount_bdt": 500,
+      "stock_status": "In Stock",
+      "specs": {
+        "Supported CPU": "14th/13th/12th Gen Intel Processors (LGA1700)",
+        "Supported RAM": "2x DDR4, Max 96GB",
+        "Graphics Output": "1x HDMI",
+        "Features": "1x M.2 slot, Realtek RTL8111H Gigabit LAN"
+      },
+      "specs_summary": "Supported CPU: 14th/13th/12th Gen Intel Processors (LGA1700) | Supported RAM: 2x DDR4, Max 96GB | Graphics Output: 1x HDMI | Features: 1x M.2 slot, Realtek RTL8111H Gigabit LAN",
+      "url": "https://www.startech.com.bd/msi-pro-h610m-s-motherboard",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/msi/pro-h610m-s/pro-h610m-s-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 9700,
+      "lowest_price": 9700,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 9700,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 9700,
+          "regular_price": 10200,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "motherboard",
+      "product_id": "51416",
+      "brand": "Xenthra",
+      "model": "XN-B450M-VH-PRO AMD AM4",
+      "title": "XENTHRA XN-B450M-VH-PRO AMD AM4 mATX Motherboard",
+      "current_price": 7200,
+      "regular_price": 7600,
+      "discount_bdt": 400,
+      "stock_status": "In Stock",
+      "specs": {
+        "Supported CPU": "Ryzen 1000/2000/3000/4000/5000 Series Processors",
+        "Supported RAM": "2x DDR4, up to 3200 (OC) MHz",
+        "Graphics Output": "1 x HDMI, 1x VGA",
+        "Features": "1 x M.2 , 1x RJ45 Gigabit Ethernet LAN"
+      },
+      "specs_summary": "Supported CPU: Ryzen 1000/2000/3000/4000/5000 Series Processors | Supported RAM: 2x DDR4, up to 3200 (OC) MHz | Graphics Output: 1 x HDMI, 1x VGA | Features: 1 x M.2 , 1x RJ45 Gigabit Ethernet LAN",
+      "url": "https://www.startech.com.bd/xenthra-xn-b450m-vh-pro-motherboard",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/xenthra/xn-b450m-vh-pro/xn-b450m-vh-pro-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 7200,
+      "lowest_price": 7200,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 7200,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 7200,
+          "regular_price": 7600,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "motherboard",
+      "product_id": "51413",
+      "brand": "Xenthra",
+      "model": "XN-H81M-VH 4th Gen",
+      "title": "XENTHRA XN-H81M-VH 4th Gen mATX Motherboard",
+      "current_price": 4200,
+      "regular_price": 4500,
+      "discount_bdt": 300,
+      "stock_status": "In Stock",
+      "specs": {
+        "Supported CPU": "4th Generation Intel Core processors (LGA1150)",
+        "Supported RAM": "2x DDR3 DIMM up to 16 GB 1600MHz",
+        "Graphics Output": "1 x VGA, 1 x HDMI",
+        "Features": "1x RJ45 Gigabit LAN"
+      },
+      "specs_summary": "Supported CPU: 4th Generation Intel Core processors (LGA1150) | Supported RAM: 2x DDR3 DIMM up to 16 GB 1600MHz | Graphics Output: 1 x VGA, 1 x HDMI | Features: 1x RJ45 Gigabit LAN",
+      "url": "https://www.startech.com.bd/xenthra-xn-h81m-vh-motherboard",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/xenthra/xn-h81m-vh/xn-h81m-vh-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 4200,
+      "lowest_price": 4200,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 4200,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 4200,
+          "regular_price": 4500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    }
+  ]
+}

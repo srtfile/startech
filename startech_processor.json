@@ -1,0 +1,753 @@
+{
+  "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+  "category": "processor",
+  "sorted_by": "model",
+  "total_items": 20,
+  "products": [
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "processor",
+      "product_id": "13306",
+      "brand": "Intel",
+      "model": "10th Gen Core i3 10100",
+      "title": "Intel 10th Gen Core i3 10100 Processor",
+      "current_price": 9400,
+      "regular_price": 10500,
+      "discount_bdt": 1100,
+      "stock_status": "In Stock",
+      "specs": {
+        "Cores": "4 & Threads: 8",
+        "Features": "Socket  Supported FCLGA1200 | Speed 3.60 up to 4.30 GHz | 6M Cache"
+      },
+      "specs_summary": "Cores: 4 & Threads: 8 | Features: Socket  Supported FCLGA1200 | Speed 3.60 up to 4.30 GHz | 6M Cache",
+      "url": "https://www.startech.com.bd/intel-core-i3-10100-processor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/i3-10100/i3-10100-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 9400,
+      "lowest_price": 9400,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 9400,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 9400,
+          "regular_price": 10500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "processor",
+      "product_id": "31472",
+      "brand": "Intel",
+      "model": "10th Gen Core i3 10100T",
+      "title": "Intel 10th Gen Core i3 10100T Processor (Tray Box)",
+      "current_price": 9300,
+      "regular_price": 9900,
+      "discount_bdt": 600,
+      "stock_status": "In Stock",
+      "specs": {
+        "Clock Speed": "3.00 GHz up to 3.80 GHz",
+        "Cores": "4, Threads: 8",
+        "Cache": "6 MB Intel Smart Cache",
+        "Sockets Supported": "FCLGA1200"
+      },
+      "specs_summary": "Clock Speed: 3.00 GHz up to 3.80 GHz | Cores: 4, Threads: 8 | Cache: 6 MB Intel Smart Cache | Sockets Supported: FCLGA1200",
+      "url": "https://www.startech.com.bd/intel-10th-gen-core-i3-10100t-processor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/10th-gen-core-i3-10100t/10th-gen-core-i3-10100t-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 9300,
+      "lowest_price": 9300,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 9300,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 9300,
+          "regular_price": 9900,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "processor",
+      "product_id": "16792",
+      "brand": "Intel",
+      "model": "11th Gen Core i5-11400F Rocket Lake",
+      "title": "Intel 11th Gen Core i5-11400F Rocket Lake Processor",
+      "current_price": 10900,
+      "regular_price": 14000,
+      "discount_bdt": 3100,
+      "stock_status": "In Stock",
+      "specs": {
+        "Clock Speed": "2.60 GHz Up to 4.40 GHz",
+        "Cache": "12 MB, Socket: LGA1200",
+        "CPU Cores": "6, CPU Threads: 12",
+        "Max RAM Size": "128 GB"
+      },
+      "specs_summary": "Clock Speed: 2.60 GHz Up to 4.40 GHz | Cache: 12 MB, Socket: LGA1200 | CPU Cores: 6, CPU Threads: 12 | Max RAM Size: 128 GB",
+      "url": "https://www.startech.com.bd/intel-core-i5-11400f-11th-gen-processor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i5-11400f/core-i5-11400f-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 10900,
+      "lowest_price": 10900,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 10900,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 10900,
+          "regular_price": 14000,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "processor",
+      "product_id": "13313",
+      "brand": "AMD",
+      "model": "Athlon PRO 300GE",
+      "title": "AMD Athlon PRO 300GE AM4 Socket Desktop Processor with Radeon Vega 3 Graphics (Rebox)",
+      "current_price": 3499,
+      "regular_price": 4200,
+      "discount_bdt": 701,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "Base Clock Speed 3.4GHz | Package AM4 | PCI Express PCIe 3.0"
+      },
+      "specs_summary": "Features: Base Clock Speed 3.4GHz | Package AM4 | PCI Express PCIe 3.0",
+      "url": "https://www.startech.com.bd/amd-athlon-pro-300ge-processor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/athlon-pro-300ge/athlon-pro-300ge-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 3499,
+      "lowest_price": 3499,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 3499,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 3499,
+          "regular_price": 4200,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "processor",
+      "product_id": "19089",
+      "brand": "Intel",
+      "model": "Core i3 10105 10th Gen Comet Lake",
+      "title": "Intel Core i3 10105 10th Gen Comet Lake Processor",
+      "current_price": 10400,
+      "regular_price": 11000,
+      "discount_bdt": 600,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "Socket Supported FCLGA1200 | Speed 3.70 GHz up to 4.40 GHz | Cores- 4 & Threads- 8, 6M Cache | Intel UHD Graphics 630"
+      },
+      "specs_summary": "Features: Socket Supported FCLGA1200 | Speed 3.70 GHz up to 4.40 GHz | Cores- 4 & Threads- 8, 6M Cache | Intel UHD Graphics 630",
+      "url": "https://www.startech.com.bd/intel-core-i3-10105-10th-gen-processor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/intel/core-i3-10105/core-i3-10105-001-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 10400,
+      "lowest_price": 10400,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 10400,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 10400,
+          "regular_price": 11000,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "processor",
+      "product_id": "51563",
+      "brand": "Intel",
+      "model": "Core i3 12100T 12th Gen Alder Lake",
+      "title": "Intel Core i3 12100T 12th Gen Alder Lake Processor",
+      "current_price": 13400,
+      "regular_price": 14300,
+      "discount_bdt": 900,
+      "stock_status": "In Stock",
+      "specs": {
+        "Clock Speed": "2.20 GHz Up to 4.10 GHz",
+        "Cache": "12MB, Socket: LGA 1700",
+        "CPU Cores": "4, CPU Threads: 8",
+        "Graphic": "Intel UHD Graphics 730"
+      },
+      "specs_summary": "Clock Speed: 2.20 GHz Up to 4.10 GHz | Cache: 12MB, Socket: LGA 1700 | CPU Cores: 4, CPU Threads: 8 | Graphic: Intel UHD Graphics 730",
+      "url": "https://www.startech.com.bd/intel-core-i3-12100t-12th-gen-processor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/intel/i3-12100/i3-12100-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 13400,
+      "lowest_price": 13400,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 13400,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 13400,
+          "regular_price": 14300,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "processor",
+      "product_id": "20997",
+      "brand": "Intel",
+      "model": "Core i3-12100 12th Gen Alder Lake",
+      "title": "Intel Core i3-12100 12th Gen Alder Lake Processor",
+      "current_price": 13800,
+      "regular_price": 14700,
+      "discount_bdt": 900,
+      "stock_status": "In Stock",
+      "specs": {
+        "Clock Speed": "3.30 GHz Up to 4.30 GHz",
+        "Cache": "12MB, Socket: LGA 1700",
+        "CPU Cores": "4, CPU Threads: 8",
+        "Graphic": "Intel UHD Graphics 730"
+      },
+      "specs_summary": "Clock Speed: 3.30 GHz Up to 4.30 GHz | Cache: 12MB, Socket: LGA 1700 | CPU Cores: 4, CPU Threads: 8 | Graphic: Intel UHD Graphics 730",
+      "url": "https://www.startech.com.bd/intel-core-i3-12100-12th-gen-alder-lake-processor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/intel/i3-12100/i3-12100-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 13800,
+      "lowest_price": 13800,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 13800,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 13800,
+          "regular_price": 14700,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "processor",
+      "product_id": "52086",
+      "brand": "Intel",
+      "model": "Core i5-10500T 10th Gen",
+      "title": "Intel Core i5-10500T 10th Gen Processor",
+      "current_price": 12000,
+      "regular_price": 12800,
+      "discount_bdt": 800,
+      "stock_status": "In Stock",
+      "specs": {
+        "Clock Speed": "2.3 GHz up to 3.8 GHz",
+        "Cache": "12 MB Intel Smart Cache",
+        "CPU Cores": "6, CPU Threads: 12",
+        "Socket": "LGA1200"
+      },
+      "specs_summary": "Clock Speed: 2.3 GHz up to 3.8 GHz | Cache: 12 MB Intel Smart Cache | CPU Cores: 6, CPU Threads: 12 | Socket: LGA1200",
+      "url": "https://www.startech.com.bd/intel-core-i5-10500t-processor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/intel/core-i5-10500t/core-i5-10500t-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 12000,
+      "lowest_price": 12000,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 12000,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 12000,
+          "regular_price": 12800,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "processor",
+      "product_id": "15250",
+      "brand": "Intel",
+      "model": "Pentium Gold G6400 10th gen Coffee Lake",
+      "title": "Intel Pentium Gold G6400 10th gen Coffee Lake Processor",
+      "current_price": 6200,
+      "regular_price": 6600,
+      "discount_bdt": 400,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "Socket  Supported FCLGA1200 | Speed 4.00 GHz | Cores- 2 & Threads- 4 | 4M Intel Smart  Cache"
+      },
+      "specs_summary": "Features: Socket  Supported FCLGA1200 | Speed 4.00 GHz | Cores- 2 & Threads- 4 | 4M Intel Smart  Cache",
+      "url": "https://www.startech.com.bd/intel-pentium-gold-g6400-processor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/g6400/g6400-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 6200,
+      "lowest_price": 6200,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 6200,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 6200,
+          "regular_price": 6600,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "processor",
+      "product_id": "7217",
+      "brand": "AMD",
+      "model": "Ryzen 3 2200G Quad-Core",
+      "title": "AMD Ryzen 3 2200G Quad-Core Processor With Radeon Vega 8 Graphics",
+      "current_price": 3999,
+      "regular_price": 4300,
+      "discount_bdt": 301,
+      "stock_status": "In Stock",
+      "specs": {
+        "Speed": "3.5GHz Up to 3.7GHz",
+        "Cache": "L1 384KB, L2 2MB L3 4MB",
+        "Features": "Cores-4 & Threads-4 | Powerful Radeon Vega graphics"
+      },
+      "specs_summary": "Speed: 3.5GHz Up to 3.7GHz | Cache: L1 384KB, L2 2MB L3 4MB | Features: Cores-4 & Threads-4 | Powerful Radeon Vega graphics",
+      "url": "https://www.startech.com.bd/amd-ryzen-3-2200g-processor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3/ryzen-3-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 3999,
+      "lowest_price": 3999,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 3999,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 3999,
+          "regular_price": 4300,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "processor",
+      "product_id": "10295",
+      "brand": "AMD",
+      "model": "Ryzen 3 3200G",
+      "title": "AMD Ryzen 3 3200G Processor with Radeon RX Vega 8 Graphics",
+      "current_price": 6500,
+      "regular_price": 7100,
+      "discount_bdt": 600,
+      "stock_status": "In Stock",
+      "specs": {
+        "Speed": "3.6 GHz up to 4.0 GHz",
+        "Memory Speed": "Up to 2933MHz",
+        "Features": "Cores-4 & Threads-4 | Radeon Vega 8 Graphics"
+      },
+      "specs_summary": "Speed: 3.6 GHz up to 4.0 GHz | Memory Speed: Up to 2933MHz | Features: Cores-4 & Threads-4 | Radeon Vega 8 Graphics",
+      "url": "https://www.startech.com.bd/amd-ryzen-3-3200g",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-3-3200g/ryzen-3-3200g-3-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 6500,
+      "lowest_price": 6500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 6500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 6500,
+          "regular_price": 7100,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "processor",
+      "product_id": "22855",
+      "brand": "AMD",
+      "model": "Ryzen 3 4100",
+      "title": "AMD Ryzen 3 4100 Processor",
+      "current_price": 8700,
+      "regular_price": 10000,
+      "discount_bdt": 1300,
+      "stock_status": "In Stock",
+      "specs": {
+        "Clock Speed": "3.8GHz; Up to 4.0GHz",
+        "L1 Cache": "256KB; L2 Cache: 2MB; L3 Cache: 4MB",
+        "CPU Socket": "AM4",
+        "Features": "4 Cores & 8 Threads"
+      },
+      "specs_summary": "Clock Speed: 3.8GHz; Up to 4.0GHz | L1 Cache: 256KB; L2 Cache: 2MB; L3 Cache: 4MB | CPU Socket: AM4 | Features: 4 Cores & 8 Threads",
+      "url": "https://www.startech.com.bd/amd-ryzen-3-4100-processor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 8700,
+      "lowest_price": 8700,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 8700,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 8700,
+          "regular_price": 10000,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "processor",
+      "product_id": "7219",
+      "brand": "AMD",
+      "model": "Ryzen 5 2400G",
+      "title": "AMD Ryzen 5 2400G Desktop Processor with Radeon RX Vega 11 Graphics",
+      "current_price": 5900,
+      "regular_price": 6300,
+      "discount_bdt": 400,
+      "stock_status": "In Stock",
+      "specs": {
+        "Speed": "3.6GHz Up To 3.9GHz",
+        "Cache": "L1 384KB L2 2MB L3 4MB",
+        "Features": "Cores-4 & Threads-8 | Powerful Radeon Vega graphics"
+      },
+      "specs_summary": "Speed: 3.6GHz Up To 3.9GHz | Cache: L1 384KB L2 2MB L3 4MB | Features: Cores-4 & Threads-8 | Powerful Radeon Vega graphics",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-2400g-processor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-5-2400g/ryzen-5-2400g-001-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 5900,
+      "lowest_price": 5900,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 5900,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 5900,
+          "regular_price": 6300,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "processor",
+      "product_id": "10293",
+      "brand": "AMD",
+      "model": "Ryzen 5 3400G",
+      "title": "AMD Ryzen 5 3400G Processor with Radeon RX Vega 11 Graphics",
+      "current_price": 6900,
+      "regular_price": 7490,
+      "discount_bdt": 590,
+      "stock_status": "In Stock",
+      "specs": {
+        "Speed": "3.7GHz up to 4.2GHz",
+        "Cache": "L2: 2MB, L3: 4MB",
+        "Memory Speed": "Up to 2933MHz",
+        "Features": "Cores-4 & Threads-8"
+      },
+      "specs_summary": "Speed: 3.7GHz up to 4.2GHz | Cache: L2: 2MB, L3: 4MB | Memory Speed: Up to 2933MHz | Features: Cores-4 & Threads-8",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-3400g-processor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-5-3400g/3400g-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 6900,
+      "lowest_price": 6900,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 6900,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 6900,
+          "regular_price": 7490,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "processor",
+      "product_id": "22330",
+      "brand": "AMD",
+      "model": "Ryzen 5 5500",
+      "title": "AMD Ryzen 5 5500 Processor",
+      "current_price": 10200,
+      "regular_price": 11000,
+      "discount_bdt": 800,
+      "stock_status": "In Stock",
+      "specs": {
+        "Speed": "3.6GHz; Up to 4.2GHz",
+        "L2 Cache": "3MB, L3 Cache: 16MB",
+        "Cores": "6, Threads: 12",
+        "Features": "Up to 3200MHz DDR4"
+      },
+      "specs_summary": "Speed: 3.6GHz; Up to 4.2GHz | L2 Cache: 3MB, L3 Cache: 16MB | Cores: 6, Threads: 12 | Features: Up to 3200MHz DDR4",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-5500-processor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/amd/amd-ryzen-5-5500/amd-ryzen-5-5500-01-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 10200,
+      "lowest_price": 10200,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 10200,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 10200,
+          "regular_price": 11000,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "processor",
+      "product_id": "23200",
+      "brand": "AMD",
+      "model": "Ryzen 5 5600",
+      "title": "AMD Ryzen 5 5600 Processor",
+      "current_price": 12100,
+      "regular_price": 13000,
+      "discount_bdt": 900,
+      "stock_status": "In Stock",
+      "specs": {
+        "Speed": "3.5GHz up to 4.4GHz",
+        "Cache": "L2: 3MB, L3: 32MB; Cores-6 & Threads-12",
+        "Memory Speed": "DDR4 Up to 3200MHz",
+        "Features": "AMD ZEN 3 Architecture"
+      },
+      "specs_summary": "Speed: 3.5GHz up to 4.4GHz | Cache: L2: 3MB, L3: 32MB; Cores-6 & Threads-12 | Memory Speed: DDR4 Up to 3200MHz | Features: AMD ZEN 3 Architecture",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-5600-processor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/amd/5600x/5600x-001-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 12100,
+      "lowest_price": 12100,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 12100,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 12100,
+          "regular_price": 13000,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "processor",
+      "product_id": "15072",
+      "brand": "AMD",
+      "model": "Ryzen 5 5600X",
+      "title": "AMD Ryzen 5 5600X Processor",
+      "current_price": 13700,
+      "regular_price": 14500,
+      "discount_bdt": 800,
+      "stock_status": "In Stock",
+      "specs": {
+        "Speed": "3.7GHz Up to 4.6GHz",
+        "L2 Cache": "3MB,  L3 Cache: 32MB",
+        "Cores": "6, Threads: 12",
+        "Features": "Up to 3200MHz DDR4"
+      },
+      "specs_summary": "Speed: 3.7GHz Up to 4.6GHz | L2 Cache: 3MB,  L3 Cache: 32MB | Cores: 6, Threads: 12 | Features: Up to 3200MHz DDR4",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-5600x-processor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/amd/5600x/5600x-001-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 13700,
+      "lowest_price": 13700,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 13700,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 13700,
+          "regular_price": 14500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "processor",
+      "product_id": "30809",
+      "brand": "AMD",
+      "model": "Ryzen 5 7500F",
+      "title": "AMD Ryzen 5 7500F Processor",
+      "current_price": 13700,
+      "regular_price": 14500,
+      "discount_bdt": 800,
+      "stock_status": "In Stock",
+      "specs": {
+        "Clock Speed": "3.7GHz up to 5.0GHz",
+        "Cores": "6, Threads: 12",
+        "L2 Cache": "6MB, L3 Cache: 32MB",
+        "Socket": "AM5"
+      },
+      "specs_summary": "Clock Speed: 3.7GHz up to 5.0GHz | Cores: 6, Threads: 12 | L2 Cache: 6MB, L3 Cache: 32MB | Socket: AM5",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-7500f-processor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-5-7600/ryzen-5-7600-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 13700,
+      "lowest_price": 13700,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 13700,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 13700,
+          "regular_price": 14500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "processor",
+      "product_id": "39171",
+      "brand": "AMD",
+      "model": "Ryzen 5 8400F",
+      "title": "AMD Ryzen 5 8400F Processor",
+      "current_price": 10500,
+      "regular_price": 12300,
+      "discount_bdt": 1800,
+      "stock_status": "In Stock",
+      "specs": {
+        "Clock Speed": "4.2GHz up to 4.7 GHz",
+        "Cores": "6, Threads: 12",
+        "L2 Cache": "6MB, L3 Cache: 16MB",
+        "Socket": "AM5"
+      },
+      "specs_summary": "Clock Speed: 4.2GHz up to 4.7 GHz | Cores: 6, Threads: 12 | L2 Cache: 6MB, L3 Cache: 16MB | Socket: AM5",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-8400f-processor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-5-8400f/ryzen-5-8400f-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 10500,
+      "lowest_price": 10500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 10500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 10500,
+          "regular_price": 12300,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "processor",
+      "product_id": "52768",
+      "brand": "AMD",
+      "model": "Ryzen 5 Pro 2400GE",
+      "title": "AMD Ryzen 5 Pro 2400GE Desktop Processor with Radeon RX Vega 11 Graphics",
+      "current_price": 5900,
+      "regular_price": 6500,
+      "discount_bdt": 600,
+      "stock_status": "In Stock",
+      "specs": {
+        "Speed": "3.2GHz Up To 3.8GHz",
+        "Cache": "L1 384KB L2 2MB L3 4MB",
+        "Features": "Cores-4 & Threads-8 | Powerful Radeon Vega graphics"
+      },
+      "specs_summary": "Speed: 3.2GHz Up To 3.8GHz | Cache: L1 384KB L2 2MB L3 4MB | Features: Cores-4 & Threads-8 | Powerful Radeon Vega graphics",
+      "url": "https://www.startech.com.bd/amd-ryzen-5-pro-2400ge-processor",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-5-2400g/ryzen-5-2400g-001-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 5900,
+      "lowest_price": 5900,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 5900,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 5900,
+          "regular_price": 6500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    }
+  ]
+}

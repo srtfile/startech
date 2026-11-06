@@ -1,0 +1,14 @@
+name = "startech-price-tracker"
+main = "worker.js"
+compatibility_date = "2024-11-01"
+workers_dev = true
+
+[vars]
+GITHUB_OWNER = "srtfile"
+GITHUB_REPO = "startech"
+GITHUB_BRANCH = "main"
+
+# For a PRIVATE GitHub repository (https://github.com/srtfile/startech),
+# add your GitHub token as a secret in Cloudflare Workers:
+#   npx wrangler secret put GITHUB_TOKEN
+# or in Cloudflare Dashboard -> Workers & Pages -> startech-price-tracker -> Settings -> Variables and Secrets -> Add GITHUB_TOKEN

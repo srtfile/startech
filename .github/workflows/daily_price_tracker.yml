@@ -1,0 +1,82 @@
+name: Daily Star Tech Price & Stock Tracker
+
+on:
+  schedule:
+    # Runs once every day at 18:00 UTC (12:00 AM Midnight Bangladesh Standard Time, UTC+6)
+    - cron: "0 18 * * *"
+
+  # Allows manual trigger anytime from the GitHub Actions tab
+  workflow_dispatch:
+    inputs:
+      category:
+        description: "Category to scrape (default: all)"
+        required: false
+        default: "all"
+      pages:
+        description: "Max pages per category (leave empty to scrape ALL pages)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: startech-daily-price-stock-tracker
+  cancel-in-progress: false
+
+jobs:
+  track-prices-and-stock:
+    name: Scrape & Track Price + Stock History
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Star Tech Price & Stock Tracker
+        run: |
+          CATEGORY_ARG="${{ github.event.inputs.category || 'all' }}"
+          PAGES_ARG="${{ github.event.inputs.pages }}"
+          if [ -n "$PAGES_ARG" ]; then
+            python startech_tracker.py -c $CATEGORY_ARG --pages "$PAGES_ARG" --workers 4
+          else
+            python startech_tracker.py -c $CATEGORY_ARG --workers 4
+          fi
+
+      - name: Commit & Push Updated Price & Stock History to GitHub
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add *.json *.csv TRACKER_DASHBOARD.md history/ worker.js wrangler.toml
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            BD_DATE=$(TZ="Asia/Dhaka" date +'%Y-%m-%d %I:%M %p BDT')
+            git commit -m "chore(tracker): daily price & stock snapshot [$BD_DATE]"
+            git pull --rebase origin "${GITHUB_REF_NAME}" || true
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+
+      - name: Auto-Deploy Worker to Cloudflare (Optional if CLOUDFLARE_API_TOKEN is set)
+        if: env.CLOUDFLARE_API_TOKEN != ''
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          npx --yes wrangler deploy worker.js --name startech-price-tracker --compatibility-date 2024-11-01

@@ -1,0 +1,1525 @@
+{
+  "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+  "category": "laptop",
+  "sorted_by": "model",
+  "total_items": 20,
+  "products": [
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "53002",
+      "brand": "Acer",
+      "model": "Aspire 3 A311-45",
+      "title": "Acer Aspire 3 A311-45 Celeron N4500 11.6\" HD Laptop",
+      "current_price": 45000,
+      "regular_price": 45000,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel Celeron N4500 (4M Cache, 1.10 GHz, up to 2.80 GHz)",
+        "RAM": "8GB DDR4 3200Mhz, Storage: 512GB SSD",
+        "Display": "11.6\" HD (1366x768)",
+        "Features": "Dual stereo speakers, Type-C port"
+      },
+      "specs_summary": "Processor: Intel Celeron N4500 (4M Cache, 1.10 GHz, up to 2.80 GHz) | RAM: 8GB DDR4 3200Mhz, Storage: 512GB SSD | Display: 11.6\" HD (1366x768) | Features: Dual stereo speakers, Type-C port",
+      "url": "https://www.startech.com.bd/acer-aspire-3-a311-45-n4500-11-6-inch-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-3-a311-45/aspire-3-a311-45-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 45000,
+      "lowest_price": 45000,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 45000,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 45000,
+          "regular_price": 45000,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "53004",
+      "brand": "Acer",
+      "model": "Aspire 3 A311-45",
+      "title": "Acer Aspire 3 A311-45 Celeron N4500 11.6\" HD Laptop Blue",
+      "current_price": 45000,
+      "regular_price": 45000,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel Celeron N4500 (4M Cache, 1.10 GHz, up to 2.80 GHz)",
+        "RAM": "8GB DDR4 3200Mhz, Storage: 512GB SSD",
+        "Display": "11.6\" HD (1366x768)",
+        "Features": "Dual stereo speakers, Type-C port"
+      },
+      "specs_summary": "Processor: Intel Celeron N4500 (4M Cache, 1.10 GHz, up to 2.80 GHz) | RAM: 8GB DDR4 3200Mhz, Storage: 512GB SSD | Display: 11.6\" HD (1366x768) | Features: Dual stereo speakers, Type-C port",
+      "url": "https://www.startech.com.bd/acer-aspire-3-a311-45-n4500-laptop-blue",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-3-a311-45/aspire-3-a311-45-blue-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 45000,
+      "lowest_price": 45000,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 45000,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 45000,
+          "regular_price": 45000,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "52664",
+      "brand": "Acer",
+      "model": "Aspire 3 A324-53-C3 Core 3 100U 8GB RAM 14\"",
+      "title": "Acer Aspire 3 A324-53-C3 Core 3 100U 8GB RAM 14\" FHD laptop",
+      "current_price": 67900,
+      "regular_price": 67900,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel Core 3 100U (10 MB Cache, Up to 4.7 GHz)",
+        "RAM": "8GB DDR4, Storage: 256GB PCIe NVMe SSD",
+        "Display": "14\" (1920 × 1080) IPS",
+        "Features": "Type-C, Wi-Fi 6"
+      },
+      "specs_summary": "Processor: Intel Core 3 100U (10 MB Cache, Up to 4.7 GHz) | RAM: 8GB DDR4, Storage: 256GB PCIe NVMe SSD | Display: 14\" (1920 × 1080) IPS | Features: Type-C, Wi-Fi 6",
+      "url": "https://www.startech.com.bd/acer-aspire-3-a324-53-c3-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/a324-53-c3/a324-53-c3-00-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 67900,
+      "lowest_price": 67900,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 67900,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 67900,
+          "regular_price": 67900,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "52667",
+      "brand": "Acer",
+      "model": "Aspire 3 A325-42-V2",
+      "title": "Acer Aspire 3 A325-42-V2 Ryzen 3 5300U 8GB RAM 15.6\" FHD laptop",
+      "current_price": 59000,
+      "regular_price": 59000,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Ryzen 3 5300U (4 MB Cache, Up to 3.8 GHz)",
+        "RAM": "8GB DDR4, Storage: 256GB PCIe NVMe SSD",
+        "Display": "15.6\" (1920 × 1080) IPS",
+        "Features": "Type-C, Wi-Fi 6"
+      },
+      "specs_summary": "Processor: Ryzen 3 5300U (4 MB Cache, Up to 3.8 GHz) | RAM: 8GB DDR4, Storage: 256GB PCIe NVMe SSD | Display: 15.6\" (1920 × 1080) IPS | Features: Type-C, Wi-Fi 6",
+      "url": "https://www.startech.com.bd/acer-aspire-3-a325-42-v2-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/a325-42-v2/aspire-3-a325-42-v2-00-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 59000,
+      "lowest_price": 59000,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 59000,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 59000,
+          "regular_price": 59000,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "52998",
+      "brand": "Acer",
+      "model": "Aspire 3 A325-45",
+      "title": "Acer Aspire 3 A325-45 Celeron N4500 15.6\" HD Laptop",
+      "current_price": 52000,
+      "regular_price": 52000,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel Celeron N4500 (4M Cache, 1.10 GHz, up to 2.80 GHz)",
+        "RAM": "12GB DDR4 3200Mhz, Storage: 512GB SSD",
+        "Display": "15.6\" HD (1366x768)",
+        "Features": "Dual stereo speakers, Type-C port"
+      },
+      "specs_summary": "Processor: Intel Celeron N4500 (4M Cache, 1.10 GHz, up to 2.80 GHz) | RAM: 12GB DDR4 3200Mhz, Storage: 512GB SSD | Display: 15.6\" HD (1366x768) | Features: Dual stereo speakers, Type-C port",
+      "url": "https://www.startech.com.bd/acer-aspire-3-a325-45-n4500-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-3-a325-45/aspire-3-a325-45-00-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 52000,
+      "lowest_price": 52000,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 52000,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 52000,
+          "regular_price": 52000,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "54007",
+      "brand": "Acer",
+      "model": "Aspire Lite AL15-42 AMD",
+      "title": "Acer Aspire Lite AL15-42 AMD Ryzen 3 7330U 15.6\" FHD Laptop",
+      "current_price": 66990,
+      "regular_price": 68000,
+      "discount_bdt": 1010,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "AMD Ryzen 3 7330U (up to 4.3 GHz)",
+        "RAM": "8GB DDR4, Storage: 512GB PCIe NVMe SSD",
+        "Display": "15.6\" FHD  (1920x1080) IPS",
+        "Features": "Stereo speakers, USB 3.2, WiFi 5"
+      },
+      "specs_summary": "Processor: AMD Ryzen 3 7330U (up to 4.3 GHz) | RAM: 8GB DDR4, Storage: 512GB PCIe NVMe SSD | Display: 15.6\" FHD  (1920x1080) IPS | Features: Stereo speakers, USB 3.2, WiFi 5",
+      "url": "https://www.startech.com.bd/acer-aspire-lite-al15-42-ryzen-3-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-lite-al15-42/aspire-lite-al15-42-00-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 66990,
+      "lowest_price": 66990,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 66990,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 66990,
+          "regular_price": 68000,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "49793",
+      "brand": "Chuwi",
+      "model": "CoreBook",
+      "title": "Chuwi CoreBook Core i3 10th Gen 14\" FHD Laptop",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Processor": "Intel Core i3-10100y (4MB Cache, 1.3GHz–3.9GHz)",
+        "RAM": "8GB Storage: 256GB M.2 2242 PCIe NVMe SSD",
+        "Display": "14\" FHD (1920 x 1080) IPS Display",
+        "Features": "4K Display Expansion, Wi-Fi 6, Bluetooth 5.2"
+      },
+      "specs_summary": "Processor: Intel Core i3-10100y (4MB Cache, 1.3GHz–3.9GHz) | RAM: 8GB Storage: 256GB M.2 2242 PCIe NVMe SSD | Display: 14\" FHD (1920 x 1080) IPS Display | Features: 4K Display Expansion, Wi-Fi 6, Bluetooth 5.2",
+      "url": "https://www.startech.com.bd/chuwi-corebook-core-i3-fhd-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/chuwi/corebook-i3/corebook-i3-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "32879",
+      "brand": "Chuwi",
+      "model": "GemiBook XPro Intel",
+      "title": "Chuwi GemiBook XPro Intel Celeron N100 14.1 inch Full HD Laptop",
+      "current_price": 39500,
+      "regular_price": 39500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel Celeron N100 (4M Cache, 0.8GHz - 3.4GHz)",
+        "RAM": "8GB DDR4, Storage: 256GB M.2 2280 SSD",
+        "Display": "14.1 Inch(1920 x 1080) IPS Anti-Glare Display",
+        "Features": "Type-C, WiFi 6, Bluetooth 5.2"
+      },
+      "specs_summary": "Processor: Intel Celeron N100 (4M Cache, 0.8GHz - 3.4GHz) | RAM: 8GB DDR4, Storage: 256GB M.2 2280 SSD | Display: 14.1 Inch(1920 x 1080) IPS Anti-Glare Display | Features: Type-C, WiFi 6, Bluetooth 5.2",
+      "url": "https://www.startech.com.bd/chuwi-gemibook-xpro-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/chuwi/gemibook-xpro/gemibook-xpro-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 39500,
+      "lowest_price": 39500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 39500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 39500,
+          "regular_price": 39500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "37807",
+      "brand": "Chuwi",
+      "model": "HeroBook Plus Intel N4020 15.6\" Inch",
+      "title": "Chuwi HeroBook Plus Intel N4020 15.6\" Inch FHD Laptop",
+      "current_price": 38000,
+      "regular_price": 38000,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Display": "15.6 Inch(1920 x 1080) IPS Anti-Glare Display",
+        "Processor": "Intel Celeron N4020 (4M Cache, 1.10GHz - 2.80GHz)",
+        "RAM": "8GB LPDDR4 RAM",
+        "Storage": "256GB M.2SSD"
+      },
+      "specs_summary": "Display: 15.6 Inch(1920 x 1080) IPS Anti-Glare Display | Processor: Intel Celeron N4020 (4M Cache, 1.10GHz - 2.80GHz) | RAM: 8GB LPDDR4 RAM | Storage: 256GB M.2SSD",
+      "url": "https://www.startech.com.bd/chuwi-herobook-plus-intel-n4020-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/chuwi/herobook-plus/herobook-plus-002-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 38000,
+      "lowest_price": 38000,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 38000,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 38000,
+          "regular_price": 38000,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "12651",
+      "brand": "Chuwi",
+      "model": "HeroBook Pro Intel",
+      "title": "Chuwi HeroBook Pro Intel Celeron N4020 14.1 inch Full HD Laptop with Windows 11",
+      "current_price": 35000,
+      "regular_price": 35000,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "Intel Celeron Processor N4020 (4M Cache, 1.10 GHz up to 2.80 GHz) | 8GB LPDDR4 RAM | 256GB SSD | 14.1 Inch(1920 x 1080) IPS Anti-Glare Display"
+      },
+      "specs_summary": "Features: Intel Celeron Processor N4020 (4M Cache, 1.10 GHz up to 2.80 GHz) | 8GB LPDDR4 RAM | 256GB SSD | 14.1 Inch(1920 x 1080) IPS Anti-Glare Display",
+      "url": "https://www.startech.com.bd/chuwi-herobook-pro-intel-celeron-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/chuwi/herobook/herobook-pro/herobook-pro-0000-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 35000,
+      "lowest_price": 35000,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 35000,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 35000,
+          "regular_price": 35000,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "23127",
+      "brand": "Walton",
+      "model": "Passion BX710U",
+      "title": "Walton Passion BX710U Core i7 10th Gen 15.6\" FHD Laptop",
+      "current_price": 59500,
+      "regular_price": 59500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel Core i7-10510U (8MB Cache, 1.8GHz up to 4.9GHz)",
+        "RAM": "8GB 2666MHz, Storage: 512GB SATAIII M.2 2280 SSD",
+        "Display": "15.6\" FHD (1920 x 1080)",
+        "Features": "Built-in array microphone, Type-C"
+      },
+      "specs_summary": "Processor: Intel Core i7-10510U (8MB Cache, 1.8GHz up to 4.9GHz) | RAM: 8GB 2666MHz, Storage: 512GB SATAIII M.2 2280 SSD | Display: 15.6\" FHD (1920 x 1080) | Features: Built-in array microphone, Type-C",
+      "url": "https://www.startech.com.bd/walton-passion-bx710u-core-i7-10th-gen-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/walton/passion-bx310u/passion-bx710u-000-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 59500,
+      "lowest_price": 59500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 59500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 59500,
+          "regular_price": 59500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "29543",
+      "brand": "Walton",
+      "model": "Prelude N41 Pro",
+      "title": "Walton Prelude N41 Pro Celeron N4120 14\" FHD Laptop",
+      "current_price": 28500,
+      "regular_price": 33900,
+      "discount_bdt": 5400,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel Celeron N4120 (4MB Cache, 1.10 GHz up to 2.60 GHz)",
+        "RAM": "8GB DDR4, Storage: 256GB SSD",
+        "Display": "14\" FHD (1920x1080)",
+        "Features": "Bangla Keyboard, Type-C"
+      },
+      "specs_summary": "Processor: Intel Celeron N4120 (4MB Cache, 1.10 GHz up to 2.60 GHz) | RAM: 8GB DDR4, Storage: 256GB SSD | Display: 14\" FHD (1920x1080) | Features: Bangla Keyboard, Type-C",
+      "url": "https://www.startech.com.bd/walton-prelude-n41-pro-celeron-n4120-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/walton/prelude-n41-pro/prelude-n41-pro-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 28500,
+      "lowest_price": 28500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 28500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 28500,
+          "regular_price": 33900,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "29545",
+      "brand": "Walton",
+      "model": "Prelude N50 Pro",
+      "title": "Walton Prelude N50 Pro Pentium Silver N5030 14\" FHD Laptop",
+      "current_price": 31000,
+      "regular_price": 34500,
+      "discount_bdt": 3500,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel Pentium Silver N5030 (4MB Cache, 1.10 GHz up to 3.10 GHz)",
+        "RAM": "8GB DDR4, Storage: 256GB SSD",
+        "Display": "14\" FHD (1920x1080)",
+        "Features": "Bangla Keyboard, Type-C"
+      },
+      "specs_summary": "Processor: Intel Pentium Silver N5030 (4MB Cache, 1.10 GHz up to 3.10 GHz) | RAM: 8GB DDR4, Storage: 256GB SSD | Display: 14\" FHD (1920x1080) | Features: Bangla Keyboard, Type-C",
+      "url": "https://www.startech.com.bd/walton-prelude-n50-pro-pentium-silver-n5030-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/walton/prelude-n41-pro/prelude-n41-pro-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 31000,
+      "lowest_price": 31000,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 31000,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 31000,
+          "regular_price": 34500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "54452",
+      "brand": "Microsoft",
+      "model": "Surface Laptop 7th Edition Snapdragon X Plus 13.8\" Copilot+ PC Touch Laptop Black",
+      "title": "Microsoft Surface Laptop 7th Edition Snapdragon X Plus 13.8\" Copilot+ PC Touch Laptop Black",
+      "current_price": 185000,
+      "regular_price": 195900,
+      "discount_bdt": 10900,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Qualcomm Snapdragon X Plus 10 Core",
+        "RAM": "16GB LPDDR5x, Storage: 512GB PCIe 4.0 SSD",
+        "Display": "13.8\" (2304 x 1536p) Touchscreen, 120hz",
+        "Features": "Copilot+ PC, Wi-Fi 7, Type-C, Backlit Keyboard"
+      },
+      "specs_summary": "Processor: Qualcomm Snapdragon X Plus 10 Core | RAM: 16GB LPDDR5x, Storage: 512GB PCIe 4.0 SSD | Display: 13.8\" (2304 x 1536p) Touchscreen, 120hz | Features: Copilot+ PC, Wi-Fi 7, Type-C, Backlit Keyboard",
+      "url": "https://www.startech.com.bd/surface-laptop-7th-edition-touch-laptop-black",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/surface-laptop-7th-edition/black/surface-laptop-7th-edition-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 185000,
+      "lowest_price": 185000,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 185000,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 185000,
+          "regular_price": 195900,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "51605",
+      "brand": "Walton",
+      "model": "TAMARIND EX3US1 Core 3 100U 14\"",
+      "title": "Walton TAMARIND EX3US1 Core 3 100U 14\" FHD Laptop",
+      "current_price": 61000,
+      "regular_price": 63500,
+      "discount_bdt": 2500,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel Core 3 100U (10MB Cache, Up to 4.7 GHz)",
+        "RAM": "8GB DDR4 3200MHz, Storage: 512GB NVMe PCIe M.2 SSD",
+        "Display": "14.0” FHD (1920x1080) Matte LED Backlit Display with 45% NTSC",
+        "Features": "FHD Camera, Type-C, WiFi 6, Bluetooth 5.2, Rj45 LAN Port"
+      },
+      "specs_summary": "Processor: Intel Core 3 100U (10MB Cache, Up to 4.7 GHz) | RAM: 8GB DDR4 3200MHz, Storage: 512GB NVMe PCIe M.2 SSD | Display: 14.0” FHD (1920x1080) Matte LED Backlit Display with 45% NTSC | Features: FHD Camera, Type-C, WiFi 6, Bluetooth 5.2, Rj45 LAN Port",
+      "url": "https://www.startech.com.bd/walton-tamarind-ex3us1-core-3-100u-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/walton/tamarind-ex3us1-core/tamarind-ex3us1-core-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 61000,
+      "lowest_price": 61000,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 61000,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 61000,
+          "regular_price": 63500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "53709",
+      "brand": "Asus",
+      "model": "Vivobook Go 14 E1404TA Intel N150 14\"",
+      "title": "Asus Vivobook Go 14 E1404TA Intel N150 14\" FHD Laptop",
+      "current_price": 68900,
+      "regular_price": 68900,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel N150 (6MB Cache, up to 3.6 GHz)",
+        "RAM": "8GB LPDDR5X, Storage: 256GB M.2 NVMe PCIe 3.0 SSD",
+        "Display": "14\" FHD (1920 x 1080), 60Hz, LED, 250nits",
+        "Features": "Privacy Shutter, Chiclet Keyboard, Military-Grade"
+      },
+      "specs_summary": "Processor: Intel N150 (6MB Cache, up to 3.6 GHz) | RAM: 8GB LPDDR5X, Storage: 256GB M.2 NVMe PCIe 3.0 SSD | Display: 14\" FHD (1920 x 1080), 60Hz, LED, 250nits | Features: Privacy Shutter, Chiclet Keyboard, Military-Grade",
+      "url": "https://www.startech.com.bd/asus-vivobook-go-14-e1404ta-14-inch-black-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/e1404ta/e1404ta-05-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 68900,
+      "lowest_price": 68900,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 68900,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 68900,
+          "regular_price": 68900,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "53712",
+      "brand": "Asus",
+      "model": "Vivobook Go 14 E1404TA Intel N150 14\"",
+      "title": "Asus Vivobook Go 14 E1404TA Intel N150 14\" FHD Laptop Cool Silver",
+      "current_price": 68900,
+      "regular_price": 68900,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel N150 (6MB Cache, up to 3.6 GHz)",
+        "RAM": "8GB LPDDR5X, Storage: 256GB M.2 NVMe PCIe 3.0 SSD",
+        "Display": "14\" FHD (1920 x 1080), 60Hz, LED, 250nits",
+        "Features": "Privacy Shutter, Chiclet Keyboard, Military-Grade"
+      },
+      "specs_summary": "Processor: Intel N150 (6MB Cache, up to 3.6 GHz) | RAM: 8GB LPDDR5X, Storage: 256GB M.2 NVMe PCIe 3.0 SSD | Display: 14\" FHD (1920 x 1080), 60Hz, LED, 250nits | Features: Privacy Shutter, Chiclet Keyboard, Military-Grade",
+      "url": "https://www.startech.com.bd/asus-vivobook-go-14-e1404ta-intel-n150-cool-silver-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/e1404ta/e1404ta-silver-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 68900,
+      "lowest_price": 68900,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 68900,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 68900,
+          "regular_price": 68900,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "53721",
+      "brand": "Asus",
+      "model": "Vivobook Go 15 E1504TA Intel N150 15.6\"",
+      "title": "Asus Vivobook Go 15 E1504TA Intel N150 15.6\" FHD Laptop Grey Green",
+      "current_price": 68900,
+      "regular_price": 68900,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel N150 (6MB Cache, up to 3.6 GHz)",
+        "RAM": "8GB LPDDR5X, Storage: 256GB M.2 NVMe PCIe 3.0 SSD",
+        "Display": "15.6\" FHD (1920 x 1080), 60Hz,LED, 250nits",
+        "Features": "Privacy Shutter, Chiclet Keyboard, Military-Grade"
+      },
+      "specs_summary": "Processor: Intel N150 (6MB Cache, up to 3.6 GHz) | RAM: 8GB LPDDR5X, Storage: 256GB M.2 NVMe PCIe 3.0 SSD | Display: 15.6\" FHD (1920 x 1080), 60Hz,LED, 250nits | Features: Privacy Shutter, Chiclet Keyboard, Military-Grade",
+      "url": "https://www.startech.com.bd/asus-vivobook-go-15-e1504ta-intel-n150-green-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-go-15-e1504ta/vivobook-go-15-e1504ta-green-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 68900,
+      "lowest_price": 68900,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 68900,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 68900,
+          "regular_price": 68900,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "53716",
+      "brand": "Asus",
+      "model": "Vivobook Go 15 E1504TA Intel N150 256GB 15.6\"",
+      "title": "Asus Vivobook Go 15 E1504TA Intel N150 256GB 15.6\" FHD Laptop Cool Silver",
+      "current_price": 68900,
+      "regular_price": 68900,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel N150 (6MB Cache, up to 3.6 GHz)",
+        "RAM": "8GB LPDDR5X, Storage: 256GB M.2 NVMe PCIe 3.0 SSD",
+        "Display": "15.6\" FHD (1920 x 1080), 60Hz,LED, 250nits",
+        "Features": "Privacy Shutter, Chiclet Keyboard, Military-Grade"
+      },
+      "specs_summary": "Processor: Intel N150 (6MB Cache, up to 3.6 GHz) | RAM: 8GB LPDDR5X, Storage: 256GB M.2 NVMe PCIe 3.0 SSD | Display: 15.6\" FHD (1920 x 1080), 60Hz,LED, 250nits | Features: Privacy Shutter, Chiclet Keyboard, Military-Grade",
+      "url": "https://www.startech.com.bd/asus-vivobook-go-15-e1504ta-n150-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-go-15-e1504ta/vivobook-go-15-e1504ta-cool-silver-07-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 68900,
+      "lowest_price": 68900,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 68900,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 68900,
+          "regular_price": 68900,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "53719",
+      "brand": "Asus",
+      "model": "Vivobook Go 15 E1504TA Intel N150 256GB 15.6\"",
+      "title": "Asus Vivobook Go 15 E1504TA Intel N150 256GB 15.6\" FHD Laptop",
+      "current_price": 68900,
+      "regular_price": 68900,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel N150 (6MB Cache, up to 3.6 GHz)",
+        "RAM": "8GB LPDDR5X, Storage: 256GB M.2 NVMe PCIe 3.0 SSD",
+        "Display": "15.6\" FHD (1920 x 1080), 60Hz,LED, 250nits",
+        "Features": "Privacy Shutter, Chiclet Keyboard, Military-Grade"
+      },
+      "specs_summary": "Processor: Intel N150 (6MB Cache, up to 3.6 GHz) | RAM: 8GB LPDDR5X, Storage: 256GB M.2 NVMe PCIe 3.0 SSD | Display: 15.6\" FHD (1920 x 1080), 60Hz,LED, 250nits | Features: Privacy Shutter, Chiclet Keyboard, Military-Grade",
+      "url": "https://www.startech.com.bd/asus-vivobook-go-15-e1504ta-n150-15-inch-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-go-15-e1504ta/vivobook-go-15-e1504ta-00-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 68900,
+      "lowest_price": 68900,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 68900,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 68900,
+          "regular_price": 68900,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    }
+  ],
+  "total_laptops": 20,
+  "laptops": [
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "53002",
+      "brand": "Acer",
+      "model": "Aspire 3 A311-45",
+      "title": "Acer Aspire 3 A311-45 Celeron N4500 11.6\" HD Laptop",
+      "current_price": 45000,
+      "regular_price": 45000,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel Celeron N4500 (4M Cache, 1.10 GHz, up to 2.80 GHz)",
+        "RAM": "8GB DDR4 3200Mhz, Storage: 512GB SSD",
+        "Display": "11.6\" HD (1366x768)",
+        "Features": "Dual stereo speakers, Type-C port"
+      },
+      "specs_summary": "Processor: Intel Celeron N4500 (4M Cache, 1.10 GHz, up to 2.80 GHz) | RAM: 8GB DDR4 3200Mhz, Storage: 512GB SSD | Display: 11.6\" HD (1366x768) | Features: Dual stereo speakers, Type-C port",
+      "url": "https://www.startech.com.bd/acer-aspire-3-a311-45-n4500-11-6-inch-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-3-a311-45/aspire-3-a311-45-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 45000,
+      "lowest_price": 45000,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 45000,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 45000,
+          "regular_price": 45000,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "53004",
+      "brand": "Acer",
+      "model": "Aspire 3 A311-45",
+      "title": "Acer Aspire 3 A311-45 Celeron N4500 11.6\" HD Laptop Blue",
+      "current_price": 45000,
+      "regular_price": 45000,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel Celeron N4500 (4M Cache, 1.10 GHz, up to 2.80 GHz)",
+        "RAM": "8GB DDR4 3200Mhz, Storage: 512GB SSD",
+        "Display": "11.6\" HD (1366x768)",
+        "Features": "Dual stereo speakers, Type-C port"
+      },
+      "specs_summary": "Processor: Intel Celeron N4500 (4M Cache, 1.10 GHz, up to 2.80 GHz) | RAM: 8GB DDR4 3200Mhz, Storage: 512GB SSD | Display: 11.6\" HD (1366x768) | Features: Dual stereo speakers, Type-C port",
+      "url": "https://www.startech.com.bd/acer-aspire-3-a311-45-n4500-laptop-blue",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-3-a311-45/aspire-3-a311-45-blue-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 45000,
+      "lowest_price": 45000,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 45000,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 45000,
+          "regular_price": 45000,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "52664",
+      "brand": "Acer",
+      "model": "Aspire 3 A324-53-C3 Core 3 100U 8GB RAM 14\"",
+      "title": "Acer Aspire 3 A324-53-C3 Core 3 100U 8GB RAM 14\" FHD laptop",
+      "current_price": 67900,
+      "regular_price": 67900,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel Core 3 100U (10 MB Cache, Up to 4.7 GHz)",
+        "RAM": "8GB DDR4, Storage: 256GB PCIe NVMe SSD",
+        "Display": "14\" (1920 × 1080) IPS",
+        "Features": "Type-C, Wi-Fi 6"
+      },
+      "specs_summary": "Processor: Intel Core 3 100U (10 MB Cache, Up to 4.7 GHz) | RAM: 8GB DDR4, Storage: 256GB PCIe NVMe SSD | Display: 14\" (1920 × 1080) IPS | Features: Type-C, Wi-Fi 6",
+      "url": "https://www.startech.com.bd/acer-aspire-3-a324-53-c3-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/a324-53-c3/a324-53-c3-00-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 67900,
+      "lowest_price": 67900,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 67900,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 67900,
+          "regular_price": 67900,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "52667",
+      "brand": "Acer",
+      "model": "Aspire 3 A325-42-V2",
+      "title": "Acer Aspire 3 A325-42-V2 Ryzen 3 5300U 8GB RAM 15.6\" FHD laptop",
+      "current_price": 59000,
+      "regular_price": 59000,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Ryzen 3 5300U (4 MB Cache, Up to 3.8 GHz)",
+        "RAM": "8GB DDR4, Storage: 256GB PCIe NVMe SSD",
+        "Display": "15.6\" (1920 × 1080) IPS",
+        "Features": "Type-C, Wi-Fi 6"
+      },
+      "specs_summary": "Processor: Ryzen 3 5300U (4 MB Cache, Up to 3.8 GHz) | RAM: 8GB DDR4, Storage: 256GB PCIe NVMe SSD | Display: 15.6\" (1920 × 1080) IPS | Features: Type-C, Wi-Fi 6",
+      "url": "https://www.startech.com.bd/acer-aspire-3-a325-42-v2-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/a325-42-v2/aspire-3-a325-42-v2-00-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 59000,
+      "lowest_price": 59000,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 59000,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 59000,
+          "regular_price": 59000,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "52998",
+      "brand": "Acer",
+      "model": "Aspire 3 A325-45",
+      "title": "Acer Aspire 3 A325-45 Celeron N4500 15.6\" HD Laptop",
+      "current_price": 52000,
+      "regular_price": 52000,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel Celeron N4500 (4M Cache, 1.10 GHz, up to 2.80 GHz)",
+        "RAM": "12GB DDR4 3200Mhz, Storage: 512GB SSD",
+        "Display": "15.6\" HD (1366x768)",
+        "Features": "Dual stereo speakers, Type-C port"
+      },
+      "specs_summary": "Processor: Intel Celeron N4500 (4M Cache, 1.10 GHz, up to 2.80 GHz) | RAM: 12GB DDR4 3200Mhz, Storage: 512GB SSD | Display: 15.6\" HD (1366x768) | Features: Dual stereo speakers, Type-C port",
+      "url": "https://www.startech.com.bd/acer-aspire-3-a325-45-n4500-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-3-a325-45/aspire-3-a325-45-00-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 52000,
+      "lowest_price": 52000,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 52000,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 52000,
+          "regular_price": 52000,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "54007",
+      "brand": "Acer",
+      "model": "Aspire Lite AL15-42 AMD",
+      "title": "Acer Aspire Lite AL15-42 AMD Ryzen 3 7330U 15.6\" FHD Laptop",
+      "current_price": 66990,
+      "regular_price": 68000,
+      "discount_bdt": 1010,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "AMD Ryzen 3 7330U (up to 4.3 GHz)",
+        "RAM": "8GB DDR4, Storage: 512GB PCIe NVMe SSD",
+        "Display": "15.6\" FHD  (1920x1080) IPS",
+        "Features": "Stereo speakers, USB 3.2, WiFi 5"
+      },
+      "specs_summary": "Processor: AMD Ryzen 3 7330U (up to 4.3 GHz) | RAM: 8GB DDR4, Storage: 512GB PCIe NVMe SSD | Display: 15.6\" FHD  (1920x1080) IPS | Features: Stereo speakers, USB 3.2, WiFi 5",
+      "url": "https://www.startech.com.bd/acer-aspire-lite-al15-42-ryzen-3-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/acer/aspire-lite-al15-42/aspire-lite-al15-42-00-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 66990,
+      "lowest_price": 66990,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 66990,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 66990,
+          "regular_price": 68000,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "49793",
+      "brand": "Chuwi",
+      "model": "CoreBook",
+      "title": "Chuwi CoreBook Core i3 10th Gen 14\" FHD Laptop",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Processor": "Intel Core i3-10100y (4MB Cache, 1.3GHz–3.9GHz)",
+        "RAM": "8GB Storage: 256GB M.2 2242 PCIe NVMe SSD",
+        "Display": "14\" FHD (1920 x 1080) IPS Display",
+        "Features": "4K Display Expansion, Wi-Fi 6, Bluetooth 5.2"
+      },
+      "specs_summary": "Processor: Intel Core i3-10100y (4MB Cache, 1.3GHz–3.9GHz) | RAM: 8GB Storage: 256GB M.2 2242 PCIe NVMe SSD | Display: 14\" FHD (1920 x 1080) IPS Display | Features: 4K Display Expansion, Wi-Fi 6, Bluetooth 5.2",
+      "url": "https://www.startech.com.bd/chuwi-corebook-core-i3-fhd-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/chuwi/corebook-i3/corebook-i3-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "32879",
+      "brand": "Chuwi",
+      "model": "GemiBook XPro Intel",
+      "title": "Chuwi GemiBook XPro Intel Celeron N100 14.1 inch Full HD Laptop",
+      "current_price": 39500,
+      "regular_price": 39500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel Celeron N100 (4M Cache, 0.8GHz - 3.4GHz)",
+        "RAM": "8GB DDR4, Storage: 256GB M.2 2280 SSD",
+        "Display": "14.1 Inch(1920 x 1080) IPS Anti-Glare Display",
+        "Features": "Type-C, WiFi 6, Bluetooth 5.2"
+      },
+      "specs_summary": "Processor: Intel Celeron N100 (4M Cache, 0.8GHz - 3.4GHz) | RAM: 8GB DDR4, Storage: 256GB M.2 2280 SSD | Display: 14.1 Inch(1920 x 1080) IPS Anti-Glare Display | Features: Type-C, WiFi 6, Bluetooth 5.2",
+      "url": "https://www.startech.com.bd/chuwi-gemibook-xpro-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/chuwi/gemibook-xpro/gemibook-xpro-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 39500,
+      "lowest_price": 39500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 39500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 39500,
+          "regular_price": 39500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "37807",
+      "brand": "Chuwi",
+      "model": "HeroBook Plus Intel N4020 15.6\" Inch",
+      "title": "Chuwi HeroBook Plus Intel N4020 15.6\" Inch FHD Laptop",
+      "current_price": 38000,
+      "regular_price": 38000,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Display": "15.6 Inch(1920 x 1080) IPS Anti-Glare Display",
+        "Processor": "Intel Celeron N4020 (4M Cache, 1.10GHz - 2.80GHz)",
+        "RAM": "8GB LPDDR4 RAM",
+        "Storage": "256GB M.2SSD"
+      },
+      "specs_summary": "Display: 15.6 Inch(1920 x 1080) IPS Anti-Glare Display | Processor: Intel Celeron N4020 (4M Cache, 1.10GHz - 2.80GHz) | RAM: 8GB LPDDR4 RAM | Storage: 256GB M.2SSD",
+      "url": "https://www.startech.com.bd/chuwi-herobook-plus-intel-n4020-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/chuwi/herobook-plus/herobook-plus-002-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 38000,
+      "lowest_price": 38000,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 38000,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 38000,
+          "regular_price": 38000,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "12651",
+      "brand": "Chuwi",
+      "model": "HeroBook Pro Intel",
+      "title": "Chuwi HeroBook Pro Intel Celeron N4020 14.1 inch Full HD Laptop with Windows 11",
+      "current_price": 35000,
+      "regular_price": 35000,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "Intel Celeron Processor N4020 (4M Cache, 1.10 GHz up to 2.80 GHz) | 8GB LPDDR4 RAM | 256GB SSD | 14.1 Inch(1920 x 1080) IPS Anti-Glare Display"
+      },
+      "specs_summary": "Features: Intel Celeron Processor N4020 (4M Cache, 1.10 GHz up to 2.80 GHz) | 8GB LPDDR4 RAM | 256GB SSD | 14.1 Inch(1920 x 1080) IPS Anti-Glare Display",
+      "url": "https://www.startech.com.bd/chuwi-herobook-pro-intel-celeron-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/chuwi/herobook/herobook-pro/herobook-pro-0000-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 35000,
+      "lowest_price": 35000,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 35000,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 35000,
+          "regular_price": 35000,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "23127",
+      "brand": "Walton",
+      "model": "Passion BX710U",
+      "title": "Walton Passion BX710U Core i7 10th Gen 15.6\" FHD Laptop",
+      "current_price": 59500,
+      "regular_price": 59500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel Core i7-10510U (8MB Cache, 1.8GHz up to 4.9GHz)",
+        "RAM": "8GB 2666MHz, Storage: 512GB SATAIII M.2 2280 SSD",
+        "Display": "15.6\" FHD (1920 x 1080)",
+        "Features": "Built-in array microphone, Type-C"
+      },
+      "specs_summary": "Processor: Intel Core i7-10510U (8MB Cache, 1.8GHz up to 4.9GHz) | RAM: 8GB 2666MHz, Storage: 512GB SATAIII M.2 2280 SSD | Display: 15.6\" FHD (1920 x 1080) | Features: Built-in array microphone, Type-C",
+      "url": "https://www.startech.com.bd/walton-passion-bx710u-core-i7-10th-gen-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/walton/passion-bx310u/passion-bx710u-000-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 59500,
+      "lowest_price": 59500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 59500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 59500,
+          "regular_price": 59500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "29543",
+      "brand": "Walton",
+      "model": "Prelude N41 Pro",
+      "title": "Walton Prelude N41 Pro Celeron N4120 14\" FHD Laptop",
+      "current_price": 28500,
+      "regular_price": 33900,
+      "discount_bdt": 5400,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel Celeron N4120 (4MB Cache, 1.10 GHz up to 2.60 GHz)",
+        "RAM": "8GB DDR4, Storage: 256GB SSD",
+        "Display": "14\" FHD (1920x1080)",
+        "Features": "Bangla Keyboard, Type-C"
+      },
+      "specs_summary": "Processor: Intel Celeron N4120 (4MB Cache, 1.10 GHz up to 2.60 GHz) | RAM: 8GB DDR4, Storage: 256GB SSD | Display: 14\" FHD (1920x1080) | Features: Bangla Keyboard, Type-C",
+      "url": "https://www.startech.com.bd/walton-prelude-n41-pro-celeron-n4120-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/walton/prelude-n41-pro/prelude-n41-pro-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 28500,
+      "lowest_price": 28500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 28500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 28500,
+          "regular_price": 33900,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "29545",
+      "brand": "Walton",
+      "model": "Prelude N50 Pro",
+      "title": "Walton Prelude N50 Pro Pentium Silver N5030 14\" FHD Laptop",
+      "current_price": 31000,
+      "regular_price": 34500,
+      "discount_bdt": 3500,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel Pentium Silver N5030 (4MB Cache, 1.10 GHz up to 3.10 GHz)",
+        "RAM": "8GB DDR4, Storage: 256GB SSD",
+        "Display": "14\" FHD (1920x1080)",
+        "Features": "Bangla Keyboard, Type-C"
+      },
+      "specs_summary": "Processor: Intel Pentium Silver N5030 (4MB Cache, 1.10 GHz up to 3.10 GHz) | RAM: 8GB DDR4, Storage: 256GB SSD | Display: 14\" FHD (1920x1080) | Features: Bangla Keyboard, Type-C",
+      "url": "https://www.startech.com.bd/walton-prelude-n50-pro-pentium-silver-n5030-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/walton/prelude-n41-pro/prelude-n41-pro-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 31000,
+      "lowest_price": 31000,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 31000,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 31000,
+          "regular_price": 34500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "54452",
+      "brand": "Microsoft",
+      "model": "Surface Laptop 7th Edition Snapdragon X Plus 13.8\" Copilot+ PC Touch Laptop Black",
+      "title": "Microsoft Surface Laptop 7th Edition Snapdragon X Plus 13.8\" Copilot+ PC Touch Laptop Black",
+      "current_price": 185000,
+      "regular_price": 195900,
+      "discount_bdt": 10900,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Qualcomm Snapdragon X Plus 10 Core",
+        "RAM": "16GB LPDDR5x, Storage: 512GB PCIe 4.0 SSD",
+        "Display": "13.8\" (2304 x 1536p) Touchscreen, 120hz",
+        "Features": "Copilot+ PC, Wi-Fi 7, Type-C, Backlit Keyboard"
+      },
+      "specs_summary": "Processor: Qualcomm Snapdragon X Plus 10 Core | RAM: 16GB LPDDR5x, Storage: 512GB PCIe 4.0 SSD | Display: 13.8\" (2304 x 1536p) Touchscreen, 120hz | Features: Copilot+ PC, Wi-Fi 7, Type-C, Backlit Keyboard",
+      "url": "https://www.startech.com.bd/surface-laptop-7th-edition-touch-laptop-black",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/surface-laptop-7th-edition/black/surface-laptop-7th-edition-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 185000,
+      "lowest_price": 185000,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 185000,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 185000,
+          "regular_price": 195900,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "51605",
+      "brand": "Walton",
+      "model": "TAMARIND EX3US1 Core 3 100U 14\"",
+      "title": "Walton TAMARIND EX3US1 Core 3 100U 14\" FHD Laptop",
+      "current_price": 61000,
+      "regular_price": 63500,
+      "discount_bdt": 2500,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel Core 3 100U (10MB Cache, Up to 4.7 GHz)",
+        "RAM": "8GB DDR4 3200MHz, Storage: 512GB NVMe PCIe M.2 SSD",
+        "Display": "14.0” FHD (1920x1080) Matte LED Backlit Display with 45% NTSC",
+        "Features": "FHD Camera, Type-C, WiFi 6, Bluetooth 5.2, Rj45 LAN Port"
+      },
+      "specs_summary": "Processor: Intel Core 3 100U (10MB Cache, Up to 4.7 GHz) | RAM: 8GB DDR4 3200MHz, Storage: 512GB NVMe PCIe M.2 SSD | Display: 14.0” FHD (1920x1080) Matte LED Backlit Display with 45% NTSC | Features: FHD Camera, Type-C, WiFi 6, Bluetooth 5.2, Rj45 LAN Port",
+      "url": "https://www.startech.com.bd/walton-tamarind-ex3us1-core-3-100u-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/walton/tamarind-ex3us1-core/tamarind-ex3us1-core-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 61000,
+      "lowest_price": 61000,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 61000,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 61000,
+          "regular_price": 63500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "53709",
+      "brand": "Asus",
+      "model": "Vivobook Go 14 E1404TA Intel N150 14\"",
+      "title": "Asus Vivobook Go 14 E1404TA Intel N150 14\" FHD Laptop",
+      "current_price": 68900,
+      "regular_price": 68900,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel N150 (6MB Cache, up to 3.6 GHz)",
+        "RAM": "8GB LPDDR5X, Storage: 256GB M.2 NVMe PCIe 3.0 SSD",
+        "Display": "14\" FHD (1920 x 1080), 60Hz, LED, 250nits",
+        "Features": "Privacy Shutter, Chiclet Keyboard, Military-Grade"
+      },
+      "specs_summary": "Processor: Intel N150 (6MB Cache, up to 3.6 GHz) | RAM: 8GB LPDDR5X, Storage: 256GB M.2 NVMe PCIe 3.0 SSD | Display: 14\" FHD (1920 x 1080), 60Hz, LED, 250nits | Features: Privacy Shutter, Chiclet Keyboard, Military-Grade",
+      "url": "https://www.startech.com.bd/asus-vivobook-go-14-e1404ta-14-inch-black-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/e1404ta/e1404ta-05-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 68900,
+      "lowest_price": 68900,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 68900,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 68900,
+          "regular_price": 68900,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "53712",
+      "brand": "Asus",
+      "model": "Vivobook Go 14 E1404TA Intel N150 14\"",
+      "title": "Asus Vivobook Go 14 E1404TA Intel N150 14\" FHD Laptop Cool Silver",
+      "current_price": 68900,
+      "regular_price": 68900,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel N150 (6MB Cache, up to 3.6 GHz)",
+        "RAM": "8GB LPDDR5X, Storage: 256GB M.2 NVMe PCIe 3.0 SSD",
+        "Display": "14\" FHD (1920 x 1080), 60Hz, LED, 250nits",
+        "Features": "Privacy Shutter, Chiclet Keyboard, Military-Grade"
+      },
+      "specs_summary": "Processor: Intel N150 (6MB Cache, up to 3.6 GHz) | RAM: 8GB LPDDR5X, Storage: 256GB M.2 NVMe PCIe 3.0 SSD | Display: 14\" FHD (1920 x 1080), 60Hz, LED, 250nits | Features: Privacy Shutter, Chiclet Keyboard, Military-Grade",
+      "url": "https://www.startech.com.bd/asus-vivobook-go-14-e1404ta-intel-n150-cool-silver-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/e1404ta/e1404ta-silver-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 68900,
+      "lowest_price": 68900,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 68900,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 68900,
+          "regular_price": 68900,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "53721",
+      "brand": "Asus",
+      "model": "Vivobook Go 15 E1504TA Intel N150 15.6\"",
+      "title": "Asus Vivobook Go 15 E1504TA Intel N150 15.6\" FHD Laptop Grey Green",
+      "current_price": 68900,
+      "regular_price": 68900,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel N150 (6MB Cache, up to 3.6 GHz)",
+        "RAM": "8GB LPDDR5X, Storage: 256GB M.2 NVMe PCIe 3.0 SSD",
+        "Display": "15.6\" FHD (1920 x 1080), 60Hz,LED, 250nits",
+        "Features": "Privacy Shutter, Chiclet Keyboard, Military-Grade"
+      },
+      "specs_summary": "Processor: Intel N150 (6MB Cache, up to 3.6 GHz) | RAM: 8GB LPDDR5X, Storage: 256GB M.2 NVMe PCIe 3.0 SSD | Display: 15.6\" FHD (1920 x 1080), 60Hz,LED, 250nits | Features: Privacy Shutter, Chiclet Keyboard, Military-Grade",
+      "url": "https://www.startech.com.bd/asus-vivobook-go-15-e1504ta-intel-n150-green-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-go-15-e1504ta/vivobook-go-15-e1504ta-green-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 68900,
+      "lowest_price": 68900,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 68900,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 68900,
+          "regular_price": 68900,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "53716",
+      "brand": "Asus",
+      "model": "Vivobook Go 15 E1504TA Intel N150 256GB 15.6\"",
+      "title": "Asus Vivobook Go 15 E1504TA Intel N150 256GB 15.6\" FHD Laptop Cool Silver",
+      "current_price": 68900,
+      "regular_price": 68900,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel N150 (6MB Cache, up to 3.6 GHz)",
+        "RAM": "8GB LPDDR5X, Storage: 256GB M.2 NVMe PCIe 3.0 SSD",
+        "Display": "15.6\" FHD (1920 x 1080), 60Hz,LED, 250nits",
+        "Features": "Privacy Shutter, Chiclet Keyboard, Military-Grade"
+      },
+      "specs_summary": "Processor: Intel N150 (6MB Cache, up to 3.6 GHz) | RAM: 8GB LPDDR5X, Storage: 256GB M.2 NVMe PCIe 3.0 SSD | Display: 15.6\" FHD (1920 x 1080), 60Hz,LED, 250nits | Features: Privacy Shutter, Chiclet Keyboard, Military-Grade",
+      "url": "https://www.startech.com.bd/asus-vivobook-go-15-e1504ta-n150-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-go-15-e1504ta/vivobook-go-15-e1504ta-cool-silver-07-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 68900,
+      "lowest_price": 68900,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 68900,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 68900,
+          "regular_price": 68900,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "laptop",
+      "product_id": "53719",
+      "brand": "Asus",
+      "model": "Vivobook Go 15 E1504TA Intel N150 256GB 15.6\"",
+      "title": "Asus Vivobook Go 15 E1504TA Intel N150 256GB 15.6\" FHD Laptop",
+      "current_price": 68900,
+      "regular_price": 68900,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel N150 (6MB Cache, up to 3.6 GHz)",
+        "RAM": "8GB LPDDR5X, Storage: 256GB M.2 NVMe PCIe 3.0 SSD",
+        "Display": "15.6\" FHD (1920 x 1080), 60Hz,LED, 250nits",
+        "Features": "Privacy Shutter, Chiclet Keyboard, Military-Grade"
+      },
+      "specs_summary": "Processor: Intel N150 (6MB Cache, up to 3.6 GHz) | RAM: 8GB LPDDR5X, Storage: 256GB M.2 NVMe PCIe 3.0 SSD | Display: 15.6\" FHD (1920 x 1080), 60Hz,LED, 250nits | Features: Privacy Shutter, Chiclet Keyboard, Military-Grade",
+      "url": "https://www.startech.com.bd/asus-vivobook-go-15-e1504ta-n150-15-inch-laptop",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/laptop/asus/vivobook-go-15-e1504ta/vivobook-go-15-e1504ta-00-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 68900,
+      "lowest_price": 68900,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 68900,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 68900,
+          "regular_price": 68900,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    }
+  ]
+}

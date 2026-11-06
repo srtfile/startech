@@ -1,0 +1,761 @@
+{
+  "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+  "category": "casing",
+  "sorted_by": "model",
+  "total_items": 20,
+  "products": [
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "casing",
+      "product_id": "50265",
+      "brand": "Golden Field",
+      "model": "1718B Mid Tower",
+      "title": "Golden Field 1718B Mid Tower Micro-ATX Casing with PSU",
+      "current_price": 2600,
+      "regular_price": 2600,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Motherboard Support": "M-ATX",
+        "I/O Ports": "2x USB 2.0, HD Audio",
+        "Fan Installed": "1x80mm Rear Fan",
+        "Side Panel": "Metal Side Panel"
+      },
+      "specs_summary": "Motherboard Support: M-ATX | I/O Ports: 2x USB 2.0, HD Audio | Fan Installed: 1x80mm Rear Fan | Side Panel: Metal Side Panel",
+      "url": "https://www.startech.com.bd/golden-field-1718b-casing-with-psu",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/casing/golden-field/1718b/1718b-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2600,
+      "lowest_price": 2600,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2600,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2600,
+          "regular_price": 2600,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "casing",
+      "product_id": "31888",
+      "brand": "PC Power",
+      "model": "180D-1U Mid Tower",
+      "title": "PC Power 180D-1U Mid Tower ATX Case With PSU",
+      "current_price": 2550,
+      "regular_price": 2750,
+      "discount_bdt": 200,
+      "stock_status": "In Stock",
+      "specs": {
+        "Motherboard Support": "ATX, Micro-ATX, ITX",
+        "Drive Bays": "2x 3.5 Inch",
+        "Interface": "1x USB 3.0, 1x USB 2.0, 1x Headphone, 1x Mic",
+        "Expansion Slots": "7"
+      },
+      "specs_summary": "Motherboard Support: ATX, Micro-ATX, ITX | Drive Bays: 2x 3.5 Inch | Interface: 1x USB 3.0, 1x USB 2.0, 1x Headphone, 1x Mic | Expansion Slots: 7",
+      "url": "https://www.startech.com.bd/pc-power-180d-1u-atx-case",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/casing/pc-power/180d-1u/180d-1u-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2550,
+      "lowest_price": 2550,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2550,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2550,
+          "regular_price": 2750,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "casing",
+      "product_id": "51763",
+      "brand": "MaxGreen",
+      "model": "190B Mid-Tower",
+      "title": "MaxGreen 190B Mid-Tower mATX Casing",
+      "current_price": 2600,
+      "regular_price": 2600,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Motherboard support": "Up to mATX",
+        "CPU Cooler Height": "Max 167mm",
+        "Drive Bays": "1x 3.5''HDD, 1x 2.5''SSD",
+        "I/O Ports": "1 x USB 3.0, 1 x USB 1.0, 1x HD Audio"
+      },
+      "specs_summary": "Motherboard support: Up to mATX | CPU Cooler Height: Max 167mm | Drive Bays: 1x 3.5''HDD, 1x 2.5''SSD | I/O Ports: 1 x USB 3.0, 1 x USB 1.0, 1x HD Audio",
+      "url": "https://www.startech.com.bd/maxgreen-190b-mid-tower-casing",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/casing/max-green/190b/190b-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2600,
+      "lowest_price": 2600,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2600,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2600,
+          "regular_price": 2600,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "casing",
+      "product_id": "50264",
+      "brand": "Golden Field",
+      "model": "2506B",
+      "title": "Golden Field 2506B Micro-ATX Casing",
+      "current_price": 2400,
+      "regular_price": 2400,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Motherboard Support": "M-ATX",
+        "I/O Ports": "2x USB 2.0, HD Audio",
+        "Pre-installed Fan": "1x80mm Rear Fan",
+        "Side Panel": "Metal Side Panel"
+      },
+      "specs_summary": "Motherboard Support: M-ATX | I/O Ports: 2x USB 2.0, HD Audio | Pre-installed Fan: 1x80mm Rear Fan | Side Panel: Metal Side Panel",
+      "url": "https://www.startech.com.bd/golden-field-2506b-micro-atx-casing",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/casing/golden-field/2506b/2506b-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2400,
+      "lowest_price": 2400,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2400,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2400,
+          "regular_price": 2400,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "casing",
+      "product_id": "52811",
+      "brand": "MaxGreen",
+      "model": "Entice G1 Pro m-ATX",
+      "title": "MaxGreen Entice G1 Pro m-ATX Mid Tower Casing With PSU",
+      "current_price": 2500,
+      "regular_price": 2500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Motherboard Support": "Up to M-ATX",
+        "CPU Height": "Max. 140mm, GPU Height: Max. 240mm",
+        "I/O Ports": "1x USB 3.0, 1x USB 1.0. 1x Mic, 1x HD Audio",
+        "Pre-Installed Fan": "1x 80mm Fan on Rear"
+      },
+      "specs_summary": "Motherboard Support: Up to M-ATX | CPU Height: Max. 140mm, GPU Height: Max. 240mm | I/O Ports: 1x USB 3.0, 1x USB 1.0. 1x Mic, 1x HD Audio | Pre-Installed Fan: 1x 80mm Fan on Rear",
+      "url": "https://www.startech.com.bd/maxgreen-entice-g1-pro-casing",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/casing/max-green/entice-g1-pro/entice-g1-pro-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2500,
+      "lowest_price": 2500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2500,
+          "regular_price": 2500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "casing",
+      "product_id": "52813",
+      "brand": "MaxGreen",
+      "model": "Entice G2 Pro Mid-Tower",
+      "title": "MaxGreen Entice G2 Pro Mid-Tower mATX Casing With PSU",
+      "current_price": 2500,
+      "regular_price": 2500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Motherboard Support": "Up to M-ATX",
+        "CPU Height": "Max. 140mm, GPU Height: Max. 240mm",
+        "I/O Ports": "1x USB 3.0, 1x USB 1.0. 1x Mic, 1x HD Audio",
+        "Pre-Installed Fan": "1x 80mm Fan on Rear"
+      },
+      "specs_summary": "Motherboard Support: Up to M-ATX | CPU Height: Max. 140mm, GPU Height: Max. 240mm | I/O Ports: 1x USB 3.0, 1x USB 1.0. 1x Mic, 1x HD Audio | Pre-Installed Fan: 1x 80mm Fan on Rear",
+      "url": "https://www.startech.com.bd/maxgreen-entice-g2-pro-casing",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/casing/max-green/entice-g2-pro/entice-g2-pro-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2500,
+      "lowest_price": 2500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2500,
+          "regular_price": 2500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "casing",
+      "product_id": "52814",
+      "brand": "MaxGreen",
+      "model": "Entice G4 Pro Mid-Tower m-ATX",
+      "title": "MaxGreen Entice G4 Pro Mid-Tower m-ATX Casing With PSU",
+      "current_price": 2500,
+      "regular_price": 2500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Motherboard Support": "Up to M-ATX",
+        "CPU Height": "Max. 154mm, GPU Height: Max. 255mm",
+        "I/O Ports": "1 x USB 3.0, 1 x USB 1.1, 1 x Audio & Mic",
+        "Pre-Installed Fan": "1x 80mm Fan on Rear"
+      },
+      "specs_summary": "Motherboard Support: Up to M-ATX | CPU Height: Max. 154mm, GPU Height: Max. 255mm | I/O Ports: 1 x USB 3.0, 1 x USB 1.1, 1 x Audio & Mic | Pre-Installed Fan: 1x 80mm Fan on Rear",
+      "url": "https://www.startech.com.bd/maxgreen-entice-g4-pro-casing",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/casing/max-green/entice-g4-pro/entice-g4-pro-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2500,
+      "lowest_price": 2500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2500,
+          "regular_price": 2500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "casing",
+      "product_id": "46651",
+      "brand": "MaxGreen",
+      "model": "H10 M-ATX",
+      "title": "MaxGreen H10 M-ATX Mid Tower Casing With 200W Power Supply",
+      "current_price": 2490,
+      "regular_price": 2490,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Motherboard Support": "M-ATX",
+        "Built-in 200W PSU, Expansion Slots": "4",
+        "Case Type": "Mid Tower, 1x 120mm Fan (Built-In)",
+        "Interface": "1 x USB 3.0, 2 x USB 2.0,1 x HD Audio & Mic"
+      },
+      "specs_summary": "Motherboard Support: M-ATX | Built-in 200W PSU, Expansion Slots: 4 | Case Type: Mid Tower, 1x 120mm Fan (Built-In) | Interface: 1 x USB 3.0, 2 x USB 2.0,1 x HD Audio & Mic",
+      "url": "https://www.startech.com.bd/maxgreen-h10-m-atx-mid-tower-casing",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/casing/max-green/h10/h10-001-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2490,
+      "lowest_price": 2490,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2490,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2490,
+          "regular_price": 2490,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "casing",
+      "product_id": "52817",
+      "brand": "MaxGreen",
+      "model": "H12 Mid-Tower m-ATX",
+      "title": "MaxGreen H12 Mid-Tower m-ATX Casing With PSU",
+      "current_price": 2500,
+      "regular_price": 2500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Motherboard Support": "Up to M-ATX",
+        "CPU Height": "Max. 154mm, GPU Height: Max. 255mm",
+        "I/O Ports": "1 x USB 3.0, 1 x USB 1.1, 1 x Audio & Mic",
+        "Pre-Installed Fan": "1x 80mm Fan on Rear"
+      },
+      "specs_summary": "Motherboard Support: Up to M-ATX | CPU Height: Max. 154mm, GPU Height: Max. 255mm | I/O Ports: 1 x USB 3.0, 1 x USB 1.1, 1 x Audio & Mic | Pre-Installed Fan: 1x 80mm Fan on Rear",
+      "url": "https://www.startech.com.bd/maxgreen-h12-m-atx-casing",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/casing/max-green/h12/h12-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2500,
+      "lowest_price": 2500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2500,
+          "regular_price": 2500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "casing",
+      "product_id": "37517",
+      "brand": "MaxGreen",
+      "model": "H6 M-ATX",
+      "title": "MaxGreen H6 M-ATX Case with 200W Standard PSU",
+      "current_price": 2390,
+      "regular_price": 2390,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Motherboard Support": "Up to M-ATX",
+        "CPU Height": "138mm Max, GPU Height: 260 Max",
+        "Pre-Installed Fan": "Built-In Single Fan",
+        "Power Supply": "Built-In 200W Power Supply"
+      },
+      "specs_summary": "Motherboard Support: Up to M-ATX | CPU Height: 138mm Max, GPU Height: 260 Max | Pre-Installed Fan: Built-In Single Fan | Power Supply: Built-In 200W Power Supply",
+      "url": "https://www.startech.com.bd/maxgreen-h6-mid-tower-atx-case",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/casing/max-green/h6-/maxgreen-h6-001-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2390,
+      "lowest_price": 2390,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2390,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2390,
+          "regular_price": 2390,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "casing",
+      "product_id": "50903",
+      "brand": "T-Wolf",
+      "model": "Ironcore Office mATX",
+      "title": "T-Wolf Ironcore Office mATX Mid Tower Casing With 200W PSU",
+      "current_price": 2300,
+      "regular_price": 2300,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Motherboard Support": "Micro-ATX, ITX",
+        "I/O Ports": "1x USB 3.0, 1x USB 2.0, 1x Audio Jack",
+        "CPU Cooler Height": "Up to 140mm",
+        "Graphics Card Length": "Up to 225mm"
+      },
+      "specs_summary": "Motherboard Support: Micro-ATX, ITX | I/O Ports: 1x USB 3.0, 1x USB 2.0, 1x Audio Jack | CPU Cooler Height: Up to 140mm | Graphics Card Length: Up to 225mm",
+      "url": "https://www.startech.com.bd/t-wolf-ironcore-office-matx-casing",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/casing/t-wolf/ironcore-office/ironcore-office-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2300,
+      "lowest_price": 2300,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2300,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2300,
+          "regular_price": 2300,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "casing",
+      "product_id": "31869",
+      "brand": "PC Power",
+      "model": "PC401 Mini Tower",
+      "title": "PC Power PC401 Mini Tower Micro-ATX Casing With Power Supply",
+      "current_price": 2500,
+      "regular_price": 2600,
+      "discount_bdt": 100,
+      "stock_status": "In Stock",
+      "specs": {
+        "Supported Motherboard": "Micro-ATX, Mini-ITX",
+        "Graphics-Card Length": "300mm",
+        "Drive Bays": "2x 3.5\" HDD, 2x 2.5\" SSD",
+        "Expansion Slots": "4"
+      },
+      "specs_summary": "Supported Motherboard: Micro-ATX, Mini-ITX | Graphics-Card Length: 300mm | Drive Bays: 2x 3.5\" HDD, 2x 2.5\" SSD | Expansion Slots: 4",
+      "url": "https://www.startech.com.bd/pc-power-pc401-micro-atx-casing",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/casing/pc-power/pc401/pc401-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2500,
+      "lowest_price": 2500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2500,
+          "regular_price": 2600,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "casing",
+      "product_id": "43837",
+      "brand": "PC Power",
+      "model": "Pulse Fire X2 m-ATX",
+      "title": "PC Power Pulse Fire X2 m-ATX Mid Tower Casing with 200W PSU",
+      "current_price": 2700,
+      "regular_price": 2800,
+      "discount_bdt": 100,
+      "stock_status": "In Stock",
+      "specs": {
+        "Motherboard Support": "Micro-ATX / Mini ITX",
+        "Pre-Installed Fans": "Rear - 1 x 8cm; Front - 2 x 12 cm",
+        "Ports": "2 x USB 1.1, Audio/Mic x 1",
+        "Power Supply": "Built-In 200W PSU"
+      },
+      "specs_summary": "Motherboard Support: Micro-ATX / Mini ITX | Pre-Installed Fans: Rear - 1 x 8cm; Front - 2 x 12 cm | Ports: 2 x USB 1.1, Audio/Mic x 1 | Power Supply: Built-In 200W PSU",
+      "url": "https://www.startech.com.bd/pc-power-puls-fire-x2-casing",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/casing/pc-power/pp-os2405-bk/pp-os2405-bk-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2700,
+      "lowest_price": 2700,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2700,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2700,
+          "regular_price": 2800,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "casing",
+      "product_id": "30526",
+      "brand": "Golden Field",
+      "model": "Q21B Mid Tower",
+      "title": "Golden Field Q21B Mid Tower ATX Case",
+      "current_price": 2800,
+      "regular_price": 2800,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Supported Mainboard": "ATX",
+        "I/O Port": "USB 2.0*2 & HD Audio",
+        "Features": "1x 80mm Rear Cooling Fan | 450 Watt Power Supply"
+      },
+      "specs_summary": "Supported Mainboard: ATX | I/O Port: USB 2.0*2 & HD Audio | Features: 1x 80mm Rear Cooling Fan | 450 Watt Power Supply",
+      "url": "https://www.startech.com.bd/golden-field-q21b-mid-tower-case",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/casing/golden-field/q21b/q21b-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2800,
+      "lowest_price": 2800,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2800,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2800,
+          "regular_price": 2800,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "casing",
+      "product_id": "45993",
+      "brand": "T-Wolf",
+      "model": "SHADOWCORE OFFICE mATX",
+      "title": "T-Wolf SHADOWCORE OFFICE mATX Mid Tower Casing With 200W PSU",
+      "current_price": 2200,
+      "regular_price": 2399,
+      "discount_bdt": 199,
+      "stock_status": "In Stock",
+      "specs": {
+        "Motherboard Support": "M-ATX / ITX",
+        "I/O Ports": "2x USB 1.1, 1x Audio Jack",
+        "CPU Cooler Height": "Up to 140mm",
+        "Graphics Card Length": "Up to 225mm"
+      },
+      "specs_summary": "Motherboard Support: M-ATX / ITX | I/O Ports: 2x USB 1.1, 1x Audio Jack | CPU Cooler Height: Up to 140mm | Graphics Card Length: Up to 225mm",
+      "url": "https://www.startech.com.bd/t-wolf-shadowcore-office-casing",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/casing/t-wolf/shadowcore-office/shadowcore-office-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2200,
+      "lowest_price": 2200,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2200,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2200,
+          "regular_price": 2399,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "casing",
+      "product_id": "48767",
+      "brand": "Antec",
+      "model": "ST6M ARGB Micro-ATX",
+      "title": "Antec ST6M ARGB Micro-ATX Mini Tower Casing",
+      "current_price": 2450,
+      "regular_price": 2500,
+      "discount_bdt": 50,
+      "stock_status": "In Stock",
+      "specs": {
+        "Motherboard Support": "Micro-ATX, ITX",
+        "Pre-Install Fans": "3x 90mm ARGB in Front, 1x 80mm in Rear",
+        "I/O Ports": "1x USB3.0, 1x USB2.0, 1x Mic/ HD-Audio",
+        "Features": "Solid Side Panel With Side Vent, Mesh Front Panel"
+      },
+      "specs_summary": "Motherboard Support: Micro-ATX, ITX | Pre-Install Fans: 3x 90mm ARGB in Front, 1x 80mm in Rear | I/O Ports: 1x USB3.0, 1x USB2.0, 1x Mic/ HD-Audio | Features: Solid Side Panel With Side Vent, Mesh Front Panel",
+      "url": "https://www.startech.com.bd/antec-st6m-argb-casing",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/casing/antec/st6m-argb/st6m-argb-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2450,
+      "lowest_price": 2450,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2450,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2450,
+          "regular_price": 2500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "casing",
+      "product_id": "49185",
+      "brand": "Value-Top",
+      "model": "T861 Micro",
+      "title": "Value-Top T861 Micro ATX Casing With PSU",
+      "current_price": 2400,
+      "regular_price": 2500,
+      "discount_bdt": 100,
+      "stock_status": "In Stock",
+      "specs": {
+        "Motherboard Support": "Micro ATX, Mini ITX",
+        "Features": "Pre installed 200w PSU | 1 x 12CM Black Fan on Rear | 2 x USB 2.0, HD Audio"
+      },
+      "specs_summary": "Motherboard Support: Micro ATX, Mini ITX | Features: Pre installed 200w PSU | 1 x 12CM Black Fan on Rear | 2 x USB 2.0, HD Audio",
+      "url": "https://www.startech.com.bd/value-top-t861-casing",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/casing/value-top/t861/t861-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2400,
+      "lowest_price": 2400,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2400,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2400,
+          "regular_price": 2500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "casing",
+      "product_id": "49186",
+      "brand": "Value-Top",
+      "model": "T862 Micro",
+      "title": "Value-Top T862 Micro ATX Casing With PSU",
+      "current_price": 2400,
+      "regular_price": 2500,
+      "discount_bdt": 100,
+      "stock_status": "In Stock",
+      "specs": {
+        "Motherboard Support": "Micro ATX, Mini ITX",
+        "Features": "Pre installed 200w PSU | 1 x 12CM Black Fan on Rear | 2 x USB 2.0, HD Audio"
+      },
+      "specs_summary": "Motherboard Support: Micro ATX, Mini ITX | Features: Pre installed 200w PSU | 1 x 12CM Black Fan on Rear | 2 x USB 2.0, HD Audio",
+      "url": "https://www.startech.com.bd/value-top-t862-casing",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/casing/value-top/t862/t862-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2400,
+      "lowest_price": 2400,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2400,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2400,
+          "regular_price": 2500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "casing",
+      "product_id": "30110",
+      "brand": "Value-Top",
+      "model": "V200 Micro",
+      "title": "Value-Top V200 Micro ATX Casing With PSU",
+      "current_price": 2500,
+      "regular_price": 2550,
+      "discount_bdt": 50,
+      "stock_status": "In Stock",
+      "specs": {
+        "Motherboard Support": "Micro ATX",
+        "Features": "T200B Real 200w PSU | 1x 8CM Black Fan on Rear | 2 x USB 2.0, HD Audio"
+      },
+      "specs_summary": "Motherboard Support: Micro ATX | Features: T200B Real 200w PSU | 1x 8CM Black Fan on Rear | 2 x USB 2.0, HD Audio",
+      "url": "https://www.startech.com.bd/value-top-v200-micro-atx-casing",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/casing/value-top/v200/v200-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2500,
+      "lowest_price": 2500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2500,
+          "regular_price": 2550,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "casing",
+      "product_id": "43809",
+      "brand": "T-Wolf",
+      "model": "XPLENDER X5 BH ARGB M-ATX Portable",
+      "title": "T-Wolf XPLENDER X5 BH ARGB M-ATX Portable Casing White",
+      "current_price": 2700,
+      "regular_price": 2700,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Motherboard Support": "Mini-ITX, ITX",
+        "Pre-Install Fans": "5x 120 mm ARGB Fan",
+        "I/O Ports": "USB 3.0 ×1, USB ×1, Audio ×1",
+        "Material": "SPCC+Tempered Glass"
+      },
+      "specs_summary": "Motherboard Support: Mini-ITX, ITX | Pre-Install Fans: 5x 120 mm ARGB Fan | I/O Ports: USB 3.0 ×1, USB ×1, Audio ×1 | Material: SPCC+Tempered Glass",
+      "url": "https://www.startech.com.bd/t-wolf-xplender-x5-wh-portable-casing-white",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/casing/t-wolf/xplender-x5-bh/xplender-x5-bh-white-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 2700,
+      "lowest_price": 2700,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 2700,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 2700,
+          "regular_price": 2700,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    }
+  ]
+}

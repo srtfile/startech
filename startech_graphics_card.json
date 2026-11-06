@@ -1,0 +1,761 @@
+{
+  "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+  "category": "graphics-card",
+  "sorted_by": "model",
+  "total_items": 20,
+  "products": [
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "graphics-card",
+      "product_id": "47990",
+      "brand": "Arktek",
+      "model": "AMD Radeon RX 550",
+      "title": "ARKTEK AMD Radeon RX 550 8GB GDDR5 Graphics Card",
+      "current_price": 16900,
+      "regular_price": 17500,
+      "discount_bdt": 600,
+      "stock_status": "In Stock",
+      "specs": {
+        "Engine Clock": "1287MHz",
+        "Stream Processors": "640SP",
+        "Memory Clock": "7000MHz",
+        "Display Outputs": "1 x HDMI, 1 x DVI, 1 x Display Port"
+      },
+      "specs_summary": "Engine Clock: 1287MHz | Stream Processors: 640SP | Memory Clock: 7000MHz | Display Outputs: 1 x HDMI, 1 x DVI, 1 x Display Port",
+      "url": "https://www.startech.com.bd/arktek-amd-radeon-rx-550-8gb-graphics-card",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/arktek/amd-radeon-rx-550-4gb/amd-radeon-rx-550-4gb-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 16900,
+      "lowest_price": 16900,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 16900,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 16900,
+          "regular_price": 17500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "graphics-card",
+      "product_id": "36306",
+      "brand": "Asus",
+      "model": "GeForce GT 710",
+      "title": "ASUS GeForce GT 710 2GB GDDR5 EVO Low-profile Graphics Card",
+      "current_price": 8500,
+      "regular_price": 8500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Engine Clock": "954 MHz",
+        "Memory": "2GB GDDR5",
+        "Memory Speed": "5012 MHz",
+        "Output": "1x HDMI2.0b, 1x Native DVI-D"
+      },
+      "specs_summary": "Engine Clock: 954 MHz | Memory: 2GB GDDR5 | Memory Speed: 5012 MHz | Output: 1x HDMI2.0b, 1x Native DVI-D",
+      "url": "https://www.startech.com.bd/asus-geforce-gt-710-2gb-gddr5-evo-low-profile-graphics-card",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/asus/geforce-710-2gb-gddr5-evo-low-profile/geforce-710-2gb-gddr5-evo-low-profile-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 8500,
+      "lowest_price": 8500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 8500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 8500,
+          "regular_price": 8500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "graphics-card",
+      "product_id": "20631",
+      "brand": "Asus",
+      "model": "Geforce Gt 730",
+      "title": "Asus Geforce Gt 730 2GB GDDR5 Graphics Card",
+      "current_price": 11600,
+      "regular_price": 11600,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "Breakthrough Graphics Performance | Auto-Extreme Technology | GPU Tweak II | Fan less Silent Cooling head Sinks"
+      },
+      "specs_summary": "Features: Breakthrough Graphics Performance | Auto-Extreme Technology | GPU Tweak II | Fan less Silent Cooling head Sinks",
+      "url": "https://www.startech.com.bd/asus-geforce-gt-730-2gb-gddr5-graphics-card",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/asus/asus-geforce-gt-730-2gb-gddr5-graphics-card/asus-geforce-gt-730-2gb-gddr5-graphics-card-01-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 11600,
+      "lowest_price": 11600,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 11600,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 11600,
+          "regular_price": 11600,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "graphics-card",
+      "product_id": "25779",
+      "brand": "Asus",
+      "model": "Geforce GT 730",
+      "title": "Asus Geforce GT 730 2GB GDDR5 Graphics Card with 4 HDMI Ports",
+      "current_price": 16300,
+      "regular_price": 16500,
+      "discount_bdt": 200,
+      "stock_status": "In Stock",
+      "specs": {
+        "OC mode": "927 MHz (Boost Clock)",
+        "Gaming mode": "902 MHz (Boost Clock)",
+        "Memory Type": "GDDR5, Memory Bus: 64-bit",
+        "Output": "4 x HDMI 1.4b, HDCP Support"
+      },
+      "specs_summary": "OC mode: 927 MHz (Boost Clock) | Gaming mode: 902 MHz (Boost Clock) | Memory Type: GDDR5, Memory Bus: 64-bit | Output: 4 x HDMI 1.4b, HDCP Support",
+      "url": "https://www.startech.com.bd/asus-gt-730-2gb-gddr5-graphics-card",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/asus/gt-730-2gb-gddr5-graphics-card/gt-730-2gb-gddr5-graphics-card-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 16300,
+      "lowest_price": 16300,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 16300,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 16300,
+          "regular_price": 16500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "graphics-card",
+      "product_id": "34689",
+      "brand": "MSI",
+      "model": "GeForce GT 730 4GB DDR3",
+      "title": "MSI GeForce GT 730 4GB DDR3 Graphics Card",
+      "current_price": 12400,
+      "regular_price": 12900,
+      "discount_bdt": 500,
+      "stock_status": "In Stock",
+      "specs": {
+        "Memory Size": "4096",
+        "Memory": "4GB DDR3",
+        "Output": "HDMI x1, D-SUB x1, DVI x1",
+        "Features": "Core Clocks 700 MHz"
+      },
+      "specs_summary": "Memory Size: 4096 | Memory: 4GB DDR3 | Output: HDMI x1, D-SUB x1, DVI x1 | Features: Core Clocks 700 MHz",
+      "url": "https://www.startech.com.bd/msi-gt-730-4gb-graphics-card",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/msi/gt-730/gt-730-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 12400,
+      "lowest_price": 12400,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 12400,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 12400,
+          "regular_price": 12900,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "graphics-card",
+      "product_id": "38602",
+      "brand": "OCPC",
+      "model": "GeForce GT 730 4GB DDR3",
+      "title": "OCPC GeForce GT 730 4GB DDR3 Graphics Card",
+      "current_price": 8100,
+      "regular_price": 8100,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Boost Clock": "700 MHz, Base Clock: 700 MHz",
+        "CUDA cores": "384, Memory Interface: 128-bit",
+        "Width": "Single Slot",
+        "Outputs": "1x HDMI, 1x DVI, 1x VGA"
+      },
+      "specs_summary": "Boost Clock: 700 MHz, Base Clock: 700 MHz | CUDA cores: 384, Memory Interface: 128-bit | Width: Single Slot | Outputs: 1x HDMI, 1x DVI, 1x VGA",
+      "url": "https://www.startech.com.bd/ocpc-geforce-gt-730-4gb-graphics-card",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/ocpc/gt-730/gt-730-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 8100,
+      "lowest_price": 8100,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 8100,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 8100,
+          "regular_price": 8100,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "graphics-card",
+      "product_id": "11917",
+      "brand": "Colorful",
+      "model": "GeForce GT710-2GD3-V 2GB",
+      "title": "Colorful GeForce GT710-2GD3-V 2GB Graphics Card",
+      "current_price": 6500,
+      "regular_price": 6500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Features": "Single Fan | No Power Supply | Powered by GeForce GT710 | Integrated with 2GB GDDR5 64-bit"
+      },
+      "specs_summary": "Features: Single Fan | No Power Supply | Powered by GeForce GT710 | Integrated with 2GB GDDR5 64-bit",
+      "url": "https://www.startech.com.bd/colorful-geforce-gt710-2gd3-v-graphics-card",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/colorful/geforce-gt710-2gd3/geforce-gt710-2gd3-1-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 6500,
+      "lowest_price": 6500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 6500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 6500,
+          "regular_price": 6500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "graphics-card",
+      "product_id": "43289",
+      "brand": "Peladn",
+      "model": "GeForce KaiTian GT 730",
+      "title": "PELADN GeForce KaiTian GT 730 4GB GDDR3 Graphics Card",
+      "current_price": 5999,
+      "regular_price": 5999,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Video Memory": "4GB GDDR3",
+        "CUDA Cores": "192",
+        "Memory Clock Speed": "902 MHz",
+        "Memory Frequency": "1300 MHz"
+      },
+      "specs_summary": "Video Memory: 4GB GDDR3 | CUDA Cores: 192 | Memory Clock Speed: 902 MHz | Memory Frequency: 1300 MHz",
+      "url": "https://www.startech.com.bd/peladn-geforce-kaitian-gt-730-4gd3-graphics-card",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/peladn/geforce-kaitian-gt-730/geforce-kaitian-gt-730-3-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 5999,
+      "lowest_price": 5999,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 5999,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 5999,
+          "regular_price": 5999,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "graphics-card",
+      "product_id": "12352",
+      "brand": "MSI",
+      "model": "GT 710 2GD3H LP 2GB DDR3 Gaming Graphic Card",
+      "title": "MSI GT 710 2GD3H LP 2GB DDR3 Gaming Graphic Card",
+      "current_price": 8700,
+      "regular_price": 9300,
+      "discount_bdt": 600,
+      "stock_status": "In Stock",
+      "specs": {
+        "Boost Clock": "1600 MHz",
+        "Predator": "In-game video recording",
+        "Features": "D-Sub x 1/ HDMI x 1/ DL-DVI-D x 1 | Lower temperature and higher efficiency"
+      },
+      "specs_summary": "Boost Clock: 1600 MHz | Predator: In-game video recording | Features: D-Sub x 1/ HDMI x 1/ DL-DVI-D x 1 | Lower temperature and higher efficiency",
+      "url": "https://www.startech.com.bd/msi-gt-710-2gd3h-lp-graphics-card",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/msi/gt-710-2gd3h-lp/gt-710-2gd3h-lp-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 8700,
+      "lowest_price": 8700,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 8700,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 8700,
+          "regular_price": 9300,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "graphics-card",
+      "product_id": "50940",
+      "brand": "Gunnir",
+      "model": "Intel ARC A310 Index",
+      "title": "Gunnir Intel ARC A310 Index 4GB GDDR6 Graphics Card",
+      "current_price": 12800,
+      "regular_price": 14000,
+      "discount_bdt": 1200,
+      "stock_status": "In Stock",
+      "specs": {
+        "Maximum Graphics Clock": "2000 MHz",
+        "Video Memory": "4GB GDDR6",
+        "Memory Frequency": "15.5 Gbps",
+        "Output Ports": "DP x3, HDMI x1"
+      },
+      "specs_summary": "Maximum Graphics Clock: 2000 MHz | Video Memory: 4GB GDDR6 | Memory Frequency: 15.5 Gbps | Output Ports: DP x3, HDMI x1",
+      "url": "https://www.startech.com.bd/gunnir-intel-arc-a310-index-4gb-gddr6-graphics-card",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/gunnir/intel-arc-a310-index-4gb/intel-arc-a310-index-4gb-001-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 12800,
+      "lowest_price": 12800,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 12800,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 12800,
+          "regular_price": 14000,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "graphics-card",
+      "product_id": "48628",
+      "brand": "AFOX",
+      "model": "NVIDIA GeForce GT 1030",
+      "title": "AFOX NVIDIA GeForce GT 1030 2GB GDDR5 Graphics Card",
+      "current_price": 11500,
+      "regular_price": 14000,
+      "discount_bdt": 2500,
+      "stock_status": "In Stock",
+      "specs": {
+        "Video Memory": "2048MB GDDR5",
+        "Base Clock": "1228MHz , Boost Clock: 1468MHz",
+        "Resolution": "4K@60Hz, CUDA Cores: 384",
+        "Interface": "1 x DVI, 1 x HDMI"
+      },
+      "specs_summary": "Video Memory: 2048MB GDDR5 | Base Clock: 1228MHz , Boost Clock: 1468MHz | Resolution: 4K@60Hz, CUDA Cores: 384 | Interface: 1 x DVI, 1 x HDMI",
+      "url": "https://www.startech.com.bd/afox-gt-1030-2gb-graphics-card",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/afox/gt-1030-2gb/gt-1030-2gb-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 11500,
+      "lowest_price": 11500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 11500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 11500,
+          "regular_price": 14000,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "graphics-card",
+      "product_id": "48617",
+      "brand": "AFOX",
+      "model": "NVIDIA GeForce GT 240",
+      "title": "AFOX NVIDIA GeForce GT 240 1GB GDDR3 Graphics Card",
+      "current_price": 5000,
+      "regular_price": 5000,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Video Memory": "1024MB GDDR3",
+        "Engine Clock": "550 MHz, Memory Clock: 1400 MHz",
+        "Resolution": "2560 x 1600",
+        "Interface": "1 x DVI, 1 x HDMI, 1 x D-Sub"
+      },
+      "specs_summary": "Video Memory: 1024MB GDDR3 | Engine Clock: 550 MHz, Memory Clock: 1400 MHz | Resolution: 2560 x 1600 | Interface: 1 x DVI, 1 x HDMI, 1 x D-Sub",
+      "url": "https://www.startech.com.bd/afox-gt-240-1gb-graphics-card",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/afox/gt-240/gt-240-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 5000,
+      "lowest_price": 5000,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 5000,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 5000,
+          "regular_price": 5000,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "graphics-card",
+      "product_id": "48621",
+      "brand": "AFOX",
+      "model": "NVIDIA GeForce GT 610",
+      "title": "AFOX NVIDIA GeForce GT 610 2GB GDDR3 Graphics Card",
+      "current_price": 5500,
+      "regular_price": 5500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Video Memory": "2048MB GDDR3",
+        "Engine Clock": "810 MHz, Memory Clock: 1333 MHz",
+        "Resolution": "2560 x 1600",
+        "Interface": "1 x DVI, 1 x HDMI, 1 x D-Sub"
+      },
+      "specs_summary": "Video Memory: 2048MB GDDR3 | Engine Clock: 810 MHz, Memory Clock: 1333 MHz | Resolution: 2560 x 1600 | Interface: 1 x DVI, 1 x HDMI, 1 x D-Sub",
+      "url": "https://www.startech.com.bd/afox-gt-610-2gb-graphics-card",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/afox/gt-610/gt-610-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 5500,
+      "lowest_price": 5500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 5500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 5500,
+          "regular_price": 5500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "graphics-card",
+      "product_id": "48625",
+      "brand": "AFOX",
+      "model": "NVIDIA GeForce GT 710",
+      "title": "AFOX NVIDIA GeForce GT 710 2GB GDDR3 Graphics Card",
+      "current_price": 6500,
+      "regular_price": 6500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Video Memory": "2048MB GDDR3",
+        "Base Clock": "954 MHz, Memory Clock: 1600 MHz",
+        "Resolution": "2048 x1536",
+        "Interface": "1 x DVI, 1 x HDMI, 1 x D-Sub"
+      },
+      "specs_summary": "Video Memory: 2048MB GDDR3 | Base Clock: 954 MHz, Memory Clock: 1600 MHz | Resolution: 2048 x1536 | Interface: 1 x DVI, 1 x HDMI, 1 x D-Sub",
+      "url": "https://www.startech.com.bd/afox-gt-710-2gb-graphics-card",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/afox/gt-710/afox-gt-710-2gb-06-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 6500,
+      "lowest_price": 6500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 6500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 6500,
+          "regular_price": 6500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "graphics-card",
+      "product_id": "53683",
+      "brand": "AFOX",
+      "model": "NVIDIA GeForce GT 710",
+      "title": "AFOX NVIDIA GeForce GT 710 2GB GDDR3 Graphics Card with Fan",
+      "current_price": 6500,
+      "regular_price": 6500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Video Memory": "2048MB GDDR3",
+        "Base Clock": "954 MHz, Memory Clock: 1333 MHz",
+        "Resolution": "2048 x1536",
+        "Interface": "1 x DVI, 1 x HDMI, 1 x D-Sub"
+      },
+      "specs_summary": "Video Memory: 2048MB GDDR3 | Base Clock: 954 MHz, Memory Clock: 1333 MHz | Resolution: 2048 x1536 | Interface: 1 x DVI, 1 x HDMI, 1 x D-Sub",
+      "url": "https://www.startech.com.bd/afox-gt-710-2gb-graphics-card-with-fan",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/afox/gt-710/gt-710-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 6500,
+      "lowest_price": 6500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 6500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 6500,
+          "regular_price": 6500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "graphics-card",
+      "product_id": "48627",
+      "brand": "AFOX",
+      "model": "NVIDIA GeForce GT 710",
+      "title": "AFOX NVIDIA GeForce GT 710 4GB GDDR3 Graphics Card",
+      "current_price": 8500,
+      "regular_price": 8500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Video Memory": "4096MB GDDR3",
+        "Base Clock": "954 MHz, Memory Clock: 1600MHz",
+        "Resolution": "2048 x1536",
+        "Interface": "1 x DVI, 1 x HDMI, 1 x D-Sub"
+      },
+      "specs_summary": "Video Memory: 4096MB GDDR3 | Base Clock: 954 MHz, Memory Clock: 1600MHz | Resolution: 2048 x1536 | Interface: 1 x DVI, 1 x HDMI, 1 x D-Sub",
+      "url": "https://www.startech.com.bd/afox-gt-710-4gb-graphics-card",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/afox/gt-710/gt-710-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 8500,
+      "lowest_price": 8500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 8500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 8500,
+          "regular_price": 8500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "graphics-card",
+      "product_id": "51801",
+      "brand": "AFOX",
+      "model": "Radeon R7 350",
+      "title": "AFOX Radeon R7 350 2GB GDDR5 Single Fan Graphics Card",
+      "current_price": 9700,
+      "regular_price": 9700,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Video Memory": "2GB GDDR5",
+        "Engine Clock": "800 MHz",
+        "Resolution": "2560 x 1600",
+        "Port": "1 x DVI, 1 x VGA, 1 x HDMI"
+      },
+      "specs_summary": "Video Memory: 2GB GDDR5 | Engine Clock: 800 MHz | Resolution: 2560 x 1600 | Port: 1 x DVI, 1 x VGA, 1 x HDMI",
+      "url": "https://www.startech.com.bd/afox-radeon-r7-350-2gb-graphics-card",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/afox/radeon-r7-350/radeon-r7-350-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 9700,
+      "lowest_price": 9700,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 9700,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 9700,
+          "regular_price": 9700,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "graphics-card",
+      "product_id": "21896",
+      "brand": "AFOX",
+      "model": "Radeon RX 550",
+      "title": "AFOX Radeon RX 550 4GB GDDR5 Dual Fan Graphics Card",
+      "current_price": 14500,
+      "regular_price": 14500,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Video Memory": "4GB GDDR5",
+        "Engine Clock": "1183 MHz",
+        "Resolution": "7680x4320",
+        "Features": "DVI/ DisplayPort/ HDMI"
+      },
+      "specs_summary": "Video Memory: 4GB GDDR5 | Engine Clock: 1183 MHz | Resolution: 7680x4320 | Features: DVI/ DisplayPort/ HDMI",
+      "url": "https://www.startech.com.bd/afox-radeon-rx-550-4gb-dual-fan-graphics-card",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/afox/radeon-rx-550/radeon-rx-550-01-228x228.jpg",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 14500,
+      "lowest_price": 14500,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 14500,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 14500,
+          "regular_price": 14500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "graphics-card",
+      "product_id": "52503",
+      "brand": "Abit",
+      "model": "Radeon RX 580",
+      "title": "Abit Radeon RX 580 8GB GDDR5 Graphics Card",
+      "current_price": 16700,
+      "regular_price": 17500,
+      "discount_bdt": 800,
+      "stock_status": "In Stock",
+      "specs": {
+        "Video Memory": "8GB GDDR5",
+        "Core Clock": "1244Mhz",
+        "Memory Clock": "1750Mhz",
+        "Interface": "2x DisplayPort, 1x HDMI"
+      },
+      "specs_summary": "Video Memory: 8GB GDDR5 | Core Clock: 1244Mhz | Memory Clock: 1750Mhz | Interface: 2x DisplayPort, 1x HDMI",
+      "url": "https://www.startech.com.bd/abit-radeon-rx-580-8gb-graphics-card",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/abit/radeon-rx-580/radeon-rx-580-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 16700,
+      "lowest_price": 16700,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 16700,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 16700,
+          "regular_price": 17500,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    },
+    {
+      "extract-date": "Fri 06 Nov 2026 01:02 PM Friday",
+      "category": "graphics-card",
+      "product_id": "52376",
+      "brand": "OCPC",
+      "model": "RX 550 XR",
+      "title": "OCPC RX 550 XR 4GB GDDR5 Graphics Card",
+      "current_price": 13900,
+      "regular_price": 13900,
+      "discount_bdt": 0,
+      "stock_status": "In Stock",
+      "specs": {
+        "Memroy Size": "4GB GDDR5",
+        "Base Clock": "1100 MHz",
+        "Memory Interface": "128‑bit",
+        "Video Output": "1 x DP, 1 x HDMI, 1 x DVI"
+      },
+      "specs_summary": "Memroy Size: 4GB GDDR5 | Base Clock: 1100 MHz | Memory Interface: 128‑bit | Video Output: 1 x DP, 1 x HDMI, 1 x DVI",
+      "url": "https://www.startech.com.bd/ocpc-rx-550-xr-4gb-gddr5-graphics-card",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/ocpc/rx-550-xr-4gb/rx-550-xr-4gb-01-228x228.webp",
+      "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_price": 13900,
+      "lowest_price": 13900,
+      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "highest_price": 13900,
+      "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "Fri 06 Nov 2026 12:49 PM Friday",
+          "price": 13900,
+          "regular_price": 13900,
+          "stock_status": "In Stock",
+          "event": "INITIAL"
+        }
+      ]
+    }
+  ]
+}
