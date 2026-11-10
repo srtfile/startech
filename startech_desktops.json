@@ -1,11 +1,11 @@
 {
-  "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+  "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
   "category": "desktops",
   "sorted_by": "model",
-  "total_items": 182,
+  "total_items": 181,
   "products": [
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "31209",
       "brand": "INTEL",
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "38909",
       "brand": "INTEL",
@@ -77,7 +77,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "38783",
       "brand": "Intel",
@@ -114,15 +114,15 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "42515",
       "brand": "HP",
       "model": "280 Pro G9 MT Core i3 14th Gen",
       "title": "HP 280 Pro G9 MT Core i3 14th Gen Brand PC",
-      "current_price": 102000,
+      "current_price": 95000,
       "regular_price": 110670,
-      "discount_bdt": 8670,
+      "discount_bdt": 15670,
       "stock_status": "In Stock",
       "specs": {
         "Processor": "Intel Core i3-14100 (12M Cache, up to 4.70 GHz)",
@@ -135,10 +135,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/brand-pc/hp-aio/280-pro-g9/280-pro-g9-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-11",
       "previous_price": 102000,
-      "lowest_price": 102000,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 95000,
+      "lowest_price_date": "2026-11-11",
       "highest_price": 102000,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -150,11 +150,19 @@
           "regular_price": 110670,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-11",
+          "timestamp": "Wed 11 Nov 2026 04:40 AM Wednesday",
+          "price": 95000,
+          "regular_price": 110670,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "42516",
       "brand": "HP",
@@ -194,7 +202,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "47477",
       "brand": "Lenovo",
@@ -234,7 +242,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "53912",
       "brand": "Lenovo",
@@ -274,7 +282,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "40068",
       "brand": "AOC",
@@ -314,47 +322,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
-      "category": "desktops",
-      "product_id": "40066",
-      "brand": "AOC",
-      "model": "A33 Intel Celeron N5095 23.8\" FHD All in One",
-      "title": "AOC A33 Intel Celeron N5095 23.8\" FHD All in One PC",
-      "current_price": 52500,
-      "regular_price": 55550,
-      "discount_bdt": 3050,
-      "stock_status": "In Stock",
-      "specs": {
-        "Processor": "Intel Celeron N5095 (6MB Cache, up to 3.40 GHz)",
-        "RAM": "8GB DDR4, Storage: 256GB NVMe PCIe SSD",
-        "Display": "23.8\" FHD (1920x1080) IPS, 16:9, 250nits",
-        "Features": "Built-in 2.0 Stereo Speaker, Wireless Keyboard & Mouse"
-      },
-      "specs_summary": "Processor: Intel Celeron N5095 (6MB Cache, up to 3.40 GHz) | RAM: 8GB DDR4, Storage: 256GB NVMe PCIe SSD | Display: 23.8\" FHD (1920x1080) IPS, 16:9, 250nits | Features: Built-in 2.0 Stereo Speaker, Wireless Keyboard & Mouse",
-      "url": "https://www.startech.com.bd/aoc-a33-celeron-n5095-all-in-one-pc",
-      "image_url": "https://www.startech.com.bd/image/cache/catalog/all-in-one-pc/aoc/e33/e33-01-228x228.webp",
-      "detail_fetched": true,
-      "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
-      "previous_price": 52500,
-      "lowest_price": 52500,
-      "lowest_price_date": "2026-11-06",
-      "highest_price": 52500,
-      "highest_price_date": "2026-11-06",
-      "previous_stock_status": "In Stock",
-      "price_history": [
-        {
-          "date": "2026-11-06",
-          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
-          "price": 52500,
-          "regular_price": 55550,
-          "stock_status": "In Stock",
-          "event": "FIRST_SEEN"
-        }
-      ]
-    },
-    {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "44899",
       "brand": "AOC",
@@ -394,7 +362,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "50870",
       "brand": "GIGABYTE",
@@ -434,7 +402,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "50871",
       "brand": "GIGABYTE",
@@ -474,7 +442,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "50872",
       "brand": "GIGABYTE",
@@ -514,7 +482,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "50869",
       "brand": "GIGABYTE",
@@ -554,7 +522,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "43669",
       "brand": "Gigabyte",
@@ -594,7 +562,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "52126",
       "brand": "Gigabyte",
@@ -634,7 +602,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "51386",
       "brand": "HP",
@@ -674,7 +642,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "48568",
       "brand": "HP",
@@ -714,7 +682,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "51394",
       "brand": "HP",
@@ -754,15 +722,15 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "51389",
       "brand": "HP",
       "model": "All-in-One 24-cr0248d Core i5 13th Gen 23.8\" FHD Touch",
       "title": "HP All-in-One 24-cr0248d Core i5 13th Gen 23.8\" FHD Touch Desktop PC",
-      "current_price": 136000,
+      "current_price": 134000,
       "regular_price": 154000,
-      "discount_bdt": 18000,
+      "discount_bdt": 20000,
       "stock_status": "In Stock",
       "specs": {
         "Processor": "Intel Core i5-1335U (12M L3 Cache, up to 4.6 GHz)",
@@ -775,10 +743,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/all-in-one-pc/hp-all-in-one-pc/all-in-one-24-cr0248d/all-in-one-24-cr0248d-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-11",
       "previous_price": 136000,
-      "lowest_price": 136000,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 134000,
+      "lowest_price_date": "2026-11-11",
       "highest_price": 136000,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -790,11 +758,19 @@
           "regular_price": 154000,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-11",
+          "timestamp": "Wed 11 Nov 2026 04:40 AM Wednesday",
+          "price": 134000,
+          "regular_price": 154000,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "37335",
       "brand": "HP",
@@ -834,7 +810,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "47895",
       "brand": "Gigabyte",
@@ -874,7 +850,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "54297",
       "brand": "AMD",
@@ -910,7 +886,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "40060",
       "brand": "AOC",
@@ -950,7 +926,87 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
+      "category": "desktops",
+      "product_id": "54632",
+      "brand": "AOC",
+      "model": "B911 Core i5 8th Gen 16GB DDR3 27\" FHD All in One",
+      "title": "AOC B911 Core i5 8th Gen 16GB DDR3 27\" FHD All in One PC With WebCam & Battery",
+      "current_price": 78000,
+      "regular_price": 83600,
+      "discount_bdt": 5600,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel Core i5 8400 (9MB Cache, up to 4.00 GHz)",
+        "RAM": "16GB DDR3, Storage: 512GB NVMe PCIe SSD",
+        "Display": "27\" FHD (1920x1080) IPS, Built-in 3MP WebCamera",
+        "Features": "Built-in 2.0 Stereo Speaker, Keyboard & Mouse"
+      },
+      "specs_summary": "Processor: Intel Core i5 8400 (9MB Cache, up to 4.00 GHz) | RAM: 16GB DDR3, Storage: 512GB NVMe PCIe SSD | Display: 27\" FHD (1920x1080) IPS, Built-in 3MP WebCamera | Features: Built-in 2.0 Stereo Speaker, Keyboard & Mouse",
+      "url": "https://www.startech.com.bd/aoc-b911-core-i5-8th-gen-27-inch-fhd-all-in-one-pc",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/all-in-one-pc/aoc/e99-2-27-inch/e99-2-27-inch-01-228x228.webp",
+      "detail_fetched": true,
+      "first_seen": "2026-11-11",
+      "last_changed": "2026-11-11",
+      "previous_price": 78000,
+      "lowest_price": 78000,
+      "lowest_price_date": "2026-11-11",
+      "highest_price": 78000,
+      "highest_price_date": "2026-11-11",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "2026-11-11",
+          "timestamp": "Wed 11 Nov 2026 04:40 AM Wednesday",
+          "price": 78000,
+          "regular_price": 83600,
+          "stock_status": "In Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
+      "category": "desktops",
+      "product_id": "40062",
+      "brand": "AOC",
+      "model": "B911 Core i5 8th Gen 16GB DDR4 27\" FHD All in One",
+      "title": "AOC B911 Core i5 8th Gen 16GB DDR4 27\" FHD All in One PC With WebCam & Battery",
+      "current_price": 83160,
+      "regular_price": 87120,
+      "discount_bdt": 3960,
+      "stock_status": "In Stock",
+      "specs": {
+        "Processor": "Intel Core i5 8400 (9MB Cache, up to 4.00 GHz)",
+        "RAM": "16GB DDR4, Storage: 512GB NVMe PCIe SSD",
+        "Display": "27\" FHD (1920x1080) IPS, Built-in 3MP WebCamera",
+        "Features": "Built-in 2.0 Stereo Speaker, Keyboard & Mouse"
+      },
+      "specs_summary": "Processor: Intel Core i5 8400 (9MB Cache, up to 4.00 GHz) | RAM: 16GB DDR4, Storage: 512GB NVMe PCIe SSD | Display: 27\" FHD (1920x1080) IPS, Built-in 3MP WebCamera | Features: Built-in 2.0 Stereo Speaker, Keyboard & Mouse",
+      "url": "https://www.startech.com.bd/aoc-b911-core-i5-8th-gen-27-inch-all-in-one-pc",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/all-in-one-pc/aoc/e99-2-27-inch/e99-2-27-inch-01-228x228.webp",
+      "detail_fetched": true,
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 83160,
+      "lowest_price": 83160,
+      "lowest_price_date": "2026-11-06",
+      "highest_price": 83160,
+      "highest_price_date": "2026-11-06",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 83160,
+          "regular_price": 87120,
+          "stock_status": "In Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "40058",
       "brand": "AOC",
@@ -990,47 +1046,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
-      "category": "desktops",
-      "product_id": "40062",
-      "brand": "AOC",
-      "model": "B911 Core i5 8th Gen 27\" Full HD All in One",
-      "title": "AOC B911 Core i5 8th Gen 27\" Full HD All in One PC With WebCam & Battery",
-      "current_price": 83160,
-      "regular_price": 87120,
-      "discount_bdt": 3960,
-      "stock_status": "In Stock",
-      "specs": {
-        "Processor": "Intel Core i5 8400 (9MB Cache, up to 4.00 GHz)",
-        "RAM": "16GB DDR4, Storage: 512GB NVMe PCIe SSD",
-        "Display": "27\" FHD (1920x1080) IPS, Built-in 3MP WebCamera",
-        "Features": "Built-in 2.0 Stereo Speaker, Keyboard & Mouse"
-      },
-      "specs_summary": "Processor: Intel Core i5 8400 (9MB Cache, up to 4.00 GHz) | RAM: 16GB DDR4, Storage: 512GB NVMe PCIe SSD | Display: 27\" FHD (1920x1080) IPS, Built-in 3MP WebCamera | Features: Built-in 2.0 Stereo Speaker, Keyboard & Mouse",
-      "url": "https://www.startech.com.bd/aoc-b911-core-i5-8th-gen-27-inch-all-in-one-pc",
-      "image_url": "https://www.startech.com.bd/image/cache/catalog/all-in-one-pc/aoc/e99-2-27-inch/e99-2-27-inch-01-228x228.webp",
-      "detail_fetched": true,
-      "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
-      "previous_price": 83160,
-      "lowest_price": 83160,
-      "lowest_price_date": "2026-11-06",
-      "highest_price": 83160,
-      "highest_price_date": "2026-11-06",
-      "previous_stock_status": "In Stock",
-      "price_history": [
-        {
-          "date": "2026-11-06",
-          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
-          "price": 83160,
-          "regular_price": 87120,
-          "stock_status": "In Stock",
-          "event": "FIRST_SEEN"
-        }
-      ]
-    },
-    {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "40055",
       "brand": "AOC",
@@ -1070,7 +1086,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "49502",
       "brand": "MSI",
@@ -1110,7 +1126,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "35123",
       "brand": "INTEL",
@@ -1146,7 +1162,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "42223",
       "brand": "INTEL",
@@ -1183,7 +1199,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "41588",
       "brand": "INTEL",
@@ -1219,44 +1235,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
-      "category": "desktops",
-      "product_id": "52367",
-      "brand": "INTEL",
-      "model": "Core i7 14700 14th Gen",
-      "title": "Intel Core i7 14700 14th Gen Gaming Desktop PC",
-      "current_price": 167000,
-      "regular_price": 183700,
-      "discount_bdt": 16700,
-      "stock_status": "In Stock",
-      "specs": {
-        "Features": "Intel Core i7 14700 14th Gen Raptor Lake Processor | MSI PRO B760M-E DDR5 m-ATX Motherboard | V-Color Manta XSky RGB 16GB DDR5 6000MHz CL36 Desktop RAM | MSI GeForce RTX 3050 VENTUS 2X E 6G OC GDDR6 Graphics Card"
-      },
-      "specs_summary": "Features: Intel Core i7 14700 14th Gen Raptor Lake Processor | MSI PRO B760M-E DDR5 m-ATX Motherboard | V-Color Manta XSky RGB 16GB DDR5 6000MHz CL36 Desktop RAM | MSI GeForce RTX 3050 VENTUS 2X E 6G OC GDDR6 Graphics Card",
-      "url": "https://www.startech.com.bd/intel-core-i7-14700-14th-gen-gaming-desktop-pc",
-      "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/52367-02-228x228.webp",
-      "detail_fetched": true,
-      "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
-      "previous_price": 167000,
-      "lowest_price": 167000,
-      "lowest_price_date": "2026-11-06",
-      "highest_price": 167000,
-      "highest_price_date": "2026-11-06",
-      "previous_stock_status": "In Stock",
-      "price_history": [
-        {
-          "date": "2026-11-06",
-          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
-          "price": 167000,
-          "regular_price": 183700,
-          "stock_status": "In Stock",
-          "event": "FIRST_SEEN"
-        }
-      ]
-    },
-    {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "38993",
       "brand": "INTEL",
@@ -1293,7 +1272,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "49920",
       "brand": "INTEL",
@@ -1330,7 +1309,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "41485",
       "brand": "INTEL",
@@ -1367,7 +1346,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "39000",
       "brand": "INTEL",
@@ -1404,7 +1383,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "54456",
       "brand": "INTEL",
@@ -1441,7 +1420,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "45455",
       "brand": "Intel",
@@ -1478,7 +1457,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "53815",
       "brand": "Agent",
@@ -1518,7 +1497,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "51698",
       "brand": "Dell",
@@ -1558,15 +1537,15 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "49464",
       "brand": "Dell",
       "model": "EC24250 Core 7 150U 1TB",
       "title": "Dell EC24250 Core 7 150U 1TB SSD 23.8\" FHD All-in-One PC",
-      "current_price": 150000,
+      "current_price": 148000,
       "regular_price": 163900,
-      "discount_bdt": 13900,
+      "discount_bdt": 15900,
       "stock_status": "In Stock",
       "specs": {
         "Processor": "Intel Core 7 150U (12 MB cache, Up to 5.4 GHz)",
@@ -1579,10 +1558,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/all-in-one-pc/dell/ec24250/ec24250-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-11",
       "previous_price": 150000,
-      "lowest_price": 150000,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 148000,
+      "lowest_price_date": "2026-11-11",
       "highest_price": 150000,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -1594,11 +1573,19 @@
           "regular_price": 163900,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-11",
+          "timestamp": "Wed 11 Nov 2026 04:40 AM Wednesday",
+          "price": 148000,
+          "regular_price": 163900,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "47300",
       "brand": "Dell",
@@ -1638,7 +1625,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "47299",
       "brand": "Dell",
@@ -1678,15 +1665,15 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "47301",
       "brand": "Dell",
       "model": "EC24250 Intel Core i5 1334U 23.8\" FHD",
       "title": "Dell EC24250 Intel Core i5 1334U 23.8\" FHD All-in-One PC",
-      "current_price": 120000,
-      "regular_price": 128700,
-      "discount_bdt": 8700,
+      "current_price": 122000,
+      "regular_price": 129700,
+      "discount_bdt": 7700,
       "stock_status": "In Stock",
       "specs": {
         "Processor": "Intel Core i5 1334U (12 MB cache, 10 cores,12 threads, Up to 4.60 GHz)",
@@ -1699,12 +1686,12 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/all-in-one-pc/dell/ec24250/ec24250-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-11",
       "previous_price": 120000,
       "lowest_price": 120000,
       "lowest_price_date": "2026-11-06",
-      "highest_price": 120000,
-      "highest_price_date": "2026-11-06",
+      "highest_price": 122000,
+      "highest_price_date": "2026-11-11",
       "previous_stock_status": "In Stock",
       "price_history": [
         {
@@ -1714,11 +1701,19 @@
           "regular_price": 128700,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-11",
+          "timestamp": "Wed 11 Nov 2026 04:40 AM Wednesday",
+          "price": 122000,
+          "regular_price": 129700,
+          "stock_status": "In Stock",
+          "event": "PRICE_INCREASE"
         }
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "46489",
       "brand": "Dell",
@@ -1758,7 +1753,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "46491",
       "brand": "Dell",
@@ -1798,7 +1793,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "46492",
       "brand": "Dell",
@@ -1838,7 +1833,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "51105",
       "brand": "Asus",
@@ -1878,7 +1873,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "52797",
       "brand": "Asus",
@@ -1918,7 +1913,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "52803",
       "brand": "Asus",
@@ -1958,7 +1953,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "50441",
       "brand": "Asus",
@@ -1998,7 +1993,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "52767",
       "brand": "Asus",
@@ -2038,7 +2033,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "52771",
       "brand": "Asus",
@@ -2078,7 +2073,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "51343",
       "brand": "Asus",
@@ -2118,15 +2113,15 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "49419",
       "brand": "Asus",
       "model": "ExpertCenter P400 CORE 5 210H 23.8\" FHD",
       "title": "ASUS ExpertCenter P400 CORE 5 210H 23.8\" FHD All-in-One PC",
-      "current_price": 118000,
+      "current_price": 115000,
       "regular_price": 129250,
-      "discount_bdt": 11250,
+      "discount_bdt": 14250,
       "stock_status": "In Stock",
       "specs": {
         "Processor": "Intel Core 5 210H (12MB Cache, up to 4.80GHz)",
@@ -2139,10 +2134,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/all-in-one-pc/asus/expertcenter-p440vak/expertcenter-p440vak-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-11",
       "previous_price": 118000,
-      "lowest_price": 118000,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 115000,
+      "lowest_price_date": "2026-11-11",
       "highest_price": 118000,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -2154,11 +2149,19 @@
           "regular_price": 129250,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-11",
+          "timestamp": "Wed 11 Nov 2026 04:40 AM Wednesday",
+          "price": 115000,
+          "regular_price": 129250,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "46692",
       "brand": "Asus",
@@ -2198,7 +2201,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "46465",
       "brand": "Asus",
@@ -2238,7 +2241,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "52776",
       "brand": "Asus",
@@ -2278,7 +2281,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "52775",
       "brand": "Asus",
@@ -2318,7 +2321,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "48669",
       "brand": "Asus",
@@ -2358,7 +2361,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "52769",
       "brand": "Asus",
@@ -2398,7 +2401,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "46183",
       "brand": "Asus",
@@ -2437,7 +2440,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "36990",
       "brand": "Asus",
@@ -2477,7 +2480,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "36628",
       "brand": "Asus",
@@ -2517,7 +2520,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "48674",
       "brand": "Asus",
@@ -2557,7 +2560,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "40867",
       "brand": "Smart",
@@ -2597,15 +2600,15 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "40870",
       "brand": "Smart",
       "model": "FlaireSuite AIO Core i5 12th Gen 23.8\" All in One",
       "title": "Smart FlaireSuite AIO Core i5 12th Gen 23.8\" All in One PC",
-      "current_price": 73000,
+      "current_price": 70000,
       "regular_price": 80300,
-      "discount_bdt": 7300,
+      "discount_bdt": 10300,
       "stock_status": "In Stock",
       "specs": {
         "Processor": "Intel Core i5-1235U (12MB Smart Cache, Max Turbo Frequency 4.4 GHz)",
@@ -2618,10 +2621,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/all-in-one-pc/smart/flairesuite-aio/flairesuite-aio-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-11",
       "previous_price": 73000,
-      "lowest_price": 73000,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 70000,
+      "lowest_price_date": "2026-11-11",
       "highest_price": 73000,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -2633,11 +2636,19 @@
           "regular_price": 80300,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-11",
+          "timestamp": "Wed 11 Nov 2026 04:40 AM Wednesday",
+          "price": 70000,
+          "regular_price": 80300,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "49109",
       "brand": "Value-Top",
@@ -2677,7 +2688,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "49840",
       "brand": "Value-Top",
@@ -2717,7 +2728,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "49103",
       "brand": "Value-Top",
@@ -2757,7 +2768,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "49105",
       "brand": "Value-Top",
@@ -2797,7 +2808,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "40325",
       "brand": "Value-Top",
@@ -2837,7 +2848,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "54453",
       "brand": "Value-Top",
@@ -2877,7 +2888,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "40324",
       "brand": "Value-Top",
@@ -2917,7 +2928,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "49101",
       "brand": "Value-Top",
@@ -2957,7 +2968,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "49107",
       "brand": "Value-Top",
@@ -2997,7 +3008,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "49106",
       "brand": "Value-Top",
@@ -3037,7 +3048,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "47321",
       "brand": "Lenovo",
@@ -3077,7 +3088,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "47320",
       "brand": "Lenovo",
@@ -3117,7 +3128,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "35610",
       "brand": "Lenovo",
@@ -3157,7 +3168,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "52442",
       "brand": "Lenovo",
@@ -3197,7 +3208,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "52452",
       "brand": "Lenovo",
@@ -3237,7 +3248,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "37061",
       "brand": "Lenovo",
@@ -3277,7 +3288,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "37063",
       "brand": "Lenovo",
@@ -3317,7 +3328,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "50604",
       "brand": "Lenovo",
@@ -3357,15 +3368,15 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "52444",
       "brand": "Lenovo",
       "model": "IdeaCentre AIO 27ILL11 Core Ultra 5 27\" FHD",
       "title": "Lenovo IdeaCentre AIO 27ILL11 Core Ultra 5 27\" FHD All-in-One Desktop PC",
-      "current_price": 120000,
+      "current_price": 116000,
       "regular_price": 127500,
-      "discount_bdt": 7500,
+      "discount_bdt": 11500,
       "stock_status": "In Stock",
       "specs": {
         "Processor": "Intel Core Ultra 5 226V (8MB Cache, up to 4.5GHz)",
@@ -3378,10 +3389,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/all-in-one/lenovo/ideacentre-aio-27ill11/27ill11-aio-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-11",
       "previous_price": 120000,
-      "lowest_price": 120000,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 116000,
+      "lowest_price_date": "2026-11-11",
       "highest_price": 120000,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -3393,19 +3404,27 @@
           "regular_price": 127500,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-11",
+          "timestamp": "Wed 11 Nov 2026 04:40 AM Wednesday",
+          "price": 116000,
+          "regular_price": 127500,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "52447",
       "brand": "Lenovo",
       "model": "IdeaCentre AIO 27ILL11 Core Ultra 7 27\" FHD",
       "title": "Lenovo IdeaCentre AIO 27ILL11 Core Ultra 7 27\" FHD All-in-One Desktop PC",
-      "current_price": 130000,
+      "current_price": 126000,
       "regular_price": 134200,
-      "discount_bdt": 4200,
+      "discount_bdt": 8200,
       "stock_status": "In Stock",
       "specs": {
         "Processor": "Intel Core Ultra 7 256V (12MB Cache, up to 4.8GHz)",
@@ -3418,10 +3437,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/all-in-one/lenovo/ideacentre-aio-27ill11-cu7/27ill11-cu7-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-11",
       "previous_price": 130000,
-      "lowest_price": 130000,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 126000,
+      "lowest_price_date": "2026-11-11",
       "highest_price": 130000,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -3433,11 +3452,19 @@
           "regular_price": 134200,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-11",
+          "timestamp": "Wed 11 Nov 2026 04:40 AM Wednesday",
+          "price": 126000,
+          "regular_price": 134200,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "48806",
       "brand": "Lenovo",
@@ -3477,7 +3504,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "47322",
       "brand": "Lenovo",
@@ -3517,7 +3544,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "49812",
       "brand": "Lenovo",
@@ -3557,7 +3584,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "47318",
       "brand": "Lenovo",
@@ -3597,7 +3624,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "39647",
       "brand": "Apple",
@@ -3637,7 +3664,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "39644",
       "brand": "Apple",
@@ -3677,15 +3704,15 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "39645",
       "brand": "Apple",
       "model": "iMac M4 Chip 10 Core GPU 512GB",
       "title": "Apple iMac M4 Chip 10 Core GPU 512GB SSD 24\" 4.5K Retina Display All-in-One PC (Late 2024)",
-      "current_price": 350000,
+      "current_price": 335000,
       "regular_price": 374000,
-      "discount_bdt": 24000,
+      "discount_bdt": 39000,
       "stock_status": "In Stock",
       "specs": {
         "CPU": "Apple M4 Chip (10-core CPU, 10-core GPU, 16-core Neural Engine)",
@@ -3698,10 +3725,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/all-in-one-pc/apple/imac-m4/blue/imac-m4-blue-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-11",
       "previous_price": 350000,
-      "lowest_price": 350000,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 335000,
+      "lowest_price_date": "2026-11-11",
       "highest_price": 350000,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -3713,11 +3740,19 @@
           "regular_price": 374000,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-11",
+          "timestamp": "Wed 11 Nov 2026 04:40 AM Wednesday",
+          "price": 335000,
+          "regular_price": 374000,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "39638",
       "brand": "Apple",
@@ -3757,7 +3792,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "54353",
       "brand": "Apple",
@@ -3797,7 +3832,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "40357",
       "brand": "Dell",
@@ -3837,7 +3872,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "43255",
       "brand": "Dell",
@@ -3877,7 +3912,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "54454",
       "brand": "Value-Top",
@@ -3917,7 +3952,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "54458",
       "brand": "Value-Top",
@@ -3957,7 +3992,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "54451",
       "brand": "Value-Top",
@@ -3997,7 +4032,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "38792",
       "brand": "Apple",
@@ -4035,7 +4070,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "38793",
       "brand": "Apple",
@@ -4073,7 +4108,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "38795",
       "brand": "Apple",
@@ -4111,7 +4146,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "53424",
       "brand": "Apple",
@@ -4151,7 +4186,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "53423",
       "brand": "Apple",
@@ -4191,7 +4226,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "28922",
       "brand": "Apple",
@@ -4230,15 +4265,15 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "53425",
       "brand": "Apple",
       "model": "Mac Studio M5 Max (Inactive)",
       "title": "Apple Mac Studio M5 Max (Inactive)",
-      "current_price": 435000,
+      "current_price": 425000,
       "regular_price": 467500,
-      "discount_bdt": 32500,
+      "discount_bdt": 42500,
       "stock_status": "In Stock",
       "specs": {
         "Processor": "Apple M5 Max with 18 core CPU; 32‑core GPU; 16‑core Neural Engine",
@@ -4251,10 +4286,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/mac-studio/mac-studio-m4-max/mac-studio-m4-max-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-11",
       "previous_price": 435000,
-      "lowest_price": 435000,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 425000,
+      "lowest_price_date": "2026-11-11",
       "highest_price": 435000,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -4266,11 +4301,19 @@
           "regular_price": 467500,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-11",
+          "timestamp": "Wed 11 Nov 2026 04:40 AM Wednesday",
+          "price": 425000,
+          "regular_price": 467500,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "48083",
       "brand": "MSI",
@@ -4310,7 +4353,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "48081",
       "brand": "MSI",
@@ -4350,7 +4393,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "48446",
       "brand": "AOC",
@@ -4390,7 +4433,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "47086",
       "brand": "Asus",
@@ -4430,7 +4473,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "41837",
       "brand": "Asus",
@@ -4470,7 +4513,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "47072",
       "brand": "Asus",
@@ -4510,7 +4553,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "41830",
       "brand": "Asus",
@@ -4550,7 +4593,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "46186",
       "brand": "Asus",
@@ -4590,7 +4633,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "47087",
       "brand": "Asus",
@@ -4630,7 +4673,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "41825",
       "brand": "Asus",
@@ -4669,7 +4712,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "46188",
       "brand": "Asus",
@@ -4709,7 +4752,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "50661",
       "brand": "Asus",
@@ -4749,15 +4792,15 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "54151",
       "brand": "Asus",
       "model": "NUC 15 Pro Core i3 13th Gen 8GB RAM Portable",
       "title": "ASUS NUC 15 Pro Core i3 13th Gen 8GB RAM Portable Mini PC",
-      "current_price": 65000,
+      "current_price": 61500,
       "regular_price": 70530,
-      "discount_bdt": 5530,
+      "discount_bdt": 9030,
       "stock_status": "In Stock",
       "specs": {
         "Processor": "Intel Core i3-1315U Processor",
@@ -4770,10 +4813,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/mini-pc/asus/nuc-15-pro/asus-nuc-15-pro-04-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-11",
       "previous_price": 65000,
-      "lowest_price": 65000,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 61500,
+      "lowest_price_date": "2026-11-11",
       "highest_price": 65000,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -4785,11 +4828,19 @@
           "regular_price": 70530,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-11",
+          "timestamp": "Wed 11 Nov 2026 04:40 AM Wednesday",
+          "price": 61500,
+          "regular_price": 70530,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "50663",
       "brand": "Asus",
@@ -4828,7 +4879,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "41363",
       "brand": "Dell",
@@ -4868,7 +4919,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "39778",
       "brand": "Dell",
@@ -4908,7 +4959,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "48379",
       "brand": "Dell",
@@ -4948,7 +4999,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "40023",
       "brand": "Dell",
@@ -4988,7 +5039,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "53817",
       "brand": "Agent",
@@ -5028,15 +5079,15 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "48334",
       "brand": "Dell",
       "model": "Pro Slim QCS1250 Core i5 14th Gen",
       "title": "Dell Pro Slim QCS1250 Core i5 14th Gen Brand PC",
-      "current_price": 120000,
+      "current_price": 115000,
       "regular_price": 132000,
-      "discount_bdt": 12000,
+      "discount_bdt": 17000,
       "stock_status": "In Stock",
       "specs": {
         "Processor": "Intel Core i5-14500 (14 cores, up to 5.0GHz)",
@@ -5049,10 +5100,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/brand-pc/dell/pro-slim-qcs1250/pro-slim-qcs1250-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-11",
       "previous_price": 120000,
-      "lowest_price": 120000,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 115000,
+      "lowest_price_date": "2026-11-11",
       "highest_price": 120000,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -5064,11 +5115,19 @@
           "regular_price": 132000,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-11",
+          "timestamp": "Wed 11 Nov 2026 04:40 AM Wednesday",
+          "price": 115000,
+          "regular_price": 132000,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "48527",
       "brand": "Dell",
@@ -5108,7 +5167,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "44266",
       "brand": "HP",
@@ -5148,15 +5207,15 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "51376",
       "brand": "Dell",
       "model": "Pro Tower Essential QVT1260 Core i3 14th Gen",
       "title": "Dell Pro Tower Essential QVT1260 Core i3 14th Gen Brand PC",
-      "current_price": 78000,
-      "regular_price": 83380,
-      "discount_bdt": 5380,
+      "current_price": 85000,
+      "regular_price": 92230,
+      "discount_bdt": 7230,
       "stock_status": "In Stock",
       "specs": {
         "Processor": "Intel Core i3 14100 (12MB Cache, up to 4.7 GHz)",
@@ -5169,12 +5228,12 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/brand-pc/dell/pro-tower-essential-qvt1260/pro-tower-essential-qvt1260-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-11",
       "previous_price": 78000,
       "lowest_price": 78000,
       "lowest_price_date": "2026-11-06",
-      "highest_price": 78000,
-      "highest_price_date": "2026-11-06",
+      "highest_price": 85000,
+      "highest_price_date": "2026-11-11",
       "previous_stock_status": "In Stock",
       "price_history": [
         {
@@ -5184,11 +5243,19 @@
           "regular_price": 83380,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-11",
+          "timestamp": "Wed 11 Nov 2026 04:40 AM Wednesday",
+          "price": 85000,
+          "regular_price": 92230,
+          "stock_status": "In Stock",
+          "event": "PRICE_INCREASE"
         }
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "53414",
       "brand": "Dell",
@@ -5228,7 +5295,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "49466",
       "brand": "Dell",
@@ -5268,7 +5335,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "49468",
       "brand": "Dell",
@@ -5308,7 +5375,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "51379",
       "brand": "Dell",
@@ -5348,7 +5415,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "44714",
       "brand": "Asus",
@@ -5388,7 +5455,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "54301",
       "brand": "AMD",
@@ -5424,7 +5491,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "47054",
       "brand": "AMD",
@@ -5460,7 +5527,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "52802",
       "brand": "AMD",
@@ -5496,7 +5563,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "54300",
       "brand": "AMD",
@@ -5532,7 +5599,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "44878",
       "brand": "AMD",
@@ -5568,7 +5635,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "40261",
       "brand": "AMD",
@@ -5604,7 +5671,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "49914",
       "brand": "AMD",
@@ -5640,7 +5707,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "38204",
       "brand": "AMD",
@@ -5676,7 +5743,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "38482",
       "brand": "AMD",
@@ -5713,7 +5780,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "46144",
       "brand": "AMD",
@@ -5750,7 +5817,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "38905",
       "brand": "AMD",
@@ -5787,7 +5854,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "44051",
       "brand": "AMD",
@@ -5824,7 +5891,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "45276",
       "brand": "AMD",
@@ -5860,7 +5927,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "34922",
       "brand": "AMD",
@@ -5897,7 +5964,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "37269",
       "brand": "AMD",
@@ -5934,7 +6001,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "50486",
       "brand": "AMD",
@@ -5970,15 +6037,15 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "52291",
       "brand": "AMD",
       "model": "Ryzen 5 PRO 5650GE",
       "title": "AMD Ryzen 5 PRO 5650GE Desktop PC",
-      "current_price": 37499,
+      "current_price": 36999,
       "regular_price": 42200,
-      "discount_bdt": 4701,
+      "discount_bdt": 5201,
       "stock_status": "In Stock",
       "specs": {
         "Features": "AMD Ryzen 5 PRO 5650GE Processor with Radeon Graphics | GIGABYTE B450M K AMD AM4 Micro ATX Motherboard | Netac Shadow III 8GB DDR4 3200MHz Desktop RAM | Colorful CN600 PRO 256GB M.2 NVMe SSD"
@@ -5988,10 +6055,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/52291-02-228x228.webp",
       "detail_fetched": true,
       "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
-      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "2026-11-11",
       "previous_price": 37499,
-      "lowest_price": 37499,
-      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "lowest_price": 36999,
+      "lowest_price_date": "2026-11-11",
       "highest_price": 37499,
       "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
       "previous_stock_status": "In Stock",
@@ -6002,11 +6069,19 @@
           "regular_price": 42200,
           "stock_status": "In Stock",
           "event": "INITIAL"
+        },
+        {
+          "date": "2026-11-11",
+          "timestamp": "Wed 11 Nov 2026 04:40 AM Wednesday",
+          "price": 36999,
+          "regular_price": 42200,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "31452",
       "brand": "AMD",
@@ -6042,7 +6117,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "39796",
       "brand": "AMD",
@@ -6079,7 +6154,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "39241",
       "brand": "AMD",
@@ -6116,7 +6191,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "53900",
       "brand": "AMD",
@@ -6153,7 +6228,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "38908",
       "brand": "AMD",
@@ -6190,7 +6265,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "53896",
       "brand": "AMD",
@@ -6227,7 +6302,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "53904",
       "brand": "AMD",
@@ -6264,7 +6339,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "53902",
       "brand": "AMD",
@@ -6301,7 +6376,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "49915",
       "brand": "AMD",
@@ -6338,7 +6413,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "53908",
       "brand": "AMD",
@@ -6375,7 +6450,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "53812",
       "brand": "My",
@@ -6415,7 +6490,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "38361",
       "brand": "Intel",
@@ -6455,7 +6530,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "33221",
       "brand": "Lenovo",
@@ -6495,7 +6570,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "44872",
       "brand": "Lenovo",
@@ -6535,7 +6610,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "44875",
       "brand": "Lenovo",
@@ -6575,7 +6650,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "47451",
       "brand": "Lenovo",
@@ -6615,7 +6690,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "36423",
       "brand": "Lenovo",
@@ -6655,7 +6730,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "44874",
       "brand": "Lenovo",
@@ -6695,7 +6770,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "48915",
       "brand": "Lenovo",
@@ -6735,15 +6810,15 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "50705",
       "brand": "Lenovo",
       "model": "ThinkCentre neo 50t Gen 6 Core Ultra 5 225",
       "title": "Lenovo ThinkCentre neo 50t Gen 6 Core Ultra 5 225 Brand PC",
-      "current_price": 110000,
+      "current_price": 102000,
       "regular_price": 115000,
-      "discount_bdt": 5000,
+      "discount_bdt": 13000,
       "stock_status": "In Stock",
       "specs": {
         "Processor": "Intel Core Ultra 5 225 (20MB Cache, up to 4.9GHz)",
@@ -6756,10 +6831,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/brand-pc/lenovo/thinkcentre-neo-50t-gen-6/thinkcentre-neo-50t-gen-6-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-11",
       "previous_price": 110000,
-      "lowest_price": 110000,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 102000,
+      "lowest_price_date": "2026-11-11",
       "highest_price": 110000,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -6771,11 +6846,19 @@
           "regular_price": 115000,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-11",
+          "timestamp": "Wed 11 Nov 2026 04:40 AM Wednesday",
+          "price": 102000,
+          "regular_price": 115000,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "49950",
       "brand": "Lenovo",
@@ -6815,7 +6898,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "52981",
       "brand": "Walton",
@@ -6855,7 +6938,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "52988",
       "brand": "Walton",
@@ -6895,7 +6978,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "52997",
       "brand": "Walton",
@@ -6935,7 +7018,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "35491",
       "brand": "Walton",
@@ -6975,7 +7058,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "52994",
       "brand": "Walton",
@@ -7015,7 +7098,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "50400",
       "brand": "Acer",
@@ -7054,7 +7137,7 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "52120",
       "brand": "Acer",
@@ -7094,15 +7177,15 @@
       ]
     },
     {
-      "extract-date": "Tue 10 Nov 2026 07:00 AM Tuesday",
+      "extract-date": "Wed 11 Nov 2026 04:40 AM Wednesday",
       "category": "desktops",
       "product_id": "51702",
       "brand": "Acer",
       "model": "Veriton S2690G Core i5 14th Gen Tower",
       "title": "Acer Veriton S2690G Core i5 14th Gen Tower Brand PC",
-      "current_price": 87000,
+      "current_price": 82500,
       "regular_price": 93500,
-      "discount_bdt": 6500,
+      "discount_bdt": 11000,
       "stock_status": "In Stock",
       "specs": {
         "Processor": "Intel Core i5 14400 (20MB Cache, Up to 4.7GHz)",
@@ -7115,10 +7198,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/desktop-pc/brand-pc/acer/veriton-s2690g/veriton-s2690g-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-11",
       "previous_price": 87000,
-      "lowest_price": 87000,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 82500,
+      "lowest_price_date": "2026-11-11",
       "highest_price": 87000,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -7130,6 +7213,14 @@
           "regular_price": 93500,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-11",
+          "timestamp": "Wed 11 Nov 2026 04:40 AM Wednesday",
+          "price": 82500,
+          "regular_price": 93500,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     }

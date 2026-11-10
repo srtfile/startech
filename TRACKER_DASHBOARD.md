@@ -1,8 +1,8 @@
 # 📊 Star Tech Bangladesh — Automated Price & Stock Tracker Dashboard
 
-> **Last Scan (Bangladesh Time):** `Tue 10 Nov 2026 07:00 AM Tuesday`  
-> **Total Products Tracked:** `5,392` | **In Stock:** `2,214` | **Out of Stock:** `3,178` | **Upcoming:** `0`  
-> **Latest Run Changes:** 📉 `15` Price Drops | 📈 `14` Price Increases | 📦 `21` Stock Transitions
+> **Last Scan (Bangladesh Time):** `Wed 11 Nov 2026 04:40 AM Wednesday`  
+> **Total Products Tracked:** `5,392` | **In Stock:** `2,232` | **Out of Stock:** `3,160` | **Upcoming:** `0`  
+> **Latest Run Changes:** 📉 `195` Price Drops | 📈 `19` Price Increases | 📦 `23` Stock Transitions
 
 ---
 
@@ -10,19 +10,19 @@
 
 | Category | Total Tracked | In Stock | Out of Stock | Lowest Price (BDT) | Highest Price (BDT) | Average Price (BDT) | Data Files |
 |:---|---:|---:|---:|---:|---:|---:|:---|
-| **Laptop** | 548 | 282 | 266 | ৳28,500 | ৳865,000 | ৳168,921 | [JSON](startech_laptops.json) · [CSV](startech_laptops.csv) |
-| **Processor** | 139 | 81 | 58 | ৳3,499 | ৳115,000 | ৳25,065 | [JSON](startech_processor.json) · [CSV](startech_processor.csv) |
-| **CPU Cooler** | 518 | 250 | 268 | ৳300 | ৳79,990 | ৳9,479 | [JSON](startech_cpu_cooler.json) · [CSV](startech_cpu_cooler.csv) |
-| **Motherboard** | 523 | 195 | 328 | ৳4,200 | ৳199,000 | ৳32,193 | [JSON](startech_motherboard.json) · [CSV](startech_motherboard.csv) |
-| **Graphics Card** | 506 | 143 | 363 | ৳5,000 | ৳3,100,000 | ৳155,961 | [JSON](startech_graphics_card.json) · [CSV](startech_graphics_card.csv) |
+| **Laptop** | 547 | 282 | 265 | ৳28,500 | ৳865,000 | ৳167,050 | [JSON](startech_laptops.json) · [CSV](startech_laptops.csv) |
+| **Processor** | 139 | 81 | 58 | ৳3,499 | ৳115,000 | ৳25,077 | [JSON](startech_processor.json) · [CSV](startech_processor.csv) |
+| **CPU Cooler** | 518 | 252 | 266 | ৳300 | ৳74,999 | ৳9,477 | [JSON](startech_cpu_cooler.json) · [CSV](startech_cpu_cooler.csv) |
+| **Motherboard** | 523 | 195 | 328 | ৳4,200 | ৳199,000 | ৳32,160 | [JSON](startech_motherboard.json) · [CSV](startech_motherboard.csv) |
+| **Graphics Card** | 507 | 158 | 349 | ৳5,000 | ৳3,100,000 | ৳150,730 | [JSON](startech_graphics_card.json) · [CSV](startech_graphics_card.csv) |
 | **Desktop RAM** | 441 | 97 | 344 | ৳2,800 | ৳265,000 | ৳26,676 | [JSON](startech_ram.json) · [CSV](startech_ram.csv) |
 | **Laptop RAM** | 100 | 33 | 67 | ৳2,400 | ৳52,000 | ৳14,515 | [JSON](startech_laptop_ram.json) · [CSV](startech_laptop_ram.csv) |
-| **Power Supply** | 320 | 130 | 190 | ৳1,200 | ৳81,000 | ৳15,554 | [JSON](startech_power_supply.json) · [CSV](startech_power_supply.csv) |
+| **Power Supply** | 320 | 131 | 189 | ৳1,200 | ৳81,000 | ৳15,600 | [JSON](startech_power_supply.json) · [CSV](startech_power_supply.csv) |
 | **Hard Disk Drive** | 111 | 19 | 92 | ৳15,399 | ৳119,500 | ৳40,868 | [JSON](startech_hard_disk_drive.json) · [CSV](startech_hard_disk_drive.csv) |
-| **SSD** | 412 | 126 | 286 | ৳3,100 | ৳92,500 | ৳20,470 | [JSON](startech_ssd.json) · [CSV](startech_ssd.csv) |
-| **Casing** | 607 | 287 | 320 | ৳2,200 | ৳130,000 | ৳8,799 | [JSON](startech_casing.json) · [CSV](startech_casing.csv) |
-| **Monitor** | 985 | 451 | 534 | ৳4,300 | ৳1,135,000 | ৳43,715 | [JSON](startech_monitor.json) · [CSV](startech_monitor.csv) |
-| **Desktop PC** | 182 | 120 | 62 | ৳23,999 | ৳1,999,999 | ৳165,086 | [JSON](startech_desktops.json) · [CSV](startech_desktops.csv) |
+| **SSD** | 412 | 125 | 287 | ৳3,100 | ৳92,500 | ৳20,460 | [JSON](startech_ssd.json) · [CSV](startech_ssd.csv) |
+| **Casing** | 607 | 287 | 320 | ৳2,200 | ৳130,000 | ৳8,777 | [JSON](startech_casing.json) · [CSV](startech_casing.csv) |
+| **Monitor** | 986 | 453 | 533 | ৳4,300 | ৳1,135,000 | ৳43,154 | [JSON](startech_monitor.json) · [CSV](startech_monitor.csv) |
+| **Desktop PC** | 181 | 119 | 62 | ৳23,999 | ৳1,999,999 | ৳164,759 | [JSON](startech_desktops.json) · [CSV](startech_desktops.csv) |
 
 ---
 
@@ -30,21 +30,31 @@
 
 | Date | Category | Product | Old Price | New Price | Regular Price | Saved | Link |
 |:---|:---|:---|---:|---:|---:|---:|:---|
-| `2026-11-10` | `graphics-card` | MSI GeForce RTX 5060 Ti 8G VENTUS 2X OC PLUS 8GB GDDR7 Graphics Card | ৳71,800 | **৳71,700** | ৳79,000 | 🟢 **-৳100 (-0.14%)** | [View](https://www.startech.com.bd/msi-geforce-rtx-5060-ti-8g-ventus-2x-oc-plus-graphics-card) |
-| `2026-11-10` | `ssd` | Netac N535S 120GB 2.5-inch SATAIII SSD | ৳3,450 | **৳3,100** | ৳3,740 | 🟢 **-৳350 (-10.14%)** | [View](https://www.startech.com.bd/netac-n535s-120gb-ssd) |
-| `2026-11-10` | `ssd` | Netac SA500 256GB 2.5-inch SATAIII SSD | ৳5,450 | **৳4,500** | ৳5,810 | 🟢 **-৳950 (-17.43%)** | [View](https://www.startech.com.bd/netac-sa500-256-gb-ssd) |
-| `2026-11-10` | `ssd` | Netac SA500 480GB 2.5-inch SATAIII SSD | ৳7,750 | **৳6,900** | ৳7,590 | 🟢 **-৳850 (-10.97%)** | [View](https://www.startech.com.bd/netac-sa500-480gb-2-5-inch-sataiii-ssd) |
-| `2026-11-10` | `ssd` | Netac N535S 480GB 2.5-inch SATAIII SSD | ৳7,930 | **৳7,200** | ৳7,920 | 🟢 **-৳730 (-9.21%)** | [View](https://www.startech.com.bd/netac-n535s-480gb-ssd) |
-| `2026-11-10` | `ssd` | Netac N600S 1TB 2.5-inch SATA III SSD | ৳16,800 | **৳14,300** | ৳15,730 | 🟢 **-৳2,500 (-14.88%)** | [View](https://www.startech.com.bd/netac-n600s-1tb-ssd) |
-| `2026-11-10` | `ssd` | Netac SA500 240GB 2.5-inch SATAIII SSD | ৳4,800 | **৳4,500** | ৳5,000 | 🟢 **-৳300 (-6.25%)** | [View](https://www.startech.com.bd/netac-sa500-240-gb-ssd) |
-| `2026-11-10` | `monitor` | MSI PRO MP251 E14A 24.5" 144Hz IPS FHD Monitor | ৳15,700 | **৳15,400** | ৳16,700 | 🟢 **-৳300 (-1.91%)** | [View](https://www.startech.com.bd/msi-pro-mp251-e14a-24-inch-monitor) |
-| `2026-11-10` | `monitor` | MSI PRO MP275PG E14 27" 144Hz IPS FHD Monitor | ৳19,500 | **৳19,200** | ৳20,830 | 🟢 **-৳300 (-1.54%)** | [View](https://www.startech.com.bd/msi-pro-mp275pg-e14-27-inch-fhd-monitor) |
-| `2026-11-10` | `monitor` | Asus TUF Gaming VG32VQM5B 31.5" 250Hz 0.5ms FHD Fast VA Curved Monitor | ৳38,000 | **৳35,500** | ৳37,980 | 🟢 **-৳2,500 (-6.58%)** | [View](https://www.startech.com.bd/asus-tuf-gaming-vg32vqm5b-monitor) |
-| `2026-11-10` | `monitor` | ASUS ROG Strix XG27ACMEG 27" 260Hz OC WQHD Fast IPS Gaming Monitor | ৳56,000 | **৳55,300** | ৳60,330 | 🟢 **-৳700 (-1.25%)** | [View](https://www.startech.com.bd/asus-rog-strix-xg27acmeg-monitor) |
-| `2026-11-10` | `monitor` | Gigabyte GO27Q24A 27" 2K QHD 240Hz QD-OLED Gaming Monitor | ৳62,000 | **৳60,000** | ৳65,000 | 🟢 **-৳2,000 (-3.23%)** | [View](https://www.startech.com.bd/gigabyte-go27q24a-27-inch-gaming-monitor) |
-| `2026-11-10` | `monitor` | KOORUI S2721XO 27" 2K QHD 240Hz QD-OLED Gaming Monitor | ৳81,999 | **৳81,300** | ৳87,890 | 🟢 **-৳699 (-0.85%)** | [View](https://www.startech.com.bd/koorui-s2721xo-27-inch-gaming-monitor) |
-| `2026-11-10` | `monitor` | MSI MPG 271QR QD-OLED X50 26.5" 2K WQHD 500Hz 0.03ms Gaming Monitor With AI Sensor | ৳152,500 | **৳148,500** | ৳164,380 | 🟢 **-৳4,000 (-2.62%)** | [View](https://www.startech.com.bd/msi-mpg-271qr-qd-oled-x50-monitor) |
-| `2026-11-10` | `monitor` | LG 38WR85QC-W 38" WQHD+ UltraWide 144Hz Curved Monitor | ৳199,900 | **৳196,999** | ৳213,750 | 🟢 **-৳2,901 (-1.45%)** | [View](https://www.startech.com.bd/lg-38wr85qc-w-38-inch-curved-monitor) |
+| `2026-11-11` | `laptop` | Chuwi HeroBook Pro Intel Celeron N4020 14.1 inch Full HD Laptop with Windows 11 | ৳38,000 | **৳36,000** | ৳40,150 | 🟢 **-৳2,000 (-5.26%)** | [View](https://www.startech.com.bd/chuwi-herobook-pro-intel-celeron-laptop) |
+| `2026-11-11` | `laptop` | Acer Aspire 3 A325-45 Celeron N4500 15.6" HD Laptop | ৳52,000 | **৳48,000** | ৳55,000 | 🟢 **-৳4,000 (-7.69%)** | [View](https://www.startech.com.bd/acer-aspire-3-a325-45-n4500-laptop) |
+| `2026-11-11` | `laptop` | Acer Aspire 3 A325-42-V2 Ryzen 3 5300U 8GB RAM 15.6" FHD laptop | ৳59,000 | **৳56,000** | ৳62,700 | 🟢 **-৳3,000 (-5.08%)** | [View](https://www.startech.com.bd/acer-aspire-3-a325-42-v2-laptop) |
+| `2026-11-11` | `laptop` | Walton Passion BX710U Core i7 10th Gen 15.6" FHD Laptop | ৳59,500 | **৳49,000** | ৳60,700 | 🟢 **-৳10,500 (-17.65%)** | [View](https://www.startech.com.bd/walton-passion-bx710u-core-i7-10th-gen-laptop) |
+| `2026-11-11` | `laptop` | Acer Aspire 3 A324-53-C3 Core 3 100U 8GB RAM 14" FHD laptop | ৳67,900 | **৳65,500** | ৳72,150 | 🟢 **-৳2,400 (-3.53%)** | [View](https://www.startech.com.bd/acer-aspire-3-a324-53-c3-laptop) |
+| `2026-11-11` | `laptop` | Acer Aspire Lite AL15-42 AMD Ryzen 3 7330U 15.6" FHD Laptop | ৳66,990 | **৳62,500** | ৳72,050 | 🟢 **-৳4,490 (-6.7%)** | [View](https://www.startech.com.bd/acer-aspire-lite-al15-42-ryzen-3-laptop) |
+| `2026-11-11` | `laptop` | Asus Vivobook Go 15 E1504TA Intel N150 256GB 15.6" FHD Laptop | ৳68,900 | **৳65,500** | ৳72,490 | 🟢 **-৳3,400 (-4.93%)** | [View](https://www.startech.com.bd/asus-vivobook-go-15-e1504ta-n150-15-inch-laptop) |
+| `2026-11-11` | `laptop` | Acer Aspire 3 A325-53-i3 Core i3 13th Gen 8GB RAM 15.6" FHD laptop | ৳71,900 | **৳69,000** | ৳76,490 | 🟢 **-৳2,900 (-4.03%)** | [View](https://www.startech.com.bd/acer-aspire-3-a325-53-i3-laptop) |
+| `2026-11-11` | `laptop` | Acer Aspire Lite AL15-53 Core i3 1315U 15.6" IPS FHD Laptop | ৳74,990 | **৳70,500** | ৳81,380 | 🟢 **-৳4,490 (-5.99%)** | [View](https://www.startech.com.bd/acer-aspire-lite-al15-53-core-i3-1315u-laptop) |
+| `2026-11-11` | `laptop` | HP 15-fc0628AU Ryzen 3 7320U 15.6" FHD Laptop | ৳77,900 | **৳74,000** | ৳82,500 | 🟢 **-৳3,900 (-5.01%)** | [View](https://www.startech.com.bd/hp-15-fc0628au-ryzen-3-7320u-laptop) |
+| `2026-11-11` | `laptop` | HP 15-fc0625AU Ryzen 3 7320U 15.6" FHD Laptop | ৳78,000 | **৳74,000** | ৳82,500 | 🟢 **-৳4,000 (-5.13%)** | [View](https://www.startech.com.bd/hp-15-fc0625au-ryzen-3-7320u-laptop) |
+| `2026-11-11` | `laptop` | Asus Vivobook 15 A1504VA CORE 3 100U 15.6" FHD Laptop | ৳78,000 | **৳74,500** | ৳82,280 | 🟢 **-৳3,500 (-4.49%)** | [View](https://www.startech.com.bd/asus-vivobook-15-a1504va-core-3-100u-laptop) |
+| `2026-11-11` | `laptop` | Acer Aspire Lite AL15-41 AMD Ryzen 5 5625U 15.6" FHD Laptop (UN.31ZSI.075) | ৳79,500 | **৳74,500** | ৳85,720 | 🟢 **-৳5,000 (-6.29%)** | [View](https://www.startech.com.bd/acer-aspire-lite-al15-41-ryzen-5-5625u-16gb-fhd-laptop) |
+| `2026-11-11` | `laptop` | Lenovo IdeaPad 1 15AMN7 Ryzen 3 7320U 15.6" FHD IPS Laptop | ৳80,000 | **৳75,000** | ৳85,720 | 🟢 **-৳5,000 (-6.25%)** | [View](https://www.startech.com.bd/lenovo-ideapad-1-15amn7-ryzen-3-7320u-laptop) |
+| `2026-11-11` | `laptop` | HP 15-fd0910TU Core i3 13th Gen 15.6" FHD Laptop | ৳82,500 | **৳79,500** | ৳88,750 | 🟢 **-৳3,000 (-3.64%)** | [View](https://www.startech.com.bd/hp-15-fd0910tu-core-i3-15-inch-laptop) |
+| `2026-11-11` | `laptop` | Lenovo IdeaPad Slim 3 15ABR8 Ryzen 5 5625U Laptop | ৳84,000 | **৳82,000** | ৳90,060 | 🟢 **-৳2,000 (-2.38%)** | [View](https://www.startech.com.bd/lenovo-ideapad-slim-3-15abr8-5625u-laptop) |
+| `2026-11-11` | `laptop` | HP 15-fd0176TU Intel Core i3 13th Gen 15.6" FHD Laptop | ৳86,500 | **৳78,000** | ৳92,100 | 🟢 **-৳8,500 (-9.83%)** | [View](https://www.startech.com.bd/hp-15-fd0176tu-core-i3-13th-gen-laptop) |
+| `2026-11-11` | `laptop` | Dell Pro 15 Essential PV15250 Core 3 100U 15.6" FHD Laptop | ৳86,500 | **৳72,000** | ৳89,100 | 🟢 **-৳14,500 (-16.76%)** | [View](https://www.startech.com.bd/dell-pro-15-essential-pv15250-laptop) |
+| `2026-11-11` | `laptop` | HP 15-fc0630AU Ryzen 5 7520U 15.6" FHD Laptop | ৳90,990 | **৳86,000** | ৳97,650 | 🟢 **-৳4,990 (-5.48%)** | [View](https://www.startech.com.bd/hp-15-fc0630au-ryzen-5-7520u-laptop) |
+| `2026-11-11` | `laptop` | HP 15-fd0892TU Core 5 120U 15.6" FHD Laptop | ৳90,000 | **৳84,000** | ৳100,910 | 🟢 **-৳6,000 (-6.67%)** | [View](https://www.startech.com.bd/hp-15-fd0892tu-core-5-laptop) |
+| `2026-11-11` | `laptop` | HP 15-fd0909TU Core 5 120U 15.6" FHD Laptop | ৳95,000 | **৳88,000** | ৳101,200 | 🟢 **-৳7,000 (-7.37%)** | [View](https://www.startech.com.bd/hp-15-fd0909tu-core-5-120u-laptop) |
+| `2026-11-11` | `laptop` | ASUS Vivobook Go 15 E1504FA Ryzen 5 40 15.6" FHD Laptop Mixed Black | ৳93,000 | **৳90,000** | ৳99,820 | 🟢 **-৳3,000 (-3.23%)** | [View](https://www.startech.com.bd/asus-vivobook-go-15-e1504fa-ryzen-5-40-laptop) |
+| `2026-11-11` | `laptop` | Lenovo IdeaPad Slim 3 15AMN8 Ryzen 5 40 16GB RAM 15.6" FHD Laptop Abyss Blue | ৳99,000 | **৳97,000** | ৳106,700 | 🟢 **-৳2,000 (-2.02%)** | [View](https://www.startech.com.bd/lenovo-ideapad-slim-3-15amn8-16gb-ram-laptop) |
+| `2026-11-11` | `laptop` | ASUS ExpertBook B3 B3605CCA Core Ultra 5 16" WUXGA Laptop | ৳99,990 | **৳93,000** | ৳112,200 | 🟢 **-৳6,990 (-6.99%)** | [View](https://www.startech.com.bd/asus-expertbook-b3-b3605cca-laptop) |
+| `2026-11-11` | `laptop` | Asus VivoBook 15 A1504MA Intel Core 5 320 15.6" FHD Laptop | ৳103,000 | **৳96,000** | ৳110,670 | 🟢 **-৳7,000 (-6.8%)** | [View](https://www.startech.com.bd/asus-vivobook-15-a1504ma-core-5-320-laptop) |
 
 ---
 
@@ -52,20 +62,25 @@
 
 | Date | Category | Product | Old Price | New Price | Regular Price | Increase | Link |
 |:---|:---|:---|---:|---:|---:|---:|:---|
-| `2026-11-10` | `laptop` | Lenovo IdeaPad Slim 3 15AMN8 Ryzen 3 30 15.6" FHD Laptop | ৳76,500 | **৳79,500** | ৳85,800 | 🔴 **+৳3,000 (+3.92%)** | [View](https://www.startech.com.bd/lenovo-ideapad-slim-3-15amn8-ryzen-3-30-laptop) |
-| `2026-11-10` | `laptop` | Lenovo IdeaPad Slim 3 15AMN8 Ryzen 3 30 15.6" FHD Laptop Abyss Blue | ৳76,500 | **৳79,500** | ৳85,800 | 🔴 **+৳3,000 (+3.92%)** | [View](https://www.startech.com.bd/lenovo-ideapad-slim-3-15amn8-15-inch-laptop) |
-| `2026-11-10` | `laptop` | Dell Pro 15 Essential PV15250 Core 3 100U 15.6" FHD Laptop | ৳72,900 | **৳86,500** | ৳89,100 | 🔴 **+৳13,600 (+18.66%)** | [View](https://www.startech.com.bd/dell-pro-15-essential-pv15250-laptop) |
-| `2026-11-10` | `laptop` | HP ProBook 440 G11 Core Ultra 7 14" FHD Laptop | ৳138,000 | **৳145,000** | ৳151,800 | 🔴 **+৳7,000 (+5.07%)** | [View](https://www.startech.com.bd/hp-probook-440-g11-core-ultra-7-laptop) |
-| `2026-11-10` | `laptop` | Microsoft Surface Pro 12 Snapdragon X Plus 8 Core 12" Touch Copilot+ PC Laptop | ৳172,800 | **৳175,000** | ৳186,620 | 🔴 **+৳2,200 (+1.27%)** | [View](https://www.startech.com.bd/microsoft-surface-pro-12-inch-laptop) |
-| `2026-11-10` | `graphics-card` | ASUS PRIME GeForce RTX 5070 Ti 16GB GDDR7 OC Edition Graphics Card | ৳183,500 | **৳185,900** | ৳203,000 | 🔴 **+৳2,400 (+1.31%)** | [View](https://www.startech.com.bd/asus-prime-geforce-rtx-5070-ti-16gb-oc-edition-graphics-card) |
-| `2026-11-10` | `ssd` | Netac NV5000-N 1TB M.2 NVMe PCIe Gen4x4 SSD | ৳18,900 | **৳21,000** | ৳23,100 | 🔴 **+৳2,100 (+11.11%)** | [View](https://www.startech.com.bd/netac-nv5000-n-1tb-ssd) |
-| `2026-11-10` | `casing` | MaxGreen H6 M-ATX Case with 200W Standard PSU | ৳2,390 | **৳2,500** | ৳2,750 | 🔴 **+৳110 (+4.6%)** | [View](https://www.startech.com.bd/maxgreen-h6-mid-tower-atx-case) |
-| `2026-11-10` | `casing` | Gamdias ATLAS P2 CG ARGB ATX Mid-Tower Gaming Casing | ৳10,500 | **৳11,200** | ৳12,375 | 🔴 **+৳700 (+6.67%)** | [View](https://www.startech.com.bd/gamdias-atlas-p2-cg-argb-gaming-casing) |
-| `2026-11-10` | `monitor` | Samsung LS22D300GAW 21.5" 100Hz FHD IPS Monitor | ৳10,999 | **৳11,500** | ৳12,500 | 🔴 **+৳501 (+4.55%)** | [View](https://www.startech.com.bd/samsung-ls22d300gaw-21-5-inch-monitor) |
-| `2026-11-10` | `monitor` | Philips 22E1N1200A 21.5" 100Hz FHD IPS LED Monitor | ৳11,900 | **৳13,000** | ৳14,000 | 🔴 **+৳1,100 (+9.24%)** | [View](https://www.startech.com.bd/philips-22e1n1200a-fhd-monitor) |
-| `2026-11-10` | `monitor` | LG UltraGear 24GS65F-B 24" FHD IPS 180Hz Gaming Monitor | ৳21,999 | **৳23,799** | ৳26,000 | 🔴 **+৳1,800 (+8.18%)** | [View](https://www.startech.com.bd/lg-ultragear-24gs65f-b-gaming-monitor) |
-| `2026-11-10` | `monitor` | LG 27UP850K-W 27" 4K UHD HDR Professional Monitor | ৳64,999 | **৳68,500** | ৳74,000 | 🔴 **+৳3,501 (+5.39%)** | [View](https://www.startech.com.bd/lg-27up850k-w-27-uhd-professional-monitor) |
-| `2026-11-10` | `monitor` | KOORUI S2741LM 27" 320Hz 4K UHD Mini LED Gaming Monitor | ৳68,000 | **৳69,000** | ৳73,780 | 🔴 **+৳1,000 (+1.47%)** | [View](https://www.startech.com.bd/koorui-s2741lm-27-inch-gaming-monitor) |
+| `2026-11-11` | `laptop` | MacBook Air M5 Chip 13-inch | ৳156,500 | **৳160,000** | ৳176,500 | 🔴 **+৳3,500 (+2.24%)** | [View](https://www.startech.com.bd/apple-macbook-air-m5-13-inch) |
+| `2026-11-11` | `processor` | AMD Ryzen 7 5700X3D Processor (Tray Box) | ৳31,500 | **৳33,900** | ৳38,500 | 🔴 **+৳2,400 (+7.62%)** | [View](https://www.startech.com.bd/amd-ryzen-7-5700x3d-processor) |
+| `2026-11-11` | `graphics-card` | GIGABYTE GeForce RTX 3060 WINDFORCE OC 12GB GDDR6 Graphics Card | ৳58,000 | **৳60,000** | ৳66,000 | 🔴 **+৳2,000 (+3.45%)** | [View](https://www.startech.com.bd/gigabyte-geforce-rtx-3060-windforce-oc-12g-graphics-card) |
+| `2026-11-11` | `power-supply` | Corsair CX Series CX650 650W 80 PLUS Bronze ATX Power Supply | ৳5,200 | **৳5,999** | ৳6,940 | 🔴 **+৳799 (+15.37%)** | [View](https://www.startech.com.bd/corsair-cx-series-cx650-650w-80-plus-bronze-power-supply) |
+| `2026-11-11` | `casing` | Gamdias ATHENA M3 ARGB E-ATX Mid-Tower Gaming Casing | ৳5,300 | **৳5,500** | ৳6,400 | 🔴 **+৳200 (+3.77%)** | [View](https://www.startech.com.bd/gamdias-athena-m3-argb-mid-tower-casing) |
+| `2026-11-11` | `monitor` | ASUS VP229HF 21.45 Inch 100Hz FHD IPS Eye Care Gaming Monitor | ৳10,200 | **৳10,300** | ৳11,070 | 🔴 **+৳100 (+0.98%)** | [View](https://www.startech.com.bd/asus-vp229hf-gaming-monitor) |
+| `2026-11-11` | `monitor` | Walton WDF14D24I 24" 100Hz FHD IPS Monitor | ৳11,550 | **৳12,499** | ৳13,800 | 🔴 **+৳949 (+8.22%)** | [View](https://www.startech.com.bd/walton-wdf14d24i-monitor) |
+| `2026-11-11` | `monitor` | PC Power PCG24F144BK 23.8" FHD IPS Gaming Monitor | ৳11,000 | **৳12,000** | ৳13,200 | 🔴 **+৳1,000 (+9.09%)** | [View](https://www.startech.com.bd/pc-power-pcg24f144bk-gaming-monitor) |
+| `2026-11-11` | `monitor` | PC Power PCM24FRX 24" FHD 120Hz IPS Monitor | ৳14,000 | **৳15,500** | ৳17,000 | 🔴 **+৳1,500 (+10.71%)** | [View](https://www.startech.com.bd/pc-power-pcm24frx-monitor) |
+| `2026-11-11` | `monitor` | Lenovo L24i-4A 23.8" 100Hz FHD IPS Monitor | ৳16,950 | **৳16,999** | ৳18,770 | 🔴 **+৳49 (+0.29%)** | [View](https://www.startech.com.bd/lenovo-l24i-4a-fhd-monitor) |
+| `2026-11-11` | `monitor` | Arzopa A3C PRO 13.3" FHD OLED Portable Monitor | ৳21,799 | **৳24,500** | ৳23,330 | 🔴 **+৳2,701 (+12.39%)** | [View](https://www.startech.com.bd/arzopa-a3c-pro-portable-monitor) |
+| `2026-11-11` | `monitor` | AOC Q25G4S 24.5" 320Hz 2K QHD Fast IPS Gaming Monitor | ৳28,999 | **৳29,999** | ৳36,200 | 🔴 **+৳1,000 (+3.45%)** | [View](https://www.startech.com.bd/aoc-q25g4s-gaming-monitor) |
+| `2026-11-11` | `monitor` | Xiaomi Redmi A27U 27" 4K UHD IPS Type-C Monitor | ৳32,999 | **৳33,999** | ৳38,500 | 🔴 **+৳1,000 (+3.03%)** | [View](https://www.startech.com.bd/xiaomi-redmi-a27u-type-c-monitor) |
+| `2026-11-11` | `monitor` | GIGABYTE G27Q3 27" 2K QHD 320Hz Gaming Monitor | ৳37,499 | **৳40,000** | ৳44,000 | 🔴 **+৳2,501 (+6.67%)** | [View](https://www.startech.com.bd/gigabyte-g27q3-27-inch-320hz-gaming-monitor) |
+| `2026-11-11` | `monitor` | MSI MPG 271QRX 26.5" 2K QD-OLED 360Hz Gaming Monitor | ৳126,999 | **৳127,500** | ৳138,340 | 🔴 **+৳501 (+0.39%)** | [View](https://www.startech.com.bd/msi-mpg-271qrx-gaming-monitor) |
+| `2026-11-11` | `monitor` | Gigabyte MO34WQC2 34" WQHD 240Hz OLED Curved Gaming Monitor | ৳129,800 | **৳157,000** | ৳172,700 | 🔴 **+৳27,200 (+20.96%)** | [View](https://www.startech.com.bd/gigabyte-mo34wqc2-curved-gaming-monitor) |
+| `2026-11-11` | `monitor` | PC Power PCGM22UB 21.5" IPS FHD 100Hz Borderless Gaming Monitor | ৳9,000 | **৳10,000** | ৳11,000 | 🔴 **+৳1,000 (+11.11%)** | [View](https://www.startech.com.bd/pc-power-pcgm22ub-monitor) |
+| `2026-11-11` | `desktops` | Dell Pro Tower Essential QVT1260 Core i3 14th Gen Brand PC | ৳78,000 | **৳85,000** | ৳92,230 | 🔴 **+৳7,000 (+8.97%)** | [View](https://www.startech.com.bd/dell-pro-tower-essential-qvt1260-core-i3-brand-pc) |
+| `2026-11-11` | `desktops` | Dell EC24250 Intel Core i5 1334U 23.8" FHD All-in-One PC | ৳120,000 | **৳122,000** | ৳129,700 | 🔴 **+৳2,000 (+1.67%)** | [View](https://www.startech.com.bd/dell-ec24250-core-i5-1334u-all-in-one-pc) |
 
 ---
 
@@ -73,24 +88,26 @@
 
 | Date | Event | Category | Product | Previous Status | New Status | Price | Link |
 |:---|:---|:---|:---|:---|:---|---:|:---|
-| `2026-11-10` | **🟢 RESTOCKED** | `laptop` | MSI Modern A14 AI F2HMG Ryzen 5 220 14" FHD Laptop | `Out Of Stock` | **`In Stock`** | ৳84,000 | [View](https://www.startech.com.bd/msi-modern-a14-ai-f2hmg-ryzen-5-14-inch-laptop) |
-| `2026-11-10` | **🟠 OUT OF STOCK** | `laptop` | Lenovo Yoga 7 2-in-1 14IML9 Core Ultra 5 125H 14" WUXGA OLED Touch Laptop | `In Stock` | **`Out Of Stock`** | N/A | [View](https://www.startech.com.bd/lenovo-yoga-7-2-in-1-14iml9-wuxga-laptop) |
-| `2026-11-10` | **🟢 RESTOCKED** | `cpu-cooler` | MSI MEG CORELIQUID E15 360 ARGB 360mm Liquid CPU Cooler With Curved Display | `Out Of Stock` | **`In Stock`** | ৳79,990 | [View](https://www.startech.com.bd/msi-meg-coreliquid-e15-360-cpu-cooler) |
-| `2026-11-10` | **🟠 OUT OF STOCK** | `motherboard` | MSI PRO A620M-B AM5 mATX Motherboard | `In Stock` | **`Out Of Stock`** | N/A | [View](https://www.startech.com.bd/msi-pro-a620m-b-motherboard) |
-| `2026-11-10` | **🟠 OUT OF STOCK** | `graphics-card` | GIGABYTE Intel Arc A380 GAMING OC 6G GDDR6 Graphics Card | `In Stock` | **`Out Of Stock`** | N/A | [View](https://www.startech.com.bd/gigabyte-intel-arc-a380-gaming-oc-6g-graphics-card) |
-| `2026-11-10` | **🟠 OUT OF STOCK** | `graphics-card` | Colorful GeForce RTX 5060 Ti Battle AX DUO 8GB-V GDDR7 Graphics Card | `In Stock` | **`Out Of Stock`** | N/A | [View](https://www.startech.com.bd/colorful-geforce-rtx-5060-ti-battle-ax-duo-8gb-v-graphics-card) |
-| `2026-11-10` | **🟠 OUT OF STOCK** | `graphics-card` | PNY GeForce RTX 5060 Ti 8GB EPIC-X RGB OC Triple Fan GDDR7 Graphics Card | `In Stock` | **`Out Of Stock`** | N/A | [View](https://www.startech.com.bd/pny-geforce-rtx-5060-ti-8gb-epic-x-rgb-oc-graphics-card) |
-| `2026-11-10` | **🟠 OUT OF STOCK** | `graphics-card` | Colorful iGame GeForce RTX 5060 Ti Ultra W DUO OC 16GB-V GDDR7 Graphics Card | `In Stock` | **`Out Of Stock`** | N/A | [View](https://www.startech.com.bd/colorful-igame-geforce-rtx-5060-ti-ultra-w-duo-oc-16gb-v-graphics-card) |
-| `2026-11-10` | **🟠 OUT OF STOCK** | `ram` | Huadisk 16GB DDR4 3200MHz Desktop RAM | `In Stock` | **`Out Of Stock`** | N/A | [View](https://www.startech.com.bd/huadisk-16gb-ddr4-3200mhz-ram) |
-| `2026-11-10` | **🟠 OUT OF STOCK** | `power-supply` | MSI MAG A300N-H 300W 80 Plus Non Modular Power Supply | `In Stock` | **`Out Of Stock`** | N/A | [View](https://www.startech.com.bd/msi-mag-a300n-h-300w-power-supply) |
-| `2026-11-10` | **🟠 OUT OF STOCK** | `power-supply` | Gamdias HELIOS P2-750G V2 750W 80+ Gold ATX 3.1 & PCIE 5.1 Fully Modular Power Supply | `In Stock` | **`Out Of Stock`** | N/A | [View](https://www.startech.com.bd/gamdias-helios-p2-750g-v2-750w-power-supply) |
-| `2026-11-10` | **🟠 OUT OF STOCK** | `casing` | Golden Field V01 Mini-Tower Gaming Casing | `In Stock` | **`Out Of Stock`** | N/A | [View](https://www.startech.com.bd/golden-field-v01-casing) |
-| `2026-11-10` | **🟠 OUT OF STOCK** | `casing` | DeepCool MORPHEUS WH High Airflow ATX Gaming Casing | `In Stock` | **`Out Of Stock`** | N/A | [View](https://www.startech.com.bd/deepcool-morpheus-wh-atx-gaming-casing) |
-| `2026-11-10` | **🟠 OUT OF STOCK** | `casing` | MaxGreen 310 Mid-Tower M-ATX Gaming Casing With Built-in 200W Power Supply | `In Stock` | **`Out Of Stock`** | N/A | [View](https://www.startech.com.bd/maxgreen-310-gaming-casing) |
-| `2026-11-10` | **🟠 OUT OF STOCK** | `casing` | MaxGreen PS195-15 Mid Tower ATX Gaming Casing With 4x M57 ARGB Fan | `In Stock` | **`Out Of Stock`** | N/A | [View](https://www.startech.com.bd/maxgreen-ps195-15-gaming-case) |
-| `2026-11-10` | **🟠 OUT OF STOCK** | `casing` | T-Wolf City Ranger X7 ARGB Mid-Tower ATX Gaming Casing White | `In Stock` | **`Out Of Stock`** | N/A | [View](https://www.startech.com.bd/t-wolf-city-ranger-x7-argb-gaming-case-white) |
-| `2026-11-10` | **🟠 OUT OF STOCK** | `casing` | MaxGreen H10 M-ATX Mid Tower Casing With 200W Power Supply | `In Stock` | **`Out Of Stock`** | N/A | [View](https://www.startech.com.bd/maxgreen-h10-m-atx-mid-tower-casing) |
-| `2026-11-10` | **🟠 OUT OF STOCK** | `monitor` | Value-Top S24IFR144 23.8" 144Hz FHD IPS Monitor | `In Stock` | **`Out Of Stock`** | N/A | [View](https://www.startech.com.bd/value-top-s24ifr144-monitor) |
-| `2026-11-10` | **🟢 RESTOCKED** | `monitor` | Dell SE2425HM 24" 100Hz FHD IPS Monitor | `Out Of Stock` | **`In Stock`** | ৳16,500 | [View](https://www.startech.com.bd/dell-se2425hm-monitor) |
-| `2026-11-10` | **🟠 OUT OF STOCK** | `monitor` | Asus TUF Gaming VG249QM5A 24" FHD 240Hz IPS Gaming Monitor | `In Stock` | **`Out Of Stock`** | N/A | [View](https://www.startech.com.bd/asus-tuf-gaming-vg249qm5a-monitor) |
-| `2026-11-10` | **🟠 OUT OF STOCK** | `monitor` | BenQ MOBIUZ EX271 27" 180Hz 1ms FHD IPS Gaming Monitor | `In Stock` | **`Out Of Stock`** | N/A | [View](https://www.startech.com.bd/benq-mobiuz-ex271-gaming-monitor) |
+| `2026-11-11` | **🟢 RESTOCKED** | `cpu-cooler` | Corsair iCUE Link H100i LCD RGB 240mm AIO Liquid CPU Cooler With Display & iCUE LINK System Hub | `Out Of Stock` | **`In Stock`** | ৳10,499 | [View](https://www.startech.com.bd/corsair-icue-link-h100i-lcd-rgb-cpu-cooler) |
+| `2026-11-11` | **🟢 RESTOCKED** | `cpu-cooler` | Corsair iCUE LINK TITAN 360 RX LCD 360mm Liquid CPU Cooler White With Display | `Out Of Stock` | **`In Stock`** | ৳20,499 | [View](https://www.startech.com.bd/corsair-icue-link-titan-360-rx-lcd-cpu-cooler-white) |
+| `2026-11-11` | **🟢 RESTOCKED** | `graphics-card` | GIGABYTE GeForce RTX 3050 WINDFORCE OC 6GB GDDR6 Graphics Card | `Out Of Stock` | **`In Stock`** | ৳47,000 | [View](https://www.startech.com.bd/gigabyte-geforce-rtx-3050-windforce-oc-6gb-graphics-card) |
+| `2026-11-11` | **🟢 RESTOCKED** | `graphics-card` | GIGABYTE GeForce RTX 3060 GAMING OC 12GB Graphics Card | `Out Of Stock` | **`In Stock`** | ৳60,500 | [View](https://www.startech.com.bd/gigabyte-geforce-rtx-3060-oc-12gb-graphics-card) |
+| `2026-11-11` | **🟢 RESTOCKED** | `graphics-card` | GIGABYTE GeForce RTX 3050 WINDFORCE OC 8GB GDDR6 Graphics Card | `Out Of Stock` | **`In Stock`** | ৳47,500 | [View](https://www.startech.com.bd/gigabyte-geforce-rtx-3050-windforce-oc-8g-graphics-card) |
+| `2026-11-11` | **🟢 RESTOCKED** | `graphics-card` | GIGABYTE GeForce RTX 5060 WINDFORCE MAX OC 8GB GDDR7 Graphics Card | `Out Of Stock` | **`In Stock`** | ৳83,500 | [View](https://www.startech.com.bd/gigabyte-geforce-rtx-5060-windforce-max-oc-8g-graphics-card) |
+| `2026-11-11` | **🟢 RESTOCKED** | `graphics-card` | GIGABYTE Radeon RX 9060 XT GAMING OC 8GB GDDR6 Graphics Card | `Out Of Stock` | **`In Stock`** | ৳65,000 | [View](https://www.startech.com.bd/gigabyte-radeon-rx-9060-xt-gaming-oc-8g-graphics-card) |
+| `2026-11-11` | **🟢 RESTOCKED** | `graphics-card` | GIGABYTE GeForce RTX 5060 Ti WINDFORCE OC 8G GDDR7 Graphics Card | `Out Of Stock` | **`In Stock`** | ৳82,500 | [View](https://www.startech.com.bd/gigabyte-rtx-5060-ti-windforce-oc-8g-graphics-card) |
+| `2026-11-11` | **🟢 RESTOCKED** | `graphics-card` | GIGABYTE GeForce RTX 5060 Ti EAGLE MAX OC 8GB GDDR7 Graphics Card | `Out Of Stock` | **`In Stock`** | ৳81,500 | [View](https://www.startech.com.bd/gigabyte-rtx-5060-ti-eagle-max-oc-8gb-graphics-card) |
+| `2026-11-11` | **🟢 RESTOCKED** | `graphics-card` | GIGABYTE Radeon RX 9060 XT GAMING OC 16G GDDR6 Graphics Card | `Out Of Stock` | **`In Stock`** | ৳83,500 | [View](https://www.startech.com.bd/gigabyte-radeon-rx-9060-xt-gaming-oc-16g-graphics-card) |
+| `2026-11-11` | **🟢 RESTOCKED** | `graphics-card` | GIGABYTE Radeon RX 9070 GAMING OC 16G GDDR6 Graphics Card | `Out Of Stock` | **`In Stock`** | ৳103,000 | [View](https://www.startech.com.bd/gigabyte-radeon-rx-9070-gaming-oc-16g-graphics-card) |
+| `2026-11-11` | **🟢 RESTOCKED** | `graphics-card` | Gigabyte GeForce RTX 5070 WINDFORCE SFF 12GB GDDR7 Graphics Card | `Out Of Stock` | **`In Stock`** | ৳147,000 | [View](https://www.startech.com.bd/gigabyte-geforce-rtx-5070-windforce-sff-12g-graphics-card) |
+| `2026-11-11` | **🟢 RESTOCKED** | `graphics-card` | GIGABYTE Radeon RX 9070 XT GAMING OC 16G GDDR6 Graphics Card | `Out Of Stock` | **`In Stock`** | ৳123,500 | [View](https://www.startech.com.bd/gigabyte-radeon-rx-9070-xt-gaming-oc-16g-graphics-card) |
+| `2026-11-11` | **🟢 RESTOCKED** | `graphics-card` | GIGABYTE GeForce RTX­­ 5070 GAMING OC 12G GDDR7 Graphics Card | `Out Of Stock` | **`In Stock`** | ৳149,500 | [View](https://www.startech.com.bd/gigabyte-geforce-rtx-5070-gaming-oc-12g-graphics-card) |
+| `2026-11-11` | **🟢 RESTOCKED** | `graphics-card` | Gigabyte GeForce RTX 5070 Ti GAMING OC 16G GDDR7 Graphics Card | `Out Of Stock` | **`In Stock`** | ৳185,000 | [View](https://www.startech.com.bd/gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-graphics-card) |
+| `2026-11-11` | **🟢 RESTOCKED** | `graphics-card` | Gigabyte GeForce RTX 5070 Ti AERO OC 16G GDDR7 Graphics Card | `Out Of Stock` | **`In Stock`** | ৳185,000 | [View](https://www.startech.com.bd/gigabyte-geforce-rtx-5070-ti-aero-oc-16g-graphics-card) |
+| `2026-11-11` | **🟢 RESTOCKED** | `power-supply` | Corsair HX1500i 1500W 80+ Platinum Full-Modular ATX 2.52 Power Supply | `Out Of Stock` | **`In Stock`** | ৳26,499 | [View](https://www.startech.com.bd/corsair-hx1500i-1500w-full-modular-power-supply) |
+| `2026-11-11` | **🟠 OUT OF STOCK** | `ssd` | Netac NV5000-N 1TB M.2 NVMe PCIe Gen4x4 SSD | `In Stock` | **`Out Of Stock`** | N/A | [View](https://www.startech.com.bd/netac-nv5000-n-1tb-ssd) |
+| `2026-11-11` | **🟢 RESTOCKED** | `monitor` | LG 24U411A-B 24" FHD 120Hz IPS Monitor | `Out Of Stock` | **`In Stock`** | ৳15,000 | [View](https://www.startech.com.bd/lg-24u411a-b-monitor) |
+| `2026-11-11` | **🟢 RESTOCKED** | `monitor` | ASUS ProArt Display PA329CRV 32-inch 4K UHD Professional Monitor | `Out Of Stock` | **`In Stock`** | ৳107,999 | [View](https://www.startech.com.bd/asus-proart-display-pa329crv-monitor) |
+| `2026-11-11` | **🟠 OUT OF STOCK** | `monitor` | ViewSonic VA2432-H-W 24" 100Hz IPS FHD Monitor | `In Stock` | **`Out Of Stock`** | N/A | [View](https://www.startech.com.bd/viewsonic-va2432-h-w-ips-fhd-monitor) |
+| `2026-11-11` | **🟠 OUT OF STOCK** | `monitor` | Samsung Odyssey Neo G9 LS57CG950NWXXL 57" 240Hz 1ms Dual 4K UHD Curved Gaming Monitor | `In Stock` | **`Out Of Stock`** | N/A | [View](https://www.startech.com.bd/samsung-odyssey-neo-g9-curved-gaming-monitor) |
+| `2026-11-11` | **🟢 RESTOCKED** | `monitor` | PC Power PCGM22UB 21.5" IPS FHD 100Hz Borderless Gaming Monitor | `Out Of Stock` | **`In Stock`** | ৳10,000 | [View](https://www.startech.com.bd/pc-power-pcgm22ub-monitor) |
