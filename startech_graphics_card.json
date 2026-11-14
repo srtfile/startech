@@ -1,11 +1,11 @@
 {
-  "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+  "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
   "category": "graphics-card",
   "sorted_by": "model",
-  "total_items": 510,
+  "total_items": 512,
   "products": [
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48739",
       "brand": "NVIDIA",
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47990",
       "brand": "ARKTEK",
@@ -84,7 +84,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47988",
       "brand": "Arktek",
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "52948",
       "brand": "AFOX",
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47982",
       "brand": "Arktek",
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "39653",
       "brand": "PowerColor",
@@ -244,15 +244,15 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "39648",
       "brand": "PowerColor",
       "model": "AMD Radeon RX 7800 XT",
       "title": "PowerColor AMD Radeon RX 7800 XT 16GB GDDR6 Graphics Card",
-      "current_price": 85300,
+      "current_price": 85000,
       "regular_price": 95000,
-      "discount_bdt": 9700,
+      "discount_bdt": 10000,
       "stock_status": "In Stock",
       "specs": {
         "Engine Clock": "Up to 2124MHz (Game)/ 2430MHz (Boost)",
@@ -265,10 +265,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/powercolor/amd-radeon-rx-7800-xt-16gb-gddr6/amd-radeon-rx-7800-xt-16gb-gddr6-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-15",
       "previous_price": 85300,
-      "lowest_price": 85300,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 85000,
+      "lowest_price_date": "2026-11-15",
       "highest_price": 85300,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -280,11 +280,19 @@
           "regular_price": 95000,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 85000,
+          "regular_price": 95000,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43408",
       "brand": "Gigabyte",
@@ -324,7 +332,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41053",
       "brand": "Gigabyte",
@@ -364,7 +372,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41097",
       "brand": "Gigabyte",
@@ -404,7 +412,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "39846",
       "brand": "Gigabyte",
@@ -444,7 +452,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41108",
       "brand": "Gigabyte",
@@ -484,7 +492,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42554",
       "brand": "Gigabyte",
@@ -524,7 +532,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40852",
       "brand": "Gigabyte",
@@ -564,7 +572,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44468",
       "brand": "Gigabyte",
@@ -604,15 +612,15 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44960",
       "brand": "Manli",
       "model": "Black Stellar GeForce RTX 5060 Ti OC",
       "title": "Manli Black Stellar GeForce RTX 5060 Ti OC 16GB GDDR7 Graphics Card",
-      "current_price": 111500,
-      "regular_price": 127000,
-      "discount_bdt": 15500,
+      "current_price": 119500,
+      "regular_price": 131000,
+      "discount_bdt": 11500,
       "stock_status": "In Stock",
       "specs": {
         "Video Memory": "16GB GDDR7, Memory Clock: 28 Gbps",
@@ -625,12 +633,12 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/manli/black-stellar-geforce-rtx-5060-ti-oc/black-stellar-geforce-rtx-5060-ti-oc-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-12",
-      "previous_price": 112500,
+      "last_changed": "2026-11-15",
+      "previous_price": 111500,
       "lowest_price": 111500,
       "lowest_price_date": "2026-11-12",
-      "highest_price": 112500,
-      "highest_price_date": "2026-11-06",
+      "highest_price": 119500,
+      "highest_price_date": "2026-11-15",
       "previous_stock_status": "In Stock",
       "price_history": [
         {
@@ -648,11 +656,19 @@
           "regular_price": 127000,
           "stock_status": "In Stock",
           "event": "PRICE_DROP"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 119500,
+          "regular_price": 131000,
+          "stock_status": "In Stock",
+          "event": "PRICE_INCREASE"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "38396",
       "brand": "Asus",
@@ -692,7 +708,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "45561",
       "brand": "Asus",
@@ -732,7 +748,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "37278",
       "brand": "Asus",
@@ -771,7 +787,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "37669",
       "brand": "Asus",
@@ -811,7 +827,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47787",
       "brand": "Asus",
@@ -851,7 +867,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "45047",
       "brand": "Asus",
@@ -891,47 +907,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
-      "category": "graphics-card",
-      "product_id": "44131",
-      "brand": "Asus",
-      "model": "Dual GeForce RTX 5060",
-      "title": "ASUS Dual GeForce RTX 5060 8GB GDDR7 Graphics Card",
-      "current_price": 0,
-      "regular_price": 0,
-      "discount_bdt": 0,
-      "stock_status": "Out Of Stock",
-      "specs": {
-        "Engine Clock": "2497 MHz (Boost Clock), 2527 MHz(OC Mode)",
-        "Memory": "8GB GDDR7; Speed: 28 Gbps",
-        "CUDA Core": "3840, AI Performance: 613 TOPs",
-        "Output": "1x HDMI 2.1b, 3x DisplayPort 2.1b"
-      },
-      "specs_summary": "Engine Clock: 2497 MHz (Boost Clock), 2527 MHz(OC Mode) | Memory: 8GB GDDR7; Speed: 28 Gbps | CUDA Core: 3840, AI Performance: 613 TOPs | Output: 1x HDMI 2.1b, 3x DisplayPort 2.1b",
-      "url": "https://www.startech.com.bd/asus-dual-geforce-rtx-5060-8gb-gddr7-graphics-card",
-      "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/asus/dual-geforce-rtx-5060-8gb/gpu-0-228x228.webp",
-      "detail_fetched": true,
-      "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
-      "previous_price": 0,
-      "lowest_price": 0,
-      "lowest_price_date": "",
-      "highest_price": 0,
-      "highest_price_date": "",
-      "previous_stock_status": "Out Of Stock",
-      "price_history": [
-        {
-          "date": "2026-11-06",
-          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
-          "price": 0,
-          "regular_price": 0,
-          "stock_status": "Out Of Stock",
-          "event": "FIRST_SEEN"
-        }
-      ]
-    },
-    {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43450",
       "brand": "Asus",
@@ -979,7 +955,47 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
+      "category": "graphics-card",
+      "product_id": "44131",
+      "brand": "Asus",
+      "model": "Dual GeForce RTX 5060",
+      "title": "ASUS Dual GeForce RTX 5060 8GB GDDR7 Graphics Card",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Engine Clock": "2497 MHz (Boost Clock), 2527 MHz(OC Mode)",
+        "Memory": "8GB GDDR7; Speed: 28 Gbps",
+        "CUDA Core": "3840, AI Performance: 613 TOPs",
+        "Output": "1x HDMI 2.1b, 3x DisplayPort 2.1b"
+      },
+      "specs_summary": "Engine Clock: 2497 MHz (Boost Clock), 2527 MHz(OC Mode) | Memory: 8GB GDDR7; Speed: 28 Gbps | CUDA Core: 3840, AI Performance: 613 TOPs | Output: 1x HDMI 2.1b, 3x DisplayPort 2.1b",
+      "url": "https://www.startech.com.bd/asus-dual-geforce-rtx-5060-8gb-gddr7-graphics-card",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/asus/dual-geforce-rtx-5060-8gb/gpu-0-228x228.webp",
+      "detail_fetched": true,
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 0,
+      "lowest_price": 0,
+      "lowest_price_date": "",
+      "highest_price": 0,
+      "highest_price_date": "",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "45043",
       "brand": "Asus",
@@ -1027,15 +1043,15 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "45204",
       "brand": "Asus",
       "model": "Dual GeForce RTX 5060 Ti",
       "title": "ASUS Dual GeForce RTX 5060 Ti 16GB GDDR7 OC Edition Graphics Card",
-      "current_price": 114500,
-      "regular_price": 127000,
-      "discount_bdt": 12500,
+      "current_price": 125000,
+      "regular_price": 137000,
+      "discount_bdt": 12000,
       "stock_status": "In Stock",
       "specs": {
         "Engine Clock": "2602 MHz (Boost Clock), 2632 MHz (OC Mode)",
@@ -1048,12 +1064,12 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/asus/dual-geforce-rtx-5060-ti-16gb-gddr7-oc-edition/dual-geforce-rtx-5060-ti-16gb-oc-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-12",
-      "previous_price": 115000,
+      "last_changed": "2026-11-15",
+      "previous_price": 114500,
       "lowest_price": 114500,
       "lowest_price_date": "2026-11-12",
-      "highest_price": 115000,
-      "highest_price_date": "2026-11-06",
+      "highest_price": 125000,
+      "highest_price_date": "2026-11-15",
       "previous_stock_status": "In Stock",
       "price_history": [
         {
@@ -1071,11 +1087,19 @@
           "regular_price": 127000,
           "stock_status": "In Stock",
           "event": "PRICE_DROP"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 125000,
+          "regular_price": 137000,
+          "stock_status": "In Stock",
+          "event": "PRICE_INCREASE"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "45820",
       "brand": "Asus",
@@ -1115,7 +1139,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44722",
       "brand": "Asus",
@@ -1155,7 +1179,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43480",
       "brand": "Asus",
@@ -1195,7 +1219,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "22652",
       "brand": "Asus",
@@ -1233,7 +1257,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "32876",
       "brand": "Asus",
@@ -1273,15 +1297,55 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
+      "category": "graphics-card",
+      "product_id": "54729",
+      "brand": "Asus",
+      "model": "Dual Radeon RX 9050 OC Edition",
+      "title": "ASUS Dual Radeon RX 9050 OC Edition 8GB GDDR6 Graphics Card",
+      "current_price": 51500,
+      "regular_price": 56650,
+      "discount_bdt": 5150,
+      "stock_status": "In Stock",
+      "specs": {
+        "Boost Clock": "Up to 2760 MHz, Game Clock: Up to 2260 MHz",
+        "Memory": "8GB/128 bit GDDR6, Memory Clock: 18 Gbps",
+        "CUDA Core": "1024, AMD RDNA 4 Architecture",
+        "Output Ports": "1x HDMI 2.1, 2x DisplayPort 2.1a"
+      },
+      "specs_summary": "Boost Clock: Up to 2760 MHz, Game Clock: Up to 2260 MHz | Memory: 8GB/128 bit GDDR6, Memory Clock: 18 Gbps | CUDA Core: 1024, AMD RDNA 4 Architecture | Output Ports: 1x HDMI 2.1, 2x DisplayPort 2.1a",
+      "url": "https://www.startech.com.bd/asus-dual-radeon-rx-9050-oc-8gb-graphics-card",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/asus/dual-radeon-rx-9050-oc-8gb/dual-radeon-rx-9050-oc-8gb-01-228x228.webp",
+      "detail_fetched": true,
+      "first_seen": "2026-11-15",
+      "last_changed": "2026-11-15",
+      "previous_price": 51500,
+      "lowest_price": 51500,
+      "lowest_price_date": "2026-11-15",
+      "highest_price": 51500,
+      "highest_price_date": "2026-11-15",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 51500,
+          "regular_price": 56650,
+          "stock_status": "In Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47295",
       "brand": "Asus",
       "model": "Dual Radeon RX 9060 XT",
       "title": "ASUS Dual Radeon RX 9060 XT 16GB GDDR6 Graphics Card",
-      "current_price": 83900,
+      "current_price": 85500,
       "regular_price": 92200,
-      "discount_bdt": 8300,
+      "discount_bdt": 6700,
       "stock_status": "In Stock",
       "specs": {
         "Boost Clock": "Up to 3250 MHz, Game Clock: Up to 2640 MHz",
@@ -1294,12 +1358,12 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/asus/dual-radeon-rx-9060-xt-16gb/dual-radeon-rx-9060-xt-16gb-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-15",
       "previous_price": 83900,
       "lowest_price": 83900,
       "lowest_price_date": "2026-11-06",
-      "highest_price": 83900,
-      "highest_price_date": "2026-11-06",
+      "highest_price": 85500,
+      "highest_price_date": "2026-11-15",
       "previous_stock_status": "In Stock",
       "price_history": [
         {
@@ -1309,11 +1373,19 @@
           "regular_price": 92200,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 85500,
+          "regular_price": 92200,
+          "stock_status": "In Stock",
+          "event": "PRICE_INCREASE"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47788",
       "brand": "Asus",
@@ -1353,7 +1425,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "39402",
       "brand": "PowerColor",
@@ -1393,7 +1465,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "38554",
       "brand": "PowerColor",
@@ -1433,7 +1505,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47791",
       "brand": "PowerColor",
@@ -1473,7 +1545,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42753",
       "brand": "PowerColor",
@@ -1513,7 +1585,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42752",
       "brand": "PowerColor",
@@ -1553,7 +1625,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43633",
       "brand": "Manli",
@@ -1593,7 +1665,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "14806",
       "brand": "Zotac",
@@ -1632,7 +1704,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "35177",
       "brand": "Zotac",
@@ -1672,7 +1744,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "31855",
       "brand": "Zotac",
@@ -1712,7 +1784,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "38802",
       "brand": "ZOTAC",
@@ -1752,7 +1824,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "20314",
       "brand": "ZOTAC",
@@ -1798,7 +1870,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44067",
       "brand": "Zotac",
@@ -1838,7 +1910,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44066",
       "brand": "Zotac",
@@ -1878,7 +1950,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44065",
       "brand": "Zotac",
@@ -1918,7 +1990,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "54640",
       "brand": "ZOTAC",
@@ -1958,7 +2030,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42587",
       "brand": "Zotac",
@@ -1998,7 +2070,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "46838",
       "brand": "Zotac",
@@ -2038,7 +2110,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41657",
       "brand": "Zotac",
@@ -2078,7 +2150,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41653",
       "brand": "Zotac",
@@ -2118,7 +2190,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41648",
       "brand": "Zotac",
@@ -2158,7 +2230,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41651",
       "brand": "Zotac",
@@ -2198,7 +2270,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41646",
       "brand": "ZOTAC",
@@ -2238,7 +2310,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41631",
       "brand": "Zotac",
@@ -2278,7 +2350,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43388",
       "brand": "Zotac",
@@ -2318,7 +2390,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44064",
       "brand": "Zotac",
@@ -2358,16 +2430,16 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "51885",
-      "brand": "Zotac",
+      "brand": "ZOTAC",
       "model": "GAMING GeForce RTX 5060 Twin Edge Plus",
       "title": "ZOTAC GAMING GeForce RTX 5060 Twin Edge Plus 8GB GDDR7 Graphics Card",
-      "current_price": 0,
-      "regular_price": 0,
-      "discount_bdt": 0,
-      "stock_status": "Out Of Stock",
+      "current_price": 69500,
+      "regular_price": 76000,
+      "discount_bdt": 6500,
+      "stock_status": "In Stock",
       "specs": {
         "Video Memory": "8GB GDDR7, PCI Express 5.0 x8",
         "Engine Clock": "2497 MHz, CUDA Cores: 3840",
@@ -2379,13 +2451,13 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/zotac/rtx-5060-twin-edge-plus-8gb/rtx-5060-twin-edge-plus-8gb-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-09",
+      "last_changed": "2026-11-15",
       "previous_price": 64900,
       "lowest_price": 64900,
       "lowest_price_date": "2026-11-06",
-      "highest_price": 64900,
-      "highest_price_date": "2026-11-06",
-      "previous_stock_status": "In Stock",
+      "highest_price": 69500,
+      "highest_price_date": "2026-11-15",
+      "previous_stock_status": "Out Of Stock",
       "price_history": [
         {
           "date": "2026-11-06",
@@ -2402,11 +2474,19 @@
           "regular_price": 0,
           "stock_status": "Out Of Stock",
           "event": "OUT_OF_STOCK"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 69500,
+          "regular_price": 76000,
+          "stock_status": "In Stock",
+          "event": "RESTOCKED+PRICE_INCREASE"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41961",
       "brand": "Zotac",
@@ -2446,7 +2526,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43386",
       "brand": "Zotac",
@@ -2486,7 +2566,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41061",
       "brand": "ZOTAC",
@@ -2534,7 +2614,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40849",
       "brand": "Zotac",
@@ -2574,7 +2654,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43714",
       "brand": "Zotac",
@@ -2614,7 +2694,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41060",
       "brand": "Zotac",
@@ -2654,7 +2734,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41059",
       "brand": "Zotac",
@@ -2694,7 +2774,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42589",
       "brand": "Zotac",
@@ -2734,7 +2814,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40851",
       "brand": "Zotac",
@@ -2774,7 +2854,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42588",
       "brand": "Zotac",
@@ -2814,7 +2894,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41692",
       "brand": "Zotac",
@@ -2854,7 +2934,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42701",
       "brand": "ZOTAC",
@@ -2894,47 +2974,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
-      "category": "graphics-card",
-      "product_id": "51615",
-      "brand": "ZOTAC",
-      "model": "GAMING GeForce RTX 5070 Twin Edge OC",
-      "title": "ZOTAC GAMING GeForce RTX 5070 Twin Edge OC 12GB GDDR7 White Graphics Card",
-      "current_price": 134900,
-      "regular_price": 146370,
-      "discount_bdt": 11470,
-      "stock_status": "In Stock",
-      "specs": {
-        "Video Memory": "12GB GDDR7, PCI Express 5.0 x16",
-        "Engine Clock": "2542 MHz, CUDA Cores: 6144",
-        "Memory Clock": "28 Gbps, Memory Bus: 192-bit",
-        "Display Outputs": "3 x DisplayPort 2.1b, 1 x HDMI"
-      },
-      "specs_summary": "Video Memory: 12GB GDDR7, PCI Express 5.0 x16 | Engine Clock: 2542 MHz, CUDA Cores: 6144 | Memory Clock: 28 Gbps, Memory Bus: 192-bit | Display Outputs: 3 x DisplayPort 2.1b, 1 x HDMI",
-      "url": "https://www.startech.com.bd/zotac-gaming-geforce-rtx-5070-twin-edge-oc-white-graphics-card",
-      "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/zotac/rtx-5070-twin-edge-oc-white/rtx-5070-twin-edge-oc-white-01-228x228.webp",
-      "detail_fetched": true,
-      "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
-      "previous_price": 134900,
-      "lowest_price": 134900,
-      "lowest_price_date": "2026-11-06",
-      "highest_price": 134900,
-      "highest_price_date": "2026-11-06",
-      "previous_stock_status": "In Stock",
-      "price_history": [
-        {
-          "date": "2026-11-06",
-          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
-          "price": 134900,
-          "regular_price": 146370,
-          "stock_status": "In Stock",
-          "event": "FIRST_SEEN"
-        }
-      ]
-    },
-    {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42227",
       "brand": "ZOTAC",
@@ -2982,7 +3022,47 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
+      "category": "graphics-card",
+      "product_id": "51615",
+      "brand": "ZOTAC",
+      "model": "GAMING GeForce RTX 5070 Twin Edge OC",
+      "title": "ZOTAC GAMING GeForce RTX 5070 Twin Edge OC 12GB GDDR7 White Graphics Card",
+      "current_price": 134900,
+      "regular_price": 146370,
+      "discount_bdt": 11470,
+      "stock_status": "In Stock",
+      "specs": {
+        "Video Memory": "12GB GDDR7, PCI Express 5.0 x16",
+        "Engine Clock": "2542 MHz, CUDA Cores: 6144",
+        "Memory Clock": "28 Gbps, Memory Bus: 192-bit",
+        "Display Outputs": "3 x DisplayPort 2.1b, 1 x HDMI"
+      },
+      "specs_summary": "Video Memory: 12GB GDDR7, PCI Express 5.0 x16 | Engine Clock: 2542 MHz, CUDA Cores: 6144 | Memory Clock: 28 Gbps, Memory Bus: 192-bit | Display Outputs: 3 x DisplayPort 2.1b, 1 x HDMI",
+      "url": "https://www.startech.com.bd/zotac-gaming-geforce-rtx-5070-twin-edge-oc-white-graphics-card",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/zotac/rtx-5070-twin-edge-oc-white/rtx-5070-twin-edge-oc-white-01-228x228.webp",
+      "detail_fetched": true,
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-06",
+      "previous_price": 134900,
+      "lowest_price": 134900,
+      "lowest_price_date": "2026-11-06",
+      "highest_price": 134900,
+      "highest_price_date": "2026-11-06",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 134900,
+          "regular_price": 146370,
+          "stock_status": "In Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40846",
       "brand": "Zotac",
@@ -3030,7 +3110,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41959",
       "brand": "Zotac",
@@ -3070,7 +3150,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40011",
       "brand": "Zotac",
@@ -3110,7 +3190,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42703",
       "brand": "Zotac",
@@ -3150,7 +3230,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42468",
       "brand": "ZOTAC",
@@ -3206,7 +3286,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40017",
       "brand": "Zotac",
@@ -3246,7 +3326,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41056",
       "brand": "Zotac",
@@ -3286,7 +3366,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "39677",
       "brand": "Zotac",
@@ -3326,7 +3406,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "39676",
       "brand": "Zotac",
@@ -3366,7 +3446,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42342",
       "brand": "Zotac",
@@ -3406,7 +3486,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42344",
       "brand": "Zotac",
@@ -3446,7 +3526,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "12815",
       "brand": "Asus",
@@ -3486,7 +3566,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "34799",
       "brand": "MSI",
@@ -3526,7 +3606,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "51100",
       "brand": "MSI",
@@ -3566,7 +3646,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "9610",
       "brand": "Zotac",
@@ -3605,7 +3685,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "12145",
       "brand": "Gigabyte",
@@ -3642,7 +3722,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "36306",
       "brand": "Asus",
@@ -3681,7 +3761,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "31751",
       "brand": "Gigabyte",
@@ -3721,7 +3801,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "20631",
       "brand": "Asus",
@@ -3757,7 +3837,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "25779",
       "brand": "Asus",
@@ -3796,7 +3876,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42089",
       "brand": "MSI",
@@ -3836,15 +3916,15 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "34689",
       "brand": "MSI",
       "model": "GeForce GT 730 4GB DDR3",
       "title": "MSI GeForce GT 730 4GB DDR3 Graphics Card",
-      "current_price": 12900,
+      "current_price": 12400,
       "regular_price": 13600,
-      "discount_bdt": 700,
+      "discount_bdt": 1200,
       "stock_status": "In Stock",
       "specs": {
         "Memory Size": "4096",
@@ -3857,8 +3937,8 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/msi/gt-730/gt-730-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
-      "last_changed": "2026-11-14",
-      "previous_price": 12400,
+      "last_changed": "2026-11-15",
+      "previous_price": 12900,
       "lowest_price": 12400,
       "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
       "highest_price": 12900,
@@ -3879,11 +3959,19 @@
           "regular_price": 13600,
           "stock_status": "In Stock",
           "event": "PRICE_INCREASE"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 12400,
+          "regular_price": 13600,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "38602",
       "brand": "OCPC",
@@ -3930,7 +4018,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "27620",
       "brand": "Colorful",
@@ -3969,7 +4057,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "11915",
       "brand": "Colorful",
@@ -4006,7 +4094,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "11917",
       "brand": "Colorful",
@@ -4042,7 +4130,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "14380",
       "brand": "Gigabyte",
@@ -4079,7 +4167,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "12434",
       "brand": "Gigabyte",
@@ -4116,7 +4204,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47975",
       "brand": "ARKTEK",
@@ -4156,7 +4244,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41669",
       "brand": "OCPC",
@@ -4196,7 +4284,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "52374",
       "brand": "OCPC",
@@ -4236,7 +4324,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48633",
       "brand": "AFOX",
@@ -4276,7 +4364,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43289",
       "brand": "PELADN",
@@ -4315,7 +4403,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47994",
       "brand": "Arktek",
@@ -4355,7 +4443,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "51270",
       "brand": "AFOX",
@@ -4395,7 +4483,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47972",
       "brand": "Arktek",
@@ -4435,7 +4523,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "50532",
       "brand": "OCPC",
@@ -4475,7 +4563,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43625",
       "brand": "Manli",
@@ -4515,7 +4603,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48378",
       "brand": "Manli",
@@ -4555,7 +4643,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "46460",
       "brand": "Colorful",
@@ -4595,7 +4683,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "36917",
       "brand": "PNY",
@@ -4635,7 +4723,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43594",
       "brand": "Colorful",
@@ -4675,7 +4763,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "34930",
       "brand": "Gigabyte",
@@ -4715,7 +4803,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "39548",
       "brand": "Colorful",
@@ -4755,7 +4843,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41216",
       "brand": "Colorful",
@@ -4795,7 +4883,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "39604",
       "brand": "Colorful",
@@ -4835,7 +4923,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "36944",
       "brand": "Gigabyte",
@@ -4875,7 +4963,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "36097",
       "brand": "MSI",
@@ -4915,15 +5003,15 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42907",
       "brand": "MSI",
       "model": "GeForce RTX 3050 VENTUS 2X E 6G OC GDDR6",
       "title": "MSI GeForce RTX 3050 VENTUS 2X E 6G OC GDDR6 Graphics Card",
-      "current_price": 45500,
+      "current_price": 38999,
       "regular_price": 42900,
-      "discount_bdt": 0,
+      "discount_bdt": 3901,
       "stock_status": "In Stock",
       "specs": {
         "Boost Clock": "1492 MHz, Memory Speed: 14 Gbps",
@@ -4935,8 +5023,8 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/msi/rtx-3050-ventus-2x-e-6g-oc/rtx-3050-ventus-2x-e-6g-oc-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-14",
-      "previous_price": 38999,
+      "last_changed": "2026-11-15",
+      "previous_price": 45500,
       "lowest_price": 38999,
       "lowest_price_date": "2026-11-06",
       "highest_price": 45500,
@@ -4958,11 +5046,19 @@
           "regular_price": 42900,
           "stock_status": "In Stock",
           "event": "PRICE_INCREASE"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 38999,
+          "regular_price": 42900,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "29744",
       "brand": "MSI",
@@ -5002,7 +5098,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "34931",
       "brand": "Gigabyte",
@@ -5058,7 +5154,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "27451",
       "brand": "Gigabyte",
@@ -5122,7 +5218,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48532",
       "brand": "GIGABYTE",
@@ -5162,7 +5258,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43519",
       "brand": "Gigabyte",
@@ -5202,7 +5298,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "35686",
       "brand": "OCPC",
@@ -5242,7 +5338,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47886",
       "brand": "Manli",
@@ -5282,7 +5378,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "24786",
       "brand": "PNY",
@@ -5322,7 +5418,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43511",
       "brand": "OCPC",
@@ -5362,7 +5458,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "26066",
       "brand": "Gigabyte",
@@ -5402,7 +5498,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "16235",
       "brand": "Gigabyte",
@@ -5463,7 +5559,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "26067",
       "brand": "Colorful",
@@ -5503,7 +5599,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43595",
       "brand": "Colorful",
@@ -5543,7 +5639,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "15028",
       "brand": "MSI",
@@ -5581,7 +5677,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "18738",
       "brand": "MSI",
@@ -5619,55 +5715,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
-      "category": "graphics-card",
-      "product_id": "16116",
-      "brand": "MSI",
-      "model": "GeForce RTX 3060 VENTUS 2X OC",
-      "title": "MSI GeForce RTX 3060 VENTUS 2X OC 12GB GDDR6 Graphics Card (OFFICIAL)",
-      "current_price": 74900,
-      "regular_price": 72000,
-      "discount_bdt": 0,
-      "stock_status": "In Stock",
-      "specs": {
-        "Video Memory": "12GB GDDR6, PCI Express Gen 4",
-        "Core Clocks": "1807 MHz (Boost), Memory Bus: 192-bit",
-        "CUDA Cores": "3584, Memory Speed: 15 Gbps",
-        "Display Outputs": "3x DisplayPort v1.4, 1x HDMI 2.1"
-      },
-      "specs_summary": "Video Memory: 12GB GDDR6, PCI Express Gen 4 | Core Clocks: 1807 MHz (Boost), Memory Bus: 192-bit | CUDA Cores: 3584, Memory Speed: 15 Gbps | Display Outputs: 3x DisplayPort v1.4, 1x HDMI 2.1",
-      "url": "https://www.startech.com.bd/msi-rtx-3060-ventus-2x-oc-12gb-graphics-card",
-      "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/msi/rtx-3060-ventus-2x-oc-12gb/rtx-3060-ventus-2x-oc-12gb-228x228.jpg",
-      "detail_fetched": true,
-      "first_seen": "2026-11-06",
-      "last_changed": "2026-11-14",
-      "previous_price": 65000,
-      "lowest_price": 65000,
-      "lowest_price_date": "2026-11-06",
-      "highest_price": 74900,
-      "highest_price_date": "2026-11-14",
-      "previous_stock_status": "In Stock",
-      "price_history": [
-        {
-          "date": "2026-11-06",
-          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
-          "price": 65000,
-          "regular_price": 72000,
-          "stock_status": "In Stock",
-          "event": "FIRST_SEEN"
-        },
-        {
-          "date": "2026-11-14",
-          "timestamp": "Sat 14 Nov 2026 05:03 AM Saturday",
-          "price": 74900,
-          "regular_price": 72000,
-          "stock_status": "In Stock",
-          "event": "PRICE_INCREASE"
-        }
-      ]
-    },
-    {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "53802",
       "brand": "MSI",
@@ -5715,7 +5763,63 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
+      "category": "graphics-card",
+      "product_id": "16116",
+      "brand": "MSI",
+      "model": "GeForce RTX 3060 VENTUS 2X OC",
+      "title": "MSI GeForce RTX 3060 VENTUS 2X OC 12GB GDDR6 Graphics Card (OFFICIAL)",
+      "current_price": 66900,
+      "regular_price": 72000,
+      "discount_bdt": 5100,
+      "stock_status": "In Stock",
+      "specs": {
+        "Video Memory": "12GB GDDR6, PCI Express Gen 4",
+        "Core Clocks": "1807 MHz (Boost), Memory Bus: 192-bit",
+        "CUDA Cores": "3584, Memory Speed: 15 Gbps",
+        "Display Outputs": "3x DisplayPort v1.4, 1x HDMI 2.1"
+      },
+      "specs_summary": "Video Memory: 12GB GDDR6, PCI Express Gen 4 | Core Clocks: 1807 MHz (Boost), Memory Bus: 192-bit | CUDA Cores: 3584, Memory Speed: 15 Gbps | Display Outputs: 3x DisplayPort v1.4, 1x HDMI 2.1",
+      "url": "https://www.startech.com.bd/msi-rtx-3060-ventus-2x-oc-12gb-graphics-card",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/msi/rtx-3060-ventus-2x-oc-12gb/rtx-3060-ventus-2x-oc-12gb-228x228.jpg",
+      "detail_fetched": true,
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-15",
+      "previous_price": 74900,
+      "lowest_price": 65000,
+      "lowest_price_date": "2026-11-06",
+      "highest_price": 74900,
+      "highest_price_date": "2026-11-14",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 65000,
+          "regular_price": 72000,
+          "stock_status": "In Stock",
+          "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-14",
+          "timestamp": "Sat 14 Nov 2026 05:03 AM Saturday",
+          "price": 74900,
+          "regular_price": 72000,
+          "stock_status": "In Stock",
+          "event": "PRICE_INCREASE"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 66900,
+          "regular_price": 72000,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
+        }
+      ]
+    },
+    {
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "26989",
       "brand": "MSI",
@@ -5755,7 +5859,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "28763",
       "brand": "GIGABYTE",
@@ -5803,7 +5907,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42687",
       "brand": "MSI",
@@ -5843,7 +5947,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "38231",
       "brand": "PNY",
@@ -5883,7 +5987,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "50531",
       "brand": "OCPC",
@@ -5923,7 +6027,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48098",
       "brand": "MSI",
@@ -5963,15 +6067,15 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44176",
       "brand": "MSI",
       "model": "GeForce RTX 5050 8G SHADOW 2X OC",
       "title": "MSI GeForce RTX 5050 8G SHADOW 2X OC 8GB GDDR6 Graphics Card",
-      "current_price": 63000,
-      "regular_price": 66000,
-      "discount_bdt": 3000,
+      "current_price": 62500,
+      "regular_price": 68000,
+      "discount_bdt": 5500,
       "stock_status": "In Stock",
       "specs": {
         "Video Memory": "8GB GDDR6, PCI Express Gen 5 x16",
@@ -5984,8 +6088,8 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/msi/geforce-rtx-5050-8g-shadow-2x-oc/geforce-rtx-5050-8g-shadow-2x-oc-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-14",
-      "previous_price": 60500,
+      "last_changed": "2026-11-15",
+      "previous_price": 63000,
       "lowest_price": 60500,
       "lowest_price_date": "2026-11-06",
       "highest_price": 63000,
@@ -6007,19 +6111,27 @@
           "regular_price": 66000,
           "stock_status": "In Stock",
           "event": "PRICE_INCREASE"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 62500,
+          "regular_price": 68000,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44173",
       "brand": "MSI",
       "model": "GeForce RTX 5050 8G VENTUS 2X OC",
       "title": "MSI GeForce RTX 5050 8G VENTUS 2X OC 8GB GDDR6 Graphics Card",
-      "current_price": 63500,
+      "current_price": 63000,
       "regular_price": 66000,
-      "discount_bdt": 2500,
+      "discount_bdt": 3000,
       "stock_status": "In Stock",
       "specs": {
         "Video Memory": "8GB GDDR6, PCI Express Gen 5 x16",
@@ -6032,8 +6144,8 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/msi/geforce-rtx-5050-8g-ventus-2x-oc/geforce-rtx-5050-8g-ventus-2x-oc-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-14",
-      "previous_price": 60900,
+      "last_changed": "2026-11-15",
+      "previous_price": 63500,
       "lowest_price": 60900,
       "lowest_price_date": "2026-11-06",
       "highest_price": 63500,
@@ -6055,11 +6167,19 @@
           "regular_price": 66000,
           "stock_status": "In Stock",
           "event": "PRICE_INCREASE"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 63000,
+          "regular_price": 66000,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "49454",
       "brand": "PNY",
@@ -6099,7 +6219,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "49453",
       "brand": "PNY",
@@ -6139,7 +6259,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "46459",
       "brand": "Colorful",
@@ -6179,7 +6299,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44747",
       "brand": "Gigabyte",
@@ -6219,7 +6339,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47811",
       "brand": "Colorful",
@@ -6259,7 +6379,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44743",
       "brand": "Gigabyte",
@@ -6299,7 +6419,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "45356",
       "brand": "INNO3D",
@@ -6339,7 +6459,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47139",
       "brand": "INNO3D",
@@ -6379,7 +6499,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44748",
       "brand": "Gigabyte",
@@ -6419,7 +6539,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48037",
       "brand": "Yeston",
@@ -6459,7 +6579,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42680",
       "brand": "MSI",
@@ -6499,7 +6619,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42682",
       "brand": "MSI",
@@ -6539,7 +6659,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42683",
       "brand": "MSI",
@@ -6579,7 +6699,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42684",
       "brand": "MSI",
@@ -6619,7 +6739,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42688",
       "brand": "MSI",
@@ -6659,7 +6779,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "51750",
       "brand": "MSI",
@@ -6699,7 +6819,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42689",
       "brand": "MSI",
@@ -6739,7 +6859,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "45353",
       "brand": "PNY",
@@ -6779,7 +6899,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42993",
       "brand": "PNY",
@@ -6827,7 +6947,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47993",
       "brand": "Gigabyte",
@@ -6867,7 +6987,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42583",
       "brand": "Zotac",
@@ -6907,7 +7027,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47782",
       "brand": "PNY",
@@ -6947,7 +7067,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44378",
       "brand": "Colorful",
@@ -6987,7 +7107,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44787",
       "brand": "Gigabyte",
@@ -7027,7 +7147,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43860",
       "brand": "Gigabyte",
@@ -7067,7 +7187,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43373",
       "brand": "Gigabyte",
@@ -7107,7 +7227,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48039",
       "brand": "Yeston",
@@ -7147,7 +7267,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47656",
       "brand": "Colorful",
@@ -7187,7 +7307,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48534",
       "brand": "Colorful",
@@ -7227,7 +7347,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43861",
       "brand": "Gigabyte",
@@ -7267,7 +7387,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44756",
       "brand": "Gigabyte",
@@ -7307,7 +7427,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42953",
       "brand": "MSI",
@@ -7347,7 +7467,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41816",
       "brand": "MSI",
@@ -7387,7 +7507,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41802",
       "brand": "MSI",
@@ -7427,7 +7547,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42691",
       "brand": "MSI",
@@ -7467,7 +7587,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41815",
       "brand": "MSI",
@@ -7507,7 +7627,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41811",
       "brand": "MSI",
@@ -7547,7 +7667,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41808",
       "brand": "MSI",
@@ -7587,7 +7707,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42693",
       "brand": "MSI",
@@ -7627,7 +7747,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41804",
       "brand": "MSI",
@@ -7675,7 +7795,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44229",
       "brand": "PNY",
@@ -7715,7 +7835,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47783",
       "brand": "PNY",
@@ -7755,15 +7875,15 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42564",
       "brand": "PNY",
       "model": "GeForce RTX 5060 Ti 16GB OC Dual Fan GDDR7",
       "title": "PNY GeForce RTX 5060 Ti 16GB OC Dual Fan GDDR7 Graphics Card",
-      "current_price": 115300,
-      "regular_price": 126000,
-      "discount_bdt": 10700,
+      "current_price": 120000,
+      "regular_price": 132000,
+      "discount_bdt": 12000,
       "stock_status": "In Stock",
       "specs": {
         "Video Memory": "16GB GDDR7, PCI Express 5.0 x16",
@@ -7776,12 +7896,12 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/pny/geforce-rtx-5060-ti-16gb-oc-dual-fan/geforce-rtx-5060-ti-16gb-oc-dual-fan-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-12",
-      "previous_price": 115500,
+      "last_changed": "2026-11-15",
+      "previous_price": 115300,
       "lowest_price": 115300,
       "lowest_price_date": "2026-11-12",
-      "highest_price": 115500,
-      "highest_price_date": "2026-11-06",
+      "highest_price": 120000,
+      "highest_price_date": "2026-11-15",
       "previous_stock_status": "In Stock",
       "price_history": [
         {
@@ -7799,11 +7919,19 @@
           "regular_price": 126000,
           "stock_status": "In Stock",
           "event": "PRICE_DROP"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 120000,
+          "regular_price": 132000,
+          "stock_status": "In Stock",
+          "event": "PRICE_INCREASE"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "45361",
       "brand": "Inno3D",
@@ -7843,7 +7971,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42272",
       "brand": "Gigabyte",
@@ -7883,15 +8011,15 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47140",
       "brand": "INNO3D",
       "model": "GeForce RTX 5060 Ti 16GB X3 OC GDDR7",
       "title": "INNO3D GeForce RTX 5060 Ti 16GB X3 OC GDDR7 Graphics Card",
-      "current_price": 116500,
+      "current_price": 118500,
       "regular_price": 126500,
-      "discount_bdt": 10000,
+      "discount_bdt": 8000,
       "stock_status": "In Stock",
       "specs": {
         "Video Memory": "16GB GDDR7, PCI Express Gen 5",
@@ -7904,12 +8032,12 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/inno3d/rtx-5060-ti-16gb-x3-oc/rtx-5060-ti-16gb-x3-oc-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-15",
       "previous_price": 116500,
       "lowest_price": 116500,
       "lowest_price_date": "2026-11-06",
-      "highest_price": 116500,
-      "highest_price_date": "2026-11-06",
+      "highest_price": 118500,
+      "highest_price_date": "2026-11-15",
       "previous_stock_status": "In Stock",
       "price_history": [
         {
@@ -7919,11 +8047,19 @@
           "regular_price": 126500,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 118500,
+          "regular_price": 126500,
+          "stock_status": "In Stock",
+          "event": "PRICE_INCREASE"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41768",
       "brand": "MSI",
@@ -7963,7 +8099,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41765",
       "brand": "MSI",
@@ -8003,7 +8139,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41800",
       "brand": "MSI",
@@ -8043,7 +8179,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42692",
       "brand": "MSI",
@@ -8083,15 +8219,15 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41762",
       "brand": "MSI",
       "model": "GeForce RTX 5060 Ti 8G VENTUS 2X OC PLUS",
       "title": "MSI GeForce RTX 5060 Ti 8G VENTUS 2X OC PLUS 8GB GDDR7 Graphics Card",
-      "current_price": 87900,
-      "regular_price": 79000,
-      "discount_bdt": 0,
+      "current_price": 75000,
+      "regular_price": 82500,
+      "discount_bdt": 7500,
       "stock_status": "In Stock",
       "specs": {
         "Video Memory": "8GB GDDR7, PCI Express 5",
@@ -8104,8 +8240,8 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/msi/geforce-rtx-5060-ti-8g-ventus-2x-oc-plus/geforce-rtx-5060-ti-8g-ventus-2x-oc-plus-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-14",
-      "previous_price": 70900,
+      "last_changed": "2026-11-15",
+      "previous_price": 87900,
       "lowest_price": 70900,
       "lowest_price_date": "2026-11-12",
       "highest_price": 87900,
@@ -8143,11 +8279,19 @@
           "regular_price": 79000,
           "stock_status": "In Stock",
           "event": "PRICE_INCREASE"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 75000,
+          "regular_price": 82500,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48097",
       "brand": "MSI",
@@ -8187,7 +8331,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42074",
       "brand": "MSI",
@@ -8227,7 +8371,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41761",
       "brand": "MSI",
@@ -8267,7 +8411,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "50838",
       "brand": "PNY",
@@ -8315,7 +8459,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42233",
       "brand": "PNY",
@@ -8355,7 +8499,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48031",
       "brand": "INNO3D",
@@ -8395,15 +8539,15 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48838",
       "brand": "INNO3D",
       "model": "GeForce RTX 5060 Ti 8GB X3 OC GDDR7",
       "title": "INNO3D GeForce RTX 5060 Ti 8GB X3 OC GDDR7 Graphics Card",
-      "current_price": 73900,
-      "regular_price": 81600,
-      "discount_bdt": 7700,
+      "current_price": 75500,
+      "regular_price": 83000,
+      "discount_bdt": 7500,
       "stock_status": "In Stock",
       "specs": {
         "Video Memory": "8GB GDDR7, PCI Express Gen 5",
@@ -8416,12 +8560,12 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/inno3d/inno3d-geforce-rtx-5060-ti-8gb-x3-oc/inno3d-geforce-rtx-5060-ti-8gb-x3-oc-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-15",
       "previous_price": 73900,
       "lowest_price": 73900,
       "lowest_price_date": "2026-11-06",
-      "highest_price": 73900,
-      "highest_price_date": "2026-11-06",
+      "highest_price": 75500,
+      "highest_price_date": "2026-11-15",
       "previous_stock_status": "In Stock",
       "price_history": [
         {
@@ -8431,11 +8575,19 @@
           "regular_price": 81600,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 75500,
+          "regular_price": 83000,
+          "stock_status": "In Stock",
+          "event": "PRICE_INCREASE"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "46457",
       "brand": "Colorful",
@@ -8475,16 +8627,16 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43600",
       "brand": "Colorful",
       "model": "GeForce RTX 5060 Ti Battle AX DUO 8GB-V GDDR7",
       "title": "Colorful GeForce RTX 5060 Ti Battle AX DUO 8GB-V GDDR7 Graphics Card",
-      "current_price": 0,
-      "regular_price": 0,
-      "discount_bdt": 0,
-      "stock_status": "Out Of Stock",
+      "current_price": 74500,
+      "regular_price": 82000,
+      "discount_bdt": 7500,
+      "stock_status": "In Stock",
       "specs": {
         "Video Memory": "8GB GDDR7, Memory Clock: 28Gbps",
         "Core Clock": "Base: 2407 Mhz, Boost: 2572 Mhz",
@@ -8496,13 +8648,13 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/colorful/geforce-rtx-5060-ti-battle-ax-duo-8gb-v/geforce-rtx-5060-ti-battle-ax-duo-8gb-v-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-10",
+      "last_changed": "2026-11-15",
       "previous_price": 73500,
       "lowest_price": 73500,
       "lowest_price_date": "2026-11-06",
-      "highest_price": 73500,
-      "highest_price_date": "2026-11-06",
-      "previous_stock_status": "In Stock",
+      "highest_price": 74500,
+      "highest_price_date": "2026-11-15",
+      "previous_stock_status": "Out Of Stock",
       "price_history": [
         {
           "date": "2026-11-06",
@@ -8519,19 +8671,27 @@
           "regular_price": 0,
           "stock_status": "Out Of Stock",
           "event": "OUT_OF_STOCK"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 74500,
+          "regular_price": 82000,
+          "stock_status": "In Stock",
+          "event": "RESTOCKED+PRICE_INCREASE"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47810",
       "brand": "Colorful",
       "model": "GeForce RTX 5060 Ti Battle AX NB DUO 16GB-V GDDR7",
       "title": "Colorful GeForce RTX 5060 Ti Battle AX NB DUO 16GB-V GDDR7 Graphics Card",
-      "current_price": 112900,
-      "regular_price": 124000,
-      "discount_bdt": 11100,
+      "current_price": 115900,
+      "regular_price": 126000,
+      "discount_bdt": 10100,
       "stock_status": "In Stock",
       "specs": {
         "Video Memory": "16GB GDDR7, Memory Clock: 28Gbps",
@@ -8544,12 +8704,12 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/colorful/geforce-rtx-5060-ti-battle-ax-nb-duo-16gb-v/geforce-rtx-5060-ti-battle-ax-nb-duo-16gb-v-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-15",
       "previous_price": 112900,
       "lowest_price": 112900,
       "lowest_price_date": "2026-11-06",
-      "highest_price": 112900,
-      "highest_price_date": "2026-11-06",
+      "highest_price": 115900,
+      "highest_price_date": "2026-11-15",
       "previous_stock_status": "In Stock",
       "price_history": [
         {
@@ -8559,11 +8719,19 @@
           "regular_price": 124000,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 115900,
+          "regular_price": 126000,
+          "stock_status": "In Stock",
+          "event": "PRICE_INCREASE"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42279",
       "brand": "Gigabyte",
@@ -8603,7 +8771,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "51803",
       "brand": "Gigabyte",
@@ -8667,7 +8835,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44819",
       "brand": "Gigabyte",
@@ -8707,7 +8875,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42670",
       "brand": "Gigabyte",
@@ -8747,7 +8915,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43374",
       "brand": "Gigabyte",
@@ -8787,7 +8955,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44759",
       "brand": "Gigabyte",
@@ -8827,7 +8995,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47663",
       "brand": "Colorful",
@@ -8867,7 +9035,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47661",
       "brand": "Colorful",
@@ -8907,7 +9075,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47665",
       "brand": "Colorful",
@@ -8947,7 +9115,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47662",
       "brand": "Colorful",
@@ -8987,7 +9155,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42278",
       "brand": "Gigabyte",
@@ -9027,7 +9195,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42269",
       "brand": "Gigabyte",
@@ -9067,7 +9235,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42876",
       "brand": "Gigabyte",
@@ -9107,7 +9275,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44762",
       "brand": "Gigabyte",
@@ -9147,7 +9315,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "54679",
       "brand": "GIGABYTE",
@@ -9187,7 +9355,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44789",
       "brand": "Gigabyte",
@@ -9227,7 +9395,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43376",
       "brand": "Gigabyte",
@@ -9291,7 +9459,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43387",
       "brand": "ZOTAC",
@@ -9339,7 +9507,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "45359",
       "brand": "Inno3D",
@@ -9379,7 +9547,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47138",
       "brand": "Inno3D",
@@ -9427,7 +9595,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42872",
       "brand": "Gigabyte",
@@ -9467,7 +9635,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44753",
       "brand": "Gigabyte",
@@ -9531,7 +9699,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42875",
       "brand": "Gigabyte",
@@ -9571,7 +9739,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41202",
       "brand": "MSI",
@@ -9611,7 +9779,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42744",
       "brand": "MSI",
@@ -9651,7 +9819,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41205",
       "brand": "MSI",
@@ -9691,15 +9859,15 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41593",
       "brand": "MSI",
       "model": "GeForce RTX 5070 12G SHADOW 2X OC",
       "title": "MSI GeForce RTX 5070 12G SHADOW 2X OC 12GB GDDR7 Graphics Card",
-      "current_price": 134900,
-      "regular_price": 146370,
-      "discount_bdt": 11470,
+      "current_price": 128900,
+      "regular_price": 145000,
+      "discount_bdt": 16100,
       "stock_status": "In Stock",
       "specs": {
         "Core Clock": "2557 MHz ; Boost: 2542 MHz",
@@ -9712,8 +9880,8 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/msi/geforce-rtx-5070-12g-shadow-2x-oc/geforce-rtx-5070-12g-shadow-2x-oc-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-12",
-      "previous_price": 119990,
+      "last_changed": "2026-11-15",
+      "previous_price": 134900,
       "lowest_price": 119990,
       "lowest_price_date": "2026-11-06",
       "highest_price": 134900,
@@ -9735,11 +9903,19 @@
           "regular_price": 146370,
           "stock_status": "In Stock",
           "event": "PRICE_INCREASE"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 128900,
+          "regular_price": 145000,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41207",
       "brand": "MSI",
@@ -9779,7 +9955,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41199",
       "brand": "MSI",
@@ -9819,7 +9995,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42064",
       "brand": "MSI",
@@ -9859,15 +10035,15 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41596",
       "brand": "MSI",
       "model": "GeForce RTX 5070 12G VENTUS 2X OC",
       "title": "MSI GeForce RTX 5070 12G VENTUS 2X OC 12GB GDDR7 Graphics Card",
-      "current_price": 124500,
-      "regular_price": 136900,
-      "discount_bdt": 12400,
+      "current_price": 129500,
+      "regular_price": 143000,
+      "discount_bdt": 13500,
       "stock_status": "In Stock",
       "specs": {
         "Core Clock": "2557 MHz ; Boost: 2542 MHz",
@@ -9880,12 +10056,12 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/msi/geforce-rtx-5070-12g-ventus-2x-oc/geforce-rtx-5070-12g-ventus-2x-oc-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-12",
-      "previous_price": 126500,
+      "last_changed": "2026-11-15",
+      "previous_price": 124500,
       "lowest_price": 124500,
       "lowest_price_date": "2026-11-12",
-      "highest_price": 126500,
-      "highest_price_date": "2026-11-06",
+      "highest_price": 129500,
+      "highest_price_date": "2026-11-15",
       "previous_stock_status": "In Stock",
       "price_history": [
         {
@@ -9903,11 +10079,19 @@
           "regular_price": 136900,
           "stock_status": "In Stock",
           "event": "PRICE_DROP"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 129500,
+          "regular_price": 143000,
+          "stock_status": "In Stock",
+          "event": "PRICE_INCREASE"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41209",
       "brand": "MSI",
@@ -9947,7 +10131,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41210",
       "brand": "MSI",
@@ -9987,7 +10171,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "50522",
       "brand": "MSI",
@@ -10027,7 +10211,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47179",
       "brand": "PNY",
@@ -10067,7 +10251,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41372",
       "brand": "Gigabyte",
@@ -10107,7 +10291,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41370",
       "brand": "Gigabyte",
@@ -10147,7 +10331,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42241",
       "brand": "Colorful",
@@ -10187,7 +10371,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42879",
       "brand": "PNY",
@@ -10227,7 +10411,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44178",
       "brand": "MSI",
@@ -10267,7 +10451,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42091",
       "brand": "MSI",
@@ -10307,7 +10491,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40742",
       "brand": "MSI",
@@ -10347,7 +10531,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44884",
       "brand": "MSI",
@@ -10387,7 +10571,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41598",
       "brand": "MSI",
@@ -10427,7 +10611,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41160",
       "brand": "MSI",
@@ -10467,15 +10651,15 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40754",
       "brand": "MSI",
       "model": "GeForce RTX 5070 Ti 16G VENTUS 3X OC",
       "title": "MSI GeForce RTX 5070 Ti 16G VENTUS 3X OC 16GB GDDR7 Graphics Card",
-      "current_price": 209900,
-      "regular_price": 230800,
-      "discount_bdt": 20900,
+      "current_price": 202999,
+      "regular_price": 220000,
+      "discount_bdt": 17001,
       "stock_status": "In Stock",
       "specs": {
         "Video Memory": "16GB GDDR7, PCI Express 5.0 x16",
@@ -10488,8 +10672,8 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/msi/geforce-rtx-5070-ti-16g-ventus-3x-oc/geforce-rtx-5070-ti-16g-ventus-3x-oc-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-14",
-      "previous_price": 194900,
+      "last_changed": "2026-11-15",
+      "previous_price": 209900,
       "lowest_price": 191900,
       "lowest_price_date": "2026-11-06",
       "highest_price": 209900,
@@ -10519,11 +10703,19 @@
           "regular_price": 230800,
           "stock_status": "In Stock",
           "event": "PRICE_INCREASE"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 202999,
+          "regular_price": 220000,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47046",
       "brand": "MSI",
@@ -10563,7 +10755,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47101",
       "brand": "MSI",
@@ -10603,7 +10795,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41095",
       "brand": "Gigabyte",
@@ -10659,7 +10851,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "51553",
       "brand": "PNY",
@@ -10699,7 +10891,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44381",
       "brand": "Colorful",
@@ -10739,7 +10931,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41103",
       "brand": "Gigabyte",
@@ -10779,7 +10971,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42235",
       "brand": "PNY",
@@ -10819,7 +11011,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47784",
       "brand": "PNY",
@@ -10867,7 +11059,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "50836",
       "brand": "PNY",
@@ -10907,7 +11099,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40860",
       "brand": "Gigabyte",
@@ -10963,7 +11155,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47095",
       "brand": "Inno3D",
@@ -11003,7 +11195,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42236",
       "brand": "PNY",
@@ -11043,7 +11235,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47297",
       "brand": "PNY",
@@ -11091,7 +11283,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40861",
       "brand": "Gigabyte",
@@ -11131,7 +11323,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41106",
       "brand": "Gigabyte",
@@ -11171,7 +11363,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47141",
       "brand": "Inno3D",
@@ -11211,7 +11403,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42234",
       "brand": "PNY",
@@ -11251,7 +11443,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "45362",
       "brand": "Inno3D",
@@ -11291,7 +11483,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41093",
       "brand": "Gigabyte",
@@ -11347,7 +11539,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41467",
       "brand": "Gigabyte",
@@ -11403,7 +11595,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47099",
       "brand": "Inno3D",
@@ -11443,7 +11635,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40229",
       "brand": "PNY",
@@ -11483,7 +11675,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44194",
       "brand": "MSI",
@@ -11523,7 +11715,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "39999",
       "brand": "MSI",
@@ -11563,7 +11755,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44180",
       "brand": "MSI",
@@ -11603,7 +11795,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40005",
       "brand": "MSI",
@@ -11643,7 +11835,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41605",
       "brand": "MSI",
@@ -11683,7 +11875,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40024",
       "brand": "MSI",
@@ -11723,7 +11915,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40025",
       "brand": "MSI",
@@ -11763,7 +11955,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41676",
       "brand": "MSI",
@@ -11803,7 +11995,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40010",
       "brand": "MSI",
@@ -11843,15 +12035,15 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40002",
       "brand": "MSI",
       "model": "GeForce RTX 5080 16G VENTUS 3X OC",
       "title": "MSI GeForce RTX 5080 16G VENTUS 3X OC 16GB GDDR7 Graphics Card",
-      "current_price": 295900,
-      "regular_price": 325900,
-      "discount_bdt": 30000,
+      "current_price": 265900,
+      "regular_price": 292500,
+      "discount_bdt": 26600,
       "stock_status": "In Stock",
       "specs": {
         "Video Memory": "16GB GDDR7, PCI Express 5",
@@ -11864,8 +12056,8 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/msi/geforce-rtx-5080-16g-ventus-3x-oc/geforce-rtx-5080-16g-ventus-3x-oc-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-14",
-      "previous_price": 263000,
+      "last_changed": "2026-11-15",
+      "previous_price": 295900,
       "lowest_price": 245500,
       "lowest_price_date": "2026-11-06",
       "highest_price": 295900,
@@ -11895,11 +12087,19 @@
           "regular_price": 325900,
           "stock_status": "In Stock",
           "event": "PRICE_INCREASE"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 265900,
+          "regular_price": 292500,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40028",
       "brand": "MSI",
@@ -11939,7 +12139,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44211",
       "brand": "MSI",
@@ -11979,7 +12179,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43369",
       "brand": "PNY",
@@ -12019,7 +12219,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "39853",
       "brand": "Gigabyte",
@@ -12059,7 +12259,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "39765",
       "brand": "Gigabyte",
@@ -12099,15 +12299,15 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42237",
       "brand": "PNY",
       "model": "GeForce RTX 5080 OC 16GB Triple Fan GDDR7",
       "title": "PNY GeForce RTX 5080 OC 16GB Triple Fan GDDR7 Graphics Card",
-      "current_price": 257000,
-      "regular_price": 282700,
-      "discount_bdt": 25700,
+      "current_price": 269000,
+      "regular_price": 295500,
+      "discount_bdt": 26500,
       "stock_status": "In Stock",
       "specs": {
         "Video Memory": "16GB GDDR7, PCI-Express 5.0 x16",
@@ -12120,12 +12320,12 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/pny/geforce-rtx-5080-oc-16gb-triple-fan/geforce-rtx-5080-oc-16gb-triple-fan-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-14",
-      "previous_price": 245000,
+      "last_changed": "2026-11-15",
+      "previous_price": 257000,
       "lowest_price": 245000,
       "lowest_price_date": "2026-11-06",
-      "highest_price": 257000,
-      "highest_price_date": "2026-11-14",
+      "highest_price": 269000,
+      "highest_price_date": "2026-11-15",
       "previous_stock_status": "In Stock",
       "price_history": [
         {
@@ -12143,11 +12343,19 @@
           "regular_price": 282700,
           "stock_status": "In Stock",
           "event": "PRICE_INCREASE"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 269000,
+          "regular_price": 295500,
+          "stock_status": "In Stock",
+          "event": "PRICE_INCREASE"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40858",
       "brand": "Gigabyte",
@@ -12187,7 +12395,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43364",
       "brand": "PNY",
@@ -12227,7 +12435,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47648",
       "brand": "PNY",
@@ -12267,7 +12475,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "39682",
       "brand": "MSI",
@@ -12307,7 +12515,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48392",
       "brand": "MSI",
@@ -12347,7 +12555,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40030",
       "brand": "MSI",
@@ -12387,7 +12595,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "39679",
       "brand": "MSI",
@@ -12427,7 +12635,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "39700",
       "brand": "MSI",
@@ -12467,7 +12675,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "39716",
       "brand": "MSI",
@@ -12507,7 +12715,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "39698",
       "brand": "MSI",
@@ -12547,7 +12755,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40855",
       "brand": "Gigabyte",
@@ -12587,7 +12795,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41375",
       "brand": "Gigabyte",
@@ -12627,7 +12835,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41049",
       "brand": "Gigabyte",
@@ -12667,7 +12875,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41087",
       "brand": "Gigabyte",
@@ -12731,7 +12939,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44222",
       "brand": "Gigabyte",
@@ -12771,7 +12979,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "4942",
       "brand": "Gigabyte",
@@ -12811,7 +13019,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "12352",
       "brand": "MSI",
@@ -12857,15 +13065,15 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "24749",
       "brand": "ARKTEK",
       "model": "GTX 1660 Super",
       "title": "ARKTEK GTX 1660 Super 6GB GDDR6 Graphics Card",
-      "current_price": 27500,
-      "regular_price": 29700,
-      "discount_bdt": 2200,
+      "current_price": 29500,
+      "regular_price": 32400,
+      "discount_bdt": 2900,
       "stock_status": "In Stock",
       "specs": {
         "Engine Clock": "1530~1785MHz",
@@ -12878,12 +13086,12 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/arktek/gtx-1660-super-6gb/gtx-1660-super-6gb-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-15",
       "previous_price": 27500,
       "lowest_price": 27500,
       "lowest_price_date": "2026-11-06",
-      "highest_price": 27500,
-      "highest_price_date": "2026-11-06",
+      "highest_price": 29500,
+      "highest_price_date": "2026-11-15",
       "previous_stock_status": "In Stock",
       "price_history": [
         {
@@ -12893,11 +13101,19 @@
           "regular_price": 29700,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 29500,
+          "regular_price": 32400,
+          "stock_status": "In Stock",
+          "event": "PRICE_INCREASE"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "31986",
       "brand": "Peladn",
@@ -12937,7 +13153,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "29099",
       "brand": "Peladn",
@@ -12977,7 +13193,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48692",
       "brand": "NVIDIA",
@@ -13014,7 +13230,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "38555",
       "brand": "PowerColor",
@@ -13054,7 +13270,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "38558",
       "brand": "PowerColor",
@@ -13094,7 +13310,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "39407",
       "brand": "PowerColor",
@@ -13134,7 +13350,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42754",
       "brand": "PowerColor",
@@ -13182,7 +13398,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42755",
       "brand": "PowerColor",
@@ -13222,7 +13438,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "49673",
       "brand": "PowerColor",
@@ -13262,7 +13478,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40821",
       "brand": "PowerColor",
@@ -13302,7 +13518,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "53158",
       "brand": "PowerColor",
@@ -13342,16 +13558,16 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "38565",
       "brand": "PowerColor",
       "model": "Hellhound Sakura AMD Radeon RX 7800 XT",
       "title": "PowerColor Hellhound Sakura AMD Radeon RX 7800 XT 16GB GDDR6 Limited Edition Graphics Card",
-      "current_price": 82500,
-      "regular_price": 92400,
-      "discount_bdt": 9900,
-      "stock_status": "In Stock",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
       "specs": {
         "Boost Clock": "Up to 2520MHz, Game Clock: Up to 2213MHz",
         "Memory": "16GB/256-bit DDR6. 19.5 Gbps",
@@ -13363,7 +13579,7 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/powercolor/hellhound-sakura-amd-radeon-rx-7800-xt-16gb/hellhound-sakura-amd-radeon-rx-7800-xt-16gb-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-15",
       "previous_price": 82500,
       "lowest_price": 82500,
       "lowest_price_date": "2026-11-06",
@@ -13378,11 +13594,19 @@
           "regular_price": 92400,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "OUT_OF_STOCK"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "39405",
       "brand": "PowerColor",
@@ -13422,14 +13646,14 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43863",
       "brand": "PowerColor",
       "model": "Hellhound Spectral White AMD Radeon RX 9060 XT",
       "title": "PowerColor Hellhound Spectral White AMD Radeon RX 9060 XT 16GB GDDR6 Graphics Card",
-      "current_price": 88000,
-      "regular_price": 96000,
+      "current_price": 85500,
+      "regular_price": 93500,
       "discount_bdt": 8000,
       "stock_status": "In Stock",
       "specs": {
@@ -13443,8 +13667,8 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/powercolor/hellhound-spectral-white-amd-radeon-rx-9060-xt/hellhound-spectral-white-amd-radeon-rx-9060-xt-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-08",
-      "previous_price": 85500,
+      "last_changed": "2026-11-15",
+      "previous_price": 88000,
       "lowest_price": 85500,
       "lowest_price_date": "2026-11-06",
       "highest_price": 88000,
@@ -13466,11 +13690,19 @@
           "regular_price": 96000,
           "stock_status": "In Stock",
           "event": "PRICE_INCREASE"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 85500,
+          "regular_price": 93500,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48630",
       "brand": "PowerColor",
@@ -13510,7 +13742,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "27667",
       "brand": "Colorful",
@@ -13550,7 +13782,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "21039",
       "brand": "Colorful",
@@ -13590,7 +13822,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44374",
       "brand": "Colorful",
@@ -13630,7 +13862,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43601",
       "brand": "Colorful",
@@ -13678,7 +13910,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44380",
       "brand": "Colorful",
@@ -13718,7 +13950,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "46455",
       "brand": "Colorful",
@@ -13758,7 +13990,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42240",
       "brand": "Colorful",
@@ -13798,7 +14030,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44376",
       "brand": "Colorful",
@@ -13838,7 +14070,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43598",
       "brand": "Colorful",
@@ -13878,7 +14110,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42239",
       "brand": "Colorful",
@@ -13918,7 +14150,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41217",
       "brand": "Colorful",
@@ -13958,7 +14190,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42238",
       "brand": "Colorful",
@@ -13998,7 +14230,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40115",
       "brand": "Colorful",
@@ -14038,7 +14270,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40104",
       "brand": "Colorful",
@@ -14078,7 +14310,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40111",
       "brand": "Colorful",
@@ -14118,7 +14350,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40106",
       "brand": "Colorful",
@@ -14158,7 +14390,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "50940",
       "brand": "Gunnir",
@@ -14205,7 +14437,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "31930",
       "brand": "GIGABYTE",
@@ -14253,7 +14485,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "31918",
       "brand": "Gigabyte",
@@ -14301,7 +14533,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "29230",
       "brand": "GUNNIR",
@@ -14347,7 +14579,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "29047",
       "brand": "GUNNIR",
@@ -14395,7 +14627,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "37371",
       "brand": "Gunnir",
@@ -14435,7 +14667,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "31912",
       "brand": "Gigabyte",
@@ -14475,7 +14707,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "32491",
       "brand": "Gunnir",
@@ -14515,7 +14747,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42055",
       "brand": "Gunnir",
@@ -14555,7 +14787,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "29228",
       "brand": "Gunnir",
@@ -14593,7 +14825,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "29229",
       "brand": "Gunnir",
@@ -14631,7 +14863,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "37908",
       "brand": "Gunnir",
@@ -14669,7 +14901,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "39296",
       "brand": "Gunnir",
@@ -14709,7 +14941,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "28653",
       "brand": "Gunnir",
@@ -14747,7 +14979,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "29227",
       "brand": "Gunnir",
@@ -14785,7 +15017,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "38533",
       "brand": "Gunnir",
@@ -14823,7 +15055,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "28654",
       "brand": "Gunnir",
@@ -14861,7 +15093,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47638",
       "brand": "Gunnir",
@@ -14899,7 +15131,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "45409",
       "brand": "Gunnir",
@@ -14939,7 +15171,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40451",
       "brand": "Gunnir",
@@ -14979,7 +15211,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41090",
       "brand": "Gunnir",
@@ -15019,7 +15251,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "49761",
       "brand": "Maxsun",
@@ -15059,7 +15291,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "39300",
       "brand": "Gunnir",
@@ -15099,7 +15331,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "50901",
       "brand": "Maxsun",
@@ -15139,7 +15371,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "39302",
       "brand": "Gunnir",
@@ -15179,7 +15411,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "39303",
       "brand": "Gunnir",
@@ -15219,7 +15451,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "49013",
       "brand": "Gunnir",
@@ -15259,7 +15491,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "50788",
       "brand": "Gunnir",
@@ -15299,7 +15531,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "50790",
       "brand": "Gunnir",
@@ -15339,7 +15571,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "50789",
       "brand": "GUNNIR",
@@ -15379,7 +15611,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "50793",
       "brand": "Gunnir",
@@ -15419,7 +15651,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "50791",
       "brand": "GUNNIR",
@@ -15459,7 +15691,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "19559",
       "brand": "Asus",
@@ -15496,7 +15728,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "15331",
       "brand": "Asus",
@@ -15533,7 +15765,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43632",
       "brand": "Manli",
@@ -15573,15 +15805,15 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43610",
       "brand": "Manli",
       "model": "Nebula GeForce RTX 5060",
       "title": "Manli Nebula GeForce RTX 5060 8GB GDDR7 Graphics Card",
-      "current_price": 65000,
-      "regular_price": 66900,
-      "discount_bdt": 1900,
+      "current_price": 66900,
+      "regular_price": 72000,
+      "discount_bdt": 5100,
       "stock_status": "In Stock",
       "specs": {
         "Video Memory": "8GB GDDR7, Memory Clock: 28 Gbps",
@@ -15594,12 +15826,12 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/manli/nebula-geforce-rtx-5060/nebula-geforce-rtx-5060-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-15",
       "previous_price": 65000,
       "lowest_price": 65000,
       "lowest_price_date": "2026-11-06",
-      "highest_price": 65000,
-      "highest_price_date": "2026-11-06",
+      "highest_price": 66900,
+      "highest_price_date": "2026-11-15",
       "previous_stock_status": "In Stock",
       "price_history": [
         {
@@ -15609,11 +15841,19 @@
           "regular_price": 66900,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 66900,
+          "regular_price": 72000,
+          "stock_status": "In Stock",
+          "event": "PRICE_INCREASE"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43627",
       "brand": "Manli",
@@ -15653,7 +15893,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43634",
       "brand": "Manli",
@@ -15693,7 +15933,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43621",
       "brand": "Manli",
@@ -15733,7 +15973,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43619",
       "brand": "Manli",
@@ -15781,7 +16021,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43628",
       "brand": "Manli",
@@ -15821,7 +16061,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43624",
       "brand": "Manli",
@@ -15861,15 +16101,15 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47710",
       "brand": "Manli",
       "model": "Nebula V2 GeForce RTX 5060 Ti",
       "title": "Manli Nebula V2 GeForce RTX 5060 Ti 16GB GDDR7 Graphics Card",
-      "current_price": 108999,
-      "regular_price": 121000,
-      "discount_bdt": 12001,
+      "current_price": 119000,
+      "regular_price": 130000,
+      "discount_bdt": 11000,
       "stock_status": "In Stock",
       "specs": {
         "Video Memory": "16GB GDDR7, Memory Clock: 28 Gbps",
@@ -15882,12 +16122,12 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/manli/nebula-v2-geforce-rtx-5060-ti-16gb/nebula-v2-geforce-rtx-5060-ti-16gb-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-12",
-      "previous_price": 109500,
+      "last_changed": "2026-11-15",
+      "previous_price": 108999,
       "lowest_price": 108999,
       "lowest_price_date": "2026-11-12",
-      "highest_price": 109500,
-      "highest_price_date": "2026-11-06",
+      "highest_price": 119000,
+      "highest_price_date": "2026-11-15",
       "previous_stock_status": "In Stock",
       "price_history": [
         {
@@ -15905,11 +16145,19 @@
           "regular_price": 121000,
           "stock_status": "In Stock",
           "event": "PRICE_DROP"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 119000,
+          "regular_price": 130000,
+          "stock_status": "In Stock",
+          "event": "PRICE_INCREASE"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "17941",
       "brand": "Sapphire",
@@ -15949,7 +16197,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "31434",
       "brand": "Sapphire",
@@ -15988,7 +16236,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "31426",
       "brand": "Sapphire",
@@ -16027,7 +16275,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "26780",
       "brand": "Sapphire",
@@ -16067,7 +16315,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44068",
       "brand": "Sapphire",
@@ -16107,7 +16355,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44765",
       "brand": "Sapphire",
@@ -16147,7 +16395,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42528",
       "brand": "Sapphire",
@@ -16187,7 +16435,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48628",
       "brand": "AFOX",
@@ -16226,7 +16474,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48617",
       "brand": "AFOX",
@@ -16265,7 +16513,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48621",
       "brand": "AFOX",
@@ -16304,7 +16552,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48625",
       "brand": "AFOX",
@@ -16343,7 +16591,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "53683",
       "brand": "AFOX",
@@ -16382,7 +16630,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48627",
       "brand": "AFOX",
@@ -16421,7 +16669,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48626",
       "brand": "AFOX",
@@ -16461,7 +16709,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48632",
       "brand": "AFOX",
@@ -16501,7 +16749,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48631",
       "brand": "AFOX",
@@ -16541,7 +16789,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "53219",
       "brand": "PNY",
@@ -16581,7 +16829,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "53216",
       "brand": "PNY",
@@ -16621,7 +16869,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "53212",
       "brand": "PNY",
@@ -16661,7 +16909,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43631",
       "brand": "Manli",
@@ -16701,7 +16949,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43618",
       "brand": "Manli",
@@ -16741,7 +16989,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43630",
       "brand": "Manli",
@@ -16781,7 +17029,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44428",
       "brand": "Manli",
@@ -16821,7 +17069,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43613",
       "brand": "Manli",
@@ -16861,7 +17109,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43616",
       "brand": "Manli",
@@ -16909,7 +17157,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43612",
       "brand": "Manli",
@@ -16949,7 +17197,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "45821",
       "brand": "Asus",
@@ -16989,7 +17237,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48026",
       "brand": "Asus",
@@ -17029,16 +17277,16 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44430",
       "brand": "Asus",
       "model": "PRIME GeForce RTX 5060 Ti",
       "title": "ASUS PRIME GeForce RTX 5060 Ti 16GB GDDR7 OC Edition Graphics Card",
-      "current_price": 0,
-      "regular_price": 0,
-      "discount_bdt": 0,
-      "stock_status": "Out Of Stock",
+      "current_price": 129900,
+      "regular_price": 141500,
+      "discount_bdt": 11600,
+      "stock_status": "In Stock",
       "specs": {
         "Memory Size": "16GB GDDR7, Speed: 28 Gbps",
         "Engine Clock": "2647MHz (OC); Boost: 2617MHz",
@@ -17050,12 +17298,12 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/asus/prime-geforce-rtx-5060-ti-16gb-gddr7-oc-edition/prime-geforce-rtx-5060-ti-16gb-gddr7-oc-edition-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-15",
       "previous_price": 0,
-      "lowest_price": 0,
-      "lowest_price_date": "",
-      "highest_price": 0,
-      "highest_price_date": "",
+      "lowest_price": 129900,
+      "lowest_price_date": "2026-11-15",
+      "highest_price": 129900,
+      "highest_price_date": "2026-11-15",
       "previous_stock_status": "Out Of Stock",
       "price_history": [
         {
@@ -17065,11 +17313,19 @@
           "regular_price": 0,
           "stock_status": "Out Of Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 129900,
+          "regular_price": 141500,
+          "stock_status": "In Stock",
+          "event": "RESTOCKED"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44782",
       "brand": "Asus",
@@ -17109,7 +17365,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "45038",
       "brand": "Asus",
@@ -17149,15 +17405,15 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41353",
       "brand": "Asus",
       "model": "PRIME GeForce RTX 5070 Ti",
       "title": "ASUS PRIME GeForce RTX 5070 Ti 16GB GDDR7 OC Edition Graphics Card",
-      "current_price": 185900,
-      "regular_price": 203000,
-      "discount_bdt": 17100,
+      "current_price": 193900,
+      "regular_price": 213000,
+      "discount_bdt": 19100,
       "stock_status": "In Stock",
       "specs": {
         "Engine Clock": "2527MHz (OC) ; Boost: 2497MHz",
@@ -17170,12 +17426,12 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/asus/prime-geforce-rtx-5070-ti-16gb-oc-edition/prime-geforce-rtx-5070-ti-16gb-oc-edition-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-10",
-      "previous_price": 183500,
+      "last_changed": "2026-11-15",
+      "previous_price": 185900,
       "lowest_price": 183500,
       "lowest_price_date": "2026-11-06",
-      "highest_price": 185900,
-      "highest_price_date": "2026-11-10",
+      "highest_price": 193900,
+      "highest_price_date": "2026-11-15",
       "previous_stock_status": "In Stock",
       "price_history": [
         {
@@ -17193,11 +17449,19 @@
           "regular_price": 203000,
           "stock_status": "In Stock",
           "event": "PRICE_INCREASE"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 193900,
+          "regular_price": 213000,
+          "stock_status": "In Stock",
+          "event": "PRICE_INCREASE"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "39760",
       "brand": "Asus",
@@ -17245,7 +17509,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "51245",
       "brand": "Asus",
@@ -17285,7 +17549,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48128",
       "brand": "Asus",
@@ -17325,7 +17589,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47598",
       "brand": "Asus",
@@ -17365,7 +17629,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47789",
       "brand": "Asus",
@@ -17405,7 +17669,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "27145",
       "brand": "Sapphire",
@@ -17445,7 +17709,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "20882",
       "brand": "Sapphire",
@@ -17485,7 +17749,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "38030",
       "brand": "Sapphire",
@@ -17525,7 +17789,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "19279",
       "brand": "Sapphire",
@@ -17565,7 +17829,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "28421",
       "brand": "Sapphire",
@@ -17605,7 +17869,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "34030",
       "brand": "Sapphire",
@@ -17645,7 +17909,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "31429",
       "brand": "Sapphire",
@@ -17684,7 +17948,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44070",
       "brand": "Sapphire",
@@ -17724,7 +17988,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42722",
       "brand": "Sapphire",
@@ -17764,7 +18028,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43708",
       "brand": "Sapphire",
@@ -17804,7 +18068,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "50864",
       "brand": "Sapphire",
@@ -17844,7 +18108,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44069",
       "brand": "Sapphire",
@@ -17884,7 +18148,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "12345",
       "brand": "Sapphire",
@@ -17923,7 +18187,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "12420",
       "brand": "Sapphire",
@@ -17962,7 +18226,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "13457",
       "brand": "Sapphire",
@@ -18002,7 +18266,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "11168",
       "brand": "Sapphire",
@@ -18039,7 +18303,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "10908",
       "brand": "Sapphire",
@@ -18078,7 +18342,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "32400",
       "brand": "Sapphire",
@@ -18118,7 +18382,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "32401",
       "brand": "Sapphire",
@@ -18158,7 +18422,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42721",
       "brand": "Sapphire",
@@ -18198,7 +18462,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43706",
       "brand": "Sapphire",
@@ -18238,7 +18502,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40794",
       "brand": "Sapphire",
@@ -18278,7 +18542,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "52645",
       "brand": "PowerColor",
@@ -18318,7 +18582,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "51801",
       "brand": "AFOX",
@@ -18357,7 +18621,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "21896",
       "brand": "AFOX",
@@ -18396,7 +18660,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "12436",
       "brand": "Gigabyte",
@@ -18433,7 +18697,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "12413",
       "brand": "Gigabyte",
@@ -18470,7 +18734,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "11876",
       "brand": "Sapphire",
@@ -18510,7 +18774,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "52503",
       "brand": "Abit",
@@ -18549,15 +18813,15 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "50820",
       "brand": "Unika",
       "model": "Radeon RX 580 BLIZZARDS 8GD5 V2",
       "title": "Unika Radeon RX 580 BLIZZARDS 8GD5 V2 8GB GDDR5 Graphics Card",
-      "current_price": 16900,
+      "current_price": 16799,
       "regular_price": 19300,
-      "discount_bdt": 2400,
+      "discount_bdt": 2501,
       "stock_status": "In Stock",
       "specs": {
         "Video Memory": "8GB GDDR5, Stream Processor: 2048",
@@ -18570,10 +18834,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/unika/radeon-rx-580-blizzards-8gd5-v2/radeon-rx-580-blizzards-8gd5-v2-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-15",
       "previous_price": 16900,
-      "lowest_price": 16900,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 16799,
+      "lowest_price_date": "2026-11-15",
       "highest_price": 16900,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -18585,11 +18849,19 @@
           "regular_price": 19300,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 16799,
+          "regular_price": 19300,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "52505",
       "brand": "Abit",
@@ -18629,7 +18901,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41667",
       "brand": "OCPC",
@@ -18669,7 +18941,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "54682",
       "brand": "GIGABYTE",
@@ -18709,7 +18981,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "45057",
       "brand": "Yeston",
@@ -18749,7 +19021,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "51501",
       "brand": "Gigabyte",
@@ -18789,7 +19061,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "44752",
       "brand": "Gigabyte",
@@ -18845,7 +19117,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42878",
       "brand": "Gigabyte",
@@ -18909,7 +19181,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43862",
       "brand": "Gigabyte",
@@ -18973,7 +19245,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "54692",
       "brand": "GIGABYTE",
@@ -19013,7 +19285,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43093",
       "brand": "Gigabyte",
@@ -19053,7 +19325,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40850",
       "brand": "Gigabyte",
@@ -19117,7 +19389,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "52640",
       "brand": "PowerColor",
@@ -19157,7 +19429,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43864",
       "brand": "PowerColor",
@@ -19213,7 +19485,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42757",
       "brand": "PowerColor",
@@ -19253,7 +19525,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40826",
       "brand": "PowerColor",
@@ -19293,7 +19565,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "52642",
       "brand": "PowerColor",
@@ -19333,7 +19605,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40824",
       "brand": "PowerColor",
@@ -19373,7 +19645,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40828",
       "brand": "PowerColor",
@@ -19413,7 +19685,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "40819",
       "brand": "PowerColor",
@@ -19453,7 +19725,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42760",
       "brand": "PowerColor",
@@ -19493,7 +19765,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "39764",
       "brand": "Asus",
@@ -19533,7 +19805,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47415",
       "brand": "Asus",
@@ -19573,7 +19845,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42437",
       "brand": "Asus",
@@ -19613,7 +19885,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "50234",
       "brand": "Asus",
@@ -19653,7 +19925,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "50232",
       "brand": "Asus",
@@ -19693,7 +19965,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "16803",
       "brand": "Asus",
@@ -19730,7 +20002,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47672",
       "brand": "Asus",
@@ -19770,7 +20042,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42432",
       "brand": "Asus",
@@ -19810,7 +20082,47 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
+      "category": "graphics-card",
+      "product_id": "54732",
+      "brand": "NVIDIA",
+      "model": "RTX 2000 Ada Generation",
+      "title": "NVIDIA RTX 2000 Ada Generation 16GB GDDR6 Graphics Card (Bulk)",
+      "current_price": 102400,
+      "regular_price": 112000,
+      "discount_bdt": 9600,
+      "stock_status": "In Stock",
+      "specs": {
+        "Video Memory": "16GB GDDR6",
+        "Memory Bandwidth": "224 GB/s, Memory Interface: 128-Bit",
+        "CUDA Cores": "2816, Interface: PCI Express 4.0 x8",
+        "Display Outputs": "4x DisplayPort 1.4a"
+      },
+      "specs_summary": "Video Memory: 16GB GDDR6 | Memory Bandwidth: 224 GB/s, Memory Interface: 128-Bit | CUDA Cores: 2816, Interface: PCI Express 4.0 x8 | Display Outputs: 4x DisplayPort 1.4a",
+      "url": "https://www.startech.com.bd/nvidia-rtx-2000-ada-generation-16gb-graphics-card",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/nvidia/rtx-2000-ada-generation/rtx-2000-ada-generation-01-228x228.webp",
+      "detail_fetched": true,
+      "first_seen": "2026-11-15",
+      "last_changed": "2026-11-15",
+      "previous_price": 102400,
+      "lowest_price": 102400,
+      "lowest_price_date": "2026-11-15",
+      "highest_price": 102400,
+      "highest_price_date": "2026-11-15",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 102400,
+          "regular_price": 112000,
+          "stock_status": "In Stock",
+          "event": "FIRST_SEEN"
+        }
+      ]
+    },
+    {
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48685",
       "brand": "NVIDIA",
@@ -19850,7 +20162,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48741",
       "brand": "NVIDIA",
@@ -19890,7 +20202,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48683",
       "brand": "NVIDIA",
@@ -19930,7 +20242,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48964",
       "brand": "NVIDIA",
@@ -19978,15 +20290,15 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48957",
       "brand": "NVIDIA",
       "model": "RTX PRO 4000 Blackwell",
       "title": "NVIDIA RTX PRO 4000 Blackwell 24GB GDDR7 Graphics Card (Bulk)",
-      "current_price": 440000,
-      "regular_price": 480000,
-      "discount_bdt": 40000,
+      "current_price": 399900,
+      "regular_price": 440000,
+      "discount_bdt": 40100,
       "stock_status": "In Stock",
       "specs": {
         "Video Memory": "24GB GDDR7 with ECC",
@@ -19999,10 +20311,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/nvidia/rtx-pro-4000-blackwell/rtx-pro-4000-blackwell-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-13",
-      "previous_price": 0,
-      "lowest_price": 440000,
-      "lowest_price_date": "2026-11-13",
+      "last_changed": "2026-11-15",
+      "previous_price": 440000,
+      "lowest_price": 399900,
+      "lowest_price_date": "2026-11-15",
       "highest_price": 440000,
       "highest_price_date": "2026-11-13",
       "previous_stock_status": "Out Of Stock",
@@ -20022,11 +20334,19 @@
           "regular_price": 480000,
           "stock_status": "In Stock",
           "event": "RESTOCKED"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 399900,
+          "regular_price": 440000,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48960",
       "brand": "NVIDIA",
@@ -20066,7 +20386,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48955",
       "brand": "NVIDIA",
@@ -20106,15 +20426,15 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48951",
       "brand": "NVIDIA",
       "model": "RTX PRO 5000 72GB Blackwell GDDR7",
       "title": "NVIDIA RTX PRO 5000 72GB Blackwell GDDR7 Graphics Card (Bulk)",
-      "current_price": 1359000,
-      "regular_price": 1494000,
-      "discount_bdt": 135000,
+      "current_price": 1399000,
+      "regular_price": 1538000,
+      "discount_bdt": 139000,
       "stock_status": "In Stock",
       "specs": {
         "Video Memory": "72GB GDDR7 with ECC",
@@ -20127,12 +20447,12 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/nvidia/rtx-pro-5000-72gb-blackwell/rtx-pro-5000-72gb-blackwell-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-13",
-      "previous_price": 0,
+      "last_changed": "2026-11-15",
+      "previous_price": 1359000,
       "lowest_price": 1359000,
       "lowest_price_date": "2026-11-13",
-      "highest_price": 1359000,
-      "highest_price_date": "2026-11-13",
+      "highest_price": 1399000,
+      "highest_price_date": "2026-11-15",
       "previous_stock_status": "Out Of Stock",
       "price_history": [
         {
@@ -20150,11 +20470,19 @@
           "regular_price": 1494000,
           "stock_status": "In Stock",
           "event": "RESTOCKED"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 1399000,
+          "regular_price": 1538000,
+          "stock_status": "In Stock",
+          "event": "PRICE_INCREASE"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48953",
       "brand": "NVIDIA",
@@ -20202,7 +20530,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48665",
       "brand": "NVIDIA",
@@ -20250,7 +20578,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48949",
       "brand": "NVIDIA",
@@ -20290,7 +20618,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48661",
       "brand": "NVIDIA",
@@ -20338,7 +20666,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "52376",
       "brand": "OCPC",
@@ -20377,7 +20705,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41496",
       "brand": "PELADN",
@@ -20417,15 +20745,15 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "29557",
       "brand": "PELADN",
       "model": "RX 5500 XT 8G GDDR6 Dual Fan Black Gaming",
       "title": "PELADN RX 5500 XT 8G GDDR6 Dual Fan Black Gaming Graphics Card",
-      "current_price": 24900,
-      "regular_price": 27800,
-      "discount_bdt": 2900,
+      "current_price": 26900,
+      "regular_price": 29000,
+      "discount_bdt": 2100,
       "stock_status": "In Stock",
       "specs": {
         "Core Frequency": "1717MHz",
@@ -20438,12 +20766,12 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/peladn/rx-5500-xt-8g-black/rx-5500-xt-8g-black-05-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-15",
       "previous_price": 24900,
       "lowest_price": 24900,
       "lowest_price_date": "2026-11-06",
-      "highest_price": 24900,
-      "highest_price_date": "2026-11-06",
+      "highest_price": 26900,
+      "highest_price_date": "2026-11-15",
       "previous_stock_status": "In Stock",
       "price_history": [
         {
@@ -20453,11 +20781,19 @@
           "regular_price": 27800,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 26900,
+          "regular_price": 29000,
+          "stock_status": "In Stock",
+          "event": "PRICE_INCREASE"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "28995",
       "brand": "PELADN",
@@ -20497,7 +20833,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48800",
       "brand": "ARKTEK",
@@ -20537,7 +20873,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "52375",
       "brand": "OCPC",
@@ -20577,7 +20913,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47052",
       "brand": "OCPC",
@@ -20617,7 +20953,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "54018",
       "brand": "Asus",
@@ -20657,7 +20993,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "16802",
       "brand": "Asus",
@@ -20694,7 +21030,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "37663",
       "brand": "Asus",
@@ -20734,7 +21070,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47667",
       "brand": "Asus",
@@ -20774,15 +21110,15 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48025",
       "brand": "Asus",
       "model": "TUF Gaming GeForce RTX 5060 Ti",
       "title": "ASUS TUF Gaming GeForce RTX 5060 Ti 8GB GDDR7 OC Edition Graphics Card",
-      "current_price": 77900,
+      "current_price": 76900,
       "regular_price": 84000,
-      "discount_bdt": 6100,
+      "discount_bdt": 7100,
       "stock_status": "In Stock",
       "specs": {
         "Engine Clock": "2662MHz (Boost Clock), 2692MHz (OC Mode)",
@@ -20795,10 +21131,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/graphics-card/asus/tuf-gaming-rtx-5060-ti-8gb-oc/tuf-gaming-rtx-5060-ti-8gb-oc-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-15",
       "previous_price": 77900,
-      "lowest_price": 77900,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 76900,
+      "lowest_price_date": "2026-11-15",
       "highest_price": 77900,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -20810,11 +21146,19 @@
           "regular_price": 84000,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 76900,
+          "regular_price": 84000,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "48028",
       "brand": "Asus",
@@ -20854,7 +21198,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "42436",
       "brand": "Asus",
@@ -20894,7 +21238,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "47294",
       "brand": "Asus",
@@ -20934,7 +21278,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "43517",
       "brand": "Asus",
@@ -20974,7 +21318,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "39763",
       "brand": "Asus",
@@ -21014,7 +21358,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "41350",
       "brand": "Asus",
@@ -21054,7 +21398,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "graphics-card",
       "product_id": "53166",
       "brand": "Manli",

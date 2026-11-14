@@ -1,11 +1,11 @@
 {
-  "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+  "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
   "category": "cpu-cooler",
   "sorted_by": "model",
   "total_items": 519,
   "products": [
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "22369",
       "brand": "Antec",
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "51540",
       "brand": "Antec",
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45016",
       "brand": "Deepcool",
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "24747",
       "brand": "Deepcool",
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "33566",
       "brand": "DeepCool",
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45392",
       "brand": "Deepcool",
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "36421",
       "brand": "Deepcool",
@@ -324,7 +324,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "36435",
       "brand": "DeepCool",
@@ -364,7 +364,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "36433",
       "brand": "DeepCool",
@@ -404,16 +404,16 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "51050",
-      "brand": "DeepCool",
+      "brand": "Deepcool",
       "model": "AG400 G2 ARGB Single Tower",
       "title": "DeepCool AG400 G2 ARGB Single Tower Air CPU Cooler",
-      "current_price": 0,
-      "regular_price": 0,
-      "discount_bdt": 0,
-      "stock_status": "Out Of Stock",
+      "current_price": 2070,
+      "regular_price": 2970,
+      "discount_bdt": 900,
+      "stock_status": "In Stock",
       "specs": {
         "Fan Speed": "500~2200±10% RPM",
         "Heatpipe": "Ø6 mm×4 pcs",
@@ -424,13 +424,13 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/deepcool/ag400-g2-argb/ag400-g2-argb-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-13",
+      "last_changed": "2026-11-15",
       "previous_price": 2700,
       "lowest_price": 2070,
       "lowest_price_date": "2026-11-12",
       "highest_price": 2700,
       "highest_price_date": "2026-11-06",
-      "previous_stock_status": "In Stock",
+      "previous_stock_status": "Out Of Stock",
       "price_history": [
         {
           "date": "2026-11-06",
@@ -455,11 +455,19 @@
           "regular_price": 0,
           "stock_status": "Out Of Stock",
           "event": "OUT_OF_STOCK"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 2070,
+          "regular_price": 2970,
+          "stock_status": "In Stock",
+          "event": "RESTOCKED"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "50023",
       "brand": "Deepcool",
@@ -507,7 +515,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "50021",
       "brand": "Deepcool",
@@ -554,7 +562,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "51049",
       "brand": "DeepCool",
@@ -593,7 +601,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "25455",
       "brand": "DeepCool",
@@ -632,7 +640,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "24746",
       "brand": "DeepCool",
@@ -672,7 +680,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "30858",
       "brand": "DeepCool",
@@ -712,7 +720,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45517",
       "brand": "Deepcool",
@@ -760,7 +768,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "30979",
       "brand": "DeepCool",
@@ -800,7 +808,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "30981",
       "brand": "DeepCool",
@@ -840,7 +848,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "30977",
       "brand": "DeepCool",
@@ -880,7 +888,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "30978",
       "brand": "DeepCool",
@@ -920,7 +928,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "50026",
       "brand": "Deepcool",
@@ -968,7 +976,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45522",
       "brand": "DeepCool",
@@ -1008,7 +1016,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "32704",
       "brand": "DeepCool",
@@ -1048,7 +1056,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45040",
       "brand": "Deepcool",
@@ -1096,7 +1104,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "37690",
       "brand": "DeepCool",
@@ -1136,7 +1144,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "37688",
       "brand": "DeepCool",
@@ -1176,7 +1184,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "36500",
       "brand": "Deepcool",
@@ -1216,7 +1224,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "36510",
       "brand": "Deepcool",
@@ -1256,7 +1264,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "24195",
       "brand": "Deepcool",
@@ -1304,7 +1312,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "51051",
       "brand": "Deepcool",
@@ -1343,7 +1351,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "48212",
       "brand": "DeepCool",
@@ -1383,7 +1391,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "30860",
       "brand": "Deepcool",
@@ -1423,7 +1431,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45074",
       "brand": "Deepcool",
@@ -1463,7 +1471,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "21139",
       "brand": "Xigmatek",
@@ -1500,7 +1508,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "21138",
       "brand": "Xigmatek",
@@ -1537,7 +1545,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "21136",
       "brand": "Xigmatek",
@@ -1582,7 +1590,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "42125",
       "brand": "Xigmatek",
@@ -1622,7 +1630,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "42124",
       "brand": "Xigmatek",
@@ -1662,7 +1670,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "32689",
       "brand": "DeepCool",
@@ -1700,7 +1708,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "42115",
       "brand": "DeepCool",
@@ -1740,7 +1748,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "51052",
       "brand": "Deepcool",
@@ -1787,7 +1795,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45778",
       "brand": "Deepcool",
@@ -1827,7 +1835,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "32690",
       "brand": "Deepcool",
@@ -1865,7 +1873,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "47319",
       "brand": "Deepcool",
@@ -1912,7 +1920,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "47324",
       "brand": "Deepcool",
@@ -1951,7 +1959,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "47323",
       "brand": "Deepcool",
@@ -1998,7 +2006,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "24201",
       "brand": "Deepcool",
@@ -2046,7 +2054,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "24203",
       "brand": "Deepcool",
@@ -2094,7 +2102,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "32692",
       "brand": "Deepcool",
@@ -2142,7 +2150,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "24745",
       "brand": "DeepCool",
@@ -2182,7 +2190,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "32682",
       "brand": "Deepcool",
@@ -2220,7 +2228,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "35534",
       "brand": "Deepcool",
@@ -2258,7 +2266,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "48215",
       "brand": "Deepcool",
@@ -2306,7 +2314,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "48209",
       "brand": "DeepCool",
@@ -2346,7 +2354,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "48958",
       "brand": "Deepcool",
@@ -2386,7 +2394,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "29644",
       "brand": "DeepCool",
@@ -2424,7 +2432,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "39072",
       "brand": "Deepcool",
@@ -2462,7 +2470,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "32839",
       "brand": "Deepcool",
@@ -2502,7 +2510,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "51113",
       "brand": "Deepcool",
@@ -2541,7 +2549,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45776",
       "brand": "Deepcool",
@@ -2581,7 +2589,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "42148",
       "brand": "Xigmatek",
@@ -2621,7 +2629,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "42146",
       "brand": "Xigmatek",
@@ -2661,7 +2669,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "32695",
       "brand": "Deepcool",
@@ -2701,7 +2709,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45525",
       "brand": "DeepCool",
@@ -2741,7 +2749,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "51143",
       "brand": "DeepCool",
@@ -2780,7 +2788,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45775",
       "brand": "DeepCool",
@@ -2820,7 +2828,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "32699",
       "brand": "DeepCool",
@@ -2860,7 +2868,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45524",
       "brand": "Deepcool",
@@ -2908,7 +2916,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "51046",
       "brand": "Deepcool",
@@ -2954,7 +2962,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "48959",
       "brand": "Deepcool",
@@ -2994,7 +3002,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "24495",
       "brand": "Deepcool",
@@ -3033,7 +3041,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "30871",
       "brand": "Deepcool",
@@ -3072,7 +3080,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "37709",
       "brand": "Deepcool",
@@ -3112,7 +3120,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "48213",
       "brand": "Deepcool",
@@ -3152,7 +3160,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "40054",
       "brand": "ARCTIC",
@@ -3199,7 +3207,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "40053",
       "brand": "ARCTIC",
@@ -3254,7 +3262,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "24197",
       "brand": "DeepCool",
@@ -3294,7 +3302,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "37715",
       "brand": "Deepcool",
@@ -3334,7 +3342,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "19347",
       "brand": "Gigabyte",
@@ -3371,7 +3379,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "26244",
       "brand": "Gigabyte",
@@ -3411,7 +3419,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "37211",
       "brand": "Gigabyte",
@@ -3451,7 +3459,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "38243",
       "brand": "GIGABYTE",
@@ -3491,7 +3499,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "38258",
       "brand": "Gigabyte",
@@ -3531,7 +3539,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "28193",
       "brand": "Xigmatek",
@@ -3571,7 +3579,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45528",
       "brand": "DeepCool",
@@ -3611,7 +3619,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "36415",
       "brand": "DeepCool",
@@ -3651,7 +3659,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45527",
       "brand": "DeepCool",
@@ -3691,7 +3699,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "37694",
       "brand": "DeepCool",
@@ -3731,7 +3739,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "47921",
       "brand": "Deepcool",
@@ -3771,7 +3779,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45526",
       "brand": "DeepCool",
@@ -3811,7 +3819,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "25131",
       "brand": "Gamdias",
@@ -3848,7 +3856,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "25127",
       "brand": "Gamdias",
@@ -3885,7 +3893,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "54088",
       "brand": "Gamdias",
@@ -3925,7 +3933,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "35305",
       "brand": "Gamdias",
@@ -3963,7 +3971,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "35306",
       "brand": "Gamdias",
@@ -4001,7 +4009,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "26709",
       "brand": "Gamdias",
@@ -4038,7 +4046,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "42911",
       "brand": "Gamdias",
@@ -4077,7 +4085,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "42913",
       "brand": "Gamdias",
@@ -4116,7 +4124,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "42868",
       "brand": "GAMDIAS",
@@ -4155,7 +4163,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "54084",
       "brand": "Gamdias",
@@ -4195,7 +4203,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "35310",
       "brand": "GAMDIAS",
@@ -4233,7 +4241,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "35312",
       "brand": "Gamdias",
@@ -4271,7 +4279,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "50123",
       "brand": "Asus",
@@ -4319,7 +4327,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17934",
       "brand": "Gamdias",
@@ -4356,7 +4364,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "21656",
       "brand": "Gamdias",
@@ -4393,7 +4401,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "26710",
       "brand": "Gamdias",
@@ -4430,7 +4438,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "23496",
       "brand": "Gamdias",
@@ -4467,7 +4475,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "25133",
       "brand": "Gamdias",
@@ -4504,7 +4512,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "35303",
       "brand": "Gamdias",
@@ -4543,7 +4551,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "35279",
       "brand": "Gamdias",
@@ -4582,7 +4590,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "35281",
       "brand": "Gamdias",
@@ -4621,7 +4629,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "15763",
       "brand": "Gamdias",
@@ -4658,7 +4666,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45935",
       "brand": "GAMDIAS",
@@ -4696,7 +4704,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "35299",
       "brand": "Gamdias",
@@ -4735,7 +4743,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46431",
       "brand": "GAMDIAS",
@@ -4782,7 +4790,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "35275",
       "brand": "GAMDIAS",
@@ -4821,7 +4829,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "35278",
       "brand": "Gamdias",
@@ -4860,7 +4868,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "35274",
       "brand": "Gamdias",
@@ -4897,7 +4905,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "42918",
       "brand": "Gamdias",
@@ -4935,7 +4943,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "32477",
       "brand": "1stplayer",
@@ -4972,7 +4980,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "32478",
       "brand": "1stplayer",
@@ -5009,7 +5017,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "32475",
       "brand": "1stplayer",
@@ -5046,7 +5054,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "32476",
       "brand": "1stplayer",
@@ -5083,7 +5091,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "50885",
       "brand": "GAMDIAS",
@@ -5122,7 +5130,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "50883",
       "brand": "Gamdias",
@@ -5161,7 +5169,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "50884",
       "brand": "GAMDIAS",
@@ -5200,7 +5208,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "23501",
       "brand": "Gamdias",
@@ -5237,7 +5245,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "30675",
       "brand": "Gamdias",
@@ -5274,7 +5282,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "30677",
       "brand": "Gamdias",
@@ -5311,7 +5319,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "54083",
       "brand": "Gamdias",
@@ -5351,7 +5359,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "33897",
       "brand": "GAMDIAS",
@@ -5388,7 +5396,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "33898",
       "brand": "Gamdias",
@@ -5425,7 +5433,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "54078",
       "brand": "Gamdias",
@@ -5465,7 +5473,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "22563",
       "brand": "Deepcool",
@@ -5504,7 +5512,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46912",
       "brand": "Xigmatek",
@@ -5544,7 +5552,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46913",
       "brand": "Xigmatek",
@@ -5584,7 +5592,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46938",
       "brand": "Xigmatek",
@@ -5624,7 +5632,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46915",
       "brand": "Xigmatek",
@@ -5664,7 +5672,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45198",
       "brand": "1stplayer",
@@ -5704,7 +5712,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45201",
       "brand": "1stplayer",
@@ -5744,7 +5752,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45194",
       "brand": "1stplayer",
@@ -5784,7 +5792,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45195",
       "brand": "1STPLAYER",
@@ -5831,7 +5839,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45190",
       "brand": "1STPLAYER",
@@ -5871,7 +5879,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45187",
       "brand": "1STPLAYER",
@@ -5911,7 +5919,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "43920",
       "brand": "upHere",
@@ -5951,7 +5959,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46833",
       "brand": "Ocypus",
@@ -5990,7 +5998,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "54024",
       "brand": "Ocypus",
@@ -6030,7 +6038,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "54030",
       "brand": "Ocypus",
@@ -6070,7 +6078,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "54032",
       "brand": "Ocypus",
@@ -6110,7 +6118,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46835",
       "brand": "Ocypus",
@@ -6157,7 +6165,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46825",
       "brand": "Ocypus",
@@ -6196,7 +6204,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "54026",
       "brand": "Ocypus",
@@ -6236,7 +6244,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "54038",
       "brand": "Ocypus",
@@ -6276,7 +6284,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "54028",
       "brand": "Ocypus",
@@ -6316,7 +6324,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46831",
       "brand": "Ocypus",
@@ -6363,7 +6371,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46809",
       "brand": "Ocypus",
@@ -6402,7 +6410,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46811",
       "brand": "Ocypus",
@@ -6441,7 +6449,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46802",
       "brand": "Ocypus",
@@ -6488,7 +6496,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "54019",
       "brand": "Ocypus",
@@ -6528,7 +6536,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "54020",
       "brand": "Ocypus",
@@ -6568,7 +6576,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46804",
       "brand": "Ocypus",
@@ -6615,7 +6623,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "53628",
       "brand": "T-WOLF",
@@ -6663,7 +6671,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "43914",
       "brand": "upHere",
@@ -6702,7 +6710,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "43916",
       "brand": "upHere",
@@ -6749,7 +6757,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "43917",
       "brand": "upHere",
@@ -6788,7 +6796,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "43918",
       "brand": "upHere",
@@ -6827,7 +6835,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "51541",
       "brand": "Antec",
@@ -6883,7 +6891,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "51543",
       "brand": "Antec",
@@ -6931,7 +6939,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "51544",
       "brand": "Antec",
@@ -6979,7 +6987,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "51548",
       "brand": "Antec",
@@ -7035,7 +7043,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "51551",
       "brand": "Antec",
@@ -7091,7 +7099,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "14218",
       "brand": "Thermaltake",
@@ -7128,7 +7136,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "34699",
       "brand": "ARCTIC",
@@ -7168,7 +7176,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "34697",
       "brand": "Arctic",
@@ -7208,7 +7216,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "34698",
       "brand": "Arctic",
@@ -7248,7 +7256,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "34700",
       "brand": "Arctic",
@@ -7288,7 +7296,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "41463",
       "brand": "ARCTIC",
@@ -7328,7 +7336,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46653",
       "brand": "ARCTIC",
@@ -7368,7 +7376,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "48590",
       "brand": "ARCTIC",
@@ -7408,7 +7416,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "40071",
       "brand": "ARCTIC",
@@ -7448,7 +7456,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "44364",
       "brand": "ARCTIC",
@@ -7496,7 +7504,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "34702",
       "brand": "ARCTIC",
@@ -7536,7 +7544,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "34693",
       "brand": "ARCTIC",
@@ -7592,7 +7600,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "44365",
       "brand": "ARCTIC",
@@ -7630,7 +7638,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "44367",
       "brand": "ARCTIC",
@@ -7668,7 +7676,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "44353",
       "brand": "ARCTIC",
@@ -7715,7 +7723,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "44362",
       "brand": "ARCTIC",
@@ -7753,7 +7761,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "53608",
       "brand": "T-WOLF",
@@ -7801,7 +7809,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "53623",
       "brand": "T-WOLF",
@@ -7849,7 +7857,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "53626",
       "brand": "T-WOLF",
@@ -7889,7 +7897,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "37561",
       "brand": "Xigmatek",
@@ -7927,7 +7935,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "37572",
       "brand": "Xigmatek",
@@ -7965,7 +7973,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "37564",
       "brand": "Xigmatek",
@@ -8003,7 +8011,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "37573",
       "brand": "Xigmatek",
@@ -8041,7 +8049,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "42264",
       "brand": "Gigabyte",
@@ -8081,7 +8089,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "42265",
       "brand": "Gigabyte",
@@ -8121,7 +8129,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "42259",
       "brand": "Gigabyte",
@@ -8161,7 +8169,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "42262",
       "brand": "Gigabyte",
@@ -8201,7 +8209,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "54041",
       "brand": "Ocypus",
@@ -8240,7 +8248,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "54042",
       "brand": "Ocypus",
@@ -8279,15 +8287,15 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46843",
       "brand": "Ocypus",
       "model": "Gamma A40 BK ARGB Digital Single Tower",
       "title": "Ocypus Gamma A40 BK ARGB Digital Single Tower Air CPU Cooler With Display",
-      "current_price": 2099,
+      "current_price": 2000,
       "regular_price": 2970,
-      "discount_bdt": 871,
+      "discount_bdt": 970,
       "stock_status": "In Stock",
       "specs": {
         "Fan Speed": "600~2400RPM ±10%, 4 Heat Pipes",
@@ -8299,10 +8307,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/ocypus/gamma-a40-bk-argb-digital/gamma-a40-bk-argb-digital-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-15",
       "previous_price": 2099,
-      "lowest_price": 2099,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 2000,
+      "lowest_price_date": "2026-11-15",
       "highest_price": 2099,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -8314,11 +8322,19 @@
           "regular_price": 2970,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 2000,
+          "regular_price": 2970,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46846",
       "brand": "Ocypus",
@@ -8356,15 +8372,15 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46849",
       "brand": "Ocypus",
       "model": "Gamma A40 BK Single Tower",
       "title": "Ocypus Gamma A40 BK Single Tower Air CPU Cooler",
-      "current_price": 2100,
+      "current_price": 1900,
       "regular_price": 2530,
-      "discount_bdt": 430,
+      "discount_bdt": 630,
       "stock_status": "In Stock",
       "specs": {
         "Fan Speed": "600~2400RPM ±10%, 4 Heat Pipes",
@@ -8376,10 +8392,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/ocypus/gamma-a40-bk/gamma-a40-bk-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
-      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "2026-11-15",
       "previous_price": 2100,
-      "lowest_price": 2100,
-      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "lowest_price": 1900,
+      "lowest_price_date": "2026-11-15",
       "highest_price": 2100,
       "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
       "previous_stock_status": "In Stock",
@@ -8390,19 +8406,27 @@
           "regular_price": 2530,
           "stock_status": "In Stock",
           "event": "INITIAL"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 1900,
+          "regular_price": 2530,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46845",
       "brand": "Ocypus",
       "model": "Gamma A40 WH ARGB Digital Single Tower",
       "title": "Ocypus Gamma A40 WH ARGB Digital Single Tower Air CPU Cooler With Display",
-      "current_price": 2650,
+      "current_price": 2030,
       "regular_price": 3080,
-      "discount_bdt": 430,
+      "discount_bdt": 1050,
       "stock_status": "In Stock",
       "specs": {
         "Fan Speed": "600~2400RPM ±10%, 4 Heat Pipes",
@@ -8414,10 +8438,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/ocypus/gamma-a40-wh-argb-digital/gamma-a40-wh-argb-digital-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-15",
       "previous_price": 2650,
-      "lowest_price": 2650,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 2030,
+      "lowest_price_date": "2026-11-15",
       "highest_price": 2650,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -8429,19 +8453,27 @@
           "regular_price": 3080,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 2030,
+          "regular_price": 3080,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46848",
       "brand": "Ocypus",
       "model": "Gamma A40 WH ARGB Single Tower",
       "title": "Ocypus Gamma A40 WH ARGB Single Tower Air CPU Cooler",
-      "current_price": 2050,
+      "current_price": 1930,
       "regular_price": 2860,
-      "discount_bdt": 810,
+      "discount_bdt": 930,
       "stock_status": "In Stock",
       "specs": {
         "Fan Speed": "600~2400RPM ±10%, 4 Heat Pipes",
@@ -8453,10 +8485,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/ocypus/gamma-a40-wh-argb/gamma-a40-wh-argb-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-15",
       "previous_price": 2050,
-      "lowest_price": 2050,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 1930,
+      "lowest_price_date": "2026-11-15",
       "highest_price": 2050,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -8468,11 +8500,19 @@
           "regular_price": 2860,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 1930,
+          "regular_price": 2860,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "26207",
       "brand": "DeepCool",
@@ -8512,7 +8552,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "26204",
       "brand": "DeepCool",
@@ -8552,7 +8592,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "20471",
       "brand": "Deepcool",
@@ -8592,7 +8632,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17686",
       "brand": "DeepCool",
@@ -8632,7 +8672,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "24497",
       "brand": "DeepCool",
@@ -8669,7 +8709,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17448",
       "brand": "Cooler Master",
@@ -8709,7 +8749,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17439",
       "brand": "Cooler Master",
@@ -8747,7 +8787,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "49158",
       "brand": "Value-Top",
@@ -8787,7 +8827,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "52071",
       "brand": "Value-Top",
@@ -8834,7 +8874,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "52073",
       "brand": "Value-Top",
@@ -8873,7 +8913,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "52077",
       "brand": "Value-Top",
@@ -8912,7 +8952,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "18827",
       "brand": "Corsair",
@@ -8950,7 +8990,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "18831",
       "brand": "Corsair",
@@ -8989,7 +9029,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "50166",
       "brand": "upHere",
@@ -9028,7 +9068,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "43901",
       "brand": "upHere",
@@ -9067,7 +9107,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "52079",
       "brand": "Value-Top",
@@ -9107,7 +9147,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17374",
       "brand": "Cooler Master",
@@ -9147,7 +9187,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "15738",
       "brand": "Cooler Master",
@@ -9184,7 +9224,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "36879",
       "brand": "Cooler Master",
@@ -9224,7 +9264,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "33531",
       "brand": "Cooler Master",
@@ -9264,7 +9304,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17368",
       "brand": "Cooler Master",
@@ -9304,7 +9344,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "10930",
       "brand": "Cooler Master",
@@ -9341,7 +9381,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "15232",
       "brand": "Cooler Master",
@@ -9378,7 +9418,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "15858",
       "brand": "Cooler Master",
@@ -9415,7 +9455,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "15200",
       "brand": "Cooler Master",
@@ -9452,7 +9492,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "20872",
       "brand": "Cooler Master",
@@ -9492,7 +9532,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "26183",
       "brand": "Cooler Master",
@@ -9532,7 +9572,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "36876",
       "brand": "Cooler Master",
@@ -9572,7 +9612,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "50116",
       "brand": "Cooler Master",
@@ -9620,7 +9660,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17372",
       "brand": "Cooler Master",
@@ -9659,7 +9699,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17380",
       "brand": "Cooler Master",
@@ -9697,7 +9737,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17365",
       "brand": "Cooler Master",
@@ -9737,7 +9777,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "50048",
       "brand": "Cooler Master",
@@ -9777,7 +9817,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "33623",
       "brand": "Cooler Master",
@@ -9817,7 +9857,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "12518",
       "brand": "Cooler Master",
@@ -9854,7 +9894,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "12519",
       "brand": "Cooler Master",
@@ -9891,7 +9931,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "12429",
       "brand": "Cooler Master",
@@ -9928,7 +9968,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17390",
       "brand": "Deepcool",
@@ -9966,7 +10006,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "48380",
       "brand": "Corsair",
@@ -10004,7 +10044,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "28535",
       "brand": "Corsair",
@@ -10044,7 +10084,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "38155",
       "brand": "Corsair",
@@ -10084,7 +10124,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "38156",
       "brand": "Corsair",
@@ -10124,7 +10164,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "19392",
       "brand": "Corsair",
@@ -10161,7 +10201,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "28719",
       "brand": "Corsair",
@@ -10199,7 +10239,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "38044",
       "brand": "Corsair",
@@ -10238,7 +10278,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "29259",
       "brand": "Corsair",
@@ -10275,7 +10315,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "38153",
       "brand": "Corsair",
@@ -10315,7 +10355,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "38154",
       "brand": "Corsair",
@@ -10355,7 +10395,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "44800",
       "brand": "Corsair",
@@ -10401,7 +10441,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "31798",
       "brand": "Corsair",
@@ -10447,7 +10487,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "31822",
       "brand": "Corsair",
@@ -10485,7 +10525,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "31844",
       "brand": "Corsair",
@@ -10523,7 +10563,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "31846",
       "brand": "Corsair",
@@ -10561,7 +10601,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "49546",
       "brand": "Corsair",
@@ -10601,7 +10641,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "43976",
       "brand": "Corsair",
@@ -10641,7 +10681,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "43975",
       "brand": "Corsair",
@@ -10681,7 +10721,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46997",
       "brand": "Corsair",
@@ -10735,7 +10775,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "54698",
       "brand": "Corsair",
@@ -10773,7 +10813,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "54021",
       "brand": "Ocypus",
@@ -10811,15 +10851,15 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46818",
       "brand": "Ocypus",
       "model": "Iota A40 BK Single Tower",
       "title": "Ocypus Iota A40 BK Single Tower Air CPU Cooler With Display",
-      "current_price": 3490,
+      "current_price": 3000,
       "regular_price": 3960,
-      "discount_bdt": 470,
+      "discount_bdt": 960,
       "stock_status": "In Stock",
       "specs": {
         "Fan Speed": "500~2000±10%RPM, 4 Heat Pipes",
@@ -10830,10 +10870,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/ocypus/iota-a40-bk/iota-a40-bk-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-15",
       "previous_price": 3490,
-      "lowest_price": 3490,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 3000,
+      "lowest_price_date": "2026-11-15",
       "highest_price": 3490,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -10845,11 +10885,19 @@
           "regular_price": 3960,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 3000,
+          "regular_price": 3960,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "47337",
       "brand": "Ocypus",
@@ -10887,7 +10935,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46815",
       "brand": "Ocypus",
@@ -10925,7 +10973,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46817",
       "brand": "Ocypus",
@@ -10971,15 +11019,15 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46795",
       "brand": "Ocypus",
       "model": "Iota L24 BK 240mm AIO",
       "title": "Ocypus Iota L24 BK 240mm AIO Liquid CPU Cooler With Display",
-      "current_price": 8190,
+      "current_price": 7600,
       "regular_price": 8890,
-      "discount_bdt": 700,
+      "discount_bdt": 1290,
       "stock_status": "In Stock",
       "specs": {
         "Fan Speed": "500~2000±10%RPM",
@@ -10990,10 +11038,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/ocypus/iota-l24-bk/iota-l24-bk-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-15",
       "previous_price": 8190,
-      "lowest_price": 8190,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 7600,
+      "lowest_price_date": "2026-11-15",
       "highest_price": 8190,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -11005,11 +11053,19 @@
           "regular_price": 8890,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 7600,
+          "regular_price": 8890,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "52057",
       "brand": "Ocypus",
@@ -11057,7 +11113,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "52044",
       "brand": "Ocypus",
@@ -11105,7 +11161,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "52046",
       "brand": "Ocypus",
@@ -11153,7 +11209,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "35996",
       "brand": "NZXT",
@@ -11193,7 +11249,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "35991",
       "brand": "NZXT",
@@ -11233,7 +11289,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "35992",
       "brand": "NZXT",
@@ -11273,7 +11329,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "36007",
       "brand": "NZXT",
@@ -11313,7 +11369,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "36009",
       "brand": "NZXT",
@@ -11353,7 +11409,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "36017",
       "brand": "NZXT",
@@ -11393,7 +11449,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "36023",
       "brand": "NZXT",
@@ -11433,7 +11489,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "50145",
       "brand": "NZXT",
@@ -11473,7 +11529,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "35993",
       "brand": "NZXT",
@@ -11513,7 +11569,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "35995",
       "brand": "NZXT",
@@ -11553,7 +11609,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "36024",
       "brand": "NZXT",
@@ -11593,7 +11649,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "36019",
       "brand": "NZXT",
@@ -11633,7 +11689,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "50356",
       "brand": "NZXT",
@@ -11673,7 +11729,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "50138",
       "brand": "NZXT",
@@ -11713,7 +11769,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "38328",
       "brand": "DeepCool",
@@ -11752,7 +11808,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45021",
       "brand": "Deepcool",
@@ -11791,7 +11847,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "38331",
       "brand": "DeepCool",
@@ -11830,7 +11886,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45022",
       "brand": "DeepCool",
@@ -11869,7 +11925,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45020",
       "brand": "Deepcool",
@@ -11916,7 +11972,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "43200",
       "brand": "DeepCool",
@@ -11955,7 +12011,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "50029",
       "brand": "DeepCool",
@@ -12010,7 +12066,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "24191",
       "brand": "DeepCool",
@@ -12050,7 +12106,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "24381",
       "brand": "DeepCool",
@@ -12090,7 +12146,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45019",
       "brand": "Deepcool",
@@ -12137,7 +12193,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "44162",
       "brand": "DeepCool",
@@ -12176,7 +12232,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "49467",
       "brand": "DeepCool",
@@ -12216,7 +12272,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "24190",
       "brand": "DeepCool",
@@ -12256,7 +12312,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "27885",
       "brand": "DeepCool",
@@ -12296,7 +12352,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "27886",
       "brand": "DeepCool",
@@ -12336,7 +12392,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "37467",
       "brand": "DeepCool",
@@ -12376,7 +12432,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "34651",
       "brand": "Arctic",
@@ -12416,7 +12472,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "34648",
       "brand": "Arctic",
@@ -12456,7 +12512,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "34681",
       "brand": "Arctic",
@@ -12496,7 +12552,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "34679",
       "brand": "Arctic",
@@ -12536,7 +12592,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "34690",
       "brand": "Arctic",
@@ -12576,7 +12632,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "34685",
       "brand": "Arctic",
@@ -12616,7 +12672,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "34610",
       "brand": "ARCTIC",
@@ -12656,7 +12712,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "37501",
       "brand": "Arctic",
@@ -12696,7 +12752,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "37504",
       "brand": "Arctic",
@@ -12736,7 +12792,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "37505",
       "brand": "Arctic",
@@ -12776,7 +12832,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "37507",
       "brand": "Arctic",
@@ -12816,7 +12872,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "37510",
       "brand": "ARCTIC",
@@ -12856,7 +12912,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "37509",
       "brand": "Arctic",
@@ -12896,7 +12952,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "37513",
       "brand": "Arctic",
@@ -12936,7 +12992,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "37515",
       "brand": "ARCTIC",
@@ -12976,7 +13032,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "37516",
       "brand": "Arctic",
@@ -13016,7 +13072,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "37520",
       "brand": "Arctic",
@@ -13056,7 +13112,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "37521",
       "brand": "ARCTIC",
@@ -13096,7 +13152,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "37523",
       "brand": "ARCTIC",
@@ -13144,7 +13200,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46690",
       "brand": "ARCTIC",
@@ -13184,7 +13240,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "44352",
       "brand": "ARCTIC",
@@ -13232,7 +13288,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46687",
       "brand": "ARCTIC",
@@ -13272,7 +13328,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "47649",
       "brand": "ARCTIC",
@@ -13320,7 +13376,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "27967",
       "brand": "Xigmatek",
@@ -13358,7 +13414,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "21135",
       "brand": "Xigmatek",
@@ -13396,7 +13452,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "21132",
       "brand": "Xigmatek",
@@ -13434,7 +13490,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "32485",
       "brand": "Xigmatek",
@@ -13474,7 +13530,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46837",
       "brand": "Xigmatek",
@@ -13514,7 +13570,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46839",
       "brand": "Xigmatek",
@@ -13554,7 +13610,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46016",
       "brand": "DeepCool",
@@ -13594,7 +13650,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46014",
       "brand": "Deepcool",
@@ -13634,7 +13690,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45166",
       "brand": "Deepcool",
@@ -13682,7 +13738,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45167",
       "brand": "DeepCool",
@@ -13722,7 +13778,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45018",
       "brand": "DeepCool",
@@ -13761,16 +13817,16 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "43945",
-      "brand": "Deepcool",
+      "brand": "DeepCool",
       "model": "LP360 360mm ARGB",
       "title": "DeepCool LP360 360mm ARGB Liquid CPU Cooler With Display",
-      "current_price": 14300,
-      "regular_price": 16280,
-      "discount_bdt": 1980,
-      "stock_status": "In Stock",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
       "specs": {
         "Fan Speed": "600~2400 RPM ± 10%",
         "Features": "Real-Time CPU Status Screen With Halo ARGB | Custom Pixelated Display, Create a 3-Frame Animation | Anti-Leak Technology, 5 Pro Generation Pump"
@@ -13780,7 +13836,7 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/deepcool/lp360/lp360-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-15",
       "previous_price": 14300,
       "lowest_price": 14300,
       "lowest_price_date": "2026-11-06",
@@ -13795,11 +13851,19 @@
           "regular_price": 16280,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-15",
+          "timestamp": "Sun 15 Nov 2026 03:50 AM Sunday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "OUT_OF_STOCK"
         }
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45170",
       "brand": "DeepCool",
@@ -13838,7 +13902,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "43944",
       "brand": "DeepCool",
@@ -13876,7 +13940,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45179",
       "brand": "Deepcool",
@@ -13916,7 +13980,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46999",
       "brand": "DeepCool",
@@ -13954,7 +14018,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "24379",
       "brand": "DeepCool",
@@ -13994,7 +14058,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "38333",
       "brand": "DeepCool",
@@ -14034,7 +14098,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45015",
       "brand": "DeepCool",
@@ -14074,7 +14138,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "31279",
       "brand": "DeepCool",
@@ -14114,7 +14178,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "37840",
       "brand": "DeepCool",
@@ -14154,7 +14218,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "24374",
       "brand": "DeepCool",
@@ -14194,7 +14258,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "38359",
       "brand": "DeepCool",
@@ -14234,7 +14298,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "33564",
       "brand": "DeepCool",
@@ -14274,7 +14338,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "38326",
       "brand": "DeepCool",
@@ -14314,7 +14378,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45023",
       "brand": "Deepcool",
@@ -14353,7 +14417,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45025",
       "brand": "Deepcool",
@@ -14392,7 +14456,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45011",
       "brand": "DeepCool",
@@ -14432,7 +14496,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45012",
       "brand": "DeepCool",
@@ -14472,7 +14536,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "50032",
       "brand": "DeepCool",
@@ -14512,7 +14576,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "26201",
       "brand": "Deepcool",
@@ -14552,7 +14616,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "26208",
       "brand": "DeepCool",
@@ -14592,7 +14656,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "31277",
       "brand": "DeepCool",
@@ -14632,7 +14696,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "51636",
       "brand": "Antec",
@@ -14686,7 +14750,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "51638",
       "brand": "Antec",
@@ -14732,7 +14796,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17402",
       "brand": "Cooler Master",
@@ -14769,7 +14833,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "44919",
       "brand": "MSI",
@@ -14825,7 +14889,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "44828",
       "brand": "MSI",
@@ -14873,7 +14937,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "41257",
       "brand": "MSI",
@@ -14929,7 +14993,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "41256",
       "brand": "MSI",
@@ -14977,7 +15041,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "39575",
       "brand": "MSI",
@@ -15017,7 +15081,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "40382",
       "brand": "MSI",
@@ -15057,7 +15121,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17376",
       "brand": "Cooler Master",
@@ -15097,7 +15161,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "13442",
       "brand": "Cooler",
@@ -15134,7 +15198,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17379",
       "brand": "Cooler Master",
@@ -15174,7 +15238,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17383",
       "brand": "Cooler Master",
@@ -15211,7 +15275,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17377",
       "brand": "Cooler Master",
@@ -15248,7 +15312,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17352",
       "brand": "Cooler Master",
@@ -15285,7 +15349,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17386",
       "brand": "Cooler Master",
@@ -15322,7 +15386,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17403",
       "brand": "Cooler Master",
@@ -15359,7 +15423,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17398",
       "brand": "Cooler Master",
@@ -15396,7 +15460,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17388",
       "brand": "Cooler Master",
@@ -15433,7 +15497,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17381",
       "brand": "Cooler Master",
@@ -15470,7 +15534,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "33640",
       "brand": "Cooler Master",
@@ -15507,7 +15571,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17446",
       "brand": "Cooler Master",
@@ -15547,7 +15611,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17447",
       "brand": "Cooler Master",
@@ -15587,7 +15651,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "36895",
       "brand": "Cooler Master",
@@ -15627,7 +15691,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "33642",
       "brand": "Cooler Master",
@@ -15664,7 +15728,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "33635",
       "brand": "Cooler Master",
@@ -15701,7 +15765,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "33637",
       "brand": "Cooler Master",
@@ -15738,7 +15802,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "33632",
       "brand": "Cooler Master",
@@ -15775,7 +15839,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "33645",
       "brand": "Cooler Master",
@@ -15812,7 +15876,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "33636",
       "brand": "Cooler Master",
@@ -15849,7 +15913,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "33638",
       "brand": "Cooler Master",
@@ -15886,7 +15950,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "50163",
       "brand": "Cooler Master",
@@ -15926,7 +15990,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "15736",
       "brand": "Cooler Master",
@@ -15963,7 +16027,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17384",
       "brand": "Cooler Master",
@@ -16000,7 +16064,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "20865",
       "brand": "Cooler Master",
@@ -16037,7 +16101,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "15737",
       "brand": "Cooler Master",
@@ -16074,7 +16138,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17330",
       "brand": "Cooler Master",
@@ -16111,7 +16175,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17392",
       "brand": "Cooler Master",
@@ -16148,7 +16212,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17345",
       "brand": "Cooler Master",
@@ -16185,7 +16249,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17396",
       "brand": "Cooler Master",
@@ -16222,7 +16286,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17346",
       "brand": "Cooler Master",
@@ -16259,7 +16323,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "23948",
       "brand": "Cooler Master",
@@ -16296,7 +16360,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "15740",
       "brand": "Cooler Master",
@@ -16333,7 +16397,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17394",
       "brand": "Cooler Master",
@@ -16370,7 +16434,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "12294",
       "brand": "Cooler Master",
@@ -16407,7 +16471,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "50126",
       "brand": "Asus",
@@ -16447,7 +16511,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "52072",
       "brand": "MSI",
@@ -16511,7 +16575,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "10931",
       "brand": "Cooler Master",
@@ -16548,7 +16612,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "44829",
       "brand": "MSI",
@@ -16588,7 +16652,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "50270",
       "brand": "MSI",
@@ -16635,7 +16699,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "50271",
       "brand": "MSI",
@@ -16682,7 +16746,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "21921",
       "brand": "1stplayer",
@@ -16719,7 +16783,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "27700",
       "brand": "1stplayer",
@@ -16756,7 +16820,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "21922",
       "brand": "1stplayer",
@@ -16793,7 +16857,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "41978",
       "brand": "1stplayer",
@@ -16833,7 +16897,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "41977",
       "brand": "1stplayer",
@@ -16873,7 +16937,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "41933",
       "brand": "1stplayer",
@@ -16913,7 +16977,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "41974",
       "brand": "1stplayer",
@@ -16953,7 +17017,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "38874",
       "brand": "1stplayer",
@@ -16990,7 +17054,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "36345",
       "brand": "DeepCool",
@@ -17030,7 +17094,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "44494",
       "brand": "Deepcool",
@@ -17070,7 +17134,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45164",
       "brand": "Deepcool",
@@ -17110,7 +17174,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "36363",
       "brand": "DeepCool",
@@ -17150,7 +17214,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "42466",
       "brand": "Deepcool",
@@ -17198,7 +17262,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46006",
       "brand": "DeepCool",
@@ -17238,7 +17302,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "40501",
       "brand": "Corsair",
@@ -17285,7 +17349,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "40504",
       "brand": "Corsair",
@@ -17332,7 +17396,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "41551",
       "brand": "Corsair",
@@ -17379,7 +17443,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "43320",
       "brand": "Corsair",
@@ -17426,7 +17490,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "28191",
       "brand": "Xigmatek",
@@ -17466,7 +17530,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "53075",
       "brand": "Antec",
@@ -17504,7 +17568,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "53081",
       "brand": "Antec",
@@ -17542,7 +17606,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "53084",
       "brand": "Antec",
@@ -17580,7 +17644,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "53096",
       "brand": "Antec",
@@ -17618,7 +17682,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "53087",
       "brand": "Antec",
@@ -17656,7 +17720,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "53091",
       "brand": "Antec",
@@ -17694,7 +17758,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "39485",
       "brand": "Cougar",
@@ -17733,7 +17797,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "39486",
       "brand": "Cougar",
@@ -17772,7 +17836,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "50117",
       "brand": "Cougar",
@@ -17811,7 +17875,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "50119",
       "brand": "Cougar",
@@ -17850,7 +17914,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "38557",
       "brand": "Asus",
@@ -17897,7 +17961,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "41723",
       "brand": "Asus",
@@ -17937,7 +18001,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "35636",
       "brand": "Asus",
@@ -17977,7 +18041,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "38851",
       "brand": "1stplayer",
@@ -18017,7 +18081,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "32582",
       "brand": "Asus",
@@ -18057,7 +18121,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "50352",
       "brand": "Asus",
@@ -18097,7 +18161,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "50064",
       "brand": "Asus",
@@ -18137,7 +18201,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46324",
       "brand": "Asus",
@@ -18176,7 +18240,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "23666",
       "brand": "Asus",
@@ -18214,7 +18278,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "35674",
       "brand": "Asus",
@@ -18253,7 +18317,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "47857",
       "brand": "Asus",
@@ -18293,7 +18357,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "35680",
       "brand": "Asus",
@@ -18332,7 +18396,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "52054",
       "brand": "Ocypus",
@@ -18379,7 +18443,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "51959",
       "brand": "Ocypus",
@@ -18426,7 +18490,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "51957",
       "brand": "Ocypus",
@@ -18473,7 +18537,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "52055",
       "brand": "Ocypus",
@@ -18520,7 +18584,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "51963",
       "brand": "Ocypus",
@@ -18567,7 +18631,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "54017",
       "brand": "Ocypus",
@@ -18606,7 +18670,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46785",
       "brand": "Ocypus",
@@ -18652,7 +18716,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46791",
       "brand": "Ocypus",
@@ -18698,7 +18762,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "51962",
       "brand": "Ocypus",
@@ -18745,7 +18809,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "48888",
       "brand": "Antec",
@@ -18799,7 +18863,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "44624",
       "brand": "Antec",
@@ -18845,7 +18909,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "44626",
       "brand": "Antec",
@@ -18891,7 +18955,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "48195",
       "brand": "Deepcool",
@@ -18939,7 +19003,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "50031",
       "brand": "Deepcool",
@@ -18979,7 +19043,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "37541",
       "brand": "Gamdias",
@@ -19016,7 +19080,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "37544",
       "brand": "GAMDIAS",
@@ -19069,7 +19133,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "18636",
       "brand": "Antec",
@@ -19107,7 +19171,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "18637",
       "brand": "Antec",
@@ -19145,7 +19209,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "20502",
       "brand": "Antec",
@@ -19183,7 +19247,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "20929",
       "brand": "Team",
@@ -19220,7 +19284,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "29803",
       "brand": "NZXT",
@@ -19259,7 +19323,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "29800",
       "brand": "NZXT",
@@ -19298,7 +19362,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "29810",
       "brand": "NZXT",
@@ -19337,7 +19401,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "29811",
       "brand": "NZXT",
@@ -19376,7 +19440,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "13006",
       "brand": "Cooler Master",
@@ -19413,7 +19477,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "20555",
       "brand": "1stplayer",
@@ -19450,7 +19514,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "21919",
       "brand": "1stplayer",
@@ -19487,7 +19551,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "38877",
       "brand": "1stplayer",
@@ -19525,7 +19589,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "38880",
       "brand": "1stplayer",
@@ -19563,7 +19627,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "35798",
       "brand": "1stplayer",
@@ -19600,7 +19664,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "35801",
       "brand": "1stplayer",
@@ -19637,7 +19701,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "38875",
       "brand": "1stplayer",
@@ -19675,7 +19739,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "38876",
       "brand": "1stplayer",
@@ -19713,7 +19777,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45105",
       "brand": "1stplayer",
@@ -19753,7 +19817,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45109",
       "brand": "1stplayer",
@@ -19793,7 +19857,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45102",
       "brand": "1stplayer",
@@ -19833,7 +19897,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "45103",
       "brand": "1stplayer",
@@ -19873,7 +19937,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "32350",
       "brand": "Asus",
@@ -19912,7 +19976,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "50125",
       "brand": "Asus",
@@ -19951,7 +20015,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "53605",
       "brand": "T-WOLF",
@@ -19999,7 +20063,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "53606",
       "brand": "T-WOLF",
@@ -20047,7 +20111,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46333",
       "brand": "Value-Top",
@@ -20095,7 +20159,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "49233",
       "brand": "Value-Top",
@@ -20135,7 +20199,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "46334",
       "brand": "Value-Top",
@@ -20183,7 +20247,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "49251",
       "brand": "Value-Top",
@@ -20223,7 +20287,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "43933",
       "brand": "upHere",
@@ -20263,7 +20327,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "43934",
       "brand": "upHere",
@@ -20303,7 +20367,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "50167",
       "brand": "upHere",
@@ -20343,7 +20407,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "50168",
       "brand": "upHere",
@@ -20383,7 +20447,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "43895",
       "brand": "upHere",
@@ -20422,7 +20486,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "43897",
       "brand": "upHere",
@@ -20462,7 +20526,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "43896",
       "brand": "upHere",
@@ -20501,7 +20565,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "43899",
       "brand": "upHere",
@@ -20541,7 +20605,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "43924",
       "brand": "upHere",
@@ -20581,7 +20645,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "43928",
       "brand": "upHere",
@@ -20629,7 +20693,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "50165",
       "brand": "upHere",
@@ -20669,7 +20733,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "43930",
       "brand": "upHere",
@@ -20709,7 +20773,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "24182",
       "brand": "Antec",
@@ -20747,7 +20811,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "24188",
       "brand": "Antec",
@@ -20785,7 +20849,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "42860",
       "brand": "Antec",
@@ -20823,7 +20887,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "51555",
       "brand": "Antec",
@@ -20878,7 +20942,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17450",
       "brand": "Cooler Master",
@@ -20918,7 +20982,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17375",
       "brand": "Cooler Master",
@@ -20958,7 +21022,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "17422",
       "brand": "Cooler Master",
@@ -20998,7 +21062,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "41919",
       "brand": "1STPLAYER",
@@ -21046,7 +21110,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "41917",
       "brand": "1STPLAYER",
@@ -21086,7 +21150,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "41911",
       "brand": "1stplayer",
@@ -21126,7 +21190,7 @@
       ]
     },
     {
-      "extract-date": "Sat 14 Nov 2026 05:03 AM Saturday",
+      "extract-date": "Sun 15 Nov 2026 03:50 AM Sunday",
       "category": "cpu-cooler",
       "product_id": "41913",
       "brand": "1stplayer",
