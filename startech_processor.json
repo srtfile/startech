@@ -1,11 +1,11 @@
 {
-  "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+  "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
   "category": "processor",
   "sorted_by": "model",
   "total_items": 139,
   "products": [
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "13306",
       "brand": "INTEL",
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "14955",
       "brand": "Intel",
@@ -79,15 +79,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "31472",
       "brand": "INTEL",
       "model": "10th Gen Core i3 10100T",
       "title": "Intel 10th Gen Core i3 10100T Processor (Tray Box)",
-      "current_price": 9300,
-      "regular_price": 9980,
-      "discount_bdt": 680,
+      "current_price": 8700,
+      "regular_price": 9330,
+      "discount_bdt": 630,
       "stock_status": "In Stock",
       "specs": {
         "Clock Speed": "3.00 GHz up to 3.80 GHz",
@@ -100,10 +100,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/10th-gen-core-i3-10100t/10th-gen-core-i3-10100t-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
-      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "2026-11-23",
       "previous_price": 9300,
-      "lowest_price": 9300,
-      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "lowest_price": 8700,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 9300,
       "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
       "previous_stock_status": "In Stock",
@@ -114,11 +114,19 @@
           "regular_price": 9980,
           "stock_status": "In Stock",
           "event": "INITIAL"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 8700,
+          "regular_price": 9330,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "13120",
       "brand": "INTEL",
@@ -156,7 +164,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "13121",
       "brand": "Intel",
@@ -195,7 +203,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "13124",
       "brand": "INTEL",
@@ -234,15 +242,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "47335",
       "brand": "INTEL",
       "model": "10th Gen Core i5-10505",
       "title": "Intel 10th Gen Core i5-10505 Processor",
-      "current_price": 13900,
-      "regular_price": 15290,
-      "discount_bdt": 1390,
+      "current_price": 13800,
+      "regular_price": 14870,
+      "discount_bdt": 1070,
       "stock_status": "In Stock",
       "specs": {
         "Clock Speed": "3.20 GHz up to 4.60 GHz",
@@ -255,10 +263,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i5-10505/core-i5-10505-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-23",
       "previous_price": 13900,
-      "lowest_price": 13900,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 13800,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 13900,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -270,11 +278,19 @@
           "regular_price": 15290,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 13800,
+          "regular_price": 14870,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "13127",
       "brand": "INTEL",
@@ -313,7 +329,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "13123",
       "brand": "Intel",
@@ -351,7 +367,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "16749",
       "brand": "INTEL",
@@ -391,7 +407,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "16792",
       "brand": "INTEL",
@@ -430,7 +446,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "16789",
       "brand": "INTEL",
@@ -470,15 +486,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "16039",
       "brand": "INTEL",
       "model": "11th Gen Core i7-11700 Rocket Lake",
       "title": "Intel 11th Gen Core i7-11700 Rocket Lake Processor",
-      "current_price": 23000,
-      "regular_price": 25300,
-      "discount_bdt": 2300,
+      "current_price": 22900,
+      "regular_price": 24740,
+      "discount_bdt": 1840,
       "stock_status": "In Stock",
       "specs": {
         "Clockspeed": "2.50 GHz Up to 4.90 GHz",
@@ -491,10 +507,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/i7-11700/i7-11700-228x228.jpg",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-23",
       "previous_price": 23000,
-      "lowest_price": 23000,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 22900,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 23000,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -506,11 +522,19 @@
           "regular_price": 25300,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 22900,
+          "regular_price": 24740,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "16037",
       "brand": "Intel",
@@ -550,7 +574,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "19531",
       "brand": "INTEL",
@@ -590,7 +614,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "22301",
       "brand": "INTEL",
@@ -630,15 +654,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "21065",
       "brand": "INTEL",
       "model": "12th Gen Core i5-12500 Alder Lake",
       "title": "Intel 12th Gen Core i5-12500 Alder Lake Processor",
-      "current_price": 23200,
+      "current_price": 22500,
       "regular_price": 24200,
-      "discount_bdt": 1000,
+      "discount_bdt": 1700,
       "stock_status": "In Stock",
       "specs": {
         "Clock Speed": "3.00 GHz Up to 4.60 GHz",
@@ -651,10 +675,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/intel/i5-12500/i5-12500-01-228x228.jpg",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-23",
       "previous_price": 23200,
-      "lowest_price": 23200,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 22500,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 23200,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -666,11 +690,19 @@
           "regular_price": 24200,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 22500,
+          "regular_price": 24200,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "19703",
       "brand": "Intel",
@@ -710,7 +742,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "19501",
       "brand": "INTEL",
@@ -758,15 +790,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "19449",
       "brand": "INTEL",
       "model": "12th Gen Core i7-12700K Alder Lake",
       "title": "Intel 12th Gen Core i7-12700K Alder Lake Processor",
-      "current_price": 33900,
-      "regular_price": 36890,
-      "discount_bdt": 2990,
+      "current_price": 33500,
+      "regular_price": 36350,
+      "discount_bdt": 2850,
       "stock_status": "In Stock",
       "specs": {
         "Clock Speed": "3.60 GHz Up to 5.0 GHz",
@@ -779,10 +811,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/intel/i7-12700k/i7-12700k-01-228x228.jpg",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-23",
       "previous_price": 33900,
-      "lowest_price": 33900,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 33500,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 33900,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -794,11 +826,19 @@
           "regular_price": 36890,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 33500,
+          "regular_price": 36350,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "19446",
       "brand": "INTEL",
@@ -846,7 +886,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "26358",
       "brand": "Intel",
@@ -886,15 +926,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "26209",
       "brand": "INTEL",
       "model": "13th Gen Core i5 13400 Raptor Lake",
       "title": "Intel 13th Gen Core i5 13400 Raptor Lake Processor",
-      "current_price": 19000,
-      "regular_price": 20620,
-      "discount_bdt": 1620,
+      "current_price": 18700,
+      "regular_price": 20180,
+      "discount_bdt": 1480,
       "stock_status": "In Stock",
       "specs": {
         "Clock Speed": "2.50 GHz up to 4.60 GHz",
@@ -907,10 +947,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i5-13600k/Core i5 13600K-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-23",
       "previous_price": 19000,
-      "lowest_price": 19000,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 18700,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 19000,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -922,11 +962,19 @@
           "regular_price": 20620,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 18700,
+          "regular_price": 20180,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "26210",
       "brand": "Intel",
@@ -966,7 +1014,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "26213",
       "brand": "Intel",
@@ -1006,7 +1054,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "24880",
       "brand": "Intel",
@@ -1046,7 +1094,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "24878",
       "brand": "Intel",
@@ -1086,7 +1134,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "26214",
       "brand": "Intel",
@@ -1126,7 +1174,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "24870",
       "brand": "Intel",
@@ -1166,7 +1214,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "24867",
       "brand": "INTEL",
@@ -1206,7 +1254,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "24864",
       "brand": "Intel",
@@ -1246,7 +1294,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "24883",
       "brand": "Intel",
@@ -1286,7 +1334,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "13593",
       "brand": "AMD",
@@ -1326,7 +1374,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "13313",
       "brand": "AMD",
@@ -1362,7 +1410,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "19089",
       "brand": "INTEL",
@@ -1398,7 +1446,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "16528",
       "brand": "Intel",
@@ -1435,7 +1483,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "51563",
       "brand": "INTEL",
@@ -1474,7 +1522,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "41827",
       "brand": "Intel",
@@ -1514,7 +1562,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "33732",
       "brand": "INTEL",
@@ -1562,7 +1610,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "33376",
       "brand": "Intel",
@@ -1602,7 +1650,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "20997",
       "brand": "INTEL",
@@ -1641,7 +1689,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "35122",
       "brand": "Intel",
@@ -1681,7 +1729,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "20998",
       "brand": "Intel",
@@ -1721,15 +1769,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "33377",
       "brand": "INTEL",
       "model": "Core i5 14400 14th Gen Raptor Lake",
       "title": "Intel Core i5 14400 14th Gen Raptor Lake Processor",
-      "current_price": 18800,
+      "current_price": 18500,
       "regular_price": 20510,
-      "discount_bdt": 1710,
+      "discount_bdt": 2010,
       "stock_status": "In Stock",
       "specs": {
         "Clock Speed": "3.5 GHz up to 4.7 GHz",
@@ -1742,10 +1790,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/intel/i5-14400/i5-14400-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-23",
       "previous_price": 18800,
-      "lowest_price": 18800,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 18500,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 18800,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -1757,11 +1805,19 @@
           "regular_price": 20510,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 18500,
+          "regular_price": 20510,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "33795",
       "brand": "INTEL",
@@ -1801,7 +1857,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "33381",
       "brand": "INTEL",
@@ -1841,7 +1897,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "41553",
       "brand": "Intel",
@@ -1881,15 +1937,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "31699",
       "brand": "INTEL",
       "model": "Core i5 14600K 14th Gen Raptor Lake",
       "title": "Intel Core i5 14600K 14th Gen Raptor Lake Processor",
-      "current_price": 29500,
-      "regular_price": 32010,
-      "discount_bdt": 2510,
+      "current_price": 25800,
+      "regular_price": 28500,
+      "discount_bdt": 2700,
       "stock_status": "In Stock",
       "specs": {
         "Clock Speed": "3.5 GHz up to 5.3 GHz",
@@ -1902,10 +1958,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i5-14600k/core-i5-14600k-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-23",
       "previous_price": 29500,
-      "lowest_price": 29500,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 25800,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 29500,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -1917,11 +1973,19 @@
           "regular_price": 32010,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 25800,
+          "regular_price": 28500,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "31700",
       "brand": "Intel",
@@ -1961,15 +2025,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "52086",
       "brand": "INTEL",
       "model": "Core i5-10500T 10th Gen",
       "title": "Intel Core i5-10500T 10th Gen Processor",
-      "current_price": 12000,
+      "current_price": 11300,
       "regular_price": 13560,
-      "discount_bdt": 1560,
+      "discount_bdt": 2260,
       "stock_status": "In Stock",
       "specs": {
         "Clock Speed": "2.3 GHz up to 3.8 GHz",
@@ -1982,10 +2046,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/intel/core-i5-10500t/core-i5-10500t-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
-      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "2026-11-23",
       "previous_price": 12000,
-      "lowest_price": 12000,
-      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "lowest_price": 11300,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 12000,
       "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
       "previous_stock_status": "In Stock",
@@ -1996,11 +2060,19 @@
           "regular_price": 13560,
           "stock_status": "In Stock",
           "event": "INITIAL"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 11300,
+          "regular_price": 13560,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "52613",
       "brand": "INTEL",
@@ -2040,7 +2112,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "33382",
       "brand": "INTEL",
@@ -2080,7 +2152,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "33385",
       "brand": "Intel",
@@ -2120,7 +2192,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "31702",
       "brand": "INTEL",
@@ -2160,15 +2232,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "31703",
       "brand": "INTEL",
       "model": "Core i7 14700KF 14th Gen Raptor Lake",
       "title": "Intel Core i7 14700KF 14th Gen Raptor Lake Processor",
-      "current_price": 43000,
-      "regular_price": 47500,
-      "discount_bdt": 4500,
+      "current_price": 42500,
+      "regular_price": 46110,
+      "discount_bdt": 3610,
       "stock_status": "In Stock",
       "specs": {
         "Clock Speed": "3.4 GHz up to 5.6 GHz",
@@ -2181,10 +2253,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i7-14700k/core-i7-14700k-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-23",
       "previous_price": 43000,
-      "lowest_price": 43000,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 42500,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 43000,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -2196,11 +2268,19 @@
           "regular_price": 47500,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 42500,
+          "regular_price": 46110,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "33387",
       "brand": "Intel",
@@ -2240,7 +2320,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "31705",
       "brand": "INTEL",
@@ -2280,7 +2360,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "31706",
       "brand": "INTEL",
@@ -2320,15 +2400,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "44354",
       "brand": "INTEL",
       "model": "Core Ultra 5 225 Arrow Lake",
       "title": "Intel Core Ultra 5 225 Arrow Lake Processor",
-      "current_price": 22500,
+      "current_price": 20500,
       "regular_price": 25000,
-      "discount_bdt": 2500,
+      "discount_bdt": 4500,
       "stock_status": "In Stock",
       "specs": {
         "Clock Speed": "3.3 GHz up to 4.9 GHz",
@@ -2341,10 +2421,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/intel/core-ultra-5-225/core-ultra-5-225-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-23",
       "previous_price": 22500,
-      "lowest_price": 22500,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 20500,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 22500,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -2356,19 +2436,27 @@
           "regular_price": 25000,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 20500,
+          "regular_price": 25000,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "38274",
       "brand": "INTEL",
       "model": "Core Ultra 5 245K Arrow Lake",
       "title": "Intel Core Ultra 5 245K Arrow Lake Processor",
-      "current_price": 22000,
+      "current_price": 21200,
       "regular_price": 24500,
-      "discount_bdt": 2500,
+      "discount_bdt": 3300,
       "stock_status": "In Stock",
       "specs": {
         "Clock Speed": "3.6 GHz up to 5.2GHz",
@@ -2381,10 +2469,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/intel/core-ultra-5-245k/intel-core-ultra-5-245k-processor-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-23",
       "previous_price": 22000,
-      "lowest_price": 22000,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 21200,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 22000,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -2396,11 +2484,19 @@
           "regular_price": 24500,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 21200,
+          "regular_price": 24500,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "38278",
       "brand": "Intel",
@@ -2440,7 +2536,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "48785",
       "brand": "INTEL",
@@ -2480,7 +2576,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "38282",
       "brand": "INTEL",
@@ -2520,7 +2616,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "38281",
       "brand": "Intel",
@@ -2560,7 +2656,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "48787",
       "brand": "INTEL",
@@ -2600,7 +2696,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "38284",
       "brand": "INTEL",
@@ -2640,15 +2736,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "15250",
       "brand": "INTEL",
       "model": "Pentium Gold G6400 10th gen Coffee Lake",
       "title": "Intel Pentium Gold G6400 10th gen Coffee Lake Processor",
-      "current_price": 6200,
-      "regular_price": 6730,
-      "discount_bdt": 530,
+      "current_price": 5800,
+      "regular_price": 6290,
+      "discount_bdt": 490,
       "stock_status": "In Stock",
       "specs": {
         "Features": "Socket  Supported FCLGA1200 | Speed 4.00 GHz | Cores- 2 & Threads- 4 | 4M Intel Smart  Cache"
@@ -2658,10 +2754,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/g6400/g6400-228x228.jpg",
       "detail_fetched": true,
       "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
-      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "2026-11-23",
       "previous_price": 6200,
-      "lowest_price": 6200,
-      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "lowest_price": 5800,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 6200,
       "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
       "previous_stock_status": "In Stock",
@@ -2672,11 +2768,19 @@
           "regular_price": 6730,
           "stock_status": "In Stock",
           "event": "INITIAL"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 5800,
+          "regular_price": 6290,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "19087",
       "brand": "Intel",
@@ -2713,7 +2817,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "22305",
       "brand": "Intel",
@@ -2753,15 +2857,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "7217",
       "brand": "AMD",
       "model": "Ryzen 3 2200G Quad-Core",
       "title": "AMD Ryzen 3 2200G Quad-Core Processor With Radeon Vega 8 Graphics",
-      "current_price": 3999,
-      "regular_price": 4500,
-      "discount_bdt": 501,
+      "current_price": 3500,
+      "regular_price": 4200,
+      "discount_bdt": 700,
       "stock_status": "In Stock",
       "specs": {
         "Speed": "3.5GHz Up to 3.7GHz",
@@ -2773,10 +2877,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3/ryzen-3-228x228.jpg",
       "detail_fetched": true,
       "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
-      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "2026-11-23",
       "previous_price": 3999,
-      "lowest_price": 3999,
-      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "lowest_price": 3500,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 3999,
       "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
       "previous_stock_status": "In Stock",
@@ -2787,11 +2891,19 @@
           "regular_price": 4500,
           "stock_status": "In Stock",
           "event": "INITIAL"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 3500,
+          "regular_price": 4200,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "10295",
       "brand": "AMD",
@@ -2829,7 +2941,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "22855",
       "brand": "AMD",
@@ -2868,7 +2980,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "7219",
       "brand": "AMD",
@@ -2906,7 +3018,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "10293",
       "brand": "AMD",
@@ -2945,7 +3057,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "11601",
       "brand": "AMD",
@@ -2985,7 +3097,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "10171",
       "brand": "AMD",
@@ -3025,7 +3137,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "17040",
       "brand": "AMD",
@@ -3065,7 +3177,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "22330",
       "brand": "AMD",
@@ -3104,7 +3216,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "38261",
       "brand": "AMD",
@@ -3144,7 +3256,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "23200",
       "brand": "AMD",
@@ -3183,7 +3295,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "27569",
       "brand": "AMD",
@@ -3231,7 +3343,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "16891",
       "brand": "AMD",
@@ -3279,15 +3391,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "37788",
       "brand": "AMD",
       "model": "Ryzen 5 5600GT AM4",
       "title": "AMD Ryzen 5 5600GT AM4 Processor with Radeon Graphics",
-      "current_price": 18700,
+      "current_price": 18400,
       "regular_price": 20570,
-      "discount_bdt": 1870,
+      "discount_bdt": 2170,
       "stock_status": "In Stock",
       "specs": {
         "Clock Speed": "3.6GHz; Up to 4.6GHz",
@@ -3300,8 +3412,8 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-5-5600gt/ryzen-5-5600gt-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-13",
-      "previous_price": 18400,
+      "last_changed": "2026-11-23",
+      "previous_price": 18700,
       "lowest_price": 17900,
       "lowest_price_date": "2026-11-06",
       "highest_price": 18700,
@@ -3331,19 +3443,27 @@
           "regular_price": 20570,
           "stock_status": "In Stock",
           "event": "PRICE_INCREASE"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 18400,
+          "regular_price": 20570,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "15072",
       "brand": "AMD",
       "model": "Ryzen 5 5600X",
       "title": "AMD Ryzen 5 5600X Processor",
-      "current_price": 13700,
-      "regular_price": 15600,
-      "discount_bdt": 1900,
+      "current_price": 13500,
+      "regular_price": 14800,
+      "discount_bdt": 1300,
       "stock_status": "In Stock",
       "specs": {
         "Speed": "3.7GHz Up to 4.6GHz",
@@ -3356,10 +3476,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/amd/5600x/5600x-001-228x228.jpg",
       "detail_fetched": true,
       "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
-      "last_changed": "Fri 06 Nov 2026 12:49 PM Friday",
+      "last_changed": "2026-11-23",
       "previous_price": 13700,
-      "lowest_price": 13700,
-      "lowest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
+      "lowest_price": 13500,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 13700,
       "highest_price_date": "Fri 06 Nov 2026 12:49 PM Friday",
       "previous_stock_status": "In Stock",
@@ -3370,11 +3490,19 @@
           "regular_price": 15600,
           "stock_status": "In Stock",
           "event": "INITIAL"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 13500,
+          "regular_price": 14800,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "39868",
       "brand": "AMD",
@@ -3414,7 +3542,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "30809",
       "brand": "AMD",
@@ -3453,7 +3581,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "28626",
       "brand": "AMD",
@@ -3493,7 +3621,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "24219",
       "brand": "AMD",
@@ -3533,7 +3661,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "38732",
       "brand": "AMD",
@@ -3573,7 +3701,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "39171",
       "brand": "AMD",
@@ -3612,7 +3740,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "34536",
       "brand": "AMD",
@@ -3652,7 +3780,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "33926",
       "brand": "AMD",
@@ -3692,7 +3820,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "37147",
       "brand": "AMD",
@@ -3732,7 +3860,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "52768",
       "brand": "AMD",
@@ -3770,7 +3898,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "16873",
       "brand": "AMD",
@@ -3810,7 +3938,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "23963",
       "brand": "AMD",
@@ -3858,15 +3986,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "23964",
       "brand": "AMD",
       "model": "Ryzen 5 PRO 5650GE",
       "title": "AMD Ryzen 5 PRO 5650GE Processor with Radeon Graphics",
-      "current_price": 18200,
+      "current_price": 17200,
       "regular_price": 18920,
-      "discount_bdt": 720,
+      "discount_bdt": 1720,
       "stock_status": "In Stock",
       "specs": {
         "Speed": "3.4GHz up to 4.4GHz",
@@ -3879,8 +4007,8 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-5-pro-5650g/ryzen-5-pro-5650g-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-18",
-      "previous_price": 17200,
+      "last_changed": "2026-11-23",
+      "previous_price": 18200,
       "lowest_price": 16200,
       "lowest_price_date": "2026-11-06",
       "highest_price": 18200,
@@ -3910,11 +4038,19 @@
           "regular_price": 18920,
           "stock_status": "In Stock",
           "event": "PRICE_INCREASE"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 17200,
+          "regular_price": 18920,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "10168",
       "brand": "AMD",
@@ -3962,7 +4098,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "16892",
       "brand": "AMD",
@@ -4002,7 +4138,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "37398",
       "brand": "AMD",
@@ -4042,15 +4178,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "22326",
       "brand": "AMD",
       "model": "Ryzen 7 5700X",
       "title": "AMD Ryzen 7 5700X Processor",
-      "current_price": 16500,
+      "current_price": 16000,
       "regular_price": 18200,
-      "discount_bdt": 1700,
+      "discount_bdt": 2200,
       "stock_status": "In Stock",
       "specs": {
         "Speed": "3.4GHz Up to 4.6GHz",
@@ -4063,10 +4199,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/amd/amd-ryzen-7-5700x/amd-ryzen-7-5700x-01-228x228.jpg",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-23",
       "previous_price": 16500,
-      "lowest_price": 16500,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 16000,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 16500,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -4078,11 +4214,19 @@
           "regular_price": 18200,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 16000,
+          "regular_price": 18200,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "34168",
       "brand": "AMD",
@@ -4138,7 +4282,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "15077",
       "brand": "AMD",
@@ -4178,7 +4322,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "22564",
       "brand": "AMD",
@@ -4218,7 +4362,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "28627",
       "brand": "AMD",
@@ -4266,7 +4410,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "24216",
       "brand": "AMD",
@@ -4306,7 +4450,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "27897",
       "brand": "AMD",
@@ -4346,7 +4490,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "33923",
       "brand": "AMD",
@@ -4386,7 +4530,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "37148",
       "brand": "AMD",
@@ -4434,7 +4578,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "38538",
       "brand": "AMD",
@@ -4474,7 +4618,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "47956",
       "brand": "AMD",
@@ -4522,7 +4666,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "23965",
       "brand": "AMD",
@@ -4562,7 +4706,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "50691",
       "brand": "AMD",
@@ -4602,15 +4746,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "15078",
       "brand": "AMD",
       "model": "Ryzen 9 5900X",
       "title": "AMD Ryzen 9 5900X Processor",
-      "current_price": 35900,
+      "current_price": 35300,
       "regular_price": 39000,
-      "discount_bdt": 3100,
+      "discount_bdt": 3700,
       "stock_status": "In Stock",
       "specs": {
         "Speed": "3.7GHz Up to 4.8GHz",
@@ -4623,10 +4767,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-9-5900x/ryzen-9-5900x-001-228x228.jpg",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-23",
       "previous_price": 35900,
-      "lowest_price": 35900,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 35300,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 35900,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -4638,11 +4782,19 @@
           "regular_price": 39000,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 35300,
+          "regular_price": 39000,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "15099",
       "brand": "AMD",
@@ -4682,15 +4834,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "24215",
       "brand": "AMD",
       "model": "Ryzen 9 7900X",
       "title": "AMD Ryzen 9 7900X Processor",
-      "current_price": 38999,
-      "regular_price": 42900,
-      "discount_bdt": 3901,
+      "current_price": 37500,
+      "regular_price": 42640,
+      "discount_bdt": 5140,
       "stock_status": "In Stock",
       "specs": {
         "Clock Speed": "4.7GHz Up to 5.6GHz",
@@ -4703,8 +4855,8 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-9-7950x/ryzen-9-7950x-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-13",
-      "previous_price": 36000,
+      "last_changed": "2026-11-23",
+      "previous_price": 38999,
       "lowest_price": 36000,
       "lowest_price_date": "2026-11-06",
       "highest_price": 38999,
@@ -4726,11 +4878,19 @@
           "regular_price": 42900,
           "stock_status": "In Stock",
           "event": "PRICE_INCREASE"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 37500,
+          "regular_price": 42640,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "36354",
       "brand": "AMD",
@@ -4770,7 +4930,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "24212",
       "brand": "AMD",
@@ -4810,15 +4970,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "31172",
       "brand": "AMD",
       "model": "Ryzen 9 7950X3D",
       "title": "AMD Ryzen 9 7950X3D Gaming Processor",
-      "current_price": 52999,
-      "regular_price": 58000,
-      "discount_bdt": 5001,
+      "current_price": 48500,
+      "regular_price": 52410,
+      "discount_bdt": 3910,
       "stock_status": "In Stock",
       "specs": {
         "Clock Speed": "4.2GHz Up to 5.7GHz",
@@ -4831,8 +4991,8 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-9-7950x3d/ryzen-9-7950x3d-02-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-19",
-      "previous_price": 48500,
+      "last_changed": "2026-11-23",
+      "previous_price": 52999,
       "lowest_price": 48500,
       "lowest_price_date": "2026-11-06",
       "highest_price": 52999,
@@ -4854,19 +5014,27 @@
           "regular_price": 58000,
           "stock_status": "In Stock",
           "event": "PRICE_INCREASE"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 48500,
+          "regular_price": 52410,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "38004",
       "brand": "AMD",
       "model": "Ryzen 9 9900X",
       "title": "AMD Ryzen 9 9900X Gaming Processor",
-      "current_price": 42000,
+      "current_price": 40000,
       "regular_price": 45500,
-      "discount_bdt": 3500,
+      "discount_bdt": 5500,
       "stock_status": "In Stock",
       "specs": {
         "Clock Speed": "4.4GHz Up to 5.6GHz",
@@ -4879,10 +5047,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-9-9900x/ryzen-9-9950x-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-19",
-      "previous_price": 41000,
-      "lowest_price": 41000,
-      "lowest_price_date": "2026-11-06",
+      "last_changed": "2026-11-23",
+      "previous_price": 42000,
+      "lowest_price": 40000,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 42000,
       "highest_price_date": "2026-11-19",
       "previous_stock_status": "In Stock",
@@ -4902,11 +5070,19 @@
           "regular_price": 45500,
           "stock_status": "In Stock",
           "event": "PRICE_INCREASE"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 40000,
+          "regular_price": 45500,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "41016",
       "brand": "AMD",
@@ -4954,15 +5130,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "37488",
       "brand": "AMD",
       "model": "Ryzen 9 9950X",
       "title": "AMD Ryzen 9 9950X Gaming Processor",
-      "current_price": 49500,
+      "current_price": 49200,
       "regular_price": 55000,
-      "discount_bdt": 5500,
+      "discount_bdt": 5800,
       "stock_status": "In Stock",
       "specs": {
         "Clock Speed": "4.3GHz Up to 5.7GHz",
@@ -4975,10 +5151,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-9-9950x/ryzen-9-9950x-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-23",
       "previous_price": 49500,
-      "lowest_price": 49500,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 49200,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 49500,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -4990,11 +5166,19 @@
           "regular_price": 55000,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 49200,
+          "regular_price": 55000,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "40879",
       "brand": "AMD",
@@ -5042,7 +5226,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "53838",
       "brand": "AMD",
@@ -5082,7 +5266,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "6746",
       "brand": "AMD",
@@ -5119,7 +5303,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "54109",
       "brand": "AMD",
@@ -5159,7 +5343,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "54124",
       "brand": "AMD",
@@ -5199,7 +5383,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "54126",
       "brand": "AMD",
@@ -5239,7 +5423,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "54128",
       "brand": "AMD",
@@ -5279,7 +5463,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "54130",
       "brand": "AMD",
@@ -5319,7 +5503,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "29002",
       "brand": "AMD",
@@ -5359,7 +5543,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "54133",
       "brand": "AMD",
@@ -5399,7 +5583,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "54136",
       "brand": "AMD",
@@ -5439,7 +5623,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "54139",
       "brand": "AMD",
@@ -5479,7 +5663,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "54182",
       "brand": "AMD",
@@ -5519,7 +5703,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "54185",
       "brand": "AMD",
@@ -5559,7 +5743,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "54186",
       "brand": "AMD",
@@ -5599,7 +5783,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "54188",
       "brand": "AMD",
@@ -5639,7 +5823,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "processor",
       "product_id": "54189",
       "brand": "AMD",

@@ -1,11 +1,11 @@
 {
-  "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+  "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
   "category": "motherboard",
   "sorted_by": "model",
   "total_items": 525,
   "products": [
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "14115",
       "brand": "Gigabyte",
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "14116",
       "brand": "Gigabyte",
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "17841",
       "brand": "Gigabyte",
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "14241",
       "brand": "Gigabyte",
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "40838",
       "brand": "GIGABYTE",
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "17652",
       "brand": "Gigabyte",
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "29163",
       "brand": "Gigabyte",
@@ -269,7 +269,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "41111",
       "brand": "Gigabyte",
@@ -309,7 +309,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "17701",
       "brand": "MSI",
@@ -346,7 +346,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "14117",
       "brand": "Gigabyte",
@@ -383,15 +383,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "14048",
       "brand": "MSI",
       "model": "A520M-A Pro AMD AM4",
       "title": "MSI A520M-A Pro AMD AM4 Micro-ATX Motherboard",
-      "current_price": 8300,
+      "current_price": 7800,
       "regular_price": 8360,
-      "discount_bdt": 60,
+      "discount_bdt": 560,
       "stock_status": "In Stock",
       "specs": {
         "Supported CPU": "Ryzen 3000/ 4000G / 5000 Series for Socket AM4",
@@ -404,8 +404,8 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/msi/a520m-a-pro/a520m-a-pro-228x228.jpg",
       "detail_fetched": true,
       "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
-      "last_changed": "2026-11-21",
-      "previous_price": 7800,
+      "last_changed": "2026-11-23",
+      "previous_price": 8300,
       "lowest_price": 7499,
       "lowest_price_date": "2026-11-12",
       "highest_price": 8300,
@@ -450,11 +450,19 @@
           "regular_price": 8360,
           "stock_status": "In Stock",
           "event": "PRICE_INCREASE"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 7800,
+          "regular_price": 8360,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "28875",
       "brand": "ASRock",
@@ -494,15 +502,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "36959",
       "brand": "GIGABYTE",
       "model": "A620M H AM5",
       "title": "GIGABYTE A620M H AM5 Micro-ATX Motherboard",
-      "current_price": 10899,
+      "current_price": 10500,
       "regular_price": 11950,
-      "discount_bdt": 1051,
+      "discount_bdt": 1450,
       "stock_status": "In Stock",
       "specs": {
         "Supported CPU": "Ryzen 9000 / 8000 / 7000 Series Processors for Socket AM5",
@@ -515,8 +523,8 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/a620m-h/a620m-h-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-21",
-      "previous_price": 10400,
+      "last_changed": "2026-11-23",
+      "previous_price": 10899,
       "lowest_price": 10400,
       "lowest_price_date": "2026-11-07",
       "highest_price": 10899,
@@ -546,11 +554,19 @@
           "regular_price": 11950,
           "stock_status": "In Stock",
           "event": "PRICE_INCREASE"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 10500,
+          "regular_price": 11950,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "30387",
       "brand": "Gigabyte",
@@ -590,7 +606,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38741",
       "brand": "ASRock",
@@ -630,7 +646,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "9563",
       "brand": "ASRock",
@@ -667,7 +683,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "8545",
       "brand": "Gigabyte",
@@ -706,7 +722,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "26390",
       "brand": "Gigabyte",
@@ -746,7 +762,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "44842",
       "brand": "Gigabyte",
@@ -786,7 +802,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "20728",
       "brand": "Gigabyte",
@@ -825,7 +841,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "14111",
       "brand": "Gigabyte",
@@ -862,15 +878,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "27480",
       "brand": "GIGABYTE",
       "model": "B450M K AMD AM4 Micro",
       "title": "GIGABYTE B450M K AMD AM4 Micro ATX Motherboard",
-      "current_price": 8800,
+      "current_price": 7799,
       "regular_price": 9650,
-      "discount_bdt": 850,
+      "discount_bdt": 1851,
       "stock_status": "In Stock",
       "specs": {
         "Supported CPU": "Ryzen 5000/ 5000 G/ 3rd/ 2nd/1st Gen Processors for Socket AM4",
@@ -883,8 +899,8 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/b450m-k/b450m-k-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "Fri 06 Nov 2026 12:49 PM Friday",
-      "last_changed": "2026-11-21",
-      "previous_price": 7799,
+      "last_changed": "2026-11-23",
+      "previous_price": 8800,
       "lowest_price": 7799,
       "lowest_price_date": "2026-11-13",
       "highest_price": 8800,
@@ -921,11 +937,19 @@
           "regular_price": 9650,
           "stock_status": "In Stock",
           "event": "PRICE_INCREASE"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 7799,
+          "regular_price": 9650,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "9564",
       "brand": "ASRock",
@@ -963,7 +987,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "10962",
       "brand": "MSI",
@@ -1000,7 +1024,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "30452",
       "brand": "MSI",
@@ -1040,7 +1064,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "9309",
       "brand": "ASRock",
@@ -1077,7 +1101,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "13545",
       "brand": "Gigabyte",
@@ -1114,7 +1138,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "42029",
       "brand": "Gigabyte",
@@ -1154,7 +1178,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "13940",
       "brand": "MSI",
@@ -1191,7 +1215,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "13554",
       "brand": "GIGABYTE",
@@ -1228,7 +1252,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "31714",
       "brand": "Gigabyte",
@@ -1276,7 +1300,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "15184",
       "brand": "Gigabyte",
@@ -1313,7 +1337,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "47852",
       "brand": "Gigabyte",
@@ -1352,7 +1376,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "13557",
       "brand": "Gigabyte",
@@ -1391,7 +1415,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "48950",
       "brand": "Gigabyte",
@@ -1430,7 +1454,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "51029",
       "brand": "MSI",
@@ -1470,7 +1494,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "49153",
       "brand": "Gigabyte",
@@ -1510,7 +1534,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "17607",
       "brand": "Gigabyte",
@@ -1547,15 +1571,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "30106",
       "brand": "GIGABYTE",
       "model": "B550M K AMD AM4 Micro",
       "title": "Gigabyte B550M K AMD AM4 Micro ATX Motherboard",
-      "current_price": 11699,
+      "current_price": 10899,
       "regular_price": 12700,
-      "discount_bdt": 1001,
+      "discount_bdt": 1801,
       "stock_status": "In Stock",
       "specs": {
         "Supported CPU": "Ryzen 5000/ 5000 G/ 4000 G and 3000 Series Processors",
@@ -1568,8 +1592,8 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/b550m-k/b550m-k-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-21",
-      "previous_price": 10899,
+      "last_changed": "2026-11-23",
+      "previous_price": 11699,
       "lowest_price": 10899,
       "lowest_price_date": "2026-11-13",
       "highest_price": 11699,
@@ -1607,11 +1631,19 @@
           "regular_price": 12700,
           "stock_status": "In Stock",
           "event": "PRICE_INCREASE"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 10899,
+          "regular_price": 12700,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "52068",
       "brand": "Gigabyte",
@@ -1651,7 +1683,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "39089",
       "brand": "MSI",
@@ -1688,7 +1720,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "13941",
       "brand": "MSI",
@@ -1725,7 +1757,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "13523",
       "brand": "ASRock",
@@ -1762,7 +1794,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "13558",
       "brand": "Gigabyte",
@@ -1799,7 +1831,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "15518",
       "brand": "MSI",
@@ -1860,7 +1892,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "25252",
       "brand": "Gigabyte",
@@ -1900,7 +1932,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "35809",
       "brand": "Gigabyte",
@@ -1940,7 +1972,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "36440",
       "brand": "Gigabyte",
@@ -1980,7 +2012,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "35829",
       "brand": "GIGABYTE",
@@ -2020,7 +2052,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "29728",
       "brand": "MSI",
@@ -2060,7 +2092,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "24913",
       "brand": "ASRock",
@@ -2100,7 +2132,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "36964",
       "brand": "Gigabyte",
@@ -2140,7 +2172,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "46213",
       "brand": "GIGABYTE",
@@ -2180,7 +2212,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "25245",
       "brand": "GIGABYTE",
@@ -2220,7 +2252,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "50453",
       "brand": "GIGABYTE",
@@ -2260,7 +2292,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "25249",
       "brand": "Gigabyte",
@@ -2300,7 +2332,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "25248",
       "brand": "Gigabyte",
@@ -2340,7 +2372,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "34912",
       "brand": "GIGABYTE",
@@ -2388,7 +2420,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "35859",
       "brand": "GIGABYTE",
@@ -2428,7 +2460,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "25243",
       "brand": "Gigabyte",
@@ -2468,7 +2500,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "36737",
       "brand": "MSI",
@@ -2508,7 +2540,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38848",
       "brand": "GIGABYTE",
@@ -2564,7 +2596,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "35591",
       "brand": "MSI",
@@ -2604,7 +2636,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "40871",
       "brand": "Gigabyte",
@@ -2644,7 +2676,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "34902",
       "brand": "Gigabyte",
@@ -2684,7 +2716,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "36962",
       "brand": "GIGABYTE",
@@ -2724,7 +2756,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "30902",
       "brand": "Gigabyte",
@@ -2764,7 +2796,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37413",
       "brand": "ASRock",
@@ -2804,7 +2836,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37431",
       "brand": "ASRock",
@@ -2844,7 +2876,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "24908",
       "brand": "ASRock",
@@ -2884,7 +2916,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "24910",
       "brand": "ASRock",
@@ -2924,7 +2956,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37434",
       "brand": "ASRock",
@@ -2964,7 +2996,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37436",
       "brand": "ASRock",
@@ -3004,7 +3036,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "34104",
       "brand": "MSI",
@@ -3044,15 +3076,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "31911",
       "brand": "GIGABYTE",
       "model": "B650M S2H AM5",
       "title": "GIGABYTE B650M S2H AM5 Micro-ATX Motherboard",
-      "current_price": 14000,
+      "current_price": 13900,
       "regular_price": 15190,
-      "discount_bdt": 1190,
+      "discount_bdt": 1290,
       "stock_status": "In Stock",
       "specs": {
         "Supported CPU": "Ryzen 8000 & 7000 Series Processors for Socket AM5",
@@ -3065,10 +3097,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/b650m-s2h/b650m-s2h-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-23",
       "previous_price": 14000,
-      "lowest_price": 14000,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 13900,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 14000,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -3080,11 +3112,19 @@
           "regular_price": 15190,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 13900,
+          "regular_price": 15190,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "39706",
       "brand": "Asus",
@@ -3124,7 +3164,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "26582",
       "brand": "Gigabyte",
@@ -3164,7 +3204,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "26581",
       "brand": "Gigabyte",
@@ -3204,7 +3244,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "29898",
       "brand": "Gigabyte",
@@ -3244,7 +3284,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "29982",
       "brand": "Gigabyte",
@@ -3284,7 +3324,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "29787",
       "brand": "MSI",
@@ -3332,7 +3372,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "29979",
       "brand": "Gigabyte",
@@ -3372,7 +3412,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "30136",
       "brand": "ASRock",
@@ -3412,7 +3452,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "32112",
       "brand": "Gigabyte",
@@ -3452,7 +3492,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "26583",
       "brand": "Gigabyte",
@@ -3492,7 +3532,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "26584",
       "brand": "Gigabyte",
@@ -3532,7 +3572,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "34914",
       "brand": "Gigabyte",
@@ -3572,7 +3612,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "29790",
       "brand": "MSI",
@@ -3612,7 +3652,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "26589",
       "brand": "Gigabyte",
@@ -3652,7 +3692,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "29984",
       "brand": "Gigabyte",
@@ -3692,7 +3732,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38547",
       "brand": "Gigabyte",
@@ -3732,7 +3772,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "41693",
       "brand": "GIGABYTE",
@@ -3772,7 +3812,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "48843",
       "brand": "GIGABYTE",
@@ -3812,7 +3852,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "26588",
       "brand": "Gigabyte",
@@ -3852,7 +3892,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "29890",
       "brand": "Gigabyte",
@@ -3892,7 +3932,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "26587",
       "brand": "Gigabyte",
@@ -3932,7 +3972,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "29981",
       "brand": "Gigabyte",
@@ -3972,7 +4012,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "44877",
       "brand": "Gigabyte",
@@ -4012,7 +4052,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38546",
       "brand": "GIGABYTE",
@@ -4052,7 +4092,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37025",
       "brand": "Gigabyte",
@@ -4092,7 +4132,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37027",
       "brand": "Gigabyte",
@@ -4132,7 +4172,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "33310",
       "brand": "MSI",
@@ -4172,7 +4212,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38549",
       "brand": "Gigabyte",
@@ -4212,7 +4252,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "26586",
       "brand": "Gigabyte",
@@ -4252,7 +4292,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "30104",
       "brand": "Gigabyte",
@@ -4292,7 +4332,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "29166",
       "brand": "Gigabyte",
@@ -4332,7 +4372,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "26585",
       "brand": "Gigabyte",
@@ -4372,7 +4412,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "29895",
       "brand": "Gigabyte",
@@ -4412,7 +4452,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37022",
       "brand": "Gigabyte",
@@ -4452,7 +4492,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "50037",
       "brand": "Gigabyte",
@@ -4492,7 +4532,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "49282",
       "brand": "Asus",
@@ -4532,7 +4572,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38738",
       "brand": "ASRock",
@@ -4588,7 +4628,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38728",
       "brand": "ASRock",
@@ -4628,7 +4668,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37406",
       "brand": "ASRock",
@@ -4668,7 +4708,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38727",
       "brand": "ASRock",
@@ -4708,7 +4748,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "34207",
       "brand": "MSI",
@@ -4748,15 +4788,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38405",
       "brand": "Asus",
       "model": "B760M-AYW WIFI",
       "title": "ASUS B760M-AYW WIFI mATX Motherboard",
-      "current_price": 19700,
+      "current_price": 19500,
       "regular_price": 21590,
-      "discount_bdt": 1890,
+      "discount_bdt": 2090,
       "stock_status": "In Stock",
       "specs": {
         "Supported CPU": "14th Gen, 13th Gen & 12th Gen Processors (LGA1700)",
@@ -4769,10 +4809,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/asus/b760m-ayw-wifi/b760m-ayw-wifi-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-23",
       "previous_price": 19700,
-      "lowest_price": 19700,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 19500,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 19700,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -4784,19 +4824,27 @@
           "regular_price": 21590,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 19500,
+          "regular_price": 21590,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38163",
       "brand": "Asus",
       "model": "B760M-AYW WIFI D4",
       "title": "ASUS B760M-AYW WIFI D4 mATX Motherboard",
-      "current_price": 20000,
+      "current_price": 19900,
       "regular_price": 21590,
-      "discount_bdt": 1590,
+      "discount_bdt": 1690,
       "stock_status": "In Stock",
       "specs": {
         "Supported CPU": "14th Gen, 13th Gen & 12th Gen Processors (LGA1700)",
@@ -4809,10 +4857,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/asus/b760m-ayw-wifi-d4/b760m-ayw-wifi-d4-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-23",
       "previous_price": 20000,
-      "lowest_price": 20000,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 19900,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 20000,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -4824,11 +4872,19 @@
           "regular_price": 21590,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 19900,
+          "regular_price": 21590,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "30941",
       "brand": "ASRock",
@@ -4868,7 +4924,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37410",
       "brand": "ASRock",
@@ -4908,7 +4964,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "39890",
       "brand": "MSI",
@@ -4948,7 +5004,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "49150",
       "brand": "GIGABYTE",
@@ -4988,7 +5044,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "49145",
       "brand": "Gigabyte",
@@ -5028,7 +5084,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "48208",
       "brand": "Gigabyte",
@@ -5068,7 +5124,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "45769",
       "brand": "MSI",
@@ -5108,7 +5164,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "43996",
       "brand": "MSI",
@@ -5172,7 +5228,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "50324",
       "brand": "ASRock",
@@ -5212,7 +5268,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "49141",
       "brand": "Gigabyte",
@@ -5252,7 +5308,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "40905",
       "brand": "Gigabyte",
@@ -5292,7 +5348,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "46290",
       "brand": "MSI",
@@ -5348,7 +5404,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "46170",
       "brand": "MSI",
@@ -5388,7 +5444,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "40506",
       "brand": "MSI",
@@ -5444,7 +5500,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "43199",
       "brand": "Asus",
@@ -5484,7 +5540,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "43851",
       "brand": "ASRock",
@@ -5524,7 +5580,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "44740",
       "brand": "ASRock",
@@ -5564,7 +5620,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "49139",
       "brand": "GIGABYTE",
@@ -5604,7 +5660,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "49142",
       "brand": "GIGABYTE",
@@ -5644,7 +5700,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "40914",
       "brand": "GIGABYTE",
@@ -5684,7 +5740,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "43871",
       "brand": "Asus",
@@ -5724,7 +5780,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "40917",
       "brand": "GIGABYTE",
@@ -5772,7 +5828,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "43774",
       "brand": "Gigabyte",
@@ -5820,7 +5876,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "49144",
       "brand": "Gigabyte",
@@ -5876,15 +5932,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "43991",
       "brand": "MSI",
       "model": "B850M GAMING PLUS WIFI6E AM5",
       "title": "MSI B850M GAMING PLUS WIFI6E AM5 mATX Motherboard",
-      "current_price": 26200,
-      "regular_price": 29920,
-      "discount_bdt": 3720,
+      "current_price": 26199,
+      "regular_price": 28210,
+      "discount_bdt": 2011,
       "stock_status": "In Stock",
       "specs": {
         "Supported CPU": "Ryzen 9000/ 8000/ 7000 Series Processors for Socket AM5",
@@ -5897,10 +5953,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/msi/b850m-gaming-plus-wifi6e/b850m-gaming-plus-wifi6e-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-17",
-      "previous_price": 27199,
-      "lowest_price": 26200,
-      "lowest_price_date": "2026-11-17",
+      "last_changed": "2026-11-23",
+      "previous_price": 26200,
+      "lowest_price": 26199,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 27200,
       "highest_price_date": "2026-11-15",
       "previous_stock_status": "Out Of Stock",
@@ -5936,11 +5992,19 @@
           "regular_price": 29920,
           "stock_status": "In Stock",
           "event": "PRICE_DROP"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 26199,
+          "regular_price": 28210,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "45706",
       "brand": "MSI",
@@ -5980,7 +6044,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "50866",
       "brand": "MSI",
@@ -6020,15 +6084,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "40909",
       "brand": "GIGABYTE",
       "model": "B850M GAMING X WIFI6E AMD AM5 DDR5 Micro",
       "title": "GIGABYTE B850M GAMING X WIFI6E AMD AM5 DDR5 Micro ATX Motherboard",
-      "current_price": 30800,
+      "current_price": 30500,
       "regular_price": 32880,
-      "discount_bdt": 2080,
+      "discount_bdt": 2380,
       "stock_status": "In Stock",
       "specs": {
         "Supported CPU": "AMD Ryzen 9000/ 8000/ 7000 Series Processors for Socket AM5",
@@ -6041,8 +6105,8 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/b850m-gaming-x-wifi6e/b850m-gaming-x-wifi6e-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-19",
-      "previous_price": 29700,
+      "last_changed": "2026-11-23",
+      "previous_price": 30800,
       "lowest_price": 29700,
       "lowest_price_date": "2026-11-06",
       "highest_price": 30800,
@@ -6064,11 +6128,19 @@
           "regular_price": 32880,
           "stock_status": "In Stock",
           "event": "PRICE_INCREASE"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 30500,
+          "regular_price": 32880,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "46506",
       "brand": "Asus",
@@ -6108,7 +6180,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "46678",
       "brand": "ASRock",
@@ -6148,7 +6220,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "44739",
       "brand": "ASRock",
@@ -6188,7 +6260,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "43857",
       "brand": "ASRock",
@@ -6228,7 +6300,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "50329",
       "brand": "ASRock",
@@ -6268,7 +6340,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "43852",
       "brand": "ASRock",
@@ -6308,7 +6380,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "40910",
       "brand": "GIGABYTE",
@@ -6348,7 +6420,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "40918",
       "brand": "GIGABYTE",
@@ -6388,7 +6460,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "41538",
       "brand": "MSI",
@@ -6428,7 +6500,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "40916",
       "brand": "GIGABYTE",
@@ -6468,7 +6540,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "40923",
       "brand": "GIGABYTE",
@@ -6508,7 +6580,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "41405",
       "brand": "Asus",
@@ -6548,7 +6620,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "40919",
       "brand": "GIGABYTE",
@@ -6588,7 +6660,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "40921",
       "brand": "Gigabyte",
@@ -6628,7 +6700,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "41540",
       "brand": "MSI",
@@ -6668,7 +6740,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "40920",
       "brand": "GIGABYTE",
@@ -6708,7 +6780,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "44822",
       "brand": "Colorful",
@@ -6748,7 +6820,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "47058",
       "brand": "Colorful",
@@ -6788,7 +6860,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "47310",
       "brand": "Colorful",
@@ -6828,7 +6900,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "32189",
       "brand": "Colorful",
@@ -6868,7 +6940,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "44826",
       "brand": "Colorful",
@@ -6908,7 +6980,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "44824",
       "brand": "Colorful",
@@ -6948,7 +7020,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "32267",
       "brand": "Colorful",
@@ -6988,7 +7060,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "32199",
       "brand": "Colorful",
@@ -7028,7 +7100,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "32271",
       "brand": "Colorful",
@@ -7068,7 +7140,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "47308",
       "brand": "Colorful",
@@ -7124,7 +7196,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "32269",
       "brand": "Colorful",
@@ -7163,7 +7235,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "39261",
       "brand": "Intel",
@@ -7203,7 +7275,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "32274",
       "brand": "Colorful",
@@ -7243,7 +7315,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "32255",
       "brand": "Colorful",
@@ -7283,7 +7355,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "32259",
       "brand": "Colorful",
@@ -7323,7 +7395,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "32336",
       "brand": "Asus",
@@ -7371,7 +7443,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "36670",
       "brand": "Asus",
@@ -7411,7 +7483,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "41117",
       "brand": "Asus",
@@ -7451,7 +7523,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "27408",
       "brand": "Asus",
@@ -7491,7 +7563,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "8757",
       "brand": "Gigabyte",
@@ -7530,7 +7602,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "30371",
       "brand": "GIGABYTE",
@@ -7569,7 +7641,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "3197",
       "brand": "Asus",
@@ -7606,7 +7678,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "13599",
       "brand": "GIGABYTE",
@@ -7643,7 +7715,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "40200",
       "brand": "MSI",
@@ -7681,7 +7753,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "42822",
       "brand": "MSI",
@@ -7720,7 +7792,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "13937",
       "brand": "MSI",
@@ -7765,7 +7837,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "13580",
       "brand": "GIGABYTE",
@@ -7801,7 +7873,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "27063",
       "brand": "Gigabyte",
@@ -7841,7 +7913,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "17574",
       "brand": "Gigabyte",
@@ -7878,7 +7950,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "13579",
       "brand": "Gigabyte",
@@ -7915,7 +7987,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "16511",
       "brand": "Gigabyte",
@@ -7952,7 +8024,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "34346",
       "brand": "Gigabyte",
@@ -7992,7 +8064,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37002",
       "brand": "Gigabyte",
@@ -8032,7 +8104,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "48288",
       "brand": "Gigabyte",
@@ -8072,7 +8144,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "44879",
       "brand": "MSI",
@@ -8112,7 +8184,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "16491",
       "brand": "Gigabyte",
@@ -8149,7 +8221,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "16880",
       "brand": "MSI",
@@ -8187,7 +8259,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "32488",
       "brand": "GIGABYTE",
@@ -8243,7 +8315,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "20787",
       "brand": "GIGABYTE",
@@ -8280,7 +8352,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "31059",
       "brand": "Gigabyte",
@@ -8320,7 +8392,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38803",
       "brand": "GIGABYTE",
@@ -8360,7 +8432,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37011",
       "brand": "GIGABYTE",
@@ -8399,7 +8471,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37017",
       "brand": "GIGABYTE",
@@ -8439,7 +8511,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "34918",
       "brand": "Gigabyte",
@@ -8479,7 +8551,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "20740",
       "brand": "Gigabyte",
@@ -8517,7 +8589,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "46674",
       "brand": "ASRock",
@@ -8572,7 +8644,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37875",
       "brand": "ASRock",
@@ -8612,7 +8684,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "20951",
       "brand": "ASRock",
@@ -8651,7 +8723,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "49284",
       "brand": "Asus",
@@ -8691,7 +8763,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "44882",
       "brand": "MSI",
@@ -8731,7 +8803,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "47992",
       "brand": "GIGABYTE",
@@ -8771,7 +8843,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "20654",
       "brand": "Asus",
@@ -8808,7 +8880,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "25230",
       "brand": "MSI",
@@ -8848,7 +8920,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "24925",
       "brand": "MSI",
@@ -8888,7 +8960,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "26228",
       "brand": "MSI",
@@ -8928,7 +9000,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "26231",
       "brand": "MSI",
@@ -8968,7 +9040,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "27018",
       "brand": "MSI",
@@ -9008,7 +9080,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "27323",
       "brand": "MSI",
@@ -9048,7 +9120,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "32022",
       "brand": "MSI",
@@ -9088,7 +9160,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "29793",
       "brand": "MSI",
@@ -9128,7 +9200,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "28005",
       "brand": "MSI",
@@ -9168,7 +9240,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "27004",
       "brand": "MSI",
@@ -9208,7 +9280,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "32432",
       "brand": "MSI",
@@ -9248,7 +9320,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "54323",
       "brand": "MSI",
@@ -9296,7 +9368,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "41545",
       "brand": "MSI",
@@ -9336,7 +9408,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "54179",
       "brand": "MSI",
@@ -9376,7 +9448,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "52249",
       "brand": "MSI",
@@ -9416,7 +9488,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "54326",
       "brand": "MSI",
@@ -9456,7 +9528,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "42129",
       "brand": "MSI",
@@ -9496,7 +9568,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "39938",
       "brand": "MSI",
@@ -9536,7 +9608,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "39939",
       "brand": "MSI",
@@ -9576,7 +9648,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38084",
       "brand": "MSI",
@@ -9616,7 +9688,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "54319",
       "brand": "MSI",
@@ -9664,7 +9736,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "42128",
       "brand": "MSI",
@@ -9720,7 +9792,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "31997",
       "brand": "MSI",
@@ -9760,7 +9832,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "27833",
       "brand": "MSI",
@@ -9800,7 +9872,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "24765",
       "brand": "MSI",
@@ -9840,7 +9912,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38229",
       "brand": "MSI",
@@ -9880,7 +9952,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "48539",
       "brand": "MSI",
@@ -9920,7 +9992,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "39888",
       "brand": "MSI",
@@ -9960,7 +10032,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38225",
       "brand": "MSI",
@@ -10000,7 +10072,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "39928",
       "brand": "MSI",
@@ -10040,7 +10112,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "39932",
       "brand": "MSI",
@@ -10080,7 +10152,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "13465",
       "brand": "MSI",
@@ -10117,7 +10189,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "25221",
       "brand": "MSI",
@@ -10157,7 +10229,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "25224",
       "brand": "MSI",
@@ -10197,7 +10269,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "25227",
       "brand": "MSI",
@@ -10237,7 +10309,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "40503",
       "brand": "MSI",
@@ -10277,7 +10349,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "24538",
       "brand": "MSI",
@@ -10317,7 +10389,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "39697",
       "brand": "MSI",
@@ -10357,7 +10429,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "40510",
       "brand": "MSI",
@@ -10397,7 +10469,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "32341",
       "brand": "MSI",
@@ -10437,7 +10509,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38227",
       "brand": "MSI",
@@ -10477,7 +10549,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "39930",
       "brand": "MSI",
@@ -10517,7 +10589,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "28954",
       "brand": "Asus",
@@ -10556,7 +10628,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "14201",
       "brand": "Asus",
@@ -10593,7 +10665,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "14970",
       "brand": "Asus",
@@ -10629,7 +10701,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "43415",
       "brand": "Asus",
@@ -10684,7 +10756,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37281",
       "brand": "Asus",
@@ -10724,7 +10796,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38335",
       "brand": "Asus",
@@ -10764,7 +10836,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "14918",
       "brand": "Asus",
@@ -10801,7 +10873,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37579",
       "brand": "Asus",
@@ -10841,7 +10913,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "14969",
       "brand": "Asus",
@@ -10878,7 +10950,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "45039",
       "brand": "Asus",
@@ -10918,7 +10990,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "25232",
       "brand": "Asus",
@@ -10958,7 +11030,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37279",
       "brand": "Asus",
@@ -10998,7 +11070,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "25234",
       "brand": "Asus",
@@ -11038,7 +11110,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "25241",
       "brand": "Asus",
@@ -11078,15 +11150,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37642",
       "brand": "Asus",
       "model": "PRIME B650M-F AM5",
       "title": "Asus PRIME B650M-F AM5 mATX Motherboard",
-      "current_price": 13900,
+      "current_price": 13700,
       "regular_price": 14970,
-      "discount_bdt": 1070,
+      "discount_bdt": 1270,
       "stock_status": "In Stock",
       "specs": {
         "Supported CPU": "Ryzen 9000/8000/ 7000 Series Processors for Socket AM5",
@@ -11099,8 +11171,8 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/asus/prime-b650m-f/prime-b650m-f-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-21",
-      "previous_price": 13700,
+      "last_changed": "2026-11-23",
+      "previous_price": 13900,
       "lowest_price": 13700,
       "lowest_price_date": "2026-11-07",
       "highest_price": 13900,
@@ -11130,19 +11202,27 @@
           "regular_price": 14970,
           "stock_status": "In Stock",
           "event": "PRICE_INCREASE"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 13700,
+          "regular_price": 14970,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "31130",
       "brand": "Asus",
       "model": "PRIME B760-PLUS",
       "title": "ASUS PRIME B760-PLUS ATX Motherboard",
-      "current_price": 21900,
+      "current_price": 20700,
       "regular_price": 23760,
-      "discount_bdt": 1860,
+      "discount_bdt": 3060,
       "stock_status": "In Stock",
       "specs": {
         "Supported CPU": "14th/12th/13th Gen Intel Processors (LGA1700)",
@@ -11155,10 +11235,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/asus/prime-b760-plus/prime-b760-plus-01-228x228.png",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-23",
       "previous_price": 21900,
-      "lowest_price": 21900,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 20700,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 21900,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -11170,11 +11250,19 @@
           "regular_price": 23760,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 20700,
+          "regular_price": 23760,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "32966",
       "brand": "Asus",
@@ -11214,7 +11302,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "27898",
       "brand": "Asus",
@@ -11254,7 +11342,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "31044",
       "brand": "Asus",
@@ -11294,7 +11382,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "27665",
       "brand": "Asus",
@@ -11334,15 +11422,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37637",
       "brand": "Asus",
       "model": "PRIME B760M-F",
       "title": "Asus PRIME B760M-F mATX Motherboard",
-      "current_price": 14500,
+      "current_price": 14200,
       "regular_price": 15730,
-      "discount_bdt": 1230,
+      "discount_bdt": 1530,
       "stock_status": "In Stock",
       "specs": {
         "Supported CPU": "14th, 13th Gen & 12th Gen Processors (LGA1700)",
@@ -11355,10 +11443,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/asus/prime-b760m-f/prime-b760m-f-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-23",
       "previous_price": 14500,
-      "lowest_price": 14500,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 14200,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 14500,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -11370,11 +11458,19 @@
           "regular_price": 15730,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 14200,
+          "regular_price": 15730,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "44993",
       "brand": "Asus",
@@ -11414,7 +11510,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "31134",
       "brand": "Asus",
@@ -11454,7 +11550,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "31065",
       "brand": "Asus",
@@ -11494,7 +11590,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "39673",
       "brand": "Asus",
@@ -11534,7 +11630,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "49305",
       "brand": "Asus",
@@ -11574,7 +11670,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "40209",
       "brand": "Asus",
@@ -11614,7 +11710,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "41116",
       "brand": "Asus",
@@ -11654,7 +11750,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "48240",
       "brand": "Asus",
@@ -11694,7 +11790,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "49280",
       "brand": "Asus",
@@ -11734,7 +11830,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "21918",
       "brand": "Asus",
@@ -11772,7 +11868,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38080",
       "brand": "Asus",
@@ -11820,7 +11916,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "36684",
       "brand": "Asus",
@@ -11860,7 +11956,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "36731",
       "brand": "Asus",
@@ -11900,7 +11996,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "36696",
       "brand": "Asus",
@@ -11940,7 +12036,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "36697",
       "brand": "Asus",
@@ -11980,7 +12076,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "20718",
       "brand": "Asus",
@@ -12018,15 +12114,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37559",
       "brand": "Asus",
       "model": "PRIME H610M-CS",
       "title": "Asus PRIME H610M-CS DDR5 mATX Motherboard",
-      "current_price": 11400,
+      "current_price": 11100,
       "regular_price": 12260,
-      "discount_bdt": 860,
+      "discount_bdt": 1160,
       "stock_status": "In Stock",
       "specs": {
         "Supported CPU": "14th, 13th Gen & 12th Gen Processors (LGA1700)",
@@ -12039,10 +12135,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/asus/prime-h610m-cs-ddr5/prime-h610m-cs-ddr5-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-23",
       "previous_price": 11400,
-      "lowest_price": 11400,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 11100,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 11400,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -12054,11 +12150,19 @@
           "regular_price": 12260,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 11100,
+          "regular_price": 12260,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "35541",
       "brand": "Asus",
@@ -12098,7 +12202,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "39216",
       "brand": "Asus",
@@ -12137,7 +12241,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "22822",
       "brand": "Asus",
@@ -12175,7 +12279,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "49285",
       "brand": "Asus",
@@ -12215,7 +12319,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "41418",
       "brand": "Asus",
@@ -12255,7 +12359,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "35931",
       "brand": "Asus",
@@ -12295,7 +12399,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37920",
       "brand": "Asus",
@@ -12335,7 +12439,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "41335",
       "brand": "Asus",
@@ -12375,7 +12479,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "25383",
       "brand": "Asus",
@@ -12415,7 +12519,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "25384",
       "brand": "Asus",
@@ -12455,7 +12559,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "27815",
       "brand": "Asus",
@@ -12495,7 +12599,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "25385",
       "brand": "Asus",
@@ -12535,7 +12639,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "26225",
       "brand": "Asus",
@@ -12575,7 +12679,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "27812",
       "brand": "Asus",
@@ -12615,7 +12719,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "25381",
       "brand": "Asus",
@@ -12655,7 +12759,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "36666",
       "brand": "Asus",
@@ -12695,7 +12799,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38314",
       "brand": "Asus",
@@ -12735,7 +12839,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "42126",
       "brand": "MSI",
@@ -12783,7 +12887,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "29826",
       "brand": "MSI",
@@ -12823,7 +12927,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "48540",
       "brand": "MSI",
@@ -12863,7 +12967,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "50698",
       "brand": "MSI",
@@ -12903,15 +13007,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "50699",
       "brand": "MSI",
       "model": "PRO B550M-P WIFI6E AMD AM4",
       "title": "MSI PRO B550M-P WIFI6E AMD AM4 mATX Motherboard",
-      "current_price": 15900,
+      "current_price": 15199,
       "regular_price": 16170,
-      "discount_bdt": 270,
+      "discount_bdt": 971,
       "stock_status": "In Stock",
       "specs": {
         "Supported CPU": "Ryzen 5000, 5000 G, 4000 G, 3000, 3000 G-Series (AM4)",
@@ -12924,8 +13028,8 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/msi/pro-b550m-p-wifi6e/pro-b550m-p-wifi6e-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-21",
-      "previous_price": 15199,
+      "last_changed": "2026-11-23",
+      "previous_price": 15900,
       "lowest_price": 14999,
       "lowest_price_date": "2026-11-12",
       "highest_price": 15900,
@@ -12971,11 +13075,19 @@
           "regular_price": 16170,
           "stock_status": "In Stock",
           "event": "PRICE_INCREASE"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 15199,
+          "regular_price": 16170,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "25216",
       "brand": "MSI",
@@ -13015,7 +13127,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "33363",
       "brand": "MSI",
@@ -13055,7 +13167,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "24926",
       "brand": "MSI",
@@ -13095,15 +13207,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "33420",
       "brand": "MSI",
       "model": "PRO B650M-B DDR5 AMD AM5 m-ATX",
       "title": "MSI PRO B650M-B DDR5 AMD AM5 m-ATX Motherboard",
-      "current_price": 14000,
+      "current_price": 13999,
       "regular_price": 15080,
-      "discount_bdt": 1080,
+      "discount_bdt": 1081,
       "stock_status": "In Stock",
       "specs": {
         "Supported CPU": "Ryzen 9000/ 8000/ 7000 Series Processors for Socket AM5",
@@ -13116,8 +13228,8 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/msi/pro-b650m-b/pro-b650m-b-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-21",
-      "previous_price": 13999,
+      "last_changed": "2026-11-23",
+      "previous_price": 14000,
       "lowest_price": 13500,
       "lowest_price_date": "2026-11-07",
       "highest_price": 14000,
@@ -13155,11 +13267,19 @@
           "regular_price": 15080,
           "stock_status": "In Stock",
           "event": "PRICE_INCREASE"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 13999,
+          "regular_price": 15080,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "43998",
       "brand": "MSI",
@@ -13199,7 +13319,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "31000",
       "brand": "MSI",
@@ -13263,7 +13383,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "24784",
       "brand": "Asus",
@@ -13303,7 +13423,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "26284",
       "brand": "MSI",
@@ -13343,7 +13463,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "50694",
       "brand": "MSI",
@@ -13383,7 +13503,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "26998",
       "brand": "MSI",
@@ -13423,7 +13543,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "30319",
       "brand": "MSI",
@@ -13479,7 +13599,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "29192",
       "brand": "Asus",
@@ -13519,7 +13639,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "27001",
       "brand": "MSI",
@@ -13559,7 +13679,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "33551",
       "brand": "MSI",
@@ -13615,7 +13735,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "32003",
       "brand": "MSI",
@@ -13655,7 +13775,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "28004",
       "brand": "MSI",
@@ -13695,15 +13815,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "26286",
       "brand": "MSI",
       "model": "PRO B760M-P",
       "title": "MSI PRO B760M-P DDR4 mATX Motherboard",
-      "current_price": 16500,
-      "regular_price": 18100,
-      "discount_bdt": 1600,
+      "current_price": 15000,
+      "regular_price": 16170,
+      "discount_bdt": 1170,
       "stock_status": "In Stock",
       "specs": {
         "Supported CPU": "14th/13th/12th Gen Intel Processors (LGA1700)",
@@ -13716,10 +13836,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/msi/pro-b760m-p-ddr4/pro-b760m-p-ddr4-01-228x228.png",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-15",
-      "previous_price": 0,
-      "lowest_price": 16500,
-      "lowest_price_date": "2026-11-15",
+      "last_changed": "2026-11-23",
+      "previous_price": 16500,
+      "lowest_price": 15000,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 16500,
       "highest_price_date": "2026-11-15",
       "previous_stock_status": "Out Of Stock",
@@ -13739,19 +13859,27 @@
           "regular_price": 18100,
           "stock_status": "In Stock",
           "event": "RESTOCKED"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 15000,
+          "regular_price": 16170,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "29109",
       "brand": "MSI",
       "model": "PRO B760M-P",
       "title": "MSI PRO B760M-P DDR5 mATX Motherboard",
-      "current_price": 16500,
-      "regular_price": 17820,
-      "discount_bdt": 1320,
+      "current_price": 14999,
+      "regular_price": 16170,
+      "discount_bdt": 1171,
       "stock_status": "In Stock",
       "specs": {
         "Supported CPU": "14th/13th/12th Gen Intel Processors (LGA1700)",
@@ -13764,8 +13892,8 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/msi/pro-b760m-p/pro-b760m-p-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-21",
-      "previous_price": 15000,
+      "last_changed": "2026-11-23",
+      "previous_price": 16500,
       "lowest_price": 14500,
       "lowest_price_date": "2026-11-07",
       "highest_price": 16500,
@@ -13819,11 +13947,19 @@
           "regular_price": 17820,
           "stock_status": "In Stock",
           "event": "PRICE_INCREASE"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 14999,
+          "regular_price": 16170,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "39892",
       "brand": "MSI",
@@ -13863,7 +13999,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "45941",
       "brand": "MSI",
@@ -13903,7 +14039,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "44880",
       "brand": "MSI",
@@ -13943,7 +14079,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "42808",
       "brand": "MSI",
@@ -13983,7 +14119,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "43994",
       "brand": "MSI",
@@ -14023,7 +14159,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "43251",
       "brand": "MSI",
@@ -14063,7 +14199,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "45805",
       "brand": "MSI",
@@ -14103,7 +14239,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "50412",
       "brand": "MSI",
@@ -14143,7 +14279,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "54659",
       "brand": "MSI",
@@ -14183,7 +14319,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "46291",
       "brand": "MSI",
@@ -14223,7 +14359,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "45181",
       "brand": "MSI",
@@ -14263,7 +14399,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "39940",
       "brand": "MSI",
@@ -14303,7 +14439,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "39941",
       "brand": "MSI",
@@ -14343,7 +14479,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "50409",
       "brand": "MSI",
@@ -14383,7 +14519,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "40199",
       "brand": "MSI",
@@ -14423,7 +14559,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "21797",
       "brand": "MSI",
@@ -14462,7 +14598,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "27008",
       "brand": "MSI",
@@ -14501,7 +14637,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "33468",
       "brand": "MSI",
@@ -14557,7 +14693,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "31998",
       "brand": "MSI",
@@ -14594,7 +14730,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "22035",
       "brand": "MSI",
@@ -14649,7 +14785,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "42819",
       "brand": "MSI",
@@ -14689,7 +14825,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "50701",
       "brand": "MSI",
@@ -14728,7 +14864,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "35635",
       "brand": "MSI",
@@ -14783,7 +14919,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "44881",
       "brand": "MSI",
@@ -14823,7 +14959,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "42815",
       "brand": "MSI",
@@ -14863,7 +14999,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "50450",
       "brand": "MSI",
@@ -14903,7 +15039,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "45808",
       "brand": "Asus",
@@ -14943,7 +15079,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "49291",
       "brand": "Asus",
@@ -14983,7 +15119,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "34122",
       "brand": "Asus",
@@ -15023,7 +15159,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "49289",
       "brand": "Asus",
@@ -15063,7 +15199,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38092",
       "brand": "MSI",
@@ -15103,7 +15239,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "43247",
       "brand": "MSI",
@@ -15143,7 +15279,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "32004",
       "brand": "MSI",
@@ -15183,7 +15319,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "24937",
       "brand": "MSI",
@@ -15223,7 +15359,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "24771",
       "brand": "MSI",
@@ -15263,7 +15399,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "24772",
       "brand": "MSI",
@@ -15300,7 +15436,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "24763",
       "brand": "MSI",
@@ -15337,7 +15473,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "33334",
       "brand": "MSI",
@@ -15377,7 +15513,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38233",
       "brand": "MSI",
@@ -15417,7 +15553,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "39929",
       "brand": "MSI",
@@ -15457,7 +15593,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38234",
       "brand": "MSI",
@@ -15497,7 +15633,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "50403",
       "brand": "MSI",
@@ -15537,7 +15673,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "39927",
       "brand": "MSI",
@@ -15577,7 +15713,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "39931",
       "brand": "MSI",
@@ -15617,7 +15753,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "50407",
       "brand": "MSI",
@@ -15657,7 +15793,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "33510",
       "brand": "Asus",
@@ -15697,7 +15833,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37929",
       "brand": "Asus",
@@ -15745,7 +15881,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "27367",
       "brand": "Asus",
@@ -15785,7 +15921,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "39701",
       "brand": "Asus",
@@ -15833,7 +15969,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "48554",
       "brand": "Asus",
@@ -15873,7 +16009,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "48611",
       "brand": "Asus",
@@ -15913,16 +16049,16 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "48559",
       "brand": "Asus",
       "model": "ROG CROSSHAIR X870E GLACIAL AMD AM5",
       "title": "Asus ROG CROSSHAIR X870E GLACIAL AMD AM5 ATX Motherboard",
-      "current_price": 168000,
-      "regular_price": 180110,
-      "discount_bdt": 12110,
-      "stock_status": "In Stock",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
       "specs": {
         "Supported CPU": "Ryzen 9000, 8000/ 7000 Series Processors for Socket AM5",
         "Supported RAM": "4 x DDR5, up to 256GB, 9600+MT/s (OC)",
@@ -15934,7 +16070,7 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/asus/rog-crosshair-x870e-glacial/rog-crosshair-x870e-glacial-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-23",
       "previous_price": 168000,
       "lowest_price": 168000,
       "lowest_price_date": "2026-11-06",
@@ -15949,11 +16085,19 @@
           "regular_price": 180110,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "OUT_OF_STOCK"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "41330",
       "brand": "Asus",
@@ -15993,7 +16137,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "32868",
       "brand": "Asus",
@@ -16033,7 +16177,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "27685",
       "brand": "Asus",
@@ -16073,15 +16217,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "48613",
       "brand": "Asus",
       "model": "ROG MAXIMUS Z890 APEX LGA1851",
       "title": "ASUS ROG MAXIMUS Z890 APEX LGA1851 ATX Motherboard",
-      "current_price": 82000,
-      "regular_price": 90200,
-      "discount_bdt": 8200,
+      "current_price": 79000,
+      "regular_price": 85170,
+      "discount_bdt": 6170,
       "stock_status": "In Stock",
       "specs": {
         "Supported CPU": "Intel Core Ultra Processors (Series 2), LGA 1851",
@@ -16094,8 +16238,8 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/asus/rog-maximus-z890-apex/rog-maximus-z890-apex-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-20",
-      "previous_price": 78999,
+      "last_changed": "2026-11-23",
+      "previous_price": 82000,
       "lowest_price": 78999,
       "lowest_price_date": "2026-11-06",
       "highest_price": 82000,
@@ -16117,19 +16261,27 @@
           "regular_price": 90200,
           "stock_status": "In Stock",
           "event": "PRICE_INCREASE"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 79000,
+          "regular_price": 85170,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "41411",
       "brand": "Asus",
       "model": "ROG MAXIMUS Z890 HERO BTF LGA1851",
       "title": "ASUS ROG MAXIMUS Z890 HERO BTF LGA1851 ATX Motherboard",
-      "current_price": 106499,
+      "current_price": 104500,
       "regular_price": 114470,
-      "discount_bdt": 7971,
+      "discount_bdt": 9970,
       "stock_status": "In Stock",
       "specs": {
         "Supported CPU": "Intel Core Ultra Processors (Series 2), LGA 1851",
@@ -16142,10 +16294,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/asus/rog-maximus-z890-hero-btf/rog-maximus-z890-hero-btf-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-23",
       "previous_price": 106499,
-      "lowest_price": 106499,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 104500,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 106499,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -16157,11 +16309,19 @@
           "regular_price": 114470,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 104500,
+          "regular_price": 114470,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38300",
       "brand": "Asus",
@@ -16201,7 +16361,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "27407",
       "brand": "Asus",
@@ -16241,7 +16401,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "41533",
       "brand": "Asus",
@@ -16281,7 +16441,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "27435",
       "brand": "Asus",
@@ -16321,7 +16481,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "32329",
       "brand": "Asus",
@@ -16361,7 +16521,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "27248",
       "brand": "Asus",
@@ -16401,7 +16561,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "28973",
       "brand": "Asus",
@@ -16441,7 +16601,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "40218",
       "brand": "Asus",
@@ -16481,7 +16641,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "41342",
       "brand": "Asus",
@@ -16521,7 +16681,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "43417",
       "brand": "Asus",
@@ -16561,7 +16721,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "41338",
       "brand": "Asus",
@@ -16601,7 +16761,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "48560",
       "brand": "Asus",
@@ -16641,7 +16801,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "40211",
       "brand": "Asus",
@@ -16681,7 +16841,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "41089",
       "brand": "Asus",
@@ -16721,7 +16881,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "49278",
       "brand": "Asus",
@@ -16761,7 +16921,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "41333",
       "brand": "Asus",
@@ -16801,7 +16961,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38168",
       "brand": "Asus",
@@ -16841,7 +17001,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37924",
       "brand": "Asus",
@@ -16881,7 +17041,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "49292",
       "brand": "Asus",
@@ -16921,7 +17081,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "28971",
       "brand": "Asus",
@@ -16961,7 +17121,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "26224",
       "brand": "Asus",
@@ -17001,7 +17161,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "36665",
       "brand": "Asus",
@@ -17041,7 +17201,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "26222",
       "brand": "Asus",
@@ -17081,7 +17241,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "27674",
       "brand": "Asus",
@@ -17121,7 +17281,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "40015",
       "brand": "Asus",
@@ -17161,7 +17321,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "41407",
       "brand": "Asus",
@@ -17201,7 +17361,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38292",
       "brand": "Asus",
@@ -17249,7 +17409,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "43870",
       "brand": "Asus",
@@ -17289,7 +17449,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "24520",
       "brand": "Asus",
@@ -17329,7 +17489,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "14199",
       "brand": "Asus",
@@ -17366,7 +17526,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "16775",
       "brand": "Asus",
@@ -17403,7 +17563,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "29199",
       "brand": "Asus",
@@ -17443,7 +17603,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "31136",
       "brand": "Asus",
@@ -17483,7 +17643,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "26053",
       "brand": "Asus",
@@ -17523,7 +17683,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37091",
       "brand": "Asus",
@@ -17563,7 +17723,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "27454",
       "brand": "Asus",
@@ -17603,7 +17763,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "27453",
       "brand": "Asus",
@@ -17643,7 +17803,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "31181",
       "brand": "Asus",
@@ -17683,7 +17843,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "31177",
       "brand": "Asus",
@@ -17723,7 +17883,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "25239",
       "brand": "Asus",
@@ -17763,7 +17923,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "27439",
       "brand": "Asus",
@@ -17803,7 +17963,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "27669",
       "brand": "Asus",
@@ -17843,7 +18003,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "27666",
       "brand": "Asus",
@@ -17883,7 +18043,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "32590",
       "brand": "Asus",
@@ -17923,7 +18083,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "28977",
       "brand": "Asus",
@@ -17963,7 +18123,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "27253",
       "brand": "Asus",
@@ -18003,7 +18163,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "41413",
       "brand": "Asus",
@@ -18043,15 +18203,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "27258",
       "brand": "Asus",
       "model": "TUF GAMING B760M-PLUS WIFI D4",
       "title": "Asus TUF GAMING B760M-PLUS WIFI D4 Motherboard",
-      "current_price": 26800,
+      "current_price": 26500,
       "regular_price": 28860,
-      "discount_bdt": 2060,
+      "discount_bdt": 2360,
       "stock_status": "In Stock",
       "specs": {
         "Supported CPU": "14th, 13th Gen & 12th Gen Processors (LGA1700)",
@@ -18064,10 +18224,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/asus/tuf-gaming-b760m-plus-wifi-d4/tuf-gaming-b760m-plus-wifi-d4-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-23",
       "previous_price": 26800,
-      "lowest_price": 26800,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 26500,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 26800,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -18079,11 +18239,19 @@
           "regular_price": 28860,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 26500,
+          "regular_price": 28860,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "43422",
       "brand": "Asus",
@@ -18123,7 +18291,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "43198",
       "brand": "Asus",
@@ -18163,7 +18331,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "40216",
       "brand": "Asus",
@@ -18203,7 +18371,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "48557",
       "brand": "Asus",
@@ -18243,7 +18411,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "40214",
       "brand": "Asus",
@@ -18283,7 +18451,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "49295",
       "brand": "Asus",
@@ -18323,7 +18491,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "41091",
       "brand": "Asus",
@@ -18363,7 +18531,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "41092",
       "brand": "Asus",
@@ -18403,7 +18571,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37926",
       "brand": "Asus",
@@ -18443,7 +18611,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "36656",
       "brand": "Asus",
@@ -18483,7 +18651,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "27252",
       "brand": "Asus",
@@ -18523,7 +18691,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "26226",
       "brand": "Asus",
@@ -18563,15 +18731,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "39837",
       "brand": "Asus",
       "model": "TUF GAMING Z890-PLUS WIFI LGA1851",
       "title": "ASUS TUF GAMING Z890-PLUS WIFI LGA1851 ATX Motherboard",
-      "current_price": 52199,
+      "current_price": 52000,
       "regular_price": 54790,
-      "discount_bdt": 2591,
+      "discount_bdt": 2790,
       "stock_status": "In Stock",
       "specs": {
         "Supported CPU": "Intel Core Ultra Processors (Series 2), LGA 1851",
@@ -18584,10 +18752,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/asus/tuf-gaming-z890-plus-wifi/tuf-gaming-z890-plus-wifi-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-23",
       "previous_price": 52199,
-      "lowest_price": 52199,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 52000,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 52199,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -18599,11 +18767,19 @@
           "regular_price": 54790,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 52000,
+          "regular_price": 54790,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38313",
       "brand": "Asus",
@@ -18643,7 +18819,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "6393",
       "brand": "Asus",
@@ -18680,7 +18856,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "25250",
       "brand": "Gigabyte",
@@ -18720,7 +18896,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37973",
       "brand": "Gigabyte",
@@ -18760,7 +18936,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37964",
       "brand": "Gigabyte",
@@ -18800,7 +18976,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "43192",
       "brand": "Asus",
@@ -18840,7 +19016,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37969",
       "brand": "GIGABYTE",
@@ -18880,7 +19056,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "41544",
       "brand": "MSI",
@@ -18920,7 +19096,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37971",
       "brand": "GIGABYTE",
@@ -18960,7 +19136,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37966",
       "brand": "Gigabyte",
@@ -19000,7 +19176,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "43197",
       "brand": "Asus",
@@ -19040,7 +19216,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "43194",
       "brand": "Asus",
@@ -19080,7 +19256,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38757",
       "brand": "ASRock",
@@ -19136,7 +19312,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "46677",
       "brand": "ASRock",
@@ -19192,7 +19368,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38756",
       "brand": "ASRock",
@@ -19248,7 +19424,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37963",
       "brand": "Gigabyte",
@@ -19288,7 +19464,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37959",
       "brand": "Gigabyte",
@@ -19328,7 +19504,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37962",
       "brand": "Gigabyte",
@@ -19368,7 +19544,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "37961",
       "brand": "Gigabyte",
@@ -19408,7 +19584,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "42127",
       "brand": "MSI",
@@ -19448,7 +19624,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "43854",
       "brand": "ASRock",
@@ -19504,7 +19680,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "49116",
       "brand": "GIGABYTE",
@@ -19544,15 +19720,15 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "49127",
       "brand": "GIGABYTE",
       "model": "X870M AORUS ELITE WIFI7 DDR5 AM5",
       "title": "GIGABYTE X870M AORUS ELITE WIFI7 DDR5 AM5 mATX Motherboard",
-      "current_price": 37700,
+      "current_price": 37500,
       "regular_price": 41560,
-      "discount_bdt": 3860,
+      "discount_bdt": 4060,
       "stock_status": "In Stock",
       "specs": {
         "Supported CPU": "Ryzen 9000/ 8000/ 7000 Series Processors for Socket AM5",
@@ -19565,10 +19741,10 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/x870m-aorus-elite-wifi7/x870m-aorus-elite-wifi7-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-23",
       "previous_price": 37700,
-      "lowest_price": 37700,
-      "lowest_price_date": "2026-11-06",
+      "lowest_price": 37500,
+      "lowest_price_date": "2026-11-23",
       "highest_price": 37700,
       "highest_price_date": "2026-11-06",
       "previous_stock_status": "In Stock",
@@ -19580,11 +19756,19 @@
           "regular_price": 41560,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 37500,
+          "regular_price": 41560,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
         }
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "54630",
       "brand": "XENTHRA",
@@ -19632,7 +19816,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "51416",
       "brand": "XENTHRA",
@@ -19687,7 +19871,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "51414",
       "brand": "Xenthra",
@@ -19727,7 +19911,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "51413",
       "brand": "XENTHRA",
@@ -19766,7 +19950,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "25293",
       "brand": "Gigabyte",
@@ -19806,7 +19990,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "31009",
       "brand": "Gigabyte",
@@ -19846,7 +20030,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "25295",
       "brand": "Gigabyte",
@@ -19886,7 +20070,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "25294",
       "brand": "GIGABYTE",
@@ -19926,7 +20110,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "31948",
       "brand": "Gigabyte",
@@ -19966,7 +20150,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "31953",
       "brand": "Gigabyte",
@@ -20006,7 +20190,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "32046",
       "brand": "Gigabyte",
@@ -20046,7 +20230,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "32044",
       "brand": "Gigabyte",
@@ -20086,7 +20270,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "25291",
       "brand": "Gigabyte",
@@ -20126,7 +20310,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "31935",
       "brand": "Gigabyte",
@@ -20166,7 +20350,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "31943",
       "brand": "Gigabyte",
@@ -20206,7 +20390,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "32038",
       "brand": "Gigabyte",
@@ -20246,7 +20430,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "25360",
       "brand": "GIGABYTE",
@@ -20286,7 +20470,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "35888",
       "brand": "Gigabyte",
@@ -20326,7 +20510,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "35863",
       "brand": "Gigabyte",
@@ -20366,7 +20550,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "41628",
       "brand": "Gigabyte",
@@ -20406,7 +20590,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "36327",
       "brand": "Gigabyte",
@@ -20446,7 +20630,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "35890",
       "brand": "Gigabyte",
@@ -20486,7 +20670,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "32007",
       "brand": "MSI",
@@ -20526,7 +20710,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "29798",
       "brand": "MSI",
@@ -20566,7 +20750,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "25359",
       "brand": "Gigabyte",
@@ -20606,7 +20790,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "24901",
       "brand": "ASRock",
@@ -20646,7 +20830,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "24896",
       "brand": "ASRock",
@@ -20686,7 +20870,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "24904",
       "brand": "ASRock",
@@ -20726,7 +20910,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "25364",
       "brand": "Gigabyte",
@@ -20766,7 +20950,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "25363",
       "brand": "Gigabyte",
@@ -20806,7 +20990,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "50770",
       "brand": "Asus",
@@ -20846,7 +21030,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "41954",
       "brand": "Asus",
@@ -20886,7 +21070,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "49154",
       "brand": "Gigabyte",
@@ -20926,7 +21110,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "24899",
       "brand": "ASRock",
@@ -20966,7 +21150,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "40907",
       "brand": "Gigabyte",
@@ -21006,7 +21190,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38345",
       "brand": "Gigabyte",
@@ -21046,7 +21230,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38346",
       "brand": "Gigabyte",
@@ -21086,7 +21270,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "54797",
       "brand": "GIGABYTE",
@@ -21126,7 +21310,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "40911",
       "brand": "Gigabyte",
@@ -21166,7 +21350,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38350",
       "brand": "Gigabyte",
@@ -21206,7 +21390,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38295",
       "brand": "Asus",
@@ -21254,7 +21438,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38349",
       "brand": "Gigabyte",
@@ -21294,7 +21478,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38230",
       "brand": "MSI",
@@ -21334,7 +21518,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "50399",
       "brand": "MSI",
@@ -21374,7 +21558,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38742",
       "brand": "ASRock",
@@ -21414,7 +21598,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38749",
       "brand": "ASRock",
@@ -21454,7 +21638,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "38744",
       "brand": "ASRock",
@@ -21494,7 +21678,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "39208",
       "brand": "GIGABYTE",
@@ -21534,7 +21718,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "39209",
       "brand": "GIGABYTE",
@@ -21574,7 +21758,7 @@
       ]
     },
     {
-      "extract-date": "Sat 21 Nov 2026 05:30 AM Saturday",
+      "extract-date": "Mon 23 Nov 2026 05:00 AM Monday",
       "category": "motherboard",
       "product_id": "40904",
       "brand": "GIGABYTE",
