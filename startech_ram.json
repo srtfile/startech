@@ -1,11 +1,11 @@
 {
-  "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+  "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
   "category": "ram",
   "sorted_by": "model",
   "total_items": 443,
   "products": [
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "53610",
       "brand": "Huadisk",
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "35969",
       "brand": "Lexar",
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25677",
       "brand": "Lexar",
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25682",
       "brand": "Lexar",
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25683",
       "brand": "Lexar",
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "53609",
       "brand": "Huadisk",
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "53611",
       "brand": "Huadisk",
@@ -324,7 +324,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "51408",
       "brand": "ADATA",
@@ -364,7 +364,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25755",
       "brand": "G.SKILL",
@@ -403,7 +403,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "26290",
       "brand": "G.Skill",
@@ -443,47 +443,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
-      "category": "ram",
-      "product_id": "51780",
-      "brand": "G.SKILL",
-      "model": "Aegis 5 16GB DDR5 5600MHz CL36",
-      "title": "G-Skill Aegis 5 16GB DDR5 5600MHz CL36 Desktop RAM",
-      "current_price": 32399,
-      "regular_price": 35700,
-      "discount_bdt": 3301,
-      "stock_status": "In Stock",
-      "specs": {
-        "Capacity": "16GB",
-        "Memory Type": "DDR5",
-        "Frequency": "5600MHz",
-        "Cas Latency": "36-36-36-89 / 1.20V"
-      },
-      "specs_summary": "Capacity: 16GB | Memory Type: DDR5 | Frequency: 5600MHz | Cas Latency: 36-36-36-89 / 1.20V",
-      "url": "https://www.startech.com.bd/g-skill-aegis-5-16gb-ddr5-5600mhz-cl36-ram",
-      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/aegis-5-16gb/aegis-5-16gb-02-228x228.webp",
-      "detail_fetched": true,
-      "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
-      "previous_price": 32399,
-      "lowest_price": 32399,
-      "lowest_price_date": "2026-11-06",
-      "highest_price": 32399,
-      "highest_price_date": "2026-11-06",
-      "previous_stock_status": "In Stock",
-      "price_history": [
-        {
-          "date": "2026-11-06",
-          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
-          "price": 32399,
-          "regular_price": 35700,
-          "stock_status": "In Stock",
-          "event": "FIRST_SEEN"
-        }
-      ]
-    },
-    {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "32661",
       "brand": "Lexar",
@@ -523,7 +483,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "32659",
       "brand": "Lexar",
@@ -563,7 +523,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25686",
       "brand": "Lexar",
@@ -603,7 +563,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "32656",
       "brand": "Lexar",
@@ -643,7 +603,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "32658",
       "brand": "Lexar",
@@ -683,7 +643,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "52369",
       "brand": "Lexar",
@@ -723,7 +683,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "51000",
       "brand": "Lexar",
@@ -763,7 +723,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "27782",
       "brand": "Netac",
@@ -802,7 +762,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "27783",
       "brand": "Netac",
@@ -849,7 +809,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "44758",
       "brand": "Netac",
@@ -889,7 +849,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "44757",
       "brand": "Netac",
@@ -937,7 +897,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "44780",
       "brand": "Netac",
@@ -985,7 +945,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "47402",
       "brand": "Netac",
@@ -1025,7 +985,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "27796",
       "brand": "Netac",
@@ -1065,7 +1025,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "27797",
       "brand": "Netac",
@@ -1104,7 +1064,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "30787",
       "brand": "Colorful",
@@ -1144,7 +1104,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "30789",
       "brand": "Colorful",
@@ -1184,7 +1144,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "52206",
       "brand": "Colorful",
@@ -1240,7 +1200,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "30785",
       "brand": "Colorful",
@@ -1280,7 +1240,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "30788",
       "brand": "Colorful",
@@ -1320,7 +1280,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "44802",
       "brand": "Colorful",
@@ -1360,7 +1320,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "44803",
       "brand": "Colorful",
@@ -1400,7 +1360,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "35774",
       "brand": "Colorful",
@@ -1440,7 +1400,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "37495",
       "brand": "Colorful",
@@ -1480,7 +1440,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "30790",
       "brand": "Colorful",
@@ -1520,7 +1480,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "35779",
       "brand": "Colorful",
@@ -1560,7 +1520,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "19986",
       "brand": "Team",
@@ -1597,7 +1557,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "21698",
       "brand": "Team",
@@ -1634,7 +1594,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "21699",
       "brand": "Team",
@@ -1671,7 +1631,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "14158",
       "brand": "Team",
@@ -1708,7 +1668,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "12762",
       "brand": "Team",
@@ -1745,7 +1705,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "12753",
       "brand": "Team",
@@ -1782,7 +1742,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "38948",
       "brand": "Team",
@@ -1822,7 +1782,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "31505",
       "brand": "Team",
@@ -1862,7 +1822,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "41251",
       "brand": "Team",
@@ -1902,7 +1862,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "38960",
       "brand": "Team",
@@ -1942,7 +1902,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "38965",
       "brand": "Team",
@@ -1998,7 +1958,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "33262",
       "brand": "Team",
@@ -2038,7 +1998,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "33261",
       "brand": "Team",
@@ -2078,7 +2038,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "33273",
       "brand": "Team",
@@ -2118,7 +2078,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "33274",
       "brand": "Team",
@@ -2158,7 +2118,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "46499",
       "brand": "Team",
@@ -2198,7 +2158,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "46505",
       "brand": "Team",
@@ -2238,7 +2198,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "46501",
       "brand": "Team",
@@ -2278,7 +2238,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "46503",
       "brand": "Team",
@@ -2318,7 +2278,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25943",
       "brand": "Team",
@@ -2358,7 +2318,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25948",
       "brand": "Team",
@@ -2398,7 +2358,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "32278",
       "brand": "Team",
@@ -2438,7 +2398,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "32309",
       "brand": "Team",
@@ -2478,7 +2438,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "38946",
       "brand": "Team",
@@ -2518,7 +2478,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "33276",
       "brand": "Team",
@@ -2558,7 +2518,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "36887",
       "brand": "Team",
@@ -2598,7 +2558,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "36890",
       "brand": "Team",
@@ -2638,7 +2598,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "37067",
       "brand": "Team",
@@ -2678,7 +2638,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "31506",
       "brand": "Team",
@@ -2718,7 +2678,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25946",
       "brand": "Team",
@@ -2758,7 +2718,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25955",
       "brand": "Team",
@@ -2798,7 +2758,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "43695",
       "brand": "Team",
@@ -2838,7 +2798,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "33269",
       "brand": "Team",
@@ -2878,7 +2838,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "31054",
       "brand": "Corsair",
@@ -2918,7 +2878,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "31839",
       "brand": "Corsair",
@@ -2958,7 +2918,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "22726",
       "brand": "Corsair",
@@ -2998,7 +2958,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "32047",
       "brand": "Corsair",
@@ -3038,7 +2998,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "23214",
       "brand": "Corsair",
@@ -3078,7 +3038,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "20595",
       "brand": "Corsair",
@@ -3117,7 +3077,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "21455",
       "brand": "Corsair",
@@ -3157,7 +3117,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "31834",
       "brand": "Corsair",
@@ -3197,7 +3157,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "10883",
       "brand": "Corsair",
@@ -3237,7 +3197,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "29617",
       "brand": "Corsair",
@@ -3277,7 +3237,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "32049",
       "brand": "Corsair",
@@ -3317,7 +3277,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "45053",
       "brand": "Corsair",
@@ -3357,7 +3317,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "48614",
       "brand": "Team",
@@ -3397,7 +3357,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "48616",
       "brand": "Team",
@@ -3437,7 +3397,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "24291",
       "brand": "Team",
@@ -3476,7 +3436,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "10572",
       "brand": "Team",
@@ -3513,7 +3473,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "32165",
       "brand": "G.Skill",
@@ -3553,7 +3513,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "32164",
       "brand": "G.Skill",
@@ -3593,7 +3553,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25761",
       "brand": "G.Skill",
@@ -3633,47 +3593,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
-      "category": "ram",
-      "product_id": "26849",
-      "brand": "G.SKILL",
-      "model": "Flare X5",
-      "title": "G-Skill Flare X5 16GB DDR5 5600MHz Desktop RAM",
-      "current_price": 33000,
-      "regular_price": 35590,
-      "discount_bdt": 2590,
-      "stock_status": "In Stock",
-      "specs": {
-        "Capacity": "16GB",
-        "Memory Type": "DDR5",
-        "Frequency": "5600MHz",
-        "Cas Latency": "36-36-36-89 / 1.20V"
-      },
-      "specs_summary": "Capacity: 16GB | Memory Type: DDR5 | Frequency: 5600MHz | Cas Latency: 36-36-36-89 / 1.20V",
-      "url": "https://www.startech.com.bd/g-skill-flare-x5-16gb-ddr5-5600mhz-ram",
-      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/flare-x5/flare-x5-16gb-01-228x228.webp",
-      "detail_fetched": true,
-      "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
-      "previous_price": 33000,
-      "lowest_price": 33000,
-      "lowest_price_date": "2026-11-06",
-      "highest_price": 33000,
-      "highest_price_date": "2026-11-06",
-      "previous_stock_status": "In Stock",
-      "price_history": [
-        {
-          "date": "2026-11-06",
-          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
-          "price": 33000,
-          "regular_price": 35590,
-          "stock_status": "In Stock",
-          "event": "FIRST_SEEN"
-        }
-      ]
-    },
-    {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "39588",
       "brand": "Kingston",
@@ -3712,7 +3632,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "21450",
       "brand": "Kingston",
@@ -3760,7 +3680,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "37786",
       "brand": "Kingston",
@@ -3800,7 +3720,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "26175",
       "brand": "Kingston",
@@ -3840,7 +3760,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "21671",
       "brand": "Kingston",
@@ -3879,7 +3799,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "36460",
       "brand": "Kingston",
@@ -3918,7 +3838,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25110",
       "brand": "Kingston",
@@ -3958,7 +3878,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "37782",
       "brand": "Kingston",
@@ -3997,7 +3917,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "36442",
       "brand": "Kingston",
@@ -4036,7 +3956,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25106",
       "brand": "Kingston",
@@ -4076,7 +3996,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "45601",
       "brand": "Kingston",
@@ -4116,7 +4036,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "37783",
       "brand": "Kingston",
@@ -4164,7 +4084,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "31137",
       "brand": "Kingston",
@@ -4204,7 +4124,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "21448",
       "brand": "Kingston",
@@ -4244,7 +4164,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25111",
       "brand": "Kingston",
@@ -4284,7 +4204,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "39589",
       "brand": "Kingston",
@@ -4323,7 +4243,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "42317",
       "brand": "Kingston",
@@ -4362,7 +4282,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "23571",
       "brand": "Kingston",
@@ -4402,7 +4322,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "37746",
       "brand": "Kingston",
@@ -4442,7 +4362,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "36967",
       "brand": "Kingston",
@@ -4482,7 +4402,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "37735",
       "brand": "Kingston",
@@ -4522,7 +4442,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "45738",
       "brand": "Kingston",
@@ -4562,7 +4482,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "37740",
       "brand": "Kingston",
@@ -4610,7 +4530,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "45600",
       "brand": "Kingston",
@@ -4650,7 +4570,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "47418",
       "brand": "Kingston",
@@ -4690,7 +4610,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "44866",
       "brand": "Kingston",
@@ -4730,7 +4650,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "22525",
       "brand": "Kingston",
@@ -4770,7 +4690,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "36042",
       "brand": "Kingston",
@@ -4810,7 +4730,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "31221",
       "brand": "Kingston",
@@ -4850,7 +4770,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "31227",
       "brand": "Kingston",
@@ -4890,7 +4810,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "37785",
       "brand": "Kingston",
@@ -4930,7 +4850,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "46944",
       "brand": "Kingston",
@@ -4970,7 +4890,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "42228",
       "brand": "Kingston",
@@ -5010,7 +4930,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "42229",
       "brand": "Kingston",
@@ -5050,7 +4970,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "31224",
       "brand": "Kingston",
@@ -5090,7 +5010,199 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
+      "category": "ram",
+      "product_id": "51780",
+      "brand": "G.SKILL",
+      "model": "G-Skill Aegis 5 16GB DDR5 5600MHz CL36",
+      "title": "G-Skill Aegis 5 16GB DDR5 5600MHz CL36 Desktop RAM",
+      "current_price": 38500,
+      "regular_price": 42300,
+      "discount_bdt": 3800,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "16GB",
+        "Memory Type": "DDR5",
+        "Frequency": "5600MHz",
+        "Cas Latency": "36-36-36-89 / 1.20V"
+      },
+      "specs_summary": "Capacity: 16GB | Memory Type: DDR5 | Frequency: 5600MHz | Cas Latency: 36-36-36-89 / 1.20V",
+      "url": "https://www.startech.com.bd/g-skill-aegis-5-16gb-ddr5-5600mhz-cl36-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/aegis-5-16gb/aegis-5-16gb-02-228x228.webp",
+      "detail_fetched": true,
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-26",
+      "previous_price": 32399,
+      "lowest_price": 32399,
+      "lowest_price_date": "2026-11-06",
+      "highest_price": 38500,
+      "highest_price_date": "2026-11-26",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 32399,
+          "regular_price": 35700,
+          "stock_status": "In Stock",
+          "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-26",
+          "timestamp": "Thu 26 Nov 2026 07:22 AM Thursday",
+          "price": 38500,
+          "regular_price": 42300,
+          "stock_status": "In Stock",
+          "event": "PRICE_INCREASE"
+        }
+      ]
+    },
+    {
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
+      "category": "ram",
+      "product_id": "26849",
+      "brand": "G.SKILL",
+      "model": "G-Skill Flare X5",
+      "title": "G-Skill Flare X5 16GB DDR5 5600MHz Desktop RAM",
+      "current_price": 38500,
+      "regular_price": 42300,
+      "discount_bdt": 3800,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "16GB",
+        "Memory Type": "DDR5",
+        "Frequency": "5600MHz",
+        "Cas Latency": "36-36-36-89 / 1.20V"
+      },
+      "specs_summary": "Capacity: 16GB | Memory Type: DDR5 | Frequency: 5600MHz | Cas Latency: 36-36-36-89 / 1.20V",
+      "url": "https://www.startech.com.bd/g-skill-flare-x5-16gb-ddr5-5600mhz-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/flare-x5/flare-x5-16gb-01-228x228.webp",
+      "detail_fetched": true,
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-26",
+      "previous_price": 33000,
+      "lowest_price": 33000,
+      "lowest_price_date": "2026-11-06",
+      "highest_price": 38500,
+      "highest_price_date": "2026-11-26",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 33000,
+          "regular_price": 35590,
+          "stock_status": "In Stock",
+          "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-26",
+          "timestamp": "Thu 26 Nov 2026 07:22 AM Thursday",
+          "price": 38500,
+          "regular_price": 42300,
+          "stock_status": "In Stock",
+          "event": "PRICE_INCREASE"
+        }
+      ]
+    },
+    {
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
+      "category": "ram",
+      "product_id": "25068",
+      "brand": "G.SKILL",
+      "model": "G-Skill Ripjaws S5 16GB DDR5 6000Mhz CL32",
+      "title": "G-Skill Ripjaws S5 16GB DDR5 6000Mhz CL32 Desktop RAM",
+      "current_price": 39500,
+      "regular_price": 43400,
+      "discount_bdt": 3900,
+      "stock_status": "In Stock",
+      "specs": {
+        "Memory Type": "DDR5",
+        "Capacity": "16GB",
+        "Tested Speed": "6000MHz",
+        "Tested Latency/Voltage": "CL32-38-38-96, 1.35V"
+      },
+      "specs_summary": "Memory Type: DDR5 | Capacity: 16GB | Tested Speed: 6000MHz | Tested Latency/Voltage: CL32-38-38-96, 1.35V",
+      "url": "https://www.startech.com.bd/g-skill-ripjaws-s5-16gb-ddr5-6000mhz-cl32-desktop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/ripjaws-s5/ripjaws-s5-000-228x228.jpg",
+      "detail_fetched": true,
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-26",
+      "previous_price": 33900,
+      "lowest_price": 33900,
+      "lowest_price_date": "2026-11-06",
+      "highest_price": 39500,
+      "highest_price_date": "2026-11-26",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 33900,
+          "regular_price": 37400,
+          "stock_status": "In Stock",
+          "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-26",
+          "timestamp": "Thu 26 Nov 2026 07:22 AM Thursday",
+          "price": 39500,
+          "regular_price": 43400,
+          "stock_status": "In Stock",
+          "event": "PRICE_INCREASE"
+        }
+      ]
+    },
+    {
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
+      "category": "ram",
+      "product_id": "54874",
+      "brand": "G.SKILL",
+      "model": "G-Skill Ripjaws S5 16GB DDR5 6000Mhz CL36",
+      "title": "G-Skill Ripjaws S5 16GB DDR5 6000Mhz CL36 Desktop RAM",
+      "current_price": 39500,
+      "regular_price": 43400,
+      "discount_bdt": 3900,
+      "stock_status": "In Stock",
+      "specs": {
+        "Memory Type": "DDR5",
+        "Memory Capacity": "16GB",
+        "Memory Speed": "6000MHz",
+        "CAS Latency": "CL 36-36-36-96"
+      },
+      "specs_summary": "Memory Type: DDR5 | Memory Capacity: 16GB | Memory Speed: 6000MHz | CAS Latency: CL 36-36-36-96",
+      "url": "https://www.startech.com.bd/g-skill-ripjaws-s5-16gb-ddr5-6000mhz-cl36-desktop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/ripjaws-s5-16gb-6000mhz/ripjaws-s5-16gb-ddr5-6000mhz-01-228x228.webp",
+      "detail_fetched": true,
+      "first_seen": "2026-11-23",
+      "last_changed": "2026-11-26",
+      "previous_price": 33900,
+      "lowest_price": 33900,
+      "lowest_price_date": "2026-11-23",
+      "highest_price": 39500,
+      "highest_price_date": "2026-11-26",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "2026-11-23",
+          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
+          "price": 33900,
+          "regular_price": 37250,
+          "stock_status": "In Stock",
+          "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-26",
+          "timestamp": "Thu 26 Nov 2026 07:22 AM Thursday",
+          "price": 39500,
+          "regular_price": 43400,
+          "stock_status": "In Stock",
+          "event": "PRICE_INCREASE"
+        }
+      ]
+    },
+    {
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "45417",
       "brand": "AITC",
@@ -5130,7 +5242,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "52677",
       "brand": "AITC",
@@ -5177,7 +5289,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "51564",
       "brand": "AITC",
@@ -5233,7 +5345,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "44861",
       "brand": "AITC",
@@ -5273,7 +5385,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "44857",
       "brand": "AITC",
@@ -5313,7 +5425,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "53329",
       "brand": "AITC",
@@ -5361,7 +5473,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "48343",
       "brand": "AITC",
@@ -5409,7 +5521,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "44849",
       "brand": "AITC",
@@ -5449,7 +5561,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "44850",
       "brand": "AITC",
@@ -5489,7 +5601,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "44846",
       "brand": "AITC",
@@ -5529,7 +5641,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "44848",
       "brand": "AITC",
@@ -5569,7 +5681,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "44862",
       "brand": "AITC",
@@ -5609,7 +5721,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "48444",
       "brand": "KingBank",
@@ -5672,7 +5784,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "48442",
       "brand": "KingBank",
@@ -5720,7 +5832,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "53664",
       "brand": "KingBank",
@@ -5776,7 +5888,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "45159",
       "brand": "OSCOO",
@@ -5816,7 +5928,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "45160",
       "brand": "OSCOO",
@@ -5856,7 +5968,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "53374",
       "brand": "V-Color",
@@ -5912,7 +6024,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "52961",
       "brand": "V-Color",
@@ -5984,7 +6096,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "52963",
       "brand": "V-Color",
@@ -6040,7 +6152,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "51303",
       "brand": "V-Color",
@@ -6104,7 +6216,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "51312",
       "brand": "V-Color",
@@ -6176,7 +6288,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "51302",
       "brand": "V-Color",
@@ -6232,7 +6344,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "51305",
       "brand": "V-Color",
@@ -6272,7 +6384,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "51300",
       "brand": "V-Color",
@@ -6312,7 +6424,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "51301",
       "brand": "V-Color",
@@ -6352,7 +6464,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "12763",
       "brand": "Team",
@@ -6389,7 +6501,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "45163",
       "brand": "OSCOO",
@@ -6429,7 +6541,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "37748",
       "brand": "OCPC",
@@ -6469,7 +6581,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "37747",
       "brand": "OCPC",
@@ -6509,7 +6621,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "39587",
       "brand": "OCPC",
@@ -6549,7 +6661,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "49080",
       "brand": "OCPC",
@@ -6589,7 +6701,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "33064",
       "brand": "OCPC",
@@ -6629,7 +6741,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "45175",
       "brand": "OSCOO",
@@ -6669,7 +6781,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "45174",
       "brand": "OSCOO",
@@ -6709,7 +6821,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "45176",
       "brand": "OSCOO",
@@ -6749,7 +6861,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "19854",
       "brand": "G.Skill",
@@ -6787,7 +6899,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "19853",
       "brand": "G.SKILL",
@@ -6825,7 +6937,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "19851",
       "brand": "G.Skill",
@@ -6863,7 +6975,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25067",
       "brand": "G-Skill",
@@ -6903,7 +7015,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "20759",
       "brand": "G.Skill",
@@ -6941,87 +7053,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
-      "category": "ram",
-      "product_id": "25068",
-      "brand": "G.SKILL",
-      "model": "Ripjaws S5 16GB DDR5 6000Mhz CL32",
-      "title": "G-Skill Ripjaws S5 16GB DDR5 6000Mhz CL32 Desktop RAM",
-      "current_price": 33900,
-      "regular_price": 37400,
-      "discount_bdt": 3500,
-      "stock_status": "In Stock",
-      "specs": {
-        "Memory Type": "DDR5",
-        "Capacity": "16GB",
-        "Tested Speed": "6000MHz",
-        "Tested Latency/Voltage": "CL32-38-38-96, 1.35V"
-      },
-      "specs_summary": "Memory Type: DDR5 | Capacity: 16GB | Tested Speed: 6000MHz | Tested Latency/Voltage: CL32-38-38-96, 1.35V",
-      "url": "https://www.startech.com.bd/g-skill-ripjaws-s5-16gb-ddr5-6000mhz-cl32-desktop-ram",
-      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/ripjaws-s5/ripjaws-s5-000-228x228.jpg",
-      "detail_fetched": true,
-      "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
-      "previous_price": 33900,
-      "lowest_price": 33900,
-      "lowest_price_date": "2026-11-06",
-      "highest_price": 33900,
-      "highest_price_date": "2026-11-06",
-      "previous_stock_status": "In Stock",
-      "price_history": [
-        {
-          "date": "2026-11-06",
-          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
-          "price": 33900,
-          "regular_price": 37400,
-          "stock_status": "In Stock",
-          "event": "FIRST_SEEN"
-        }
-      ]
-    },
-    {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
-      "category": "ram",
-      "product_id": "54874",
-      "brand": "G.SKILL",
-      "model": "Ripjaws S5 16GB DDR5 6000Mhz CL36",
-      "title": "G-Skill Ripjaws S5 16GB DDR5 6000Mhz CL36 Desktop RAM",
-      "current_price": 33900,
-      "regular_price": 37250,
-      "discount_bdt": 3350,
-      "stock_status": "In Stock",
-      "specs": {
-        "Memory Type": "DDR5",
-        "Memory Capacity": "16GB",
-        "Memory Speed": "6000MHz",
-        "CAS Latency": "CL 36-36-36-96"
-      },
-      "specs_summary": "Memory Type: DDR5 | Memory Capacity: 16GB | Memory Speed: 6000MHz | CAS Latency: CL 36-36-36-96",
-      "url": "https://www.startech.com.bd/g-skill-ripjaws-s5-16gb-ddr5-6000mhz-cl36-desktop-ram",
-      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/ripjaws-s5-16gb-6000mhz/ripjaws-s5-16gb-ddr5-6000mhz-01-228x228.webp",
-      "detail_fetched": true,
-      "first_seen": "2026-11-23",
-      "last_changed": "2026-11-23",
-      "previous_price": 33900,
-      "lowest_price": 33900,
-      "lowest_price_date": "2026-11-23",
-      "highest_price": 33900,
-      "highest_price_date": "2026-11-23",
-      "previous_stock_status": "In Stock",
-      "price_history": [
-        {
-          "date": "2026-11-23",
-          "timestamp": "Mon 23 Nov 2026 05:00 AM Monday",
-          "price": 33900,
-          "regular_price": 37250,
-          "stock_status": "In Stock",
-          "event": "FIRST_SEEN"
-        }
-      ]
-    },
-    {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "15199",
       "brand": "G.SKILL",
@@ -7058,7 +7090,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "15198",
       "brand": "G.Skill",
@@ -7095,7 +7127,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25757",
       "brand": "G.Skill",
@@ -7135,7 +7167,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "32114",
       "brand": "G.Skill",
@@ -7175,7 +7207,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "23475",
       "brand": "G.Skill",
@@ -7215,7 +7247,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25758",
       "brand": "G.Skill",
@@ -7255,7 +7287,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "32149",
       "brand": "G.Skill",
@@ -7295,7 +7327,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25635",
       "brand": "G.Skill",
@@ -7335,7 +7367,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25759",
       "brand": "G.Skill",
@@ -7375,7 +7407,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "32150",
       "brand": "G.SKILL",
@@ -7415,7 +7447,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "16360",
       "brand": "G.Skill",
@@ -7454,7 +7486,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "16355",
       "brand": "G.Skill",
@@ -7493,7 +7525,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "32163",
       "brand": "G.Skill",
@@ -7533,7 +7565,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "13902",
       "brand": "G.Skill",
@@ -7573,7 +7605,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "44721",
       "brand": "Netac",
@@ -7613,7 +7645,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "45831",
       "brand": "Netac",
@@ -7653,7 +7685,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "44634",
       "brand": "Netac",
@@ -7693,7 +7725,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "47219",
       "brand": "Netac",
@@ -7733,7 +7765,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "51291",
       "brand": "Netac",
@@ -7773,7 +7805,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "51966",
       "brand": "Netac",
@@ -7836,7 +7868,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "53741",
       "brand": "Netac",
@@ -7876,7 +7908,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "47218",
       "brand": "Netac",
@@ -7916,7 +7948,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "44720",
       "brand": "Netac",
@@ -7956,55 +7988,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
-      "category": "ram",
-      "product_id": "47925",
-      "brand": "Netac",
-      "model": "Shadow S",
-      "title": "Netac Shadow S 8GB DDR4 3200MHz Desktop RAM WHITE",
-      "current_price": 7800,
-      "regular_price": 8580,
-      "discount_bdt": 780,
-      "stock_status": "In Stock",
-      "specs": {
-        "Capacity": "8GB, Type: DDR4",
-        "Frequency": "3200 MHz",
-        "Cas Latency": "CL16-20-20-40",
-        "Voltage": "1.35V, Bandwidth: 25600 Mbps"
-      },
-      "specs_summary": "Capacity: 8GB, Type: DDR4 | Frequency: 3200 MHz | Cas Latency: CL16-20-20-40 | Voltage: 1.35V, Bandwidth: 25600 Mbps",
-      "url": "https://www.startech.com.bd/netac-shadow-s-8gb-3200mhz-ram-white",
-      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/netac/shadow-s/shadow-s-white-01-228x228.webp",
-      "detail_fetched": true,
-      "first_seen": "2026-11-06",
-      "last_changed": "2026-11-13",
-      "previous_price": 9500,
-      "lowest_price": 7800,
-      "lowest_price_date": "2026-11-13",
-      "highest_price": 9500,
-      "highest_price_date": "2026-11-06",
-      "previous_stock_status": "In Stock",
-      "price_history": [
-        {
-          "date": "2026-11-06",
-          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
-          "price": 9500,
-          "regular_price": 10450,
-          "stock_status": "In Stock",
-          "event": "FIRST_SEEN"
-        },
-        {
-          "date": "2026-11-13",
-          "timestamp": "Fri 13 Nov 2026 05:00 AM Friday",
-          "price": 7800,
-          "regular_price": 8580,
-          "stock_status": "In Stock",
-          "event": "PRICE_DROP"
-        }
-      ]
-    },
-    {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "47927",
       "brand": "Netac",
@@ -8052,7 +8036,63 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
+      "category": "ram",
+      "product_id": "47925",
+      "brand": "Netac",
+      "model": "Shadow S",
+      "title": "Netac Shadow S 8GB DDR4 3200MHz Desktop RAM WHITE",
+      "current_price": 0,
+      "regular_price": 0,
+      "discount_bdt": 0,
+      "stock_status": "Out Of Stock",
+      "specs": {
+        "Capacity": "8GB, Type: DDR4",
+        "Frequency": "3200 MHz",
+        "Cas Latency": "CL16-20-20-40",
+        "Voltage": "1.35V, Bandwidth: 25600 Mbps"
+      },
+      "specs_summary": "Capacity: 8GB, Type: DDR4 | Frequency: 3200 MHz | Cas Latency: CL16-20-20-40 | Voltage: 1.35V, Bandwidth: 25600 Mbps",
+      "url": "https://www.startech.com.bd/netac-shadow-s-8gb-3200mhz-ram-white",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/netac/shadow-s/shadow-s-white-01-228x228.webp",
+      "detail_fetched": true,
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-26",
+      "previous_price": 9500,
+      "lowest_price": 7800,
+      "lowest_price_date": "2026-11-13",
+      "highest_price": 9500,
+      "highest_price_date": "2026-11-06",
+      "previous_stock_status": "In Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 9500,
+          "regular_price": 10450,
+          "stock_status": "In Stock",
+          "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-13",
+          "timestamp": "Fri 13 Nov 2026 05:00 AM Friday",
+          "price": 7800,
+          "regular_price": 8580,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
+        },
+        {
+          "date": "2026-11-26",
+          "timestamp": "Thu 26 Nov 2026 07:22 AM Thursday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "OUT_OF_STOCK"
+        }
+      ]
+    },
+    {
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "45157",
       "brand": "Netac",
@@ -8100,7 +8140,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "27785",
       "brand": "Netac",
@@ -8140,7 +8180,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "44695",
       "brand": "Netac",
@@ -8188,7 +8228,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "50387",
       "brand": "KingBank",
@@ -8228,7 +8268,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "48438",
       "brand": "KingBank",
@@ -8268,7 +8308,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "53591",
       "brand": "Addlink",
@@ -8331,7 +8371,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "38188",
       "brand": "Team",
@@ -8371,7 +8411,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "48619",
       "brand": "Team",
@@ -8411,7 +8451,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "51012",
       "brand": "Team",
@@ -8475,7 +8515,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "51771",
       "brand": "Team",
@@ -8515,7 +8555,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "41470",
       "brand": "Team",
@@ -8554,7 +8594,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "41471",
       "brand": "Team",
@@ -8594,7 +8634,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "48618",
       "brand": "Team",
@@ -8634,7 +8674,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "18728",
       "brand": "Team",
@@ -8671,7 +8711,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "43867",
       "brand": "Team",
@@ -8711,7 +8751,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "31509",
       "brand": "Team",
@@ -8749,7 +8789,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "23554",
       "brand": "Team",
@@ -8787,7 +8827,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "38973",
       "brand": "Team",
@@ -8825,7 +8865,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "29639",
       "brand": "Team",
@@ -8863,7 +8903,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "41476",
       "brand": "Team",
@@ -8903,7 +8943,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "41473",
       "brand": "Team",
@@ -8943,7 +8983,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "34787",
       "brand": "Team",
@@ -8981,7 +9021,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "23555",
       "brand": "Team",
@@ -9019,7 +9059,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "29635",
       "brand": "Team",
@@ -9057,7 +9097,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "26811",
       "brand": "Team",
@@ -9095,7 +9135,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "26805",
       "brand": "Team",
@@ -9133,7 +9173,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "29636",
       "brand": "Team",
@@ -9171,7 +9211,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "28644",
       "brand": "Team",
@@ -9209,7 +9249,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "28647",
       "brand": "Team",
@@ -9247,7 +9287,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "39404",
       "brand": "Team",
@@ -9285,7 +9325,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "29630",
       "brand": "Team",
@@ -9323,7 +9363,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "53013",
       "brand": "Team",
@@ -9379,7 +9419,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "40401",
       "brand": "Team",
@@ -9418,7 +9458,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "40403",
       "brand": "Team",
@@ -9457,7 +9497,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "38067",
       "brand": "Team",
@@ -9495,7 +9535,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "35010",
       "brand": "Team",
@@ -9533,7 +9573,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "24309",
       "brand": "Team",
@@ -9573,7 +9613,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "23687",
       "brand": "Team",
@@ -9610,7 +9650,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "31510",
       "brand": "Team",
@@ -9648,7 +9688,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "26815",
       "brand": "Team",
@@ -9686,7 +9726,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "26810",
       "brand": "Team",
@@ -9724,7 +9764,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "24789",
       "brand": "Team",
@@ -9763,7 +9803,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "38074",
       "brand": "Team",
@@ -9801,7 +9841,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "18745",
       "brand": "Team",
@@ -9838,7 +9878,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "33258",
       "brand": "Team",
@@ -9878,7 +9918,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "23734",
       "brand": "Team",
@@ -9915,7 +9955,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "24310",
       "brand": "Team",
@@ -9955,7 +9995,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "22141",
       "brand": "Team",
@@ -9992,7 +10032,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "43866",
       "brand": "Team",
@@ -10032,7 +10072,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "37483",
       "brand": "Team",
@@ -10072,7 +10112,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "38689",
       "brand": "Team",
@@ -10112,7 +10152,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "40406",
       "brand": "Team",
@@ -10152,7 +10192,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "53015",
       "brand": "Team",
@@ -10192,7 +10232,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "43865",
       "brand": "Team",
@@ -10232,7 +10272,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "44933",
       "brand": "Team",
@@ -10272,7 +10312,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "41472",
       "brand": "Team",
@@ -10312,7 +10352,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "29628",
       "brand": "Team",
@@ -10352,7 +10392,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "32025",
       "brand": "Team",
@@ -10392,7 +10432,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "18727",
       "brand": "Team",
@@ -10432,7 +10472,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "38192",
       "brand": "Team",
@@ -10472,7 +10512,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "37475",
       "brand": "Team",
@@ -10512,7 +10552,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "24329",
       "brand": "Team",
@@ -10560,7 +10600,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "18720",
       "brand": "Team",
@@ -10600,7 +10640,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "24308",
       "brand": "Team",
@@ -10640,7 +10680,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "21157",
       "brand": "Team",
@@ -10680,7 +10720,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "20293",
       "brand": "Team",
@@ -10720,7 +10760,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "45506",
       "brand": "Team",
@@ -10760,7 +10800,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "43423",
       "brand": "Lexar",
@@ -10800,7 +10840,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "43425",
       "brand": "Lexar",
@@ -10840,7 +10880,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "32654",
       "brand": "Lexar",
@@ -10880,7 +10920,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "46933",
       "brand": "Lexar",
@@ -10920,7 +10960,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25920",
       "brand": "Lexar",
@@ -10967,7 +11007,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "47559",
       "brand": "Lexar",
@@ -11007,7 +11047,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "47574",
       "brand": "Lexar",
@@ -11047,7 +11087,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "46084",
       "brand": "Lexar",
@@ -11087,7 +11127,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "51001",
       "brand": "Lexar",
@@ -11127,7 +11167,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "50998",
       "brand": "Lexar",
@@ -11167,7 +11207,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "47775",
       "brand": "Lexar",
@@ -11207,7 +11247,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25909",
       "brand": "G.Skill",
@@ -11247,7 +11287,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "15185",
       "brand": "G.Skill",
@@ -11284,7 +11324,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25762",
       "brand": "G.Skill",
@@ -11324,7 +11364,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "16349",
       "brand": "G.Skill",
@@ -11363,7 +11403,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "16352",
       "brand": "G.SKILL",
@@ -11402,7 +11442,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "17567",
       "brand": "G.Skill",
@@ -11441,7 +11481,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "15522",
       "brand": "G.Skill",
@@ -11480,7 +11520,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "15541",
       "brand": "G.Skill",
@@ -11519,7 +11559,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "15186",
       "brand": "G.Skill",
@@ -11556,7 +11596,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25764",
       "brand": "G.Skill",
@@ -11596,7 +11636,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "22139",
       "brand": "G.Skill",
@@ -11635,7 +11675,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "15521",
       "brand": "G.Skill",
@@ -11674,7 +11714,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "15807",
       "brand": "G.Skill",
@@ -11713,7 +11753,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "18101",
       "brand": "G.Skill",
@@ -11752,7 +11792,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "18102",
       "brand": "G.Skill",
@@ -11791,7 +11831,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "16915",
       "brand": "G.Skill",
@@ -11829,7 +11869,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "16913",
       "brand": "G.Skill",
@@ -11867,7 +11907,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "21445",
       "brand": "G.Skill",
@@ -11907,7 +11947,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "19803",
       "brand": "G.Skill",
@@ -11947,7 +11987,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "19805",
       "brand": "G.Skill",
@@ -11987,7 +12027,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "23538",
       "brand": "G.Skill",
@@ -12027,15 +12067,15 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "19802",
       "brand": "G.SKILL",
       "model": "Trident Z5 16GB DDR5 5600MHz CL36",
       "title": "G.Skill Trident Z5 16GB DDR5 5600MHz CL36 Desktop RAM Silver",
-      "current_price": 34000,
-      "regular_price": 37300,
-      "discount_bdt": 3300,
+      "current_price": 38500,
+      "regular_price": 42300,
+      "discount_bdt": 3800,
       "stock_status": "In Stock",
       "specs": {
         "Capacity": "16GB, Memory Type: DDR5",
@@ -12048,12 +12088,12 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/trident-tz5s/trident-tz5s-01-228x228.jpg",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-26",
       "previous_price": 34000,
       "lowest_price": 34000,
       "lowest_price_date": "2026-11-06",
-      "highest_price": 34000,
-      "highest_price_date": "2026-11-06",
+      "highest_price": 38500,
+      "highest_price_date": "2026-11-26",
       "previous_stock_status": "In Stock",
       "price_history": [
         {
@@ -12063,11 +12103,19 @@
           "regular_price": 37300,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-26",
+          "timestamp": "Thu 26 Nov 2026 07:22 AM Thursday",
+          "price": 38500,
+          "regular_price": 42300,
+          "stock_status": "In Stock",
+          "event": "PRICE_INCREASE"
         }
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "19801",
       "brand": "G.Skill",
@@ -12107,7 +12155,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "20760",
       "brand": "G.Skill",
@@ -12147,7 +12195,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "21187",
       "brand": "G.Skill",
@@ -12187,7 +12235,71 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
+      "category": "ram",
+      "product_id": "31229",
+      "brand": "G.SKILL",
+      "model": "Trident Z5 Neo RGB",
+      "title": "G.Skill Trident Z5 Neo RGB 16GB DDR5 6000Mhz Desktop RAM",
+      "current_price": 41000,
+      "regular_price": 45000,
+      "discount_bdt": 4000,
+      "stock_status": "In Stock",
+      "specs": {
+        "Capacity": "16GB",
+        "Type": "DDR5 6000Mhz",
+        "Latency": "32-38-38-96",
+        "Voltage": "1.35V"
+      },
+      "specs_summary": "Capacity: 16GB | Type: DDR5 6000Mhz | Latency: 32-38-38-96 | Voltage: 1.35V",
+      "url": "https://www.startech.com.bd/g-skill-trident-z5-neo-rgb-16gb-desktop-ram",
+      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/trident-z5-neo/trident-z5-neo-01-228x228.webp",
+      "detail_fetched": true,
+      "first_seen": "2026-11-06",
+      "last_changed": "2026-11-26",
+      "previous_price": 35000,
+      "lowest_price": 35000,
+      "lowest_price_date": "2026-11-12",
+      "highest_price": 41000,
+      "highest_price_date": "2026-11-26",
+      "previous_stock_status": "Out Of Stock",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
+          "price": 35500,
+          "regular_price": 39000,
+          "stock_status": "In Stock",
+          "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-12",
+          "timestamp": "Thu 12 Nov 2026 05:53 AM Thursday",
+          "price": 35000,
+          "regular_price": 39000,
+          "stock_status": "In Stock",
+          "event": "PRICE_DROP"
+        },
+        {
+          "date": "2026-11-24",
+          "timestamp": "Tue 24 Nov 2026 09:39 AM Tuesday",
+          "price": 0,
+          "regular_price": 0,
+          "stock_status": "Out Of Stock",
+          "event": "OUT_OF_STOCK"
+        },
+        {
+          "date": "2026-11-26",
+          "timestamp": "Thu 26 Nov 2026 07:22 AM Thursday",
+          "price": 41000,
+          "regular_price": 45000,
+          "stock_status": "In Stock",
+          "event": "RESTOCKED+PRICE_INCREASE"
+        }
+      ]
+    },
+    {
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "31225",
       "brand": "G.Skill",
@@ -12227,63 +12339,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
-      "category": "ram",
-      "product_id": "31229",
-      "brand": "G.Skill",
-      "model": "Trident Z5 Neo RGB",
-      "title": "G.Skill Trident Z5 Neo RGB 16GB DDR5 6000Mhz Desktop RAM",
-      "current_price": 0,
-      "regular_price": 0,
-      "discount_bdt": 0,
-      "stock_status": "Out Of Stock",
-      "specs": {
-        "Capacity": "16GB",
-        "Type": "DDR5 6000Mhz",
-        "Latency": "32-38-38-96",
-        "Voltage": "1.35V"
-      },
-      "specs_summary": "Capacity: 16GB | Type: DDR5 6000Mhz | Latency: 32-38-38-96 | Voltage: 1.35V",
-      "url": "https://www.startech.com.bd/g-skill-trident-z5-neo-rgb-16gb-desktop-ram",
-      "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/trident-z5-neo/trident-z5-neo-01-228x228.webp",
-      "detail_fetched": true,
-      "first_seen": "2026-11-06",
-      "last_changed": "2026-11-24",
-      "previous_price": 35500,
-      "lowest_price": 35000,
-      "lowest_price_date": "2026-11-12",
-      "highest_price": 35500,
-      "highest_price_date": "2026-11-06",
-      "previous_stock_status": "In Stock",
-      "price_history": [
-        {
-          "date": "2026-11-06",
-          "timestamp": "Fri 06 Nov 2026 02:04 PM Friday",
-          "price": 35500,
-          "regular_price": 39000,
-          "stock_status": "In Stock",
-          "event": "FIRST_SEEN"
-        },
-        {
-          "date": "2026-11-12",
-          "timestamp": "Thu 12 Nov 2026 05:53 AM Thursday",
-          "price": 35000,
-          "regular_price": 39000,
-          "stock_status": "In Stock",
-          "event": "PRICE_DROP"
-        },
-        {
-          "date": "2026-11-24",
-          "timestamp": "Tue 24 Nov 2026 09:39 AM Tuesday",
-          "price": 0,
-          "regular_price": 0,
-          "stock_status": "Out Of Stock",
-          "event": "OUT_OF_STOCK"
-        }
-      ]
-    },
-    {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "37372",
       "brand": "G.Skill",
@@ -12355,15 +12411,15 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "50567",
       "brand": "G.SKILL",
       "model": "Trident Z5 Neo RGB 16GB DDR5 6000Mhz CL36",
       "title": "G.Skill Trident Z5 Neo RGB 16GB DDR5 6000Mhz CL36 Desktop RAM",
-      "current_price": 35000,
-      "regular_price": 38500,
-      "discount_bdt": 3500,
+      "current_price": 41000,
+      "regular_price": 45000,
+      "discount_bdt": 4000,
       "stock_status": "In Stock",
       "specs": {
         "Capacity": "16GB",
@@ -12376,12 +12432,12 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/trident-z5-neo/trident-z5-neo-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-26",
       "previous_price": 35000,
       "lowest_price": 35000,
       "lowest_price_date": "2026-11-06",
-      "highest_price": 35000,
-      "highest_price_date": "2026-11-06",
+      "highest_price": 41000,
+      "highest_price_date": "2026-11-26",
       "previous_stock_status": "In Stock",
       "price_history": [
         {
@@ -12391,19 +12447,27 @@
           "regular_price": 38500,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-26",
+          "timestamp": "Thu 26 Nov 2026 07:22 AM Thursday",
+          "price": 41000,
+          "regular_price": 45000,
+          "stock_status": "In Stock",
+          "event": "PRICE_INCREASE"
         }
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "50414",
       "brand": "G.SKILL",
       "model": "Trident Z5 Neo RGB 32GB DDR5 6000Mhz CL36",
       "title": "G.Skill Trident Z5 Neo RGB 32GB DDR5 6000Mhz CL36 Desktop RAM",
-      "current_price": 72000,
-      "regular_price": 79200,
-      "discount_bdt": 7200,
+      "current_price": 83000,
+      "regular_price": 91300,
+      "discount_bdt": 8300,
       "stock_status": "In Stock",
       "specs": {
         "Capacity": "32GB, Type: DDR5",
@@ -12416,12 +12480,12 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/trident-z5-neo/trident-z5-neo-01-228x228.webp",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-26",
       "previous_price": 72000,
       "lowest_price": 72000,
       "lowest_price_date": "2026-11-06",
-      "highest_price": 72000,
-      "highest_price_date": "2026-11-06",
+      "highest_price": 83000,
+      "highest_price_date": "2026-11-26",
       "previous_stock_status": "In Stock",
       "price_history": [
         {
@@ -12431,11 +12495,19 @@
           "regular_price": 79200,
           "stock_status": "In Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-26",
+          "timestamp": "Thu 26 Nov 2026 07:22 AM Thursday",
+          "price": 83000,
+          "regular_price": 91300,
+          "stock_status": "In Stock",
+          "event": "PRICE_INCREASE"
         }
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "44132",
       "brand": "G.SKILL",
@@ -12483,7 +12555,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "30741",
       "brand": "G.Skill",
@@ -12523,7 +12595,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "30740",
       "brand": "G.Skill",
@@ -12563,7 +12635,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "21447",
       "brand": "G.Skill",
@@ -12603,7 +12675,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "32226",
       "brand": "G.Skill",
@@ -12643,16 +12715,16 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "23479",
-      "brand": "G.Skill",
+      "brand": "G.SKILL",
       "model": "Trident Z5 RGB",
       "title": "G.Skill Trident Z5 RGB 32GB DDR5 5600MHz Desktop RAM",
-      "current_price": 0,
-      "regular_price": 0,
-      "discount_bdt": 0,
-      "stock_status": "Out Of Stock",
+      "current_price": 78000,
+      "regular_price": 85800,
+      "discount_bdt": 7800,
+      "stock_status": "In Stock",
       "specs": {
         "Memory Type": "DDR5, Tested Speed: 5600MHz",
         "Tested Latency": "36-36-36-89",
@@ -12664,12 +12736,12 @@
       "image_url": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/trident-tz5k-rgb/trident-tz5k-rgb-01-228x228.jpg",
       "detail_fetched": true,
       "first_seen": "2026-11-06",
-      "last_changed": "2026-11-06",
+      "last_changed": "2026-11-26",
       "previous_price": 0,
-      "lowest_price": 0,
-      "lowest_price_date": "",
-      "highest_price": 0,
-      "highest_price_date": "",
+      "lowest_price": 78000,
+      "lowest_price_date": "2026-11-26",
+      "highest_price": 78000,
+      "highest_price_date": "2026-11-26",
       "previous_stock_status": "Out Of Stock",
       "price_history": [
         {
@@ -12679,11 +12751,19 @@
           "regular_price": 0,
           "stock_status": "Out Of Stock",
           "event": "FIRST_SEEN"
+        },
+        {
+          "date": "2026-11-26",
+          "timestamp": "Thu 26 Nov 2026 07:22 AM Thursday",
+          "price": 78000,
+          "regular_price": 85800,
+          "stock_status": "In Stock",
+          "event": "RESTOCKED"
         }
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "27418",
       "brand": "G.Skill",
@@ -12739,7 +12819,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "19809",
       "brand": "G.Skill",
@@ -12779,7 +12859,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "29303",
       "brand": "G.Skill",
@@ -12835,7 +12915,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25763",
       "brand": "G.Skill",
@@ -12875,7 +12955,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "19847",
       "brand": "G.Skill",
@@ -12915,7 +12995,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "19846",
       "brand": "G.Skill",
@@ -12955,7 +13035,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "19808",
       "brand": "G.Skill",
@@ -12995,7 +13075,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "22914",
       "brand": "G.Skill",
@@ -13035,7 +13115,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "22873",
       "brand": "G.Skill",
@@ -13075,7 +13155,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "21333",
       "brand": "G.Skill",
@@ -13115,7 +13195,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "51304",
       "brand": "AMD",
@@ -13163,7 +13243,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "51334",
       "brand": "Intel",
@@ -13203,7 +13283,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25753",
       "brand": "G.SKILL",
@@ -13242,7 +13322,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25754",
       "brand": "G.SKILL",
@@ -13281,7 +13361,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "32050",
       "brand": "G.Skill",
@@ -13321,7 +13401,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25751",
       "brand": "G.Skill",
@@ -13361,7 +13441,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "32051",
       "brand": "G.Skill",
@@ -13401,7 +13481,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "32053",
       "brand": "G.Skill",
@@ -13441,7 +13521,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "44947",
       "brand": "Corsair",
@@ -13481,7 +13561,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "31052",
       "brand": "Corsair",
@@ -13521,7 +13601,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "20585",
       "brand": "Corsair",
@@ -13561,7 +13641,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "32732",
       "brand": "Corsair",
@@ -13601,7 +13681,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "32733",
       "brand": "Corsair",
@@ -13641,7 +13721,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "38800",
       "brand": "Corsair",
@@ -13681,7 +13761,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "32734",
       "brand": "Corsair",
@@ -13721,7 +13801,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "32058",
       "brand": "Corsair",
@@ -13761,7 +13841,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "32063",
       "brand": "Corsair",
@@ -13801,7 +13881,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "32057",
       "brand": "Corsair",
@@ -13841,7 +13921,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "20581",
       "brand": "Corsair",
@@ -13881,7 +13961,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "42788",
       "brand": "Corsair",
@@ -13921,7 +14001,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "38807",
       "brand": "Corsair",
@@ -13961,7 +14041,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "38804",
       "brand": "Corsair",
@@ -14001,7 +14081,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "37595",
       "brand": "Corsair",
@@ -14041,7 +14121,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "44945",
       "brand": "Corsair",
@@ -14081,7 +14161,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "51428",
       "brand": "Corsair",
@@ -14121,7 +14201,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25604",
       "brand": "Corsair",
@@ -14161,7 +14241,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "28706",
       "brand": "Corsair",
@@ -14201,7 +14281,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "28709",
       "brand": "Corsair",
@@ -14241,7 +14321,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "47958",
       "brand": "Corsair",
@@ -14281,7 +14361,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "51257",
       "brand": "Corsair",
@@ -14321,7 +14401,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "50804",
       "brand": "Corsair",
@@ -14360,7 +14440,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "50802",
       "brand": "Corsair",
@@ -14399,7 +14479,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "2667",
       "brand": "Corsair",
@@ -14439,7 +14519,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "19691",
       "brand": "Corsair",
@@ -14479,7 +14559,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25200",
       "brand": "Corsair",
@@ -14519,7 +14599,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "7755",
       "brand": "Corsair",
@@ -14575,7 +14655,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "23178",
       "brand": "Corsair",
@@ -14615,7 +14695,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "2669",
       "brand": "Corsair",
@@ -14655,7 +14735,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "6046",
       "brand": "Corsair",
@@ -14710,7 +14790,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "39894",
       "brand": "Corsair",
@@ -14750,7 +14830,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "32065",
       "brand": "Corsair",
@@ -14790,7 +14870,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "31050",
       "brand": "Corsair",
@@ -14830,7 +14910,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "31056",
       "brand": "Corsair",
@@ -14870,7 +14950,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "31057",
       "brand": "Corsair",
@@ -14910,7 +14990,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "31841",
       "brand": "Corsair",
@@ -14950,7 +15030,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "32066",
       "brand": "Corsair",
@@ -14990,7 +15070,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "42803",
       "brand": "Corsair",
@@ -15030,7 +15110,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "38798",
       "brand": "Corsair",
@@ -15078,7 +15158,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "31048",
       "brand": "Corsair",
@@ -15126,7 +15206,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "45986",
       "brand": "Corsair",
@@ -15166,7 +15246,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "42800",
       "brand": "Corsair",
@@ -15206,7 +15286,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "38809",
       "brand": "Corsair",
@@ -15246,7 +15326,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "38357",
       "brand": "Corsair",
@@ -15286,7 +15366,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "45063",
       "brand": "Corsair",
@@ -15326,7 +15406,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "43583",
       "brand": "Corsair",
@@ -15374,7 +15454,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "36436",
       "brand": "Corsair",
@@ -15414,7 +15494,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "40986",
       "brand": "Corsair",
@@ -15462,7 +15542,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "47856",
       "brand": "Corsair",
@@ -15502,7 +15582,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "51259",
       "brand": "Corsair",
@@ -15542,7 +15622,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "51263",
       "brand": "Corsair",
@@ -15582,7 +15662,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "52273",
       "brand": "Corsair",
@@ -15622,7 +15702,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "42811",
       "brand": "Corsair",
@@ -15662,7 +15742,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "42812",
       "brand": "Corsair",
@@ -15702,7 +15782,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "51332",
       "brand": "Corsair",
@@ -15742,7 +15822,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "19751",
       "brand": "Corsair",
@@ -15781,7 +15861,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "52879",
       "brand": "Corsair",
@@ -15820,7 +15900,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "24019",
       "brand": "Corsair",
@@ -15860,7 +15940,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25197",
       "brand": "Corsair",
@@ -15898,7 +15978,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "19687",
       "brand": "Corsair",
@@ -15936,7 +16016,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "19688",
       "brand": "Corsair",
@@ -15974,7 +16054,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25199",
       "brand": "Corsair",
@@ -16012,7 +16092,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "49094",
       "brand": "Corsair",
@@ -16052,7 +16132,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "51265",
       "brand": "Corsair",
@@ -16092,7 +16172,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "51266",
       "brand": "Corsair",
@@ -16132,7 +16212,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "45081",
       "brand": "OCPC",
@@ -16172,7 +16252,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "49079",
       "brand": "OCPC",
@@ -16219,7 +16299,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "39905",
       "brand": "Team",
@@ -16259,7 +16339,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "31507",
       "brand": "Team",
@@ -16298,7 +16378,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "19989",
       "brand": "Team",
@@ -16337,7 +16417,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "36881",
       "brand": "Team",
@@ -16377,7 +16457,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "24255",
       "brand": "Team",
@@ -16416,7 +16496,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25939",
       "brand": "Team",
@@ -16456,7 +16536,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25936",
       "brand": "Team",
@@ -16496,7 +16576,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "31508",
       "brand": "Team",
@@ -16536,7 +16616,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25933",
       "brand": "Team",
@@ -16576,7 +16656,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "25935",
       "brand": "Team",
@@ -16616,7 +16696,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "38685",
       "brand": "Team",
@@ -16656,7 +16736,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "17967",
       "brand": "Team",
@@ -16693,7 +16773,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "45172",
       "brand": "OSCOO",
@@ -16733,7 +16813,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "45169",
       "brand": "OSCOO",
@@ -16773,7 +16853,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "45173",
       "brand": "OSCOO",
@@ -16821,7 +16901,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "45171",
       "brand": "OSCOO",
@@ -16861,7 +16941,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "45250",
       "brand": "OSCOO",
@@ -16901,7 +16981,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "52724",
       "brand": "Kimtigo",
@@ -16941,7 +17021,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "32986",
       "brand": "Kimtigo",
@@ -16980,7 +17060,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "50941",
       "brand": "Kimtigo",
@@ -17020,7 +17100,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "46993",
       "brand": "Corsair",
@@ -17068,7 +17148,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "46991",
       "brand": "Corsair",
@@ -17108,7 +17188,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "33068",
       "brand": "OCPC",
@@ -17156,7 +17236,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "33067",
       "brand": "OCPC",
@@ -17204,7 +17284,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "33065",
       "brand": "OCPC",
@@ -17251,7 +17331,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "33066",
       "brand": "OCPC",
@@ -17298,7 +17378,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "14275",
       "brand": "PNY",
@@ -17337,7 +17417,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "46083",
       "brand": "PNY",
@@ -17377,7 +17457,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "47311",
       "brand": "PNY",
@@ -17417,7 +17497,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "44218",
       "brand": "PNY",
@@ -17457,7 +17537,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "53668",
       "brand": "Silicon Power",
@@ -17497,7 +17577,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "53670",
       "brand": "Silicon Power",
@@ -17545,7 +17625,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "53676",
       "brand": "Silicon Power",
@@ -17585,7 +17665,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "53679",
       "brand": "Silicon Power",
@@ -17649,7 +17729,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "53671",
       "brand": "Silicon Power",
@@ -17697,7 +17777,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "53672",
       "brand": "Silicon Power",
@@ -17745,7 +17825,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "53673",
       "brand": "Silicon Power",
@@ -17793,7 +17873,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "53674",
       "brand": "Silicon Power",
@@ -17849,7 +17929,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "54596",
       "brand": "Silicon Power",
@@ -17897,7 +17977,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "54597",
       "brand": "Silicon Power",
@@ -17945,7 +18025,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "53685",
       "brand": "Silicon Power",
@@ -17993,7 +18073,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "53687",
       "brand": "Silicon Power",
@@ -18041,7 +18121,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "40487",
       "brand": "OCPC",
@@ -18089,7 +18169,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "33071",
       "brand": "OCPC",
@@ -18136,7 +18216,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "40488",
       "brand": "OCPC",
@@ -18191,7 +18271,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "47113",
       "brand": "OCPC",
@@ -18231,7 +18311,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "33283",
       "brand": "Team",
@@ -18271,7 +18351,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "33280",
       "brand": "Team",
@@ -18311,7 +18391,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "38970",
       "brand": "Team",
@@ -18351,7 +18431,7 @@
       ]
     },
     {
-      "extract-date": "Wed 25 Nov 2026 07:46 AM Wednesday",
+      "extract-date": "Thu 26 Nov 2026 07:22 AM Thursday",
       "category": "ram",
       "product_id": "44718",
       "brand": "Netac",
